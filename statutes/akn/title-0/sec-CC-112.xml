@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-112"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-112"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 112"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-112/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-112/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-112/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-112/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-112">
+        <num>CC 112</num>
+        <heading>112.  Determination of final periodic support</heading>
+        <subsection eId="CC-112__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a spouse has not been at fault prior to the filing of a petition for divorce and
+is in need of support, based on the needs of that party and the ability of the other party to pay,
+that spouse may be awarded final periodic support in accordance with Paragraph B of this
+Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-112__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court shall consider all relevant factors in determining the amount and
+duration of final support, including:</p>
+          </content>
+          <paragraph eId="CC-112__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The income and means of the parties, including the liquidity of such means.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-112__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The financial obligations of the parties, including any interim allowance or final
+child support obligation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-112__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The earning capacity of the parties.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-112__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The effect of custody of children upon a party's earning capacity.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-112__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The time necessary for the claimant to acquire appropriate education, training,
+or employment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-112__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The health and age of the parties.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-112__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The duration of the marriage.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-112__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The tax consequences to either or both parties.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-112__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The existence, effect, and duration of any act of domestic abuse committed by
+the other spouse upon the claimant or a child of one of the spouses, regardless of whether the
+other spouse was prosecuted for the act of domestic violence.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CC-112__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When a spouse is awarded a judgment of divorce pursuant to Article 103(2), (3),
+(4), or (5), or when the court determines that a party or a child of one of the spouses was the
+victim of domestic abuse committed by the other party during the marriage, that spouse is
+presumed to be entitled to final periodic support.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-112__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The sum awarded under this Article shall not exceed one-third of the obligor's net
+income.  Nevertheless, when support is awarded after a judgment of divorce is rendered
+pursuant to Article 103</p>
+          </content>
+          <paragraph eId="CC-112__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>or (5), or when the court determines that a party or a child of one
+of the spouses was the victim of domestic abuse committed by the other party during the
+marriage, the sum awarded may exceed one-third of the obligor's net income and may be
+awarded as a lump sum.
+Amended by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108548</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

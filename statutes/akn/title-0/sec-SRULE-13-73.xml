@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-73"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-73"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 13.73"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-73/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-73/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-73/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-73/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-13-73">
+        <num>SRULE 13.73</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-13-73__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Prior to each meeting of his committee, the chairman of each standing committee shall post on bulletin boards which shall be maintained on the floor of the Senate and in the Memorial Halls of the Senate and the House, and also at the door to the committee room in which the meeting is to be held, the following information:</p>
+          </content>
+          <paragraph eId="SRULE-13-73__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>the name of the committee and its chairman;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-73__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>the names of the members of the committee;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-73__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>the staff for the committee;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-73__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>the time and place of meeting, in conformity with the regular schedule of committee meetings as assigned for the weeks of the session;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-73__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>the proposed agenda, including the bills, by number, which the committee proposes to consider at the meeting, though the committee shall not be bound to consider all bills enumerated and may consider bills other than those enumerated, as it deems fit;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-73__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>the name of the Sergeant at Arms assigned to the standing committee during its hearing, and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-73__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>any other information which the chairman deems pertinent. Such notices shall be posted for each meeting as soon as practicable, but not later than 1:00 p.m. of the day preceding the meeting day.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-13-73__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In the event extraordinary circumstances require that the meeting of a standing committee be held at a place, day, or hour other than that regularly scheduled for it, the chairman, with approval of the President, may make changes in the scheduled place, day, and/or hour, but in such case, he shall make public announcement of the change during open session of the Senate prior to the regularly scheduled meeting.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180442</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

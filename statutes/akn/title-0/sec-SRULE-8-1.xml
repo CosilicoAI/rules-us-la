@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-8-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-8-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 8.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-8-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-8-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-8-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-8-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-8-1">
+        <num>SRULE 8.1</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-8-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Only one set of proposed amendments to a legislative instrument shall be considered by the Senate at any one time.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-8-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Proposed floor amendments shall be considered in the order in which they are received for consideration, except that amendments that have been received prior to the consideration of the instrument that are proposed by the lead author of a Senate instrument or by the Senate member handling a House instrument shall be considered prior to other proposed floor amendments.
+Amended by SR 168 of 2014 RS, eff. August 1, 2014.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180548</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

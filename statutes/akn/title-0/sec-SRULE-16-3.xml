@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 16.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-16-3">
+        <num>SRULE 16.3</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-16-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon receipt of appointments for Senate confirmation, the chairman of the
+Senate and Governmental Affairs Committee shall cause a listing to be compiled of all of
+the appointments received, by office. On the fifteenth calendar day of the session the
+chairman shall distribute a copy of the compiled listing to each senator and thereafter the
+listing shall be updated and distributed to the members prior to the vote to confirm the
+appointments.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-16-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The Senate and Governmental Affairs Committee, by motion of the chairman or
+any member of the committee and with approval of at least a majority of the members of
+the committee, may direct any appointee whose appointment has been submitted for
+confirmation to appear before the committee. At such appearance, the committee may
+examine into the qualifications of the appointee and the method by which the appointee
+intends to administer the affairs of the office for which he has been appointed.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-16-3__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The standing committee having jurisdiction of the work to be administered by a
+person whose appointment has been submitted for confirmation, by motion of the
+chairman or any member of the committee and with approval of at least a majority of the
+members of the committee, may direct that the appointee appear before the committee. At
+such appearance, the committee may examine into the qualifications of the appointee and
+the method by which the appointee intends to administer the affairs of the office for
+which he has been appointed.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-16-3__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Any information, finding, recommendations of the committee resulting from the
+appearance before it of the appointee shall be transmitted to the chairman of the Senate
+and Governmental Affairs Committee, who shall inform the committee thereof. The
+Senate and Governmental Affairs Committee may consider such information in arriving
+at its report to the Senate with respect to said appointment.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-16-3__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The standing committee having jurisdiction over the subject matter of the
+department or agency administered by an officer confirmed by the Senate may at any time
+during his tenure bring the officer before it for the purpose of reporting to the committee
+on matters pertaining to the programs, operations, and administration of the department or
+agency.
+SR 144 of 2004 RS; SR 156 of 2011.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180481</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-11"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-11"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 11.11"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-11/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-11/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-11/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-11/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-11-11">
+        <num>SRULE 11.11</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-11-11__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The form of the motion for the previous question shall be: &quot;I move the previous
+question.&quot; This motion shall be applicable to any outstanding subsidiary motions or
+amendments, if any.This motion shall be applicable to the main motion pending before
+the Senate when there are no subsidiary motions or amendments. The motion is
+undebatable. When adopted, its effect is to put an end to debate and to bring the Senate to
+a vote on the outstanding subsidiary motion or amendments or the main question, as the
+case may be.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-11__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The form of the motion for the previous question on the entire subject matter
+shall be: &quot;I move the previous question on the entire subject matter.&quot; This motion shall be
+applicable to the main motion pending before the Senate when there are subsidiary
+motions or amendments. The motion shall be undebatable. When adopted, its effect shall
+be to put an end to all debate on any amendment or on the main question and to bring the
+Senate immediately to a vote upon a subsidiary motion, amendment or amendments, if
+any, and then upon the main question.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-11__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Immediately following the offering of the motion for the previous question on
+the entire subject matter, or the motion for the previous question, and before the motion is
+adopted or rejected, the Secretary shall inform the Senate as to whether or not he has
+amendments on his desk which members have handed to him for the purpose of
+proposing said amendments to the instrument under debate and shall also name the
+authors of any such amendments.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-11__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The motion for the previous question and the motion for the previous question
+on the entire subject matter shall require the approval of a majority of the members
+present and voting for adoption.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-11__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Adoption of either motion shall have the effect of ending debate; however, the
+proponent of each motion or amendment upon which debate has been closed, or a
+member or members designated by him, shall have the right to close the debate.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-11__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>All incidental questions of order which arise after the motion for the previous
+question on the entire subject matter or the motion for the previous question has been
+made and which are to be decided prior to the main question shall be decided without
+debate, whether or not they are appealed.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-11__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>If the motion to postpone is pending at the time the motion for the previous
+question on the entire subject matter or the motion for the previous question is adopted,
+the effect of the adoption of the motion for the previous question on the entire subject
+matter or the motion for the previous question shall be only to bring the Senate to a direct
+vote on the motion to postpone.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180375</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

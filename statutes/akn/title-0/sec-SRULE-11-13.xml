@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-13"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-13"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 11.13"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-13/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-13/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-13/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-11-13/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-11-13">
+        <num>SRULE 11.13</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-11-13__subsec_14">
+          <num>(14)</num>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Has
+Debate Motion</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Floor
+____________________________________________________________________________________________________________________
+Adjourn, fixing day and time No No Yes No M No
+Amend Yes No No Yes M No
+Appeal a call to order or reprimand No</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>No No Yes</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>ME Yes
+Appeal, all other cases Yes (3,5) No No Yes</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>ME Yes
+Call from the calendar No No No No M No
+Call to order No No No Yes M</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Yes
+Call up a bill or resolution without regard
+to its numerical order No No Yes Yes ME No
+Commit or recommit Yes Yes Yes Yes</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>M No
+Extend limits of debate No No Yes Yes M No
+Lay on table No No No No</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>M No
+Leave to continue speaking after indecorum No No No Yes M No
+Limit debate No No Yes Yes M No
+Postpone indefinitely Yes Yes No Yes M No
+Postpone to a certain day and time No No Yes Yes M No
+Previous question No No No Yes M No
+Previous question on entire
+subject matter</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>No No No Yes M No
+Priority of business relating to No No No Yes M No
+Privilege, question of Yes No Yes Yes M No
+Proceed to executive business No No Yes Yes M No</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>Reading papers No No No Yes M No
+Reconsider a debatable question Yes Yes No No M</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Reconsider an undebatable question No No No No M</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Refer Yes Yes Yes Yes</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>M No
+Return to the calendar, subject to call No No No No M No
+Special order, to make a Yes No Yes Yes M No
+Suspend the rules No No No No ME No
+Take a recess No No Yes No M No
+Take up order of the day No No No Yes</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Yes
+Withdrawal of a motion No No No Yes</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-11-13__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>No
+EXPLANATION OF TABLE
+&quot;Yes&quot; shows that the rule heading the column in which it stands applies to the
+motion opposite to which it is placed.  &quot;No&quot; shows that the rule does not apply.  A figure
+shows that the rule only partially applies -- the figure referring to the note showing the
+limitation.  Take, for example, &quot;Lay on the Table.&quot;  The table shows that it is undebatable,
+does not open main question, cannot be amended, an affirmative vote as shown by note
+No. 8 cannot be reconsidered, requires a majority vote, and is not in order when another
+has the floor.
+NOTES TO TABLE RELATING TO MOTIONS
+1. Since motions are never amended in the Senate, this heading is somewhat
+misleading. What is meant is that the motion can be altered in some respect by a
+substitute motion -- for example, the motion to lay on the table cannot be altered by a
+substitute motion, but the motion to fix the time and day to which to adjourn can be
+altered by a substitute motion to name another day and/or time.
+2. Vote required:  M -- Majority of those present and voting; ME -- Majority of
+those elected.
+3. An appeal is undebatable only when relating</p>
+          </content>
+          <paragraph eId="SRULE-11-13__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>to indecorum or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-11-13__subsec_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>to
+transgressions of the rules of speaking or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-11-13__subsec_12__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>to the priority of business or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-11-13__subsec_12__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>when made
+while the previous question is pending.  When debatable, only two speeches from each
+member are allowed.
+4. The vote on a motion to appeal may be reconsidered, but when the subject
+matter upon which the appeal was taken has been disposed of, and it is impossible for the
+Senate to reverse its action, it is too late to move to reconsider the vote on the motion to
+appeal.
+5. No member shall speak more than twice unless by leave of the Senate.  (See
+Senate Rule 6.7; See also Note 3, supra.)
+6. If any member, in speaking or otherwise, transgresses the rules of the Senate,
+the presiding officer shall, or any member may, call him to order.  (Senate Rule 6.3)
+7. An affirmative vote on this motion cannot be reconsidered.
+8. Cannot be reconsidered when in committee.  Senate Rule 13.11 sets forth
+procedures to effect a mandatory report by committee or discharge and recommittal.
+9. A matter of right; it would require a vote equivalent to a suspension of the rules
+to proceed otherwise.
+10. The previous question on the entire subject matter, if  adopted, cuts off debate
+and brings the Senate to a vote on the pending questions in their order until the main
+question is reached, which shall be at once disposed of.  But its only effect, if a motion
+&quot;to postpone&quot; is pending, is to bring the Senate to a vote upon that motion.
+11. Can be moved and entered on the record when another has the floor, but cannot
+interrupt business then before the Senate; must be made as provided in Senate Rule 11.12.
+12. A matter of right, except in the case of the motion to  reconsider.  (See Senate
+Rule 11.2)
+13. A rejected motion, although it is of a class that cannot be reconsidered,
+nonetheless can be renewed after progress in debate or the transaction of any business, if
+the renewal is not dilatory.
+14. Not in order more than once during debate on any one bill or resolution except
+with unanimous consent of those present and voting.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180377</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

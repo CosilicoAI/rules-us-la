@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-9"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-9"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 3.9"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-9/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-9/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-9/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-9/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-3-9">
+        <num>SRULE 3.9</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-3-9__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Be in attendance in the Senate Chamber while the Senate is in session.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-9__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Maintain order in the Senate Chamber and in the committee rooms and offices
+of the Senate and of its officers and employees.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-9__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>During any session of the Senate, prohibit any lounging or loafing in the Senate
+Chamber and keep the railing clear of all persons. Persistent failure by any Assistant
+Sergeant at Arms to perform this duty shall be cause for dismissal by the President.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-9__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Remain on duty, or assign one or more assistants to remain on duty, in the
+Senate Chamber during recess of the Senate and keep unauthorized persons from the
+desks of the members.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-9__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Sign for messages and telegrams of absent members and be responsible for their
+prompt delivery.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-9__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Attend, or cause an Assistant Sergeant at Arms to attend, each committee
+meeting during sessions of the legislature, and such meetings between sessions as
+directed by the President, for the purpose of assisting the chairman in any manner that
+will aid the work of the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-9__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Under the direction of the President, or the Secretary if designated by the
+President, oversee the physical arrangement of the Senate Chamber, the committee rooms,
+and offices of the Senate and of its officers, and maintain security therein.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-9__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>Under the direction of the President, or the Secretary if designated by the
+President, be responsible for the carrying out of the duties of all Assistant Sergeants at
+Arms.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-9__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>Execute all process issued by authority of the Senate as he is directed to execute
+by the President.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-9__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>Carry out all commands and directions of the Senate or the President.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180513</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

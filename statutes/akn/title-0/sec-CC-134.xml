@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-134"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-134"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 134"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-134/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-134/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-134/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-134/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-134">
+        <num>CC 134</num>
+        <heading>134.  Factors in determining child's best interest</heading>
+        <subsection eId="CC-134__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in Paragraph B of this Article, the court shall consider all
+relevant factors in determining the best interest of the child, including:</p>
+          </content>
+          <paragraph eId="CC-134__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The potential for the child to be abused, as defined by Children's Code Article
+603, which shall be the primary consideration.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The love, affection, and other emotional ties between each party and the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The capacity and disposition of each party to give the child love, affection, and
+spiritual guidance and to continue the education and rearing of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The capacity and disposition of each party to provide the child with food,
+clothing, medical care, and other material needs.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The length of time the child has lived in a stable, adequate environment, and the
+desirability of maintaining continuity of that environment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The permanence, as a family unit, of the existing or proposed custodial home or
+homes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The moral fitness of each party, insofar as it affects the welfare of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The history of substance abuse, violence, or criminal activity of any party.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The mental and physical health of each party. Evidence that an abused parent
+suffers from the effects of past abuse by the other parent shall not be grounds for denying that
+parent custody.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>The home, school, and community history of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>The reasonable preference of the child, if the court deems the child to be of
+sufficient age to express a preference.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>The willingness and ability of each party to facilitate and encourage a close and
+continuing relationship between the child and the other party, except when objectively
+substantial evidence of specific abusive, reckless, or illegal conduct has caused one party to
+have reasonable concerns for the child's safety or well-being while in the care of the other
+party.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>The distance between the respective residences of the parties.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-134__subsec_A__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>The responsibility for the care and rearing of the child previously exercised by
+each party.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CC-134__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In cases involving a history of committing family violence, as defined in R.S.
+9:362, or domestic abuse, as defined in R.S. 46:2132, including sexual abuse, as defined in
+R.S. 14:403(A)(4)(b), whether or not a party has sought relief under any applicable law, the
+court shall determine an award of custody or visitation in accordance with R.S. 9:341 and
+364.  The court may only find a history of committing family violence if the court finds that
+one incident of family violence has resulted in serious bodily injury or the court finds more
+than one incident of family violence.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108693</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

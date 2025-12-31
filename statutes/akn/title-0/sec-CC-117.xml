@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-117"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-117"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 117"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-117/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-117/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-117/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-117/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-117">
+        <num>CC 117</num>
+        <heading>117.  Peremptive period for obligation</heading>
+        <subsection eId="CC-117__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The day the judgment of divorce is signed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-117__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The day a judgment terminating a previous judgment of spousal support is signed, if the previous judgment was signed in an action commenced either before the signing of the judgment of divorce or within three years thereafter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-117__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The day of the last payment made, when the spousal support obligation is initially performed by voluntary payment within the periods described in Paragraph</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-117__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>or</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-117__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and no more than three years has elapsed between payments.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108560</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

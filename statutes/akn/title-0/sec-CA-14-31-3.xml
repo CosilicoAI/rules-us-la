@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-31-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-31-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CA 14 31.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-31-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-31-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-31-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-31-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CA-14-31-3">
+        <num>CA 14 31.3</num>
+        <heading>3.  New Orleans; railroad passenger stations</heading>
+        <content>
+          <p>§31.3.  New Orleans; railroad passenger stations
+General authorizations.  The City of New Orleans, acting through the
+Public Belt Railroad Commission, shall have the power, in any manner it may
+determine, to acquire, construct, maintain and operate one or more railroad
+passenger stations, with all approaches thereto and appurtenances thereof, and
+shall also have the power to acquire, by purchase, lease, contract, expropriation
+or otherwise, all such lands, tracks and other property, real or personal, or
+rights of use or possession thereof, as it may deem necessary or desirable for
+the construction, maintenance and operation of said railroad passenger station
+or stations; provided, however, that in the maintenance and operation of said
+passenger station or stations and the other property referred to in this Section,
+no funds of the City of New Orleans or of said Commission, except funds
+derived from the revenues produced by said operation, shall be expended.  The
+powers herein granted may be exercised anywhere in the Parish of Orleans or
+in any parish adjacent thereto.  In connection with any project for building any
+such passenger station or stations, the City of New Orleans, through said
+Commission, shall have the power to do everything it deems necessary or
+desirable for the purpose of minimizing interference, caused by railroad traffic
+of any sort, with the use of streets, thoroughfares and roads, and with the
+proper development of the City of New Orleans, and for that purpose may
+include in the property acquired or constructed hereunder, or the right of use
+or possession of which is acquired hereunder, any and all depots, freight
+terminals, classification yards, tracks and other railroad facilities; provided,
+however, that for the exclusive purpose of minimizing interference caused by
+railroad traffic of any sort with the use of streets, thoroughfares and roads, or
+with the proper development of the City of New Orleans, the power of
+expropriation shall not be exercised to acquire any existing freight depot,
+freight terminal, freight classification yard, track or other railroad facility.  The
+Commission Council of the City of New Orleans, on such terms and conditions
+as it may prescribe, may dedicate to the use of any project hereunder any
+streets, thoroughfares, roads or other property belonging to or under the control
+of the City of New Orleans; and the Police Jury of any adjacent parish, on such
+terms and conditions as it may prescribe, may dedicate to the use of such
+project any streets, thoroughfares, roads, or other property belonging to said
+parish or under the control of said Police Jury.
+The operation of any passenger station or stations herein authorized
+may include operating, or granting leases or concessions for the operation of,
+any restaurant, store or other enterprise of any sort associated with a railroad
+passenger station.
+The City of New Orleans, through the Public Belt Railroad
+Commission, shall have the power at any time to rebuild, reconstruct, to
+improve and to enlarge any constructed property therefore acquired, pursuant
+hereto.
+The City of New Orleans, through the Public Belt Railroad
+Commission, shall have the power to make a loan or loans to any railroad
+company or railroad companies to be used by said railroad company or railroad
+companies for defraying the expenses of any improvement in the Parish of
+Orleans, or in any parish adjacent thereto, to any tracks, depots, freight
+terminals, classification yards or other facilities of such railroad company or
+railroad companies; provided, however, that no funds of the City of New
+Orleans or of said Commission shall be so loaned except funds obtained from
+the source enumerated in Subsection (B) hereof.  The obligation of any
+railroad company or railroad companies to repay any such loan may be pledged
+under any mortgage referred to in said Subsection (B) hereof, and the interest
+paid on any such loan shall be deemed part of the revenues referred to in this
+Section 31.3.
+(A).  Contracts.  The City of New Orleans, through the Public Belt
+Railroad Commission, shall have the authority to enter into a contract or
+contracts, containing such terms, conditions, stipulations and provisions, and
+for such duration, as may be approved by the vote of a majority of all the
+members of said Commission, with any railroad company or railroad
+companies entering or hereafter entering New Orleans, for the use by such
+railroad company or railroad companies of said passenger station or stations,
+and the approaches thereto and appurtenances thereof, and/or of any tracks or
+other property, constructed pursuant to Section 31.3 hereof, or the ownership
+or right of use or possession of, which is acquired or dedicated pursuant to
+Section 31.3 hereof, for or in connection with the transporting, conveying or
+other handling, under the motive power of such railroad company or railroad
+companies, of the locomotives, cars, trains and other equipment of such
+railroad company or railroad companies, and passengers therein and freight
+and other contents thereof.  Said passenger station or stations and all property
+and rights of use or possession of property acquired, constructed or dedicated
+pursuant to Section 31.3 hereof, shall be under the control and management of
+the Public Belt Railroad Commission, but any contract entered into pursuant
+to this Subsection (A) or resolution adopted by said Commission by a vote of
+a majority of all the members thereof, may vest in a Committee or other body
+composed of representatives of any and all interested parties, including but not
+limited to representatives of any railroad company or railroad companies,
+constituted as provided in such contract or resolution, such powers as may be
+specified in such contract or resolution for supervising or controlling the
+acquisition, construction, maintenance and operation of said passenger station
+or stations, the approaches thereto and appurtenances thereof, and any tracks
+or other property referred to in Section 31.3 hereof.  Any such contract may be
+made superior to the lien of any mortgage executed to secure any bond issued
+hereunder.  Any right of use granted pursuant to this Subsection (A) to any
+railroad company or railroad companies by the City of New Orleans, through
+the Public Belt Railroad Commission, shall be exempt from every form of
+taxation.
+Without restricting any power or discretion herein conferred upon the
+City of New Orleans, acting either through its Commission Council or the
+Public Belt Railroad Commission, it is hereby declared to be the policy of this
+amendment that the railroad passenger station or stations or other railroad
+facilities acquired or constructed by the City of New Orleans pursuant hereto,
+shall not be operated at a profit to the City of New Orleans or the Public Belt
+Railroad Commission, it being understood that the City of New Orleans and
+the Public Belt Railroad Commission shall not be deprived of any element of
+cost paid by them or either of them with proper interest on all amounts
+expended or advanced, and it being understood, further, that after all costs with
+interest have been reimbursed (but in no event sooner than 1988), the City of
+New Orleans shall receive, in addition to all costs of maintenance and
+operation, a net rental in an amount equal to what the taxes would be on the
+stations or facilities furnished by it, based on their then fair value if the same
+were not tax exempt.
+(B).  Bond issue.  For the purpose of acquiring or constructing said
+railroad passenger station or stations, with all approaches thereto and
+appurtenances thereof, and any land, tracks and other property, real or
+personal, or rights of use or possession thereof, referred to in Section 31.3
+hereof, and of improving and enlarging any property theretofore acquired or
+constructed pursuant hereto, and of complying with any obligation contained
+in any contract which may be executed pursuant to Subsection (A) hereof, the
+City of New Orleans, through its Commission Council, is hereby granted
+power to issue by resolution, upon the recommendation of the Public Belt
+Railroad Commission, its bonds not to exceed Fifteen Million Dollars
+($15,000,000) in aggregate principal amount, in such forms, numbers and
+amounts, at such times and prices, and upon such terms and conditions as to
+maturities, rates and payment of interest, and final redemption (which shall not
+be later than fifty years after their date), and otherwise, as the City of New
+Orleans may deem advisable, subject to the following limitations and
+provisions:
+(a)  All such bonds shall be secured solely and only by mortgage of
+such railroad passenger station or stations, the approaches thereto and
+appurtenances thereof, and any lands, tracks and other property, real or
+personal, or rights of use or possession thereof, acquired, constructed or
+dedicated pursuant to Section 31.3 hereof, and by pledge of the net revenues
+derived from the operation of such property and by pledge and assignment of
+any contract or contracts executed pursuant to Subsection (A) hereof, and shall
+be paid therefrom and not by any tax or assessment or levy upon any taxable
+property in the City of New Orleans, nor out of any other funds, revenues or
+things of value of said City; provided that during the period of acquisition and
+construction of said passenger station or stations and other property, and
+during the period, if any, after acquisition and construction while the net
+revenues from the operation shall not be sufficient to provide for the interest
+or sinking fund or maturing installments of principal of any and all outstanding
+bonds hereinabove authorized to be issued, the same may be paid out of the
+proceeds from the sale of any bonds authorized by this Subsection (B); and
+provided, further, that if more than one such passenger</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=67976</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

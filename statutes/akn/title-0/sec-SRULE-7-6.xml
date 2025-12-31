@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-7-6"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-7-6"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 7.6"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-7-6/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-7-6/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-7-6/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-7-6/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-7-6">
+        <num>SRULE 7.6</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-7-6__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>All legislative instruments shall be prepared for introduction by the staff of the
+Senate or the House of Representatives and shall be printed or typewritten and a total of
+three copies thereof presented to the Secretary at the time of introduction. If a legislative
+instrument presented for introduction has not been prepared by the staff of the Senate or
+the House of Representatives, the Secretary, prior to its introduction, shall inform the
+author of the requirements of this rule and shall transmit the instrument, on behalf of the
+author, to the Senate staff for preparation for introduction as required by this Paragraph.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-7-6__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the constitution or laws require that public or other notice be given of
+intention to introduce a bill, evidence that notice has been given shall be attached to one
+of the copies presented at the time of introduction.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-7-6__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Every bill shall be printed upon introduction and shall be available for
+distribution to the members and to the public upon request.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-7-6__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Each Senate bill shall be printed as engrossed, together with a digest thereof as
+amended. The digest shall be prepared and furnished by the Senate staff.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-7-6__subsec_E">
+          <num>E.</num>
+          <paragraph eId="SRULE-7-6__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>On the day on which a bill appears on the regular calendar for final passage,
+a copy thereof and any supplemental digest shall be placed in the Final Passage Book on
+the desk of each member. The bills shall be arranged as listed on the regular calendar,
+separately for Senate and House bills.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-7-6__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>On the day on which a resolution or concurrent resolution appears on the
+regular calendar to be adopted, the resolutions or concurrent resolutions shall be posted
+on the official legislative website, and shall be arranged as listed on the regular calendar,
+separately for Senate and House resolutions and concurrent resolutions.  Resolutions and
+concurrent resolutions that pertain to notifying the House of Representatives or the
+governor that the Senate has convened or is ready to adjourn, or to the holding of a joint
+session of the legislature, shall be exempt from this requirement.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-7-6__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A copy of each bill which has been placed on the Subject to Call Calendar, and
+any supplemental digest thereof, shall be placed in the Subject to Call Book on the desk
+of each member, arranged in numerical order and separately for Senate bills and House
+bills.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-7-6__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>No bill shall be considered on third reading and final passage until the
+requirements of this rule have been met.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-7-6__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>Resolutions, reports, memorials, and petitions shall be printed only on the order
+of the Senate.
+I.</p>
+          </content>
+          <paragraph eId="SRULE-7-6__subsec_H__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To the extent practicable and where appropriate, bills any part of which
+propose to amend the existing law, shall be introduced in a format which includes both
+the existing law and the proposed new law, with the proposed new language in the text to
+be in boldface type and underscored, and all present law language and punctuation which
+is to be deleted shall be lined through.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-7-6__subsec_H__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The following words, shall be printed on a bill to explain the method of
+identifying or indicating language deleted from existing law or additions to existing law
+and shall not constitute a part of the law under consideration: &quot;Coding: Words which are struck through are deletions from existing law; words in boldface type and underscored are additions.&quot;</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-7-6__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>The inclusion of the language to be deleted and the above described indicators
+both of the deleted language and of new language, the digests and supplemental digests
+prepared pursuant to this Rule, and the inclusion of a keyword and summary prior to &quot;An
+Act&quot; by Senate staff are for information and guidance only and shall not constitute a part
+of the law proposed to be enacted.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-7-6__subsec_K">
+          <num>K.</num>
+          <content>
+            <p>During a regular session, a request for legislation that is to be introduced on the
+last day for introduction of matters having the effect of law shall be received by Senate
+Legislative Services staff not later than 6:00 p.m. on the day prior to the last day for
+introduction.
+SR 3 of 1985 RS; SR 3 of 1989 1 st EX; SR 3 of 1994 2 nd EX; SR 7 of 1999 RS; SR
+112 of 2004 RS; SR 20 of 2009 RS; SR 4 of 2011 RS.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180544</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

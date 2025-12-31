@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-9"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-9"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 13.9"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-9/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-9/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-9/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-9/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-13-9">
+        <num>SRULE 13.9</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-13-9__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Each standing committee shall submit a written report to the Secretary no later than the time at which the Senate next convenes after a committee meeting at which a report was made on any bill or resolution. The report of the standing committee for each meeting shall be in a form which lists in numerical order the number and title of each legislative instrument upon which the committee made a report at the meeting. Below the designation and title of each legislative instrument the report of the committee shall contain the actual report of the committee on that legislative instrument, and the report may be one but only one of the following:</p>
+          </content>
+          <paragraph eId="SRULE-13-9__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Reported favorably</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-9__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Reported unfavorably</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-9__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Reported with amendments</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-9__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Reported without action</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-9__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Reported by substitute</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-13-9__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The chairman of each Senate standing committee shall incorporate into the body of each report of his committee, under the title of each instrument reported with amendments, all amendments proposed by the committee to that instrument.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-9__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The report of the committee shall be signed by the committee chairman, and he shall be responsible for the accuracy of the report and for the conformity of each such report to the requirements of this rule. Under no circumstances shall words or sentences be interlined on the body of the legislative instrument, nor shall the cover thereof be marked except by the Secretary.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180460</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

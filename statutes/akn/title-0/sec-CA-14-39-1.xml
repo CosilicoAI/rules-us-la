@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-39-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-39-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CA 14 39.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-39-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-39-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-39-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-39-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CA-14-39-1">
+        <num>CA 14 39.1</num>
+        <heading>1.  Calcasieu parish; community center and playground districts; bond issue; secretary-treasurer's performance bond</heading>
+        <content>
+          <p>§39.1.  Calcasieu parish; community center and playground districts; bond issue; secretary-treasurer's performance bond
+Section 39.1.  Acting under the provisions of this Article of the Constitution and Sections 501 to 578, both inclusive, of Title 39 of the Louisiana Revised Statutes of 1950, insofar as applicable thereto, Community Center and Playground Districts organized in the Parish of Calcasieu, State of Louisiana, under the provisions of Act No. 82 of the Legislature of Louisiana for the year 1948 1 , may, through their governing authorities, incur debt and issue bonds secured by and payable from annual ad valorem taxation as prescribed under the Constitutional limitations on all of the property situated within the said Districts sufficient in amount for the purpose of purchasing and acquiring lands and purchasing, acquiring, constructing and maintaining public buildings, for the establishment and maintenance of Community Centers, including parks, playgrounds, recreation centers, and libraries, together with the necessary furnishings and equipment therefor, title to which shall be in the public.  Said Community Center and Playground Districts are hereby declared to be political subdivisions of the State and shall have and exercise such further powers as has been or may be authorized by the Legislature.  The secretary-treasurer of each such Community Center and Playground District shall furnish bond for the faithful performance of his duties according to law in the sum of five thousand dollars.
+(Added by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=67983</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>
