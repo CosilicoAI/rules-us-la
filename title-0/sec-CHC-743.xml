@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-743"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-743"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 743"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-743/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-743/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-743/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-743/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-743">
+        <num>CHC 743</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-743__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except in emergencies or where the court determines it to be inappropriate, the court, its officer, or any person it designates shall convene a conference to be attended by the child, his parents or other legal custodian, and representatives of any public institution or agency having legal responsibility or discretionary ability to supply services to the family, which according to the petition are needed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-743__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>This conference may be held at any time before or after a petition is filed but shall be held before any appearance to answer is made.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73334</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

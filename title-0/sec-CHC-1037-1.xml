@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1037-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1037-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1037.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1037-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1037-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1037-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1037-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1037-1">
+        <num>CHC 1037.1</num>
+        <heading>1037.1.  Continuing contact with biological relatives</heading>
+        <subsection eId="CHC-1037-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Subsequent to a termination of parental rights judgment when custody is granted
+to the department, the court may order continuing contact between the child and the parent,
+sibling, or other biological relative.  The court may grant an order only after it makes findings
+of fact that continuing contact is in the best interest of the child.  The court may receive
+expert testimony on the issue of continuing contact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1037-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Any order for continuing contact shall remain in effect until the order is modified
+in accordance with Paragraph C of this Article, or the final decree of adoption is rendered.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1037-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Any order of continuing contact remains modifiable and shall be reviewed in the
+subsequent hearings required by Chapter 10 of this Title.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72570</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

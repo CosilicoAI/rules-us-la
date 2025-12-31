@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-10-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-10-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 10.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-10-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-10-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-10-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-10-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-10-3">
+        <num>HRULE 10.3</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-10-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>No person not a member of the House of Representatives shall cast a vote for a member.  No member shall cast a vote for another member, unless the member, being present in the Chamber, requests another member to cast a specific vote for him on a specific question.  Any member who votes or attempts to vote for another member in violation of this rule may be punished in such manner as the House may determine.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-10-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a person not a member votes or attempts to vote for any member in violation of this rule, he shall be barred from the floor of the House for the remainder of the session, and he may be punished further in such manner as the House may deem proper.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-10-3__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When a member leaves the Chamber while the House is in session, such member may direct the Clerk to lock the member's voting machine.  The Clerk shall do so upon such direction and shall unlock the member's voting machine upon notification of the member's return to the Chamber.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-10-3__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Notwithstanding the provisions of Paragraph A of this House Rule, if the voting machines are locked pursuant to House Rule 4.5(C), only a member shall cast his own vote and if any other person, including the Clerk, takes any action to cast a vote for the member in violation of this Rule, such person may be punished in such manner as the House may determine unless the member, being present in the Chamber, publicly directs that his vote be cast and explicitly and specifically directs how his vote shall be cast on the specific question.
+Mason's Manual:  Sec. 516
+HR 3, 1973; HR 45, 1998, eff. May 20, 1998; HR 41, 2004, eff. June 22, 2004.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113196</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

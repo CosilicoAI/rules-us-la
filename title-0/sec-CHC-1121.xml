@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1121"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1121"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1121"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1121/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1121/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1121/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1121/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1121">
+        <num>CHC 1121</num>
+        <heading>1121.  Legal counseling; affidavit</heading>
+        <subsection eId="CHC-1121__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In all surrenders for private adoption, the surrendering parent and his representative, if applicable, or the child's tutor, as provided in Article 1108, shall be represented at the execution of the act by an attorney at law licensed to practice law in Louisiana; however, the attorney representing such person shall not be the attorney who represents the person who is the prospective adoptive parent, or an attorney who is an associate, partner, shareholder, or employee of the attorney, law firm, or corporation representing the prospective adoptive parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1121__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Counsel for the surrendering parent shall execute an affidavit of counsel, which shall be attached to the Act of Surrender.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1121__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The affidavit of counsel shall recite that counsel for the surrendering parent has fully explained to the parent the nature and effect of the Act of Surrender, including the penalties for making false statements in the act of surrender provided in R.S. 14:125.2, and that the parent appeared to understand the explanation given, that the parent freely and voluntarily executed the surrender, and that a copy of the act as executed has been provided to the surrendering parent.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72606</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

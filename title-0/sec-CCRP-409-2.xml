@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 409.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-409-2">
+        <num>CCRP 409.2</num>
+        <heading>409.2.  Jefferson Parish central jury pool</heading>
+        <subsection eId="CCRP-409-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The judges of the Twenty-Fourth Judicial District Court for the parish of Jefferson, sitting en banc by majority vote may create a central jury pool for criminal and/or civil juries for the Twenty-Fourth Judicial District Court for the parish of Jefferson, which shall be administered by the jury commission for the parish of Jefferson as hereinafter provided.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The jury selection shall be administered by the jury commission for the parish of Jefferson as provided by law, except that the provisions of Article 417(B) shall not apply to Jefferson Parish.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The judges of the Twenty-Fourth Judicial District Court for the parish of Jefferson, acting en banc shall by majority vote determine the system, method, and number of jurors to serve in the central jury pool for criminal and/or civil juries for a given term whether daily, weekly, or monthly, and may specify jury days for a particular term.  Likewise, all other matters relative to the operating procedures of the central jury pool shall be determined by the judges of the Twenty-Fourth Judicial District Court for the parish of Jefferson, acting en banc by a majority vote, including the designation of persons to administer the central jury pool.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The jury commission shall select the number of jurors to serve in the central jury pool as hereinabove determined by the judges of the Twenty-Fourth Judicial District Court, acting en banc and by the method now prescribed by law for jury selection.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409-2__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The jurors so selected may serve as jurors in either criminal and/or civil matters in the method and manner prescribed by majority vote of the judges of the Twenty-Fourth Judicial District Court for the parish of Jefferson sitting en banc.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409-2__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The provisions of this section shall be cumulative of and in addition to the method now prescribed by law for the selection of jury panels for the Twenty-Fourth Judicial District Court for the parish of Jefferson, except that those provisions in conflict with this Act are hereby repealed and declared invalid insofar as they apply to the Twenty-Fourth Judicial District Court for the parish of Jefferson.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112514</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

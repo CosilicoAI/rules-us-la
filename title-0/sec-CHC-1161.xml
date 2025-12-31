@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1161"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1161"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1161"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1161/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1161/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1161/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1161/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1161">
+        <num>CHC 1161</num>
+        <heading>1161.  Official Safe Haven symbol</heading>
+        <subsection eId="CHC-1161__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The legislature hereby creates an official Safe Haven symbol for use in identifying
+to the public those sites which are classified as designated emergency care facilities pursuant
+to the provisions of this Chapter, and for any other use which the department deems
+necessary or advantageous in fulfilling the purposes set forth in this Chapter.  The design and
+promulgation of the symbol shall be in accordance with the provisions of this Article.
+B.</p>
+          </content>
+          <paragraph eId="CHC-1161__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The general design of the Safe Haven symbol shall be as follows:  Two solid
+lines, each oriented diagonally, meeting to form an apex in the style of a gable roof;
+superimposed upon and just underneath the image of the roof being a stylized figure
+symbolic of an infant, oriented almost horizontally, consisting of a circle representing the
+infant's head proximate to or adjoining an oval representing the infant's body; superimposed
+upon and just underneath the figure of the infant being a stylized figure symbolic of the lower
+two-thirds of an arm and a hand of a person, oriented almost horizontally and opposite the
+direction in which the infant's head lies, with the figure of the arm bent in curvilinear form
+upward from the position of the elbow in a cradling posture; the design elements,
+collectively, giving the appearance of an infant cradled in the arm of a person under the
+shelter of a roof. The color of these design elements shall be black.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1161__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department shall promulgate in rule the image that shall constitute the
+official Safe Haven symbol.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1161__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The department is hereby authorized, but is not required, to produce electronic
+and physical copies of the Safe Haven symbol with any of the following features individually
+or in any combination:</p>
+          </content>
+          <paragraph eId="CHC-1161__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Text reading &quot;SAFE BABY SITE&quot; in all capital letters appearing above the
+symbol.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1161__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A background that is either white or a shade of yellow typically used for traffic
+warning signs indicating necessity of caution.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1015843</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

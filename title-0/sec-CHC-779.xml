@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-779"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-779"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 779"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-779/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-779/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-779/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-779/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-779">
+        <num>CHC 779</num>
+        <heading>779.  Dispositional alternatives</heading>
+        <subsection eId="CHC-779__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In any case in which the family has been adjudicated to be in need of services, the court may impose the following orders directly affecting any child of the family:</p>
+          </content>
+          <paragraph eId="CHC-779__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Order the child to submit to counseling or to psychiatric or psychological examination or treatment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-779__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Order the child to cooperate in accepting particular services from any public institution or agency or from any private institution or agency willing and able to provide him with needed services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-779__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Place the child in the custody of a caretaker or other suitable person on such terms and conditions as deemed in the best interests of the child and the public.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-779__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Place the child on probation on such terms and conditions as deemed in the best interests of the child and the public.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-779__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Assign the child to the custody of a private or public institution or agency, except that the child shall not be placed in a correctional facility designed and operated exclusively for delinquent children, nor shall such facility accept the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-779__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Make such other disposition or combination of the above dispositions as the court deems to be in the best interests of the child and the public.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-779__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In any case in which the family has been adjudicated to be in need of services, the court may impose any of the following orders directly affecting a caretaker:</p>
+          </content>
+          <paragraph eId="CHC-779__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Order the caretaker to submit to counseling or to psychiatric or psychological examination or treatment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-779__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Order the caretaker to cooperate in accepting particular services from any public institution or agency or from any private institution or agency willing and able to provide him with needed services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-779__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Order the caretaker to cooperate in connection with any part of the disposition order directly affecting the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-779__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Impose any other conditions reasonably related to improving the family relationship.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-779__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Order the caretaker to perform court-approved community service activities.  If feasible, the court-approved community service activities shall be conducted by the caretaker and child together.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-779__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In any case in which the family has been adjudicated to be in need of services, the court may order any public institution or agency and its representatives to:</p>
+          </content>
+          <paragraph eId="CHC-779__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Provide any services specified in its order as necessary to improve the family relationships or reunite the family in the best interests of the child, provided only that such services are available within the agency or institution.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-779__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Report at least once every six months in writing concerning the progress of the family in receiving and accepting the services ordered.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73370</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

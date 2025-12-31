@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-535"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-535"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 535"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-535/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-535/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-535/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-535/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-535">
+        <num>CCRP 535</num>
+        <heading>535.  Time to file motion to quash</heading>
+        <subsection eId="CCRP-535__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A motion to quash may be filed of right at any time before commencement of the trial, when based on the ground that:</p>
+          </content>
+          <paragraph eId="CCRP-535__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The offense charged is not punishable under a valid statute;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-535__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The indictment does not conform with the requirements of Chapters 1 and 2 of Title XIII;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-535__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Trial for the offense charged would constitute double jeopardy;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-535__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The time limitation for the institution of prosecution has expired;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-535__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The court has no jurisdiction of the offense charged; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-535__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The information charges an offense for which prosecution can be instituted only by a grand jury indictment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-535__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The individual charged with a violation of the Uniform Controlled Dangerous Substances Law has a valid prescription for that substance.
+These grounds may be urged at a later stage of the proceedings in accordance with other provisions of this Code.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-535__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A motion to quash on the ground that the time limitation for commencement of trial has expired may be filed at any time before commencement of trial.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-535__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A motion to quash on grounds other than those stated in Paragraphs A and B of this Article shall be filed in accordance with Article 521.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-535__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The grounds for a motion to quash under Paragraphs B and C are waived unless a motion to quash is filed in conformity with those provisions.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-535__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The court may, in order to avoid a continuance, defer a hearing on a motion to quash until the end of the trial.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112602</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

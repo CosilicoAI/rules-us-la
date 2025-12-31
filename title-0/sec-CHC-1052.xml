@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1052"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1052"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1052"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1052/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1052/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1052/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1052/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1052">
+        <num>CHC 1052</num>
+        <heading>1052.  Duties of department</heading>
+        <subsection eId="CHC-1052__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The department shall make a diligent effort to locate a parent whose rights may be restored and notify him of the effects of the restoration, including the obligation to pay child support or parental contribution.  The notice to the parent shall contain a copy of the motion showing the time and date of the hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1052__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Within forty-five days after the date the motion is filed, or by an earlier date as set by the court, the department shall submit a confidential report to the court which shall include findings on the following:</p>
+          </content>
+          <paragraph eId="CHC-1052__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The change in circumstances since the certification for adoption.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1052__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A summary of the reasons why parental rights were terminated and the date of the judgment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1052__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The willingness of the parent to resume contact with the child and to have parental rights restored.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1052__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The willingness of the child to resume contact with the parent and to have parental rights restored.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1052__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The ability and willingness of the parent to be involved in the life of the child and to accept the physical custody of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1052__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Other relevant information.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=509584</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

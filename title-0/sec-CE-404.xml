@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-404"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-404"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 404"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-404/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-404/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-404/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-404/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-404">
+        <num>CE 404</num>
+        <heading>Section </heading>
+        <subsection eId="CE-404__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Character evidence generally.  Evidence of a person's character or a trait of his
+character, such as a moral quality, is not admissible in a civil or criminal proceeding for the
+purpose of proving that he acted in conformity therewith on a particular occasion, except:</p>
+          </content>
+          <paragraph eId="CE-404__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Character of accused.  Evidence of a pertinent trait of his character, such as a
+moral quality, offered by an accused, or by the prosecution to rebut the character evidence;
+provided that such evidence shall be restricted to showing those moral qualities pertinent to
+the crime with which he is charged, and that character evidence cannot destroy conclusive
+evidence of guilt.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-404__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Character of victim.</p>
+            </content>
+            <subparagraph eId="CE-404__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Article 412, evidence of a
+pertinent trait of character, such as a moral quality, of the victim of the crime offered by an
+accused, or by the prosecution to rebut the character evidence; provided that in the absence
+of evidence of a hostile demonstration or an overt act on the part of the victim at the time of
+the offense charged, evidence of his dangerous character is not admissible; provided further
+that when the accused pleads self-defense and there is a history of assaultive behavior
+between the victim and the accused and the accused lived in a familial or intimate
+relationship such as, but not limited to, the husband-wife, parent-child, or concubinage
+relationship, it shall not be necessary to first show a hostile demonstration or overt act on the
+part of the victim in order to introduce evidence of the dangerous character of the victim,
+including specific instances of conduct and domestic violence; and further provided that an
+expert's opinion as to the effects of the prior assaultive acts on the accused's state of mind is
+admissible; or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-404__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Evidence of a character trait of peacefulness of the victim offered by the
+prosecution in a homicide case to rebut evidence that the victim was the first aggressor;</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-404__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Character of witness.  Evidence of the character of a witness, as provided in
+Articles 607, 608, and 609.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-404__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In any prosecution for a violation of R.S. 14:71.1 or 72.2, the prosecution may
+enter as evidence any of the following of a perpetrator's intent to deceive or defraud:</p>
+            </content>
+            <subparagraph eId="CE-404__subsec_A__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any previously cashed or deposited counterfeit or forged check or other monetary
+instrument.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-404__subsec_A__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Evidence regarding any previous attempt to cash or deposit a counterfeit or
+forged check or other monetary instrument.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-404__subsec_A__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Evidence of a verbal or written communication, including but not limited to a
+warning, by a law enforcement agent with the perpetrator regarding the cashing or depositing
+of a forged or counterfeit check or other monetary instrument suspected of being part of a
+fraudulent scheme or warning the perpetrator that such transaction could be in violation of
+state or federal criminal laws.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-404__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Other crimes, wrongs, or acts; creative or artistic expression.</p>
+          </content>
+          <paragraph eId="CE-404__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In the absence of evidence of a hostile demonstration or an overt act on the part
+of the victim at the time of the offense charged, evidence of the victim's prior threats against
+the accused or the accused's state of mind as to the victim's dangerous character is not
+admissible; provided that when the accused pleads self-defense and there is a history of
+assaultive behavior between the victim and the accused and the accused lived in a familial
+or intimate relationship such as, but not limited to, the husband-wife, parent-child, or
+concubinage relationship, it shall not be necessary to first show a hostile demonstration or
+overt act on the part of the victim in order to introduce evidence of the dangerous character
+of the victim, including specific instances of conduct and domestic violence; and further
+provided that an expert's opinion as to the effects of the prior assaultive acts on the accused's
+state of mind is admissible.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72458</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1279-6"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1279-6"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1279.6"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1279-6/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1279-6/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1279-6/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1279-6/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1279-6">
+        <num>CHC 1279.6</num>
+        <heading>1279.6.  Educational opportunities and assistance</heading>
+        <subsection eId="CHC-1279-6__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a child is in the custody of the department and is placed with foster parents who have other children living in the home who already attend a nonpublic or parochial school, the foster child may attend the same nonpublic or parochial school if the department finds it is in the best interest of the child, and if the child meets the admission requirements of the nonpublic or parochial school.  The department shall not be directly responsible for paying for the expenses associated with such education.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1279-6__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When a child is in the custody of the department and is placed with foster parents who have other children in the home who are participants in an approved home study program, pursuant to R.S. 17:236.1, the department may approve the placement of the foster child in an approved home study program if the department finds it is in the best interest of the child. Home study programs approved by the Department of Education to educate foster children shall offer a sustained curriculum of quality at least equal to that offered by public schools at the same grade level, pursuant to R.S. 17:236.1(C)(1). Notwithstanding any other provision of law to the contrary, the Department of Education shall provide the department, upon request, verification that a home study program in which a foster child is participating has been approved pursuant to R.S. 17:236.  The foster parent shall provide the department appropriate documentation, including but not limited to copies of standardized tests, to substantiate that the child is progressing on grade level and at a rate equal to one grade level for each year in the program.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=859142</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1427"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1427"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1427"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1427/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1427/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1427/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1427/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1427">
+        <num>CHC 1427</num>
+        <heading>1427.  Authority to transport and detain</heading>
+        <subsection eId="CHC-1427__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An emergency certificate shall constitute legal authority to transport a patient to
+a treatment facility and shall permit the director of such treatment facility to detain the minor
+patient for diagnosis and treatment for a period not to exceed fifteen days, and to return him
+to the facility if he is absent with or without permission during authorized periods of
+detention.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1427__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If necessary, peace officers shall apprehend and transport, or ambulance services,
+under appropriate circumstances, may locate and transport a minor patient on whom an
+emergency certificate has been completed to a treatment facility at the request of either the
+director of the facility, the certifying physician, the minor's next of kin or tutor, or the agency
+legally responsible for his welfare.
+C.</p>
+          </content>
+          <paragraph eId="CHC-1427__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In addition to other persons authorized by this Article to transport to a
+treatment facility a child in whose name an emergency certificate has been issued, any of the
+following persons may also accompany the child during such transportation:</p>
+            </content>
+            <subparagraph eId="CHC-1427__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A parent, including a foster parent, subject to the conditions of Subparagraph</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1427__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Paragraph.</p>
+            </content>
+            <subparagraph eId="CHC-1427__subsec_B__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A legal guardian.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1427__subsec_B__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A Department of Children and Family Services case worker.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1427__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A biological parent of a child in foster care shall accompany the child only if
+approved by the Department of Children and Family Services.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72923</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

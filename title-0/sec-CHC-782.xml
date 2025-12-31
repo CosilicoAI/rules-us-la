@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-782"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-782"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 782"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-782/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-782/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-782/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-782/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-782">
+        <num>CHC 782</num>
+        <heading>782.  Judgment of disposition</heading>
+        <subsection eId="CHC-782__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall enter into the record a written judgment of disposition specifying
+the following:</p>
+          </content>
+          <paragraph eId="CHC-782__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The nature of the disposition, including the responsibilities of the child, his
+caretakers, and public providers in securing or providing needed, particularized services for
+the family members.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-782__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The maximum duration of the disposition.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-782__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The agency, institution, or person to whom the child is assigned.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-782__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>How the needed services are to be paid for.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-782__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Any other applicable terms and conditions regarding the disposition.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-782__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A warning in substantially the following form:  &quot;If you do not obey each and
+every condition and rule of this order, you may be placed in a juvenile shelter or detention
+facility.&quot;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-782__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The nature of Families in Need of Services proceedings in accordance with
+Article 792 and the confidentiality of Families in Need of Services records in accordance
+with Article 793.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-782__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the child is to remain within his family's home, the order shall also reflect the
+name of the representative of any institution or agency required to provide services who is
+to be held personally responsible for their provision.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-782__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>An extract of minutes of court specifying the information in Paragraph A of this
+Article and signed by the court shall be considered a written judgment of disposition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-782__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The date of entry of the judgment of disposition shall be recorded on the
+judgment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-782__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A copy of the judgment shall be furnished to all parties.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73374</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

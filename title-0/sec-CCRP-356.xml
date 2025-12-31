@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-356"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-356"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 356"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-356/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-356/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-356/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-356/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-356">
+        <num>CCRP 356</num>
+        <heading>356.  Method of service</heading>
+        <subsection eId="CCRP-356__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Delivering it to the person to whom it is addressed;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-356__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Informing him of its contents if he refuses to receive it; or</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-356__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Attaching the writ to an entrance door of the residence of the person to be served or of the place of custody if such person conceals himself or cannot be found or refuses admittance to the person attempting service.
+A writ of habeas corpus, although addressed to a particular person, may be served in the manner provided by this article upon any person who has custody of the person whose release is sought.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112478</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

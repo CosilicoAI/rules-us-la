@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1243-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1243-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1243.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1243-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1243-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1243-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1243-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1243-2">
+        <num>CHC 1243.2</num>
+        <heading>1243.2.  Institution of records check</heading>
+        <subsection eId="CHC-1243-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon the filing of a petition, the court shall immediately issue both of the following orders:</p>
+          </content>
+          <paragraph eId="CHC-1243-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>That the local sheriff or the office of state police, Louisiana Bureau of Criminal Identification and Information, conduct a records check for all federal arrests and convictions and all state arrests and convictions for each of the prospective adoptive parents.  Prospective adoptive parents shall submit a set of fingerprints to the sheriff or the office of state police.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1243-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>That the department conduct a records check for validated complaints of child abuse or neglect in this or any other state in which either of the prospective adoptive parents has been domiciled since becoming a major, involving either prospective adoptive parent.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1243-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Each order shall state the full name, date of birth, social security number, and former and current state of domicile since becoming a major of each prospective adoptive parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1243-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The sheriff or the office of state police, Louisiana Bureau of Criminal Identification and Information, and the department shall accord priority to these orders and shall provide a certificate indicating all information discovered, or that no information has been found.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72718</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

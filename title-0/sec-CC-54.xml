@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-54"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-54"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 54"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-54/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-54/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-54/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-54/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-54">
+        <num>CC 54</num>
+        <heading>Section </heading>
+        <content>
+          <p>CHAPTER 2.  DECLARATION OF DEATH
+Art. 54.  Absent person; declaration of death
+One who has been an absent person for five years is presumed to be dead.  If the absence commenced between August 26, 2005, and September 30, 2005, and was related to or caused by Hurricane Katrina or Rita, the absent person who is not currently charged with an offense that is defined as a felony under the laws of the state of Louisiana or the United States of America shall be presumed dead after the passage of two years.  Upon petition by an interested party, the court shall render judgment declaring the death of the absent person and shall determine the date on which the absence commenced and the date of death.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110726</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

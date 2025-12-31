@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-511"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-511"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 511"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-511/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-511/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-511/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-511/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-511">
+        <num>CE 511</num>
+        <heading>511.  Communications to clergymen</heading>
+        <subsection eId="CE-511__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Definitions.  As used in this Article:</p>
+          </content>
+          <paragraph eId="CE-511__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A &quot;clergyman&quot; is a minister, priest, rabbi, Christian Science practitioner, or other similar functionary of a religious organization, or an individual reasonably believed so to be by the person consulting him.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-511__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A communication is &quot;confidential&quot; if it is made privately and not intended for further disclosure except to other persons present in furtherance of the purpose of the communication.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-511__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>General rule of privilege.  A person has a privilege to refuse to disclose and to prevent another person from disclosing a confidential communication by the person to a clergyman in his professional character as spiritual adviser.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-511__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Who may claim the privilege.  The privilege may be claimed by the person or by his legal representative.  The clergyman is presumed to have authority to claim the privilege on behalf of the person or deceased person.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72482</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1106"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1106"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1106"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1106/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1106/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1106/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1106/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1106">
+        <num>CHC 1106</num>
+        <heading>1106.  Recordation of acknowledgment by authentic act and judgments of filiation</heading>
+        <subsection eId="CHC-1106__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Acknowledgment of a child by authentic act may be evidenced by proof of its filing. If the child is born in Louisiana, and the acknowledgment is by authentic act, it shall be filed with the state registrar, office of vital records, the central repository for paternity acknowledgments, and recorded in the office of the clerk of court in the parish in which the child is born in order for the father to be accorded the rights afforded by Article 1193.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1106__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>All acknowledgments by authentic act recorded pursuant to this Article shall indicate the name of the child, the child's date of birth, if known, the name of the mother, and the full name and address of the acknowledging father.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1106__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A judgment of filiation rendered by a court which recognizes a father as having formally acknowledged a child born outside of marriage and in which the father is adjudged the parent of the child shall also be filed with the state registrar, office of vital records, the central repository for adjudications of paternity, and filed and recorded in the office of the clerk of court in the parish in which the child was born, if born in this state, or if the child was born in another state, in the parish in which the child is domiciled at the time of the judgment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1106__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The clerk of court shall issue, on request, a certificate indicating whether any act of acknowledgment or any filiation judgment has been recorded relative to a particular child.  If such an act has been recorded, the clerk shall include on the certificate the name and address of the father, the name of the notary, and the date of recordation of the certificate.  Records of requests for certificates and copies of certificates issued shall be maintained in confidential records and shall not be open to public inspection.  The acts recorded, however, shall be made available only upon motion and order for good cause shown.  Certifications shall be issued to the department, other adoption agencies, and the courts of this state at no charge.  The clerk may assess reasonable charges for copies of the certificate requested by other persons or agencies.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1106__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>For purposes of this Article, &quot;clerk of court&quot; means the clerk of court in the parish in which the child was born.  However, &quot;clerk of court&quot; means only the following clerks of court in the following parishes:</p>
+          </content>
+          <paragraph eId="CHC-1106__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In the parish of Caddo, the clerk of the Caddo Parish Juvenile Court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1106__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In the parish of East Baton Rouge, the clerk of the East Baton Rouge Parish Juvenile Court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1106__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In the parish of Jefferson, the clerk of the Jefferson Parish Juvenile Court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1106__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In the parish of Orleans, the clerk of the Orleans Parish Juvenile Court.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72589</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

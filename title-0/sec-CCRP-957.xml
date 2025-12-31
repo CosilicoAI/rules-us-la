@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-957"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-957"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 957"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-957/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-957/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-957/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-957/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-957">
+        <num>CCRP 957</num>
+        <heading>957.  Bail during emergency sessions of court; selected offenses</heading>
+        <subsection eId="CCRP-957__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any other provision of law to the contrary, an affected court conducting emergency sessions of court outside of its parish or territorial jurisdiction pursuant to Article 944 may release a defendant on bail through an unsecured personal surety as authorized by Article 317, without proof of a security interest pursuant to the provisions of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-957__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The provisions of this Article shall not apply to any defendant who has been arrested for any of the following offenses:</p>
+          </content>
+          <paragraph eId="CCRP-957__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A crime of violence as defined in R.S. 14:2(B).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-957__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A sex offense as defined in R.S. 15:541.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-957__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A felony offense, an element of which includes the discharge, use, or possession of a firearm.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-957__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A violation of R.S. 14:98, operating a vehicle while intoxicated, or a parish or municipal ordinance that prohibits operating a vehicle while intoxicated, while impaired, or while under the influence of alcohol or any controlled dangerous substance.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-957__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The affected court may release a defendant on bail through a personal surety without proof of a security interest as required by Article 319 if all of the following conditions are met:</p>
+          </content>
+          <paragraph eId="CCRP-957__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The defendant was arrested for an offense which is not excluded by Paragraph B of this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-957__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The personal surety meets the requirements of Articles 315 and 318 for a secured personal surety.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-957__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Proof of a security interest cannot be obtained due to emergency or disaster circumstances as provided for in Article 944.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-957__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The court requires that the unsecured surety be converted to a commercial surety or secured personal surety as soon as proof of a security interest can be obtained, or within thirty days of issuance of the unsecured bail, whichever occurs earlier.  If proof of a security interest cannot be obtained due to emergency or disaster circumstances, the court may extend the period to obtain proof of the security interest for additional thirty-day increments as determined to be necessary by the court.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-957__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The provisions of this Article shall not be construed to limit the constitutional right to bail or the inherent authority of the court to set bail.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=725174</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

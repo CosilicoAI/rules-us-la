@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-684"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-684"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 684"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-684/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-684/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-684/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-684/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-684">
+        <num>CHC 684</num>
+        <heading>684.  Judgment of disposition</heading>
+        <subsection eId="CHC-684__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall enter into the record a written judgment of disposition specifying
+the following:</p>
+          </content>
+          <paragraph eId="CHC-684__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The nature of the disposition.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-684__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The maximum duration of the disposition.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-684__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The agency, institution, or person to whom the child is assigned, including the
+responsibilities of any other agency, institution, or person having legal responsibility to
+secure or provide services to the child which the court has determined are needed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-684__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any other applicable terms and conditions regarding the disposition.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-684__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court shall enter a written order approving the case plan or specific written
+reasons why the court finds the plan does not protect the health, welfare, and safety of the
+child or is otherwise not in the best interest of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-684__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When the child is to be removed from the custody of the parent, the court shall
+enter findings that continuation in the home would be contrary to the health, welfare, and
+safety of the child.  Except as otherwise provided in Article 672.1, when the child is to be
+removed from the custody of the parent, in support of its determination of whether
+reasonable efforts, as defined in Article 603, have been made to prevent removal, the court
+shall enter findings, including a description of what preventive and reunification efforts, or
+both, were made and why additional efforts would not keep the child safe from identified
+threats of danger.  If a child is to be or has been placed out-of-state, the court shall determine
+and enter findings on whether the placement is safe, appropriate, and in the best interest of
+the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-684__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When a parent is absent, the court shall enter findings regarding diligent efforts
+by the curator, the department, and others to locate that parent.  In the absence of findings
+to the contrary, efforts to locate the parent shall be presumed sufficient.  If the court
+determines additional search efforts are needed, it shall specifically identify those efforts.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-684__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>In all cases in which the child is removed from his parents' custody and assigned
+to the department, the court shall advise the parties and all persons before the court of the
+following:</p>
+          </content>
+          <paragraph eId="CHC-684__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Procedures governing the case plan, case review, and permanency review
+procedure, as provided for in Chapters 15 and 16 of this Title.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-684__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The obligation of the parents to cooperate with the department, comply with the
+requirements of the case plan, including their duty to keep the department and their counsel
+apprised in writing of their current whereabouts, including address, cellular number,
+telephone number, and any other contact information, and correct the conditions requiring
+the child to be in care.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-684__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The possibility that a petition to terminate parental rights may be filed based on
+the parents' failure to comply with the case plan, failure to make significant measurable
+progress toward achieving case plan goals and to correct the conditions requiring the child
+to be in care, or on any other ground authorized by Article 1015.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-684__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The continuing responsibility of all persons before the court to advise the
+department and the court in writing of the whereabouts, including the address, cellular
+number, telephone number, and any other contact information, of an absent parent and the
+identity and the whereabouts, including address, cellular number, telephone number, and any
+other contact information, of any relative or other individual willing and able to offer a
+wholesome and stable home for the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-684__subsec_E__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The continuing responsibility of all persons before the court to support the
+achievement of timely permanency for the child and the requirement that those persons
+advise the department and the court in writing of the whereabouts, including the address,
+cellular number, telephone number, and any other contact information, of all grandparents,
+all parents of a sibling where such parent has legal custody of such sibling, and all other adult
+relatives of the child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-684__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The date of entry of the judgment of disposition shall be recorded on the
+judgment.  The advisement in Paragraph E of this Article shall be attached to the judgment
+of disposition and any other orders of the court furnished to the parties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-684__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>An extract of minutes of court specifying the information in Paragraph A of this
+Article and signed by the court shall be considered a written judgment of disposition.  A copy
+of the judgment of disposition shall be furnished to the parents, their counsel, or curator.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73280</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

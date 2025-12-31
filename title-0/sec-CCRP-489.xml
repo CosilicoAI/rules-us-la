@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-489"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-489"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 489"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-489/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-489/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-489/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-489/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-489">
+        <num>CCRP 489</num>
+        <heading>489.  Continuance where amendment prejudicial</heading>
+        <content>
+          <p>Art. 489.  Continuance where amendment prejudicial
+If it is shown, on motion of the defendant, that the defendant has been prejudiced in his defense on the merits by the defect, imperfection, omission, uncertainty, or variance, with respect to which an amendment is made, the court shall grant a continuance for a reasonable time.  In determining whether the defendant has been prejudiced in his defense upon the merits, the court shall consider all the circumstances of the case and the entire course of the prosecution.  If it becomes necessary to discharge the original jury from further consideration of the case, the trial before a new jury will not constitute double jeopardy.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112575</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

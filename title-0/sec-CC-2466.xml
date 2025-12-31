@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2466"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2466"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2466"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2466/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2466/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2466/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2466/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2466">
+        <num>CC 2466</num>
+        <heading>2466.  No price fixed by the parties</heading>
+        <content>
+          <p>Art. 2466.  No price fixed by the parties
+When the thing sold is a movable of the kind that the seller habitually sells and the parties said nothing about the price, or left it to be agreed later and they fail to agree, the price is a reasonable price at the time and place of delivery.  If there is an exchange or market for such things, the quotations or price lists of the place of delivery or, in their absence, those of the nearest market, are a basis for the determination of a reasonable price.
+Nevertheless, if the parties intend not to be bound unless a price be agreed on, there is no contract without such an agreement.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109509</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

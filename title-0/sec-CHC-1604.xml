@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1604"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1604"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1604"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1604/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1604/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1604/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1604/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1604">
+        <num>CHC 1604</num>
+        <heading>1604.  Definitions</heading>
+        <subsection eId="CHC-1604__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Adoption assistance&quot; means the payment or payments for maintenance of a child, which payment or payments are made or committed to be made pursuant to the adoption assistance program established by the laws of a party state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1604__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Adoption assistance state&quot; means the state that is signatory to an adoption assistance agreement in a particular case.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1604__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Child with special needs&quot; means a minor who has not yet attained the age at which the state normally discontinues children's services or twenty-one, where the state determines that the child's mental or physical handicaps warrant the continuation of assistance, for whom the state has determined the following:</p>
+          </content>
+          <paragraph eId="CHC-1604__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>That the child cannot or should not be returned to the home of his parents.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1604__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>That there exists with respect to the child a specific factor or condition, such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical condition or physical, mental, or emotional handicaps, because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1604__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>That, except where it would be against the best interests of the child because of such factors as the existence of significant emotional ties with prospective adoptive parents while in the care of such parents as a foster child, a reasonable but unsuccessful effort has been made to place the child with appropriate adoptive parents without providing adoption assistance payments.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1604__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Parents&quot; means either the singular or plural of the word &quot;parent&quot;.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1604__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Residence state&quot; means the state of which the child is a resident by virtue of the residence of the adoptive parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1604__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;State&quot; means a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or a territory or possession of the United States.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73038</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

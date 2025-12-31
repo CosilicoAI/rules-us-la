@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-4"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-4"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 17.4"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-4/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-4/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-4/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-4/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-17-4">
+        <num>SRULE 17.4</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-17-4__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>All meetings of the Select Committee on Discipline and Expulsion shall be held
+in the Senate Chamber. Notice of meetings, insofar as practicable, shall be given in
+accordance with applicable rules of the Senate governing notice of meetings of standing
+committees during legislative sessions.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-17-4__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A majority of the total members of the committee shall constitute a quorum.
+The affirmative vote of a majority of those present and voting, assuming a quorum, shall
+be required for actions of the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-17-4__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Prior to consideration of any resolution referred to it or undertaking any
+business in connection therewith, except establishing a quorum, the members of the select
+committee shall subscribe to the following oath, which shall be administered by the
+Secretary or, in his absence, by a person qualified to administer oaths selected by the
+chairman:
+&quot;I do solemnly swear (affirm) that in all things appertaining to the matters referred
+to this Select Committee and contained in Senate Resolution No.___________ of
+_________________, I will do impartial justice according to the Constitution and laws. I
+do solemnly swear that I will support the Constitution and laws of the United States and
+of this State, and that I will faithfully and impartially discharge and perform all the duties
+incumbent upon me as a member of the Senate Select Committee on Discipline and
+Expulsion in the aforesaid matter, according to the best of my ability and understanding,
+so help me God.&quot;</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180493</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

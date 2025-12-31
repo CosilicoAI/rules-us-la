@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2375"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2375"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2375"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2375/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2375/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2375/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2375/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2375">
+        <num>CC 2375</num>
+        <heading>2375.  Effect of judgment</heading>
+        <subsection eId="CC-2375__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in Paragraph C of this Article, a judgment decreeing
+separation of property terminates the regime of community property retroactively to the day
+of the filing of the petition or motion therefor, without prejudice to rights validly acquired
+in the interim between filing of the petition or motion and rendition of judgment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2375__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a judgment has been rendered, in accordance with Article 2374(C) or (D), a
+reconciliation reestablishes the regime of community property between the spouses
+retroactively to the day of its termination, unless prior to the reconciliation the spouses
+execute a matrimonial agreement to the contrary.  This agreement need not be approved by
+the court and is effective toward third persons when filed for registry in the manner provided
+by Article 2332.  The reestablishment of the community is effective toward third persons
+when a notice thereof is filed for registry in the same manner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2375__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a judgment is rendered on the ground that the spouses were living separate and
+apart without having reconciled for at least thirty days from the date of, or prior to, the filing
+of the petition for divorce, the judgment shall be effective retroactively to the date the
+petition for divorce was filed, without prejudice to rights validly acquired in the interim.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109462</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

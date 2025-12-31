@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-708"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-708"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 708"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-708/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-708/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-708/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-708/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-708">
+        <num>CHC 708</num>
+        <heading>708.  Presence at permanency hearing</heading>
+        <subsection eId="CHC-708__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>All parties, foster parents, adoptive parents, and relatives providing care for the child, authorized officers of the court as designated by the judge, agency representatives as designated by the state, court-appointed special advocate (CASA) volunteer, the witness under examination, and the judge or administrative review body may be present at a permanency hearing.  The court or administrative review body shall not admit any other person unless the court has determined that the person has a proper interest in or is necessary to the proceedings.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-708__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>On its own motion or the motion of any party, the court or administrative review body may order that witnesses, other than parties, be excluded from the courtroom and refrain from discussing the facts of the case with anyone other than counsel in the case.  On its own motion the court or administrative review body may, and on the request of a party the court shall, order that the witnesses, other than parties, be excluded from the courtroom or from a place where they can see or hear the proceedings, and refrain from discussing the facts of the case with anyone other than counsel in the case. In the interest of justice, the court may exempt any witness from its order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-708__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Prior to the commencement of the hearing, the court shall determine whether it is in the child's best interest for the child to remain in the courtroom during the testimony of the witnesses.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73304</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 17.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-17-5">
+        <num>SRULE 17.5</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-17-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The chairman of the committee shall have authority to assign any employees of the Senate and, in necessary cases, to employ additional personnel, including but not limited to court reporters, to assist the committee in carrying out its functions and duties.  He shall fix the terms and conditions and the compensation of personnel employed to assist the committee, and such employees shall be deemed to be employees of the Senate.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-17-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The chairman also shall have authority to direct the use of any facilities, equipment, and supplies of the Senate for use in connection with the work of the committee.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180494</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

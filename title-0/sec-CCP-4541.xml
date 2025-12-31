@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4541"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4541"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 4541"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4541/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4541/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4541/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4541/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-4541">
+        <num>CCP 4541</num>
+        <heading>INTERDICTION AND CURATORSHIP OF INTERDICTS</heading>
+        <subsection eId="CCP-4541__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Any person may petition for the interdiction of a natural person of the age of
+majority or an emancipated minor.  The petitioner shall verify the petition and, to the extent
+known, shall set forth the following with particularity:</p>
+          </content>
+          <paragraph eId="CCP-4541__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name, domicile, age, and current address of the petitioner and his
+relationship to the defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4541__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The name, domicile, age, and current address of the defendant and the place the
+petitioner proposes the defendant will reside if the relief sought in the petition is awarded.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4541__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The reasons why interdiction is necessary, including a brief description of the
+nature and extent of the alleged infirmities of the defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4541__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If full interdiction is requested, the reasons why limited interdiction is
+inappropriate.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4541__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If limited interdiction is requested, the capacity sought to be removed from the
+limited interdict, and the powers sought to be conferred upon the limited curator.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4541__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The name and address of the spouse of the defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4541__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The name and address of the adult children of the defendant or, if he has none,
+of his parents and siblings or, if he has none, of his nearest adult relative.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4541__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The name and address of any legal representative of the defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4541__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The name and address of any person previously designated as curator by the
+defendant in a writing signed by the defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4541__subsec_A__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>The name, domicile, age, education, and current address of the proposed curator,
+and the reasons why the proposed curator should be appointed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4541__subsec_A__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>A description with particularity of the petitioner's efforts to use less restrictive
+means before seeking interdiction, including all of the following:</p>
+            </content>
+            <subparagraph eId="CCP-4541__subsec_A__subsec_11__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The less restrictive means for meeting the defendant's needs that were considered
+or implemented.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4541__subsec_A__subsec_11__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a less restrictive means was not considered or implemented, the reason that the
+less restrictive means was not considered or implemented.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4541__subsec_A__subsec_11__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The reason a less restrictive means is insufficient to meet the needs of the
+defendant.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-4541__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The petitioner shall make a reasonable effort to obtain the information required
+by this Article.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112002</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

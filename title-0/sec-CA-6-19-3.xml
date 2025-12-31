@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-6-19-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-6-19-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CA 6 19.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-6-19-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-6-19-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-6-19-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-6-19-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CA-6-19-3">
+        <num>CA 6 19.3</num>
+        <heading>ADMINISTRATIVE OFFICERS AND BOARDS</heading>
+        <content>
+          <p>ARTICLE VI.  ADMINISTRATIVE OFFICERS AND BOARDS
+§19.3.  Beautification of highways; regulation of outdoor advertising and junkyards
+Section 19.3.  It is a public purpose and in the public interest to expend public funds in connection with the construction, reconstruction or improvement of state highways for the acquisition of the full ownership or any lesser interest in property in order to protect the public investment, promote the safety and recreational value of public travel, and restore, preserve and enhance the scenic beauty of or points of interest in areas traversed by state highways.
+To accomplish these purposes and to insure maximum participation of federal-aid highway funds made available in accordance with the provisions of Title 23 of the United States Code, the Legislature is authorized to vest in the Department of Highways the full police power of the State, through zoning authority or otherwise, and such additional powers of expropriation as may be considered necessary.
+Specifically, the Legislature shall provide for controlling the erection and maintenance of outdoor advertising signs, displays and devices, and the establishment, use and maintenance of junkyards in areas adjacent to the interstate and primary systems; the acquisition of such advertising devices and junkyards when reasonably necessary; the acquisition and operation of roadside parks, rest and recreational areas and sanitary and other facilities for the safety and accommodation of the traveling public; and for the acquisition of roadside development areas, or scenic strips, reasonably necessary or useful for the restoration, preservation and enhancement of scenic beauty or points of interest.
+Such zoning authority as may be authorized hereunder shall, except to the extent necessary to insure receipt of maximum federal-aid funds, be consistent with the lawful exercise of zoning authority vested in the municipalities and parishes of this State.
+Any legislation adopted at the regular session of the Legistature in 1966 on the subject of this amendement shall be validated and ratified by the adoption of this amendment.
+Added by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=67991</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-12"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-12"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 6.12"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-12/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-12/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-12/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-12/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-6-12">
+        <num>HRULE 6.12</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-6-12__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A committee may report a substitute for any House bill or for a joint resolution originating in the House, or for several House bills on the same subject or for several joint resolutions on the same subject which originated in the House, which substitute, if adopted by the House, shall be numbered, and read on three separate days, as in the case of original bills, but need not again be sent to a House committee to be considered.  A committee may also report a substitute for a House resolution or for several House resolutions on the same subject, or for a House concurrent resolution or several House concurrent resolutions on the same subject, which substitute if adopted by the House shall be numbered and shall be considered in the manner of House resolutions or House concurrent resolutions reported by committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-12__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Any substitute reported by a committee shall be germane to the original instrument(s).  Any report by a committee of a bill or joint resolution originating in the House which would have the effect of striking all material following the enacting clause or the &quot;Be It Resolved&quot; clause shall be by substitute rather than with amendments.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-12__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When any instrument is reported by substitute, the substitute shall reflect the same authors in the same order as those of the instrument being reported by substitute, if such authors so consent.  If more than one instrument is reported by the same substitute, the authors, present and consenting, shall be listed as they appear on such instruments in the order in which the instruments were introduced.  In addition, additional coauthors may be added thereafter.
+Mason's Manual:  Sec. 617, 677, and 722</p>
+          </content>
+          <paragraph eId="HRULE-6-12__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>HR 3, 1973; HR 10, 1975; HR 4, 1978; HR 45, 1998, eff. May 20, 1998.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113320</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

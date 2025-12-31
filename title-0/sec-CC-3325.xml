@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3325"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3325"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 3325"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3325/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3325/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3325/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3325/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-3325">
+        <num>CC 3325</num>
+        <heading>3325.  Paraph of notes or written obligations secured by a mortgage, privilege, or other encumbrance</heading>
+        <subsection eId="CC-3325__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in Paragraph B of this Article, a note or other written obligation which is secured by an act of mortgage, or an act evidencing a privilege or other encumbrance, need not be paraphed for identification with such mortgage, privilege, or other encumbrance, and need not recite that it is secured by such mortgage, privilege, or other encumbrance.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-3325__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A notary before whom is passed an act of mortgage, or an act evidencing a privilege or other encumbrance that secures a note or other written obligation, shall paraph the obligation for identification with his act if the obligation is presented to him for that purpose.  The paraph shall state the date of the act and shall be signed by the notary.  The notary shall also mention in his act that he has paraphed the obligation.  Failure to do so shall render the paraph ineffective.  The paraph is prima facie evidence that the paraphed obligation is the one described in the act.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110375</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

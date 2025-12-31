@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-303"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-303"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 303"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-303/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-303/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-303/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-303/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-303">
+        <num>CHC 303</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-303__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Delinquency proceedings pursuant to Title VIII, except when a child either:</p>
+          </content>
+          <paragraph eId="CHC-303__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Is subject to the jurisdiction of the criminal courts for prosecution and liability
+as an adult pursuant to Chapter 4 of this Title.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-303__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Has been transferred by the juvenile court for criminal prosecution and liability
+as an adult pursuant to Chapter 11 of Title VIII.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-303__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Child in need of care proceedings pursuant to Title VI.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-303__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Families in need of services proceedings pursuant to Title VII.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-303__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Traffic proceedings pursuant to Title IX.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-303__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Involuntary termination of parental rights proceedings pursuant to Title X.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-303__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Voluntary termination of parental rights proceedings pursuant to Title XI.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-303__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Adoption proceedings pursuant to Title XI or XII.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-303__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Mental health proceedings pursuant to Title XIV.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-303__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Any special proceeding authorized by Title XV, except domestic abuse assistance
+proceedings brought in a district court pursuant to R.S. 46:2131 et seq.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-303__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Any proceeding necessary to implement the provisions of interstate compacts
+affecting children pursuant to Title XVI.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-303__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Such other jurisdiction over children as may be provided by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-303__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>Extended foster care proceedings as provided for by R.S. 46:288.1 et seq., to
+review the written report and make a determination whether it is in the youth's best interest
+to continue in extended foster care in a voluntary placement. For purposes of this
+Subparagraph, &quot;youth&quot; shall have the same meaning as provided in R.S. 46:288.2.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73101</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

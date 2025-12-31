@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-4"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-4"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 228.4"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-4/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-4/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-4/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-4/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-228-4">
+        <num>CCRP 228.4</num>
+        <heading>228.4.  Disposal of noncontraband unclaimed property seized in criminal investigations</heading>
+        <subsection eId="CCRP-228-4__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>After the lapse of one year, the district attorney of the parish in which the noncontraband property is located is authorized to petition any court in that parish having proper jurisdiction for the disposal of the property in any lawful manner.  Any petition filed pursuant to this Article shall be without cost and on behalf of the district attorney, municipal police department, or state investigative agency which has custody of the noncontraband property.
+(2)</p>
+          </content>
+          <paragraph eId="CCRP-228-4__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Before any district attorney petitions the court, he shall cause an advertisement of his intention to seek approval of the court to be placed in the newspaper designated as the official journal of the parish one time at least ten days prior to filing of his petition, and he shall mail a copy of the advertisement to the last known owner of the property at his last known address, postage prepaid, if the owner is known.  If the owner of the property is unknown, no such notice shall be mailed.  In the petition for disposal, the district attorney shall set forth a brief description of the property to be disposed of, the court in which the proceedings will be filed, the title of the proceedings, and method or methods of intended disposal.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-228-4__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The district attorney shall have a duty to determine if any of the property for which disposal is sought is subject to a prior recorded mortgage, lien or security interest held by a federally insured financial institution defined herein as an &quot;interest holder&quot;.  If an &quot;interest holder's&quot; name and address are required by law to be recorded with the parish clerk of court, the motor vehicle division of the Department of Public Safety and Corrections, the vessel division of the Department of Wildlife and Fisheries, or another state or federal agency to perfect an interest in the property, and the &quot;interest holder's&quot; current address is not known, he shall mail a copy of the notice by certified mail, return receipt requested, to any address of record with any of the described agencies, or if the &quot;interest holder's&quot; address is not on record, he shall notify the &quot;interest holder&quot; by publication as required in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-228-4__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of this Paragraph.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-228-4__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The petition of the district attorney shall make specific recommendations as to the manner of disposal for each item of unclaimed noncontraband property and pray for the court to order its disposal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-228-4__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The court shall order the disposal of the noncontraband property according to the specific recommendations contained in the district attorney's petition or in any legal manner within the sole discretion of the court.  If the manner of disposal ordered by the court is not in accordance with the manner contained in the district attorney's petition, the district attorney may withdraw the petition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-228-4__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>All items of property designated by the court for sale shall be sold either by public sale, without appraisal, or by public auction conducted by a licensed auctioneer, without  appraisal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-228-4__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>If the manner of disposal ordered by the court generates any direct revenue, the proceeds shall be distributed in the following order of priority:</p>
+          </content>
+          <paragraph eId="CCRP-228-4__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For satisfaction of the costs of the proceedings to dispose of noncontraband unclaimed property.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-228-4__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Thirty percent to the district attorney to defer the expenses of bringing any such action before the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-228-4__subsec_6__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The remaining funds to the investigative agency that stored, maintained, insured, or bore the administrative costs as is related to maintaining the property seized in criminal investigations.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-228-4__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Weapons released to the district attorney, municipal police department, or state investigative agency by the court pursuant to this Article shall become the property of that office, department, or agency and may be disposed of or issued in any manner which that office, department, or agency deems appropriate.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=725115</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

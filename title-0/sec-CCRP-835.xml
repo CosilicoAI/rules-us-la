@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-835"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-835"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 835"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-835/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-835/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-835/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-835/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-835">
+        <num>CCRP 835</num>
+        <heading>835.  Presence of defendant at pronouncement of sentence</heading>
+        <subsection eId="CCRP-835__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in Paragraph B of this Article, in felony cases the defendant
+shall always be present when sentence is pronounced and, in misdemeanor cases, the
+defendant shall be present when sentence is pronounced unless excused by the court.  If a
+sentence is improperly pronounced in the defendant's absence, he shall be resentenced when
+his presence is secured.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-835__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Nothing in this Article prohibits the court, by local rule, from providing for a
+defendant's appearance at the pronouncement of sentence by simultaneous audio-visual
+transmission in accordance with the provisions of Article 562.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112825</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

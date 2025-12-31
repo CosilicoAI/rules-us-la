@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1351"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1351"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1351"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1351/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1351/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1351/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1351/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1351">
+        <num>CHC 1351</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1351__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Applicable payee&quot; means the spouse, the tutor or custodian of the child, the
+court-approved fiduciary of the spouse or child, or the department in a FITAP case or in a
+non-FITAP case in which the department is rendering services as designated by the court to
+be the payee.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1351__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Child&quot; means a person under the age of eighteen or an eighteen year old who is
+a full-time student in a secondary school and who is dependent on either parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1351__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Criminal neglect of family&quot; means the desertion or intentional nonsupport by
+a spouse of his or her spouse who is in destitute or necessitous circumstances or by either
+parent of his minor child who is in destitute or necessitous circumstances.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1351__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Department&quot; means the Department of Children and Family Services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1351__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;FITAP&quot; means the Family Independence Temporary Assistance Program.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1351__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Spouse&quot; shall mean a husband or wife.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72892</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

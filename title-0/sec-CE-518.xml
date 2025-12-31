@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-518"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-518"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 518"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-518/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-518/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-518/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-518/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-518">
+        <num>CE 518</num>
+        <heading>518.  Trained peer support member privilege</heading>
+        <subsection eId="CE-518__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>For purposes of this Section, a &quot;trained peer support member&quot; is any of the
+following persons or entities that provide emotional and moral support or counseling to an
+emergency responder who needs those services as a result of an incident in which the
+emergency responder was involved while acting in his official capacity:</p>
+          </content>
+          <paragraph eId="CE-518__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An emergency responder  or civilian volunteer of an emergency service agency
+or entity, who has received training in Critical Incident Stress Management.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-518__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A volunteer counselor or other mental health services provider who has been
+designated by the emergency service agency or entity.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-518__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A firefighter who has received peer support training from the International
+Association of Fire Fighters.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=181167</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

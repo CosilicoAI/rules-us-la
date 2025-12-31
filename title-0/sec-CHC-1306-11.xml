@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-11"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-11"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1306.11"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-11/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-11/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-11/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-11/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1306-11">
+        <num>CHC 1306.11</num>
+        <heading>1306.11.  Modification of child support order of another state</heading>
+        <subsection eId="CHC-1306-11__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If Article 1306.13 does not apply, upon petition a tribunal of this state may
+modify a child support order issued in another state which is registered in this state if, after
+notice and hearing, the tribunal finds that:</p>
+          </content>
+          <paragraph eId="CHC-1306-11__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The following requirements are met:</p>
+            </content>
+            <subparagraph eId="CHC-1306-11__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Neither the child, nor the obligee who is an individual, nor the obligor resides in
+the issuing state.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1306-11__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A petitioner who is a nonresident of this state seeks modification; and</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1306-11__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The respondent is subject to the personal jurisdiction of the  tribunal of this state;
+or</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1306-11__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>This state is the residence of the child, or a party who is an individual is subject
+to the personal jurisdiction of the tribunal of this state, and all of the parties who are
+individuals have filed consents in a record in the issuing tribunal for a tribunal of this state
+to modify the support order and assume continuing, exclusive jurisdiction.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1306-11__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Modification of a registered child support order is subject to the same
+requirements, procedures, and defenses that apply to the modification of an order issued by
+a tribunal of this state and the order may be enforced and satisfied in the same manner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1306-11__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A tribunal of this state may not modify any aspect of a child support order that
+may not be modified under the law of the issuing state, including the duration of the
+obligation of support.  If two or more tribunals have issued child support orders for the same
+obligor and same child, the order that controls and must be so recognized under Article
+1302.7 establishes the aspects of the support order which are nonmodifiable.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1306-11__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In a proceeding to modify a child support order, the law of the state that is
+determined to have issued the controlling order governs the duration of the obligation of
+support. The obligor's fulfillment of the duty of support established by that order precludes
+imposition of a further obligation of support by a tribunal of this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1306-11__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>On issuance of an order by a tribunal of this state modifying a child support order
+issued in another state, the tribunal of this state becomes the tribunal having continuing,
+exclusive jurisdiction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1306-11__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Notwithstanding Paragraphs A through E of this Article and Article 1302.1(B),
+a tribunal of this state retains jurisdiction to modify an order issued by a tribunal of this state
+if:</p>
+          </content>
+          <paragraph eId="CHC-1306-11__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>One party resides in another state; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-11__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The other party resides outside the United States.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72841</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

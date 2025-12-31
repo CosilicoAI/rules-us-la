@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-202"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-202"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 202"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-202/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-202/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-202/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-202/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-202">
+        <num>CE 202</num>
+        <heading>202.  Judicial notice of legal matters</heading>
+        <subsection eId="CE-202__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Mandatory.  A court, whether requested to do so or not, shall take judicial notice of the laws of the United States, of every state, territory, and other jurisdiction of the United States, and of the ordinances enacted by any political subdivision within the court's territorial jurisdiction whenever certified copies of the ordinances have been filed with the clerk of that court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-202__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Other legal matters.</p>
+          </content>
+          <paragraph eId="CE-202__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A court shall take judicial notice of the following if a party requests it and provides the court with the information needed by it to comply with the request, and may take judicial notice without request of a party of:</p>
+            </content>
+            <subparagraph eId="CE-202__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Proclamations of the President of the United States and the governor of this state.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-202__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Rules of boards, commissions, and agencies of this state that have been duly published and promulgated in the Louisiana Register.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-202__subsec_B__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Ordinances enacted by any political subdivision of the State of Louisiana.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-202__subsec_B__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Rules which govern the practice and procedure in a court of the United States or of any state, territory, or other jurisdiction of the United States, and which have been published in a form which makes them readily accessible.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-202__subsec_B__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Rules and decisions of boards, commissions, and agencies of the United States or of any state, territory, or other jurisdiction of the United States which have been duly published and promulgated and which have the effect of law within their respective jurisdictions.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-202__subsec_B__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Law of foreign countries, international law, and maritime law.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-202__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A party who requests that judicial notice be taken and the court, if notice is taken without request shall give reasonable notice during trial to all other parties.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-202__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Information by court.  The court may inform itself of any of the foregoing legal matters in such manner as it may deem proper, and the court may call upon counsel to aid it in obtaining such information.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-202__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Time of taking notice.  Judicial notice of the foregoing legal matters may be taken at any stage of the proceeding, provided that before taking judicial notice of a matter in its instructions to the jury, the court shall inform the parties before closing arguments begin.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-202__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Question for court.  The determination of the foregoing legal matters shall be made by the court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72446</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

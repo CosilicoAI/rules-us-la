@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-501"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-501"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 501"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-501/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-501/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-501/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-501/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-501">
+        <num>CHC 501</num>
+        <heading>Section </heading>
+        <content>
+          <p>TITLE V
+SERVICES TO FAMILIES
+CHAPTER 1.  PROTECTION OF CHILDREN
+IN ABUSE INVESTIGATIONS
+PART I.  GENERAL PROVISIONS
+Art. 501.  Legislative findings
+The legislature finds that the use of a multidisciplinary investigative team response to the investigation and disposition of allegations of child sex abuse or allegations of other serious physical abuse and the use of child advocacy centers will encourage agency cooperation, expedite the resolution of allegations, minimize the trauma to children and their families, and otherwise serve the best interests of the children of Louisiana.  In accordance with Article V, Section 27 of the Constitution of Louisiana, nothing in this Title will in any way preclude the sheriff, as the chief law enforcement officer of the parish, from taking any action deemed necessary in cases of alleged child abuse or neglect.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73188</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

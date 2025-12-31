@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1301.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1301-2">
+        <num>CHC 1301.2</num>
+        <heading>1301.2.  Definitions</heading>
+        <subsection eId="CHC-1301-2__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Child&quot; means an individual, whether over or under the age of majority, who is
+or is alleged to be owed a duty of support by the individual's parent or who is or is alleged
+to be the beneficiary of a support order directed to the parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot; Child support order&quot; means a support order for a child, including a child who
+has attained the age of majority under the law of the issuing state or foreign country.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Convention&quot; means the Convention on the International Recovery of Child
+Support and Other Forms of Family Maintenance, concluded at The Hague on November 23,
+2007.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Duty of support&quot; means an obligation imposed or imposable by law to provide
+support for a child, spouse, or former spouse, including an unsatisfied obligation to provide
+support.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Foreign country&quot; means a country, including a political subdivision thereof,
+other than the United States, that authorizes the issuance of support orders and:</p>
+          </content>
+          <paragraph eId="CHC-1301-2__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Which has been declared under the law of the United States to be a foreign
+reciprocating country;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Which has established a reciprocal arrangement for child support with this state
+as provided in Article 1303.8;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Which has enacted a law or established procedures for the issuance and
+enforcement of support orders which are substantially similar to the procedures under this
+Chapter; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>In which the Convention is in full force with respect to the United States.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Foreign support order&quot; means a support order of a foreign tribunal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Foreign tribunal&quot; means a court, administrative agency, or quasi-judicial entity
+of a foreign country which is authorized to establish, enforce, or modify support orders or
+to determine parentage of a child. The term includes a competent authority under the
+Convention.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Home state&quot; means the state or foreign country in which a child lived with a
+parent or a person acting as parent for at least six consecutive months immediately preceding
+the time of filing of a petition or comparable pleading for support and, if a child is less than
+six months old, the state or foreign country in which the child lived from birth with any of
+them.  A period of temporary absence of any of them is counted as part of the six-month or
+other period.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Income&quot; includes earnings or other periodic entitlements to money from any
+source and any other property subject to withholding for support under the law of this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Income-withholding order&quot; means an order or other legal process directed to
+an obligor's employer or other debtor, as defined by the income-withholding law of this state,
+to withhold support from the income of the obligor.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Initiating tribunal&quot; means the tribunal of a state or foreign country from which
+a petition or comparable pleading is forwarded or in which a petition or comparable pleading
+is filed for forwarding to another state or foreign country.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Issuing foreign country&quot; means the foreign country in which a tribunal issues
+a support order or a judgment determining parentage of a child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Issuing state&quot; means the state in which a tribunal issues a support order or a
+judgment determining parentage of a child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Issuing tribunal&quot; means the tribunal of a state or foreign country that issues a
+support order or a judgment determining parentage of a child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Law&quot; includes decisional and statutory law and rules and regulations having
+the force of law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Obligee&quot; means:</p>
+          </content>
+          <paragraph eId="CHC-1301-2__subsec_16__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An individual to whom a duty of support is or is alleged to be owed or in whose
+favor a support order or a judgment determining parentage of a child has been issued;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_16__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>A foreign country, state or political subdivision of a state to which the rights
+under a duty of support or support order have been assigned or which has independent claims
+based on financial assistance provided to an individual obligee in place of child support;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_16__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>An individual seeking a judgment determining parentage of the individual's child;
+or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_16__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A person that is a creditor in a proceeding under Section 7.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>&quot;Obligor&quot; means an individual or the estate of a decedent who:</p>
+          </content>
+          <paragraph eId="CHC-1301-2__subsec_17__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Owes or is alleged to owe a duty of support;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_17__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Is alleged, but has not been adjudicated to be a parent of a child;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_17__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Is liable under a support order; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_17__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Is a debtor in a proceeding under Section 7.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>&quot;Outside this state&quot; means a location in another state or a country other than the
+United States, whether or not the country is a foreign country.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>&quot;Person&quot; means an individual, corporation, business trust, estate, trust,
+partnership, limited liability company, association, joint venture, public corporation,
+government or governmental subdivision, agency, or instrumentality, or any other legal or
+commercial entity.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>&quot;Record&quot; means information that is inscribed on a tangible medium or that is
+stored in an electronic or other medium and is retrievable in perceivable form.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>&quot;Register&quot; means to record or file in a tribunal of this state a support order or
+judgment determining parentage of a child issued in another state or a foreign country.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>&quot;Registering tribunal&quot; means a tribunal in which a support order or judgment
+determining parentage of a child is registered.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_23">
+          <num>(23)</num>
+          <content>
+            <p>&quot;Responding state&quot; means a state in which a petition or comparable pleading
+for support or to determine parentage of a child is filed or to which a petition or comparable
+pleading is forwarded for filing from another state or a foreign country.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_24">
+          <num>(24)</num>
+          <content>
+            <p>&quot;Responding tribunal&quot; means the authorized tribunal in a responding state or
+foreign country.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_25">
+          <num>(25)</num>
+          <content>
+            <p>&quot;Spousal support order&quot; means a support order for a spouse or former spouse
+of the obligor.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_26">
+          <num>(26)</num>
+          <content>
+            <p>&quot;State&quot; means a state of the United States, the District of Columbia, Puerto
+Rico, the United States Virgin Islands, or any territory or insular possession under the
+jurisdiction of the United States.  The term includes an Indian nation or tribe.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_27">
+          <num>(27)</num>
+          <content>
+            <p>&quot;Support enforcement agency&quot; means a public official, governmental entity, or
+private agency authorized to:</p>
+          </content>
+          <paragraph eId="CHC-1301-2__subsec_27__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Seek enforcement of support orders or laws relating to the duty of support;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_27__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Seek establishment or modification of child support;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_27__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Request determination of parentage of a child;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_27__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Attempt to locate obligors or their assets; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-2__subsec_27__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Request determination of the controlling child support order.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_28">
+          <num>(28)</num>
+          <content>
+            <p>&quot;Support order&quot; means a judgment, decree, order, decision, or directive, whether
+temporary, final, or subject to modification, issued in a state or foreign country for the benefit
+of a child, a spouse, or a former spouse, which provides for monetary support, health care,
+arrearages, retroactive support, or reimbursement for financial assistance provided to an
+individual obligee in place of child support. The term may include related costs and fees,
+interest, income withholding, automatic adjustment, reasonable attorney fees, and other
+relief.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-2__subsec_29">
+          <num>(29)</num>
+          <content>
+            <p>&quot;Tribunal&quot; means a court, administrative agency, or quasi judicial entity
+authorized to establish, enforce, or modify support orders or to determine parentage of a
+child.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72794</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

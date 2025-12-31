@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-194"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-194"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 194"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-194/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-194/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-194/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-194/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-194">
+        <num>CCP 194</num>
+        <heading>194.  Power of district court to act; signing orders and judgments</heading>
+        <subsection eId="CCP-194__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Order directing the taking of an inventory; judgment decreeing or homologating
+a partition, when unopposed; judgment probating a testament ex parte; order directing the
+execution of a testament; order confirming or appointing a legal representative, when
+unopposed; order appointing an undertutor or an undercurator; order appointing an attorney
+at law to represent an absent, incompetent, or unrepresented person, or an attorney for an
+absent heir; order authorizing the sale of property of an estate administered by a legal
+representative; order directing the publication of the notice of the filing of a tableau of
+distribution, or of an account, by a legal representative; judgment recognizing heirs or
+legatees and sending them into possession, when unopposed; all orders for the administration
+and settlement of a succession, or for the administration of an estate by a legal representative.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-194__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Order to show cause; order directing the issuance and providing the security to
+be furnished by a party for the issuance of a writ of attachment or sequestration; order
+directing the release of property seized under a writ of attachment or sequestration and
+providing the security to be furnished therefor; order for the issuance of a temporary
+restraining order and providing the security therefor; order for the issuance of a writ, or
+alternative writ, of habeas corpus, mandamus, or quo warranto.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-194__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Order for the seizure and sale of property in an executory proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-194__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Order for the taking of testimony by deposition; for the production of
+documentary evidence; for the production of documents and things for inspection, copying,
+or photographing; for permission to enter land for the purpose of measuring, surveying, or
+photographing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-194__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Order or judgment deciding or otherwise disposing of an action, proceeding, or
+matter that may be tried or heard in chambers.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-194__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Order or judgment that may be granted on ex parte motion or application, except
+an order of appeal on an oral motion.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-194__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Any other order or judgment not specifically required by law to be signed in open
+court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111352</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

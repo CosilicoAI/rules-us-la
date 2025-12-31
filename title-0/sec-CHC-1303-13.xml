@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-13"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-13"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1303.13"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-13/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-13/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-13/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-13/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1303-13">
+        <num>CHC 1303.13</num>
+        <heading>1303.13.  Costs and fees</heading>
+        <subsection eId="CHC-1303-13__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The petitioner may not be required to pay a filing fee or other costs.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-13__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If an obligee prevails, a responding tribunal of this state may assess against an
+obligor filing fees, reasonable attorney's fees, other costs, and necessary travel and other
+reasonable expenses incurred by the obligee and the obligee's witnesses.  The tribunal may
+not assess fees, costs, or expenses against the obligee or the support enforcement agency of
+either the initiating or the responding state or foreign country, except as provided by other
+law.  Attorney's fees may be taxed as costs and may be ordered paid directly to the attorney,
+who may enforce the order in the attorney's own name.  Payment of support owed to the
+obligee has priority over fees, costs, and expenses.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-13__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The tribunal shall order the payment of costs and reasonable attorney's fees if it
+determines that a hearing was requested primarily for delay.  In a proceeding under Section
+6, a hearing is presumed to have been requested primarily for delay if a registered support
+order is confirmed or enforced without change.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72813</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

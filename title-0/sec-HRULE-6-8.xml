@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-8"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-8"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 6.8"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-8/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-8/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-8/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-8/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-6-8">
+        <num>HRULE 6.8</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-6-8__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The capital outlay bill, being any bill being designated as the &quot;comprehensive
+state capital budget&quot; pursuant to the mandate of Paragraph B of Section 11 and Paragraph A
+of Section 6 of Article VII of the Constitution shall be referred by the presiding officer to the
+Committee on Ways and Means.  The committee's authority and duties with respect to such
+instrument shall be as is generally provided by these Rules of Order, except that the
+committee shall have no authority to propose amendments to said instrument other than to
+those provisions affecting bonds or other evidences of indebtedness, including without
+limitation the appropriation of the avails of bonds or other evidences of indebtedness, the
+priority of issuance or expenditure thereof and the manner(s) of changing the priority of
+issuance or expenditure.  The bill shall be reported in accordance with the provisions of Rule
+6.11(A).  After such report, if the measure is ordered engrossed by the House, immediately
+following such order, it shall be recommitted by the presiding officer to the Committee on
+Appropriations.  The committee's authority and duties with respect to such instrument shall
+be as is generally provided by these Rules of Order, except that the committee shall have no
+authority to propose amendments to said instrument except those provisions providing for
+appropriation of funds other than the avails of bonds or other evidences of indebtedness.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-8__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Any concurrent resolution providing for the adoption of the formula for the
+allocation of minimum foundation funds to parish and city school systems shall be referred
+by the presiding officer to the Committee on Education.  After the resolution is reported, if
+the resolution is ordered engrossed by the House, immediately following such order it shall
+be recommitted by the presiding officer to the Committee on Appropriations.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-8__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Any legislative instrument creating a special fund in the state treasury to which
+proceeds from taxes, fees, or other charges are dedicated and any legislative instrument
+amending provisions of law relative to such a special fund shall be referred to a standing
+committee under the provisions of Rule 6.5 and, if reported, shall be reported to the clerk of
+the House in accordance with the requirements of Rule 6.11(A).  However, after such report,
+any such House instrument ordered engrossed, immediately following the engrossment order,
+and any such Senate instrument reported favorably or with amendments, immediately
+following the reading of such report and action on any amendments reported, shall be
+recommitted by the Speaker to the Committee on Appropriations.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-8__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Any legislative instrument with an estimated fiscal cost of one hundred thousand
+dollars or more of state general funds annually in any one of the three ensuing fiscal years
+as reflected in the fiscal note prepared in accordance with Joint Rule No. 4, or with a fiscal
+cost that, although not specified in the fiscal note, is indicated in the fiscal note as likely to
+equal or exceed one hundred thousand dollars of state general funds annually in any of the
+three ensuing fiscal years, shall be referred to a standing committee under the provisions of
+Rule 6.5 and, if reported, shall be reported to the Clerk of the House in accordance with the
+requirements of Rule 6.11(A).  However, after such report, any such House instrument
+ordered engrossed, immediately following the engrossment order, and any such Senate
+instrument reported favorably or with amendments, immediately following the reading of
+such report and action on any amendments reported, shall be recommitted by the Speaker to
+the Committee on Appropriations.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-8__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Any legislative instrument which originates in the Senate which produces a net
+decrease in fees or increases fees or taxes or which authorizes an increase in fees or taxes of
+five hundred thousand dollars or more annually in any one of three ensuing fiscal years as
+reflected in the fiscal note prepared in accordance with Joint Rule No. 4 or which provides
+for or authorizes an increase in fees or taxes which, although not specified in the fiscal note,
+is indicated in the fiscal note to likely exceed five hundred thousand dollars annually in any
+of the three ensuing fiscal years shall be referred to a standing committee under the
+provisions of Rule 6.5 and, if reported, shall be reported to the Clerk of the House in
+accordance with the requirements of Rule 6.11(A).  However, after such report, any such
+Senate instrument reported favorably or with amendments, immediately following the
+reading of such report and action on any amendments reported, shall be recommitted by the
+Speaker to the Committee on Ways and Means.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-8__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>Any legislative instrument which contains a provision or provisions the effect of
+which exempts or excepts certain information from the laws relative to public records,
+having been referred to a standing committee other than the Committee on House and
+Governmental Affairs under the provisions of Rule 6.5, if reported, shall be reported in
+accordance with the requirements of Rule 6.11(A).  However, after such report, any such
+House instrument ordered engrossed, immediately following the engrossment order, and any
+such Senate instrument reported favorably or with amendments, immediately following the
+reading of such report and action on any amendments reported, shall be recommitted by the
+speaker to the Committee on House and Governmental Affairs.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-8__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>Any legislative instrument which contains a provision or provisions the effect of
+which provides that the state join an interstate compact, having been referred to a standing
+committee other than the Committee on House and Governmental Affairs under the
+provisions of Rule 6.5, if reported, shall be reported in accordance with the requirements of
+Rule 6.11(A).  However, after such report, any such House instrument ordered engrossed,
+immediately following the engrossment order, and any such Senate instrument reported
+favorably or with amendments, immediately following the reading of such report and action
+on any amendments reported, shall be recommitted by the Speaker to the Committee on
+House and Governmental Affairs.
+Mason's Manual:  Sec. 620
+HR 3, 1975; HR 6, 1977; HR 12, 1977; HR 13, 1977; HR 4, 1978; HR 18, 1979; HR
+6, 1981; HR 23, 1981; HR 7, 1984; HR 18, 1985; HR 10, 1st Ex. Sess., 1986; HR 2, 1998;
+HR 25, 2001; HR 73, 2003; HR 36, 2007, eff. June 22, 2007; HR 42, 2010, eff. April 26,
+2010, until Jan. 9, 2012; HR 37, 2011, eff. June 8, 2011; HR 59, 2012; HR 6, 2013, eff. May
+30, 2013; HR 31, 2013, eff. June 6, 2013 and Jan. 11, 2016.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113341</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

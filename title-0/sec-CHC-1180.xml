@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1180"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1180"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1180"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1180/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1180/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1180/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1180/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1180">
+        <num>CHC 1180</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1180__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A proceeding for the adoption of a child may be commenced in either:</p>
+          </content>
+          <paragraph eId="CHC-1180__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The juvenile court in the parish of the domicile of the petitioner.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1180__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The juvenile court in the parish of the domicile of the custodian of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1180__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The juvenile court in the parish in which a voluntary act of surrender has been executed with respect to the child to be adopted.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1180__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The juvenile court in which the child has been adjudicated a child in need of care or in which the child in need of care proceeding is pending.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1180__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The juvenile court which previously terminated parental rights of a parent with respect to the child to be adopted.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1180__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An attorney at law named as representative of the prospective adoptive parent shall not be deemed the legal custodian of the child for purposes of proper jurisdiction or venue.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1180__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon filing of the act of voluntary surrender approved by the court according to Article 1131(C), the court of competent venue and jurisdiction wherein the surrender is filed shall have exclusive, original jurisdiction over all issues of custody and adoption of the child during the pendency of the proceedings, unless the child is in the custody of the Department of Children and Family Services.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72652</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

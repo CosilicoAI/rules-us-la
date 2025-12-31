@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1605"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1605"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1605"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1605/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1605/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1605/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1605/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1605">
+        <num>CHC 1605</num>
+        <heading>1605.  Adoption assistance</heading>
+        <subsection eId="CHC-1605__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Each state shall determine the amounts of adoption assistance and other aid which it will give to children with special needs and their adoptive parents in accordance with its own laws and programs.  The adoption assistance and other aid may be made subject to periodic reevaluation of eligibility by the adoption assistance state in accordance with its laws.  The provisions of this Article and of Article 1606 are subject to the limitation set forth in this Paragraph.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1605__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The adoption assistance and medical assistance services and benefits to which this compact applies are those provided to children with special needs and their adoptive parents from the time of the final decree of adoption or the interlocutory decree of adoption, as the case may be, pursuant to the laws of the adoption assistance state.  In addition to the content required by subsequent provisions of this Article for adoption assistance agreements, each such agreement shall state whether the initial adoption assistance period thereunder begins with the final or interlocutory decree of adoption.  Aid provided by party states to children with special needs during the preadoptive placement period or earlier shall be under the foster care or other programs of the states and, except as provided in Paragraph C of this Article, shall not be governed by the provisions of this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1605__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Every case of adoption assistance shall include an adoption assistance agreement between the adoptive parents and the agency of the state undertaking to provide the adoption assistance.  Every such agreement shall contain provisions for the fixing of actual or potential interstate aspects of the adoption assistance as follows:</p>
+          </content>
+          <paragraph eId="CHC-1605__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An express commitment that the adoption assistance shall be payable without regard for the state of residence of the adoptive parents, both at the outset of the agreement period and at all times during its continuance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1605__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A provision setting forth with particularity the types of child care and services toward which the adoption assistance state will make payments.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1605__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A commitment to make medical assistance available to the child in accordance with Article 1606.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1605__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>An express declaration that the agreement is for the benefit of the child, the adoptive parents, and that state and that it is enforceable by any or all of them.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1605__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Any services or benefits provided by the residence state and the adoption assistance state for a child may be facilitated by the party states on each other's behalf.  To this end, the personnel of the child welfare agencies of the party states will assist each other and beneficiaries of adoption assistance agreements with other party states in implementing benefits expressly included in adoption assistance agreements.  However, it is recognized and agreed that, in general, children to whom adoption assistance agreements apply are eligible for benefits under the child welfare, education, rehabilitation, mental health, and other programs of their state of residence on the same basis as other resident children.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1605__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Adoption assistance payments, when made on behalf of a child in another state, shall be made on the same basis and in the same amounts as they would be made if the child were in the state making the payments.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73039</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

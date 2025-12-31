@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-123"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-123"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 123"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-123/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-123/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-123/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-123/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-123">
+        <num>CCP 123</num>
+        <heading>123.  Forum non conveniens</heading>
+        <subsection eId="CCP-123__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon the contradictory motion of any defendant in a civil case filed in a district court of this state in which a claim or cause of action is predicated upon acts or omissions originating outside the territorial boundaries of this state, when it is shown that there exists a more appropriate forum outside of this state, taking into account the location where the acts giving rise to the action occurred, the convenience of the parties and witnesses, and the interest of justice, the court may dismiss the suit without prejudice; however, no suit in which the plaintiff is domiciled in this state, and which is brought in a court which is otherwise a court of competent jurisdiction and proper venue, shall be dismissed pursuant to this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-123__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In the interest of justice, and before the rendition of the judgment of dismissal, the court shall require the defendant or defendants to file with the court a waiver of any defense based upon prescription that has matured since the commencement of the action in Louisiana, provided that a suit on the same cause of action or on any cause of action arising out of the same transaction or occurrence is commenced in a court of competent jurisdiction in an appropriate foreign forum within sixty days from the rendition of the judgment of dismissal.  Such waiver shall be null and of no effect if such suit is not filed within this sixty-day period.  The court may further condition the judgment of dismissal to allow for reinstatement of the same cause of action in the same forum in the event a suit on the same cause of action or on any cause of action arising out of the same transaction or occurrence is commenced in an appropriate foreign forum within sixty days after the rendition of the judgment of dismissal and such foreign forum is unable to assume jurisdiction over the parties or does not recognize such cause of action or any cause of action arising out of the same transaction or occurrence.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111152</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

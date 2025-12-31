@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1548"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1548"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1548"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1548/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1548/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1548/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1548/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1548">
+        <num>CHC 1548</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1548__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall hear a request for authorization for a minor to marry in chambers.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1548__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The judge shall require that both the prospective husband and prospective wife
+be present for the hearing and there shall be a separate in camera interview of the prospective
+spouses.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1548__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In determining the best interest of the minor prospective spouse, the court shall
+consider all of the following:</p>
+          </content>
+          <paragraph eId="CHC-1548__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Pregnancy of the prospective wife.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the prospective spouses are already living together.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Housing and living conditions prior to the prospective marriage and where the
+prospective spouses intend to live after the marriage.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The ages of the prospective spouses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The age differential between the prospective spouses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_C__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>How the prospective spouses came to know each other.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_C__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The stated reasons why each of the prospective spouses desires to marry one
+another.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_C__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Consent of mother, father, or person having legal custody of the minor.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1548__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The judge may require evidence of proof of residency, educational attainment,
+juvenile offense history, or criminal history to be produced.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1548__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The judge shall conduct an inquiry to determine if there exists any evidence that
+the minor is a victim of human trafficking, sexual assault, domestic violence, coercion,
+duress, or undue influence. In conducting the inquiry, the judge shall ask all of the following
+questions:</p>
+          </content>
+          <paragraph eId="CHC-1548__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Whether one prospective spouse is in a position of authority over the other
+prospective spouse.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Previous marriage or marriages of either of the prospective spouses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Residency and length of residency of the prospective spouses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>How long the prospective spouses have known each other.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Length of relationship between the prospective spouses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Any evidence of kidnaping, sexual assault, or domestic violence between the
+prospective spouses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Whether one of the prospective spouses was the victim of a sexual offense
+committed by the other prospective spouse.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Evidence of domestic violence, spousal abuse, or sexual offenses committed by
+either of the prospective spouses upon anyone.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Criminal history of the prospective spouses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Whether either prospective husband or wife provided or promised a third party
+anything of value in exchange for the marriage.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Evidence of maturity and self-sufficiency of the prospective spouses through
+educational attainment or employment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Evidence of at least eight hours of premarital counseling from the prospective
+spouses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1548__subsec_E__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Any history of any medical condition or chemical dependency of either of the
+prospective spouses.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1548__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If the judge finds any evidence of human trafficking, sexual assault, domestic
+violence, coercion, or undue influence, he shall immediately report it to local law
+enforcement or child protective services, and shall not authorize the marriage.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73006</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1409"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1409"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1409"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1409/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1409/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1409/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1409/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1409">
+        <num>CHC 1409</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1409__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Each minor patient has a right to care provided in a dignified and humane manner,
+and to such privacy as is possible consistent with the minor's treatment plan.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The confinement of a minor to an institution shall not of itself cause him to lose
+any of the rights enjoyed by citizens of Louisiana and of the United States.  No minor patient
+shall be deprived of these rights except when the determination is made by an appropriate
+court.
+C.</p>
+          </content>
+          <paragraph eId="CHC-1409__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The minor patient in a treatment facility shall be permitted unimpeded, private,
+and uncensored communication with persons of his choice by mail, telephone, and visitation. 
+These rights may be restricted by the director of the treatment facility if sufficient cause
+exists and is so documented in the minor's medical records.  The minor's legal counsel, as
+well as his next of kin or responsible party, must be notified in writing of any such
+restrictions and the reasons therefor.  When the cause for any restriction ceases to exist, the
+minor's full rights shall be reinstated.  A minor shall have the right to communicate in any
+manner in private with his attorney at all times.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The director of a treatment facility shall ensure that correspondence can be
+conveniently received and mailed, that telephones are reasonably accessible, and that space
+for visits is available.  Writing materials, postage, and telephone usage funds shall be
+provided in reasonable amounts to minor patients who are unable to procure such items.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Reasonable times and places for the use of telephones and for visits may be
+established in writing by the director of any treatment facility.  However, the times and
+places established by the director must allow patients, at a minimum, reasonable daily
+communication by telephone and visitation.  These rights may be restricted by the director
+of the treatment facility if sufficient cause exists and is so documented in the patient's
+medical records.  The patient's legal counsel, as well as his next of kin or responsible party,
+must be notified in writing of any such restrictions and the reasons therefor.  When the cause
+for any restriction ceases to exist, the patient's full rights shall be reinstated.
+(4)</p>
+            </content>
+            <subparagraph eId="CHC-1409__subsec_B__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director of any substance abuse treatment facility may restrict the
+visitation rights of a minor who is voluntarily admitted to such treatment facility for
+substance abuse treatment under provisions of this Title for the initial phase of treatment but
+no longer than seven days unless good cause exists to extend the restriction and is so
+documented in the patient's record.  This restriction shall not apply to visitation by the
+minor's attorney, or if he is not represented by counsel, the MHAS attorney or the minor's
+minister.  This restriction shall also not apply to the parent or legal guardian of a minor
+unless the director determines that good cause exists that such restriction shall be in the best
+interests of the minor and is so documented in the minor's record.  When the facility director
+determines the need to restrict visitation of new minor patients, he shall post notice of such
+restriction in places prominent to all new admissions, and shall inform each new patient of
+the restriction prior to his admission and the length and duration thereof, and further that
+such restriction may be extended on an individual basis as determined to be in the minor's
+interest by the treatment staff with the concurrence of the medical director.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1409__subsec_B__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing herein shall be construed to further restrict other forms of patient
+communication by and to minor patients as permitted in this Article nor shall this restriction
+apply to mental health treatment facilities.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Physical restraints or seclusion shall only be used to prevent a minor patient from
+physically injuring himself or others.  Physical restraints or seclusion may not be used to
+punish or discipline a patient or used as a convenience to the staff of the treatment facility. 
+Restraint and seclusion shall be used only in accordance with the following standards:</p>
+          </content>
+          <paragraph eId="CHC-1409__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Restraint or seclusion shall only be used when verbal intervention or less
+restrictive measures fail.  Use of restraint or seclusion shall require documentation in the
+patient's record of the clinical justification for such use as well as the inadequacy of less
+restrictive intervention techniques.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A written order from a physician or a psychologist acting within the scope of his
+institutional privileges shall be required for any use of restraint or seclusion.  If, however, no
+physician or psychologist is immediately available, a registered nurse who has been trained
+in management of disturbed behavior may utilize restraint or seclusion.  The nurse or the
+nursing supervisor shall then immediately notify a physician or a psychologist with
+institutional authority to order seclusion and provide him with sufficient information to
+determine whether restraints or seclusion are necessary and whether less restrictive
+interventions have been tried or considered.  The physician or psychologist may then issue
+a telephone order for seclusion or restraint, if such order is indicated.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Written orders for the use of restraint or seclusion shall be time limited and not
+more than twelve hours in duration.  The written order shall include the date and time of the
+actual examination of the patient, the date and time that the patient was placed in restraint
+or seclusion, and the date and time that the order was signed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A renewal order for up to twelve hours of restraint or seclusion may be issued by
+a physician or a psychologist with institutional authority to order seclusion or restraint after
+determining that there is no less restrictive means of preventing injury to the patient or
+others. If any patient is held in restraint or seclusion for twenty-four hours, the physician or
+psychologist with institutional authority shall conduct an actual examination of the patient
+and document the reason why the use of seclusion or restraint beyond twenty-four hours is
+necessary, and the parent, tutor, or caretaker shall be notified by the twenty-sixth hour.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_D__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Staff who implement written orders for restraints and seclusion shall have
+documented training in the proper use of the procedure for which the order was written.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_D__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Periodic monitoring and care of the patient shall be provided by responsible staff. 
+A patient in restraint or seclusion shall be evaluated every fifteen minutes, especially in
+regard to regular meals, water, and snacks, bathing, the need for motion and exercise, and use
+of the bathroom, and documentation of these evaluations shall be entered in the patient's
+record.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_D__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Patients shall be released from restraint or seclusion as soon as the reasons
+justifying the use of restraints or seclusion subside.  If at any time during the period of
+restraint or seclusion a registered nurse determines that the emergency which justified the
+seclusion or restraint has subsided and a physician or psychologist is not immediately
+available, the patient shall be released.  At the end of the period of restraint or seclusion
+ordered by the physician or psychologist the patient shall be released unless a renewal order
+is issued.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_D__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Mechanical restraints shall be designed and used so as not to cause physical
+injury to the patient and so as to cause the least possible discomfort.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_D__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Facilities using seclusion or restraint shall have written policies concerning their
+use.  These policies shall include standards and procedures for placing a patient in seclusion
+or restraint, and for informing him of the reason he was put in seclusion or restraint and the
+means of terminating such seclusion or restraint.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_D__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Nothing in this Article shall be construed to expand the scope of practice of
+psychology as defined in R.S. 37:2351 et seq. to authorize the ordering, administering, or
+dispensing of medications, or to authorize any practice not permitted under the privileges
+granted by the institution.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_D__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>The department shall adopt rules and regulations in accordance with the
+Administrative Procedure Act to govern the use of seclusion and restraint.  Such rules and
+regulations shall respect the minor patient's individual rights, protect the minor patient's
+health, safety, and welfare, and be the least restrictive of the minor patient's liberty.  The
+department shall adopt rules and regulations to provide for enforcement procedures and
+penalties applicable to a person who violates the requirements of this Section.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A patient may be placed alone in a room or other area pursuant to behavior
+shaping techniques such as &quot;time-out&quot;.  Such placement may only be used as part of a written
+treatment plan, shall not be used for the convenience of staff, and may be used only
+according to the following standards and procedures:</p>
+          </content>
+          <paragraph eId="CHC-1409__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Placement alone in a room or other area shall be imposed only when less
+restrictive measures are inadequate.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Placement alone in a room or other area shall only be ordered by a qualified
+professional trained in behavior-shaping techniques and authorized in accordance with
+written policies and procedures of the facility to order the use of behavior-shaping
+techniques.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The period of placement alone in a room or other area shall not exceed thirty
+minutes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The patient shall be observed and supervised by a staff member.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_E__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The period of placement alone in a room or other area shall not exceed a total of
+three hours in any twenty-four hour time period.  If the placement alone in a room or other
+area exceeds a total of three hours in any twenty-four hour time period, it shall then be
+considered seclusion and shall be governed by the procedures and standards set forth in
+Paragraph D of this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_E__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The date, time, and duration of the placement shall be documented.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_E__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>In treatment facilities where patients are placed alone in a room or other area as
+a behavior-shaping technique, there shall be written policies and procedures governing use
+of such behavior-shaping technique.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>No minor patient confined by emergency certificate, judicial commitment, court
+order, or noncontested status shall receive major surgical procedures or electroshock therapy
+without the written consent of a court of competent jurisdiction after a hearing.  However,
+if the director of the treatment facility, in consultation with two physicians, determines that
+the condition of the minor is of such a critical nature that it may be life-threatening unless
+major surgical procedures or electroshock therapy are administered, such emergency
+measures may be performed without the consent otherwise provided for in this Paragraph. 
+No physician shall be liable for a good faith determination that a medical emergency exists.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Every minor patient shall have the right to wear his own clothes and keep and use
+his personal possessions, including toilet articles, unless determined by a physician that these
+are medically inappropriate and the reasons therefor are documented in his medical record. 
+The minor shall also be allowed to spend a reasonable sum of his own money for canteen
+expenses and small purchases, and to have access to individual storage spaces for his private
+use.  If the minor is financially unable to provide these articles for himself, the treatment
+facility shall provide a reasonable supply of clothing and toiletries.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>The following rules shall govern performance of work by minor patients:</p>
+          </content>
+          <paragraph eId="CHC-1409__subsec_H__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>No minor shall be required to perform work of any kind that involves the
+operation and maintenance of an institution, nor shall privileges or release from an institution
+be conditioned upon performance of any work, except as follows:</p>
+            </content>
+            <subparagraph eId="CHC-1409__subsec_H__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A minor patient may be required to perform vocational training tasks, provided
+each task is:</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1409__subsec_H__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Part of the minor's individual treatment plan and has been approved as a program
+activity by a professional responsible for supervising the program.
+(ii)  Supervised by a qualified professional.
+(iii)  Not continued for longer than six months, unless it is specifically reinstated by
+the minor's treatment plan.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1409__subsec_H__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A minor patient may be required to perform without compensation such
+housekeeping tasks as would be performed by a minor in a natural home, foster home, or
+group home, provided that nothing in the minor's individual treatment plan forbids such
+work.  In no case, however, may a minor be required to perform housekeeping tasks for more
+than twelve other people.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_H__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A minor may voluntarily engage in work during nonprogram hours, provided
+that:</p>
+            </content>
+            <subparagraph eId="CHC-1409__subsec_H__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The minor's individual treatment plan does not forbid it.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1409__subsec_H__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The particular work has been approved by the qualified professional responsible
+for supervising the implementation of the minor treatment plan.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1409__subsec_H__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The particular work is supervised by qualified staff.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1409__subsec_H__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The conditions of employment and the compensation are in full compliance with
+all applicable federal laws.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1409__subsec_H__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>No minor patient shall be involved in the care, feeding, clothing, training, or
+supervision of other minors unless the qualified professional responsible for supervising the
+implementation of the treatment plan certifies in writing in the minor's record that the
+particular task will not in any way endanger the life or health or be detrimental to the
+development of the particular children who receive such care or of the minor patient
+providing it.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>Under appropriate supervision, each minor patient shall be provided with suitable
+opportunities for interaction with members of the opposite sex, except where a qualified
+professional responsible for the formulation of a particular minor's treatment plan writes an
+order to the contrary and explains the reasons therefor.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>Every minor patient shall have the right to be discharged from a treatment facility
+when his condition has changed or improved to the extent that confinement and treatment
+at the treatment facility are no longer required.  The director of the treatment facility shall
+have the authority to discharge a patient admitted by judicial commitment pursuant to
+Chapter 9 of this Title without the approval of the court which committed him to the
+treatment facility.  The court shall be advised of any such discharge.  The director shall not
+be legally responsible to any person for the subsequent acts of behavior of a patient
+discharged by him in good faith.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_K">
+          <num>K.</num>
+          <content>
+            <p>Every minor patient shall have the right to engage a private attorney.  If the minor
+is indigent, he shall be provided an attorney by the MHAS, if he so requests.  The attorneys
+provided by the MHAS or appointed by a court shall be interested in and qualified by
+training or experience, or both, in the field of mental health statutes and jurisprudence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_L">
+          <num>L.</num>
+          <content>
+            <p>Every minor patient shall have the right to request a court hearing pursuant to
+Article 1411.  The purpose of the hearing shall be to determine whether or not he should be
+discharged from the treatment facility or transferred to a less restrictive and medically
+suitable treatment facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_M">
+          <num>M.</num>
+          <content>
+            <p>No provision hereof shall abridge or diminish the right of any minor patient to
+avail himself of the right of habeas corpus at any time.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_N">
+          <num>N.</num>
+          <content>
+            <p>Every minor patient shall have the right to be visited and examined at his own
+expense by a physician designated by him, a member of his family, or an interested party. 
+The physician may consult and confer with the medical staff of the treatment facility and
+have the benefit of all information contained in the patient's medical record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_O">
+          <num>O.</num>
+          <content>
+            <p>Prefrontal lobotomy shall be prohibited as a treatment solely for medical or
+emotional illness of a minor patient.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_P">
+          <num>P.</num>
+          <content>
+            <p>No medication shall be administered to a minor patient unless a written order of
+a physician prescribes it in writing.  The physician is responsible for all medications which
+he has ordered and which are administered to a minor patient.  The medication prescribed
+shall be noted in the minor patient's records.  At least monthly, the attending physician shall
+review the drug regimen of each minor patient under his care.  All prescriptions shall be
+written with a termination date, which shall not exceed thirty days.  The minor's records shall
+state the effects of psychoactive medication on him.  Unnecessary or excessive medication
+shall not be administered to any minor patient.  Medication shall not be used as punishment,
+for the convenience of staff, as a substitute for a treatment program, or in quantities that
+interfere with the minor's treatment program.  No medication shall be administered except
+by persons who have been appropriately trained.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_Q">
+          <num>Q.</num>
+          <content>
+            <p>A minor patient admitted to a treatment facility has the right to an individualized
+treatment plan and periodic review to determine his progress.  The appropriate staff of the
+facility shall review the minor's progress at least at intervals of thirty days.  The staff shall
+enter into the minor's medical record his response to medical treatment, his current mental
+status, and specific reasons why continued treatment is necessary in the current setting or
+whether a treatment facility is available which is medically suitable and less restrictive of the
+minor patient's liberty.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_R">
+          <num>R.</num>
+          <content>
+            <p>A minor patient admitted to a treatment facility has the right to have available
+such treatment as is medically appropriate to his condition.  Should the treatment facility be
+unable to provide an active and appropriate medical treatment program, the minor shall be
+discharged.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_S">
+          <num>S.</num>
+          <content>
+            <p>Each minor patient shall have the right to receive prompt and adequate medical
+treatment for any physical ailments and for the prevention of any illness or disability.  Such
+medical treatment shall meet the standards of medical practice in the community.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1409__subsec_T">
+          <num>T.</num>
+          <content>
+            <p>The institution shall prohibit the mistreatment, neglect, or abuse of any child in
+any way.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72905</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

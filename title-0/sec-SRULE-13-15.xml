@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-15"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-15"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 13.15"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-15/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-15/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-15/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-15/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-13-15">
+        <num>SRULE 13.15</num>
+        <heading>Section </heading>
+        <content>
+          <p>Rule 13.15. Standing committees; subpoena power, punishment for contempt
+Each standing committee established by Rule 13.1 and each joint committee
+established pursuant to the authority granted in Rule 13.12, and any subcommittee of
+either, is hereby specifically and expressly granted the power and authority, with the
+written approval of the President, to hold hearings, subpoena witnesses, administer oaths,
+require the production of books and records, and to do all other things necessary to
+accomplish the purposes of the study, hearing, or investigation assigned to it by the
+Senate or by the legislature or by a majority of the members of the committee. However, a
+subpoena or a subpoena duces tecum shall issue only upon the approval of a majority of
+all the members of the standing committee and of the President, authorizing the
+committee to issue the subpoena or subpoena duces tecum. In the event a subpoena or
+subpoena duces tecum is not honored, the standing committee or joint committee also
+shall have the power to punish for contempt and to provide for the prosecution of any
+individual for refusal to testify, false swearing, or perjury before the committee or
+subcommittee in accordance with law.
+Amended by SR 4 of 2025 RS, eff. May 14, 2025.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180405</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

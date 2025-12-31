@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-702"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-702"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 702"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-702/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-702/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-702/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-702/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-702">
+        <num>CE 702</num>
+        <heading>702.  Testimony by experts</heading>
+        <subsection eId="CE-702__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A witness who is qualified as an expert by knowledge, skill, experience, training,
+or education may testify in the form of an opinion or otherwise if the proponent demonstrates
+to the court that it is more likely than not that:</p>
+          </content>
+          <paragraph eId="CE-702__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The expert's scientific, technical, or other specialized knowledge will help the
+trier of fact to understand the evidence or to determine a fact in issue;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-702__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The testimony is based on sufficient facts or data;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-702__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The testimony is the product of reliable principles and methods; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-702__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The  expert's opinion reflects a reliable application of the principles and methods
+to the facts of the case.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-702__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>This Article shall also govern expert witnesses on the issue of memory and
+eyewitness identification.  In a criminal case, if a party seeks to offer the testimony of a
+memory and eyewitness identification expert under this Article, such expert testimony may
+be considered for admission only if all provisions of Paragraph A of this Article are satisfied. 
+A memory and eyewitness identification expert's testimony may not be admitted under this
+Article if there is physical or scientific evidence that corroborates the eyewitness
+identification of the defendant.  An expert's testimony admitted under this Paragraph shall
+not offer an opinion as to whether a witness's memory or eyewitness identification is
+accurate.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72506</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

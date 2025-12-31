@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-814"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-814"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 814"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-814/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-814/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-814/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-814/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-814">
+        <num>CCRP 814</num>
+        <heading>814.  Responsive verdicts; in particular</heading>
+        <subsection eId="CCRP-814__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The only responsive verdicts which may be rendered when the indictment charges
+the following offenses are:
+1.  First Degree Murder:
+Guilty.
+Guilty of second degree murder.
+Guilty of manslaughter.
+Not guilty.
+2.  Attempted First Degree Murder:
+Guilty.
+Guilty of attempted second degree murder.
+Guilty of attempted manslaughter.
+Guilty of aggravated battery.
+Guilty of aggravated assault with a firearm.
+Not guilty.
+3.  Second Degree Murder:
+Guilty.
+Guilty of manslaughter.
+Guilty of negligent homicide.
+Not guilty.
+4.  Attempted Second Degree Murder:
+Guilty.
+Guilty of attempted manslaughter.
+Guilty of aggravated battery.
+Guilty of aggravated assault with a firearm.
+Not guilty.
+5.  Manslaughter:
+Guilty.
+Guilty of negligent homicide.
+Not guilty.
+6.  Attempted Manslaughter:
+Guilty.
+Guilty of aggravated battery.
+Not guilty.
+7.  Negligent Homicide:
+Guilty.
+Not guilty.
+8.  Vehicular homicide:
+Guilty.
+Guilty of negligent homicide.
+Not guilty.
+9.  Vehicular negligent injuring:
+Guilty.
+Guilty of negligent injuring.
+Guilty of operating a vehicle while intoxicated.
+Not guilty.
+10.  First degree vehicular negligent injuring:
+Guilty.
+Guilty of vehicular negligent injuring.
+Guilty of negligent injuring.
+Guilty of operating a vehicle while intoxicated.
+Not guilty.
+11.  First degree rape (formerly titled aggravated rape):
+Guilty.
+Guilty of attempted first degree rape.
+Guilty of second degree rape.
+Guilty of attempted second degree rape.
+Guilty of sexual battery.
+Guilty of third degree rape.
+Guilty of attempted third degree rape.
+Guilty of oral sexual battery.
+Not guilty.
+12.  First degree rape (formerly titled aggravated rape) of a child under the age of
+thirteen:
+Guilty.
+Guilty of attempted first degree rape.
+Guilty of second degree rape.
+Guilty of attempted second degree rape.
+Guilty of third degree rape.
+Guilty of attempted third degree rape.
+Guilty of sexual battery of a child under the age of thirteen.
+Guilty of attempted sexual battery of a child under the age of thirteen.
+Guilty </p>
+          </content>
+          <paragraph eId="CCRP-814__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Paragraph A of this Article, responsive verdicts in any
+other cases arising under the Uniform Controlled Dangerous Substances Law shall be
+governed by Article 815 of this Code.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-814__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For purposes of this Article and Article 815, for any offense arising under the
+Uniform Controlled Dangerous Substances Law that is graded according to the weight of the
+substance, the responsive verdicts shall include grades of the offense that are based upon
+lesser weights than the weight of the substance that is charged in the indictment.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-814__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon motion of the state or the defendant, or on its own motion, the court shall
+exclude a responsive verdict listed in Paragraph A if, after all the evidence has been
+submitted, the evidence, viewed in a light most favorable to the state, is not sufficient
+reasonably to permit a finding of guilty of the responsive offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-814__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Where an offense is graded according to property value or amount of damage, the
+responsive verdicts shall not include a grade of the offense that is greater than the property
+value or amount of damage charged in the indictment.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112812</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1433"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1433"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1433"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1433/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1433/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1433/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1433/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1433">
+        <num>CHC 1433</num>
+        <heading>1433.  Protective custody without court order</heading>
+        <subsection eId="CHC-1433__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A peace officer or a peace officer accompanied by an emergency medical service
+trained technician may take a minor into protective custody and transport him to a treatment
+facility for a medical evaluation when, as a result of his personal observation, the peace
+officer or emergency medical service technician has reasonable grounds to believe the minor
+is a proper subject for involuntary admission to a treatment facility because he is acting in
+a manner dangerous to himself or dangerous to others, is gravely disabled, and is in need of
+immediate hospitalization to protect the minor or others from physical harm.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1433__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The minor may only be transported to one of the following:</p>
+          </content>
+          <paragraph eId="CHC-1433__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A community mental health center.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1433__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A public or private general hospital.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1433__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A public or private mental hospital.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1433__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A detoxification center.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1433__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A substance abuse clinic.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1433__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A substance abuse inpatient facility.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1433__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon arrival at the treatment facility, the escorting peace officer shall then be
+relieved of any further responsibility and the minor shall be immediately examined by a
+physician, preferably a psychiatrist, who shall determine if the minor shall be voluntarily
+admitted, admitted by emergency certificate, or discharged.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1433__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In the case of a minor suffering from substance abuse and where any of the
+facilities stated in Paragraph B of this Article are unavailable, the peace officer and
+emergency medical service technician may use whatever means or facilities available to
+protect the health and safety of the minor suffering from substance abuse until such time as
+any of the above facilities become available.  In taking a minor into protective custody, the
+peace officer and emergency medical service technician may take reasonable steps to protect
+themselves.  A peace officer or emergency medical service technician who acts in
+compliance with this Article is acting in the course of his official duty and cannot be
+subjected to criminal or civil liability as a result thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1433__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Under the provisions of this Article no minor shall be placed in protective custody
+for a period in excess of seventy-two hours.  Any minor placed in protective custody under
+the provisions of this Article shall be considered as an inmate for maintenance purposes only.
+F.</p>
+          </content>
+          <paragraph eId="CHC-1433__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any person removing a minor from a school pursuant to this Article shall
+provide the following information about the minor to a school administrator:</p>
+            </content>
+            <subparagraph eId="CHC-1433__subsec_E__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>First and last name.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1433__subsec_E__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Address.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1433__subsec_E__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Date of birth.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1433__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The provisions of this Paragraph shall not apply to an arrest for which there is
+probable cause.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72929</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

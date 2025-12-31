@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-934"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-934"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 934"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-934/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-934/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-934/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-934/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-934">
+        <num>CCRP 934</num>
+        <heading>934.  Miscellaneous definitions</heading>
+        <subsection eId="CCRP-934__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Act&quot; includes a failure or omission to perform a legal duty.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;City&quot; means a city, town, village, or other municipality.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Convicted&quot; means adjudicated guilty after a plea or after trial on the merits.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Defendant&quot; means a person who has been charged with or accused of an offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;District Attorney&quot; includes an assistant district attorney, and where the prosecution is in a city court, includes the prosecuting officer of that court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Indictment&quot; includes information and affidavit, unless it is the clear intent to restrict that word to the finding of a grand jury.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Institution of prosecution&quot; means the finding of an indictment, or the filing of an information, or affidavit, which is designed to serve as the basis of a trial.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Oath&quot; includes affirmation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Person&quot; includes an individual, partnership, unincorporated association of individuals, joint stock company, or corporation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;State&quot; includes a city or other political subdivision of the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Statute&quot; and &quot;criminal law&quot; mean a criminal statute, a constitutional provision, or an ordinance of a city or other political subdivision of the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-934__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Trial on the merits&quot; means trial on the issue of guilt or innocence.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112953</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-914-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-914-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 914.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-914-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-914-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-914-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-914-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-914-1">
+        <num>CCRP 914.1</num>
+        <heading>914.1.  Designation of record; payment of costs; sanction</heading>
+        <subsection eId="CCRP-914-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The party making the motion for appeal shall, at the time the motion is made, request the transcript of that portion of the proceedings necessary, in light of the assignment of errors to be urged.  Not later than five days after the motion, the opposing party may designate in writing the transcript of that portion or portions of the proceedings necessary to oppose the appeal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-914-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A transcript of any portion of the proceedings which does not relate to anticipated assignment of errors shall not be furnished to a party for purposes of appeal and shall not result in delay of preparation of the appeal record.
+C.</p>
+          </content>
+          <paragraph eId="CCRP-914-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An attorney who requests a transcript in accordance with this Article must certify there are good grounds for such request in light of the assignment of errors to be urged.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-914-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except in indigent cases, the costs for preparing the transcript must be paid to the court reporter or the appropriate agency and the costs as required for filing the appeal must be paid in the appellate court, both within twenty days of the mailing of notice, including the payment of any additional costs owed upon notice.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-914-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Where applicable, if the appellant or appellant's counsel fails to pay the estimated cost for preparing the record including the transcript within the time specified, the trial judge, on his own motion or upon motion by the clerk or by any party, and after a hearing, may do one of the following:</p>
+            </content>
+            <subparagraph eId="CCRP-914-1__subsec_B__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Extend the time within which the costs may be paid not to exceed thirty days with or without penalty to the appellant or his attorney.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-914-1__subsec_B__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Impose a fine not to exceed five hundred dollars upon the appellant or his attorney, or both.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-914-1__subsec_B__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Dismiss the appeal.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-914-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The trial court or the appellate court may designate additional portions of the transcript of the proceedings which it feels are necessary for full and fair review of the assignment of errors.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112921</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

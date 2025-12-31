@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-9"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-9"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 6.9"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-9/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-9/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-9/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-9/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-6-9">
+        <num>HRULE 6.9</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-6-9__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>No legislative instrument shall be reported by a committee unless an open, public hearing on the instrument has first been held by the committee with due notice given and opportunity provided for interested persons to appear to testify for or against the proposal.  A majority of a quorum of the committee must have voted to report the measure at a meeting of the committee.  No committee shall report a measure to the House of Representatives pursuant to a procedure, referred to as a &quot;round robin,&quot; whereby a legislative instrument is reported by a committee when a majority of the members of the committee sign a petition to report it to the House of Representatives or pursuant to any similar procedure.  The House of Representatives shall not receive a committee report on any measure which is made pursuant to such a procedure.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-9__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The main motion on the consideration of any instrument referred to a standing committee shall be to report the same in one of the manners set forth by House Rule 6.11(A)</p>
+          </content>
+          <paragraph eId="HRULE-6-9__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or to defer or postpone action.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-9__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>No bill shall be reported unless one of such reports enumerated in House Rule 6.11(A)</p>
+          </content>
+          <paragraph eId="HRULE-6-9__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>shall have been affirmatively adopted by a majority of a quorum present and voting.  The failure of the committee to adopt any enumerated report shall not imply the adoption of the negative report or any other report, which to be adopted shall be directly put to and adopted by the committee.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-9__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A list of legislative instruments which are involuntarily deferred under House Rule 6.10(B)</p>
+          </content>
+          <paragraph eId="HRULE-6-9__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>shall be attached to the committee report required in House Rule 6.11 for the meeting at which such action occurred.
+Mason's Manual:  Sec. 365-374, 510, 630, and 663-667
+HR 3, 1973; HR 6, 1978; HR 61, 1997, eff. May 29, 1997.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113342</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

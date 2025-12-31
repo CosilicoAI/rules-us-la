@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-104"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-104"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 104"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-104/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-104/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-104/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-104/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-104">
+        <num>CE 104</num>
+        <heading>104.  Preliminary questions</heading>
+        <subsection eId="CE-104__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Questions of admissibility generally.  Preliminary questions concerning the competency or qualification of a person to be a witness, the existence of a privilege, or the admissibility of evidence shall be determined by the court, subject to the provisions of Paragraph B.  In making its determination it is not bound by the rules of evidence except those with respect to privileges.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-104__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Relevancy conditioned on fact.  Subject to other provisions of this Code, when the relevancy of evidence depends upon the fulfillment of a condition of fact, the court shall admit it upon, or subject to, the introduction of evidence sufficient to support a finding of the fulfillment of the condition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-104__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Hearing of jury.  Hearings on matters to be decided by the judge alone shall be conducted out of the hearing of the jury when the interests of justice require.  Hearings on the admissibility of confessions or admissions by the accused or evidence allegedly unlawfully obtained shall in all cases be conducted out of the hearing of the jury, but when there has been a ruling prior to trial, it shall not be necessary to conduct another hearing as to admissibility before presentation of the evidence to a jury.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-104__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Weight and credibility.  The preliminary determination by the court that evidence is admissible does not limit the right of a party to introduce evidence relevant to weight or credibility at the trial.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72439</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

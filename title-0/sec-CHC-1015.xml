@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1015"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1015"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1015"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1015/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1015/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1015/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1015/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1015">
+        <num>CHC 1015</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1015__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Conviction of murder of the child's other parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1015__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Unjustified intentional killing of the child's other parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1015__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Misconduct of the parent toward this child or any other child of the parent or any
+other child which constitutes extreme abuse, cruel and inhuman treatment, or grossly
+negligent behavior below a reasonable standard of human decency, including but not limited
+to the conviction, commission, aiding or abetting, attempting, conspiring, or soliciting to
+commit any of the following:</p>
+          </content>
+          <paragraph eId="CHC-1015__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Murder.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Unjustified intentional killing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Aggravated crime against nature as defined by R.S. 14:89.1(A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Rape.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Sodomy.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Torture.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Starvation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>A felony that has resulted in serious bodily injury.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Abuse or neglect which is chronic, life-threatening, or results in gravely disabling
+physical or psychological injury or disfigurement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Abuse or neglect after the child is returned to the parent's care and custody while
+under department supervision, when the child had previously been removed for his safety
+from the parent pursuant to a disposition judgment in a child in need of care proceeding.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>The parent's parental rights to one or more of the child's siblings have been
+terminated due to neglect or abuse, prior attempts to rehabilitate the parent have been
+unsuccessful, and the court has determined pursuant to Article 672.1 that current attempts
+to reunite the family are not required.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>Sexual exploitation or abuse, which shall include but is not limited to acts which
+are prohibited by R.S. 14:43.1, 43.2, 46.3, 80, 81, 81.1, 81.2, 82.1(A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_3__subsec_m">
+            <num>(m)</num>
+            <content>
+              <p>Human trafficking when sentenced pursuant to the provisions of R.S.
+14:46.2(B)</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1015__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or (3).</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1015__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Abandonment of the child by placing him in the physical custody of a nonparent,
+or the department, or by otherwise leaving him under circumstances demonstrating an
+intention to permanently avoid parental responsibility by any of the following:</p>
+          </content>
+          <paragraph eId="CHC-1015__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>For a period of at least four months as of the time of the hearing, despite a
+diligent search, the whereabouts of the child's parent continue to be unknown.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>As of the time the petition is filed, the parent has failed to provide significant
+contributions to the child's care and support for any period of six consecutive months.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>As of the time the petition is filed, the parent has failed to maintain significant
+contact with the child by visiting him or communicating with him for any period of six
+consecutive months.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1015__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Unless sooner permitted by the court, at least one year has elapsed since a child
+was removed from the parent's custody pursuant to a court order; there has been no
+substantial parental compliance with a case plan for services which has been previously filed
+by the department and approved by the court as necessary for the safe return of the child; and
+despite earlier intervention, there is no reasonable expectation of significant improvement
+in the parent's condition or conduct in the near future, considering the child's age and his
+need for a safe, stable, and permanent home.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1015__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The child is in the custody of the department pursuant to a court order or
+placement by the parent; the parent has been convicted and sentenced to a period of
+incarceration of such duration that the parent will not be able to care for the child for an
+extended period of time, considering the child's age and his need for a safe, stable, and
+permanent home; and despite notice by the department, the parent has refused or failed to
+provide a reasonable plan for the appropriate care of the child other than foster care.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1015__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The relinquishment of an infant pursuant to Chapter 13 of Title XI of this Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1015__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The child is in the custody of the department pursuant to a court order for at least
+one year, unless sooner permitted by the court, and the identity of the child's father remains
+unknown and all the following have occurred:</p>
+          </content>
+          <paragraph eId="CHC-1015__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In the course of investigating the case and providing services to the family, the
+department has been unable to learn the identity of the father.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>No party to the proceedings or the mother, if not a party, is able to provide a first
+and last name of a putative father or alias sufficient to provide a reasonable possibility of
+identification and location.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The department has obtained all of the following:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1015__subsec_8__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>A certified copy of the child's birth certificate with no one indicated thereon as
+the father of the child, or the father listed has been determined not to be the biological father
+of the child.
+(ii)  A recent certificate from the putative father registry indicating that no person is
+listed or registered as the child's father.
+(iii)  A recent certificate from the clerk of court in the parish in which the child was
+born indicating that no acknowledgment with respect to this child has been recorded.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72540</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

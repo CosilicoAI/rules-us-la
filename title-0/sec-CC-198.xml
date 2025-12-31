@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-198"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-198"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 198"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-198/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-198/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-198/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-198/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-198">
+        <num>CC 198</num>
+        <heading>198.  Father's action to establish paternity; time period</heading>
+        <content>
+          <p>Art. 198.  Father's action to establish paternity; time period
+A man may institute an action to establish his paternity of a child at any time except as provided in this Article.  The action is strictly personal.
+If the child is presumed to be the child of another man, the action shall be instituted within one year from the day of the birth of the child.  Nevertheless, if the mother in bad faith deceived the father of the child regarding his paternity, the action shall be instituted within one year from the day the father knew or should have known of his paternity, or within ten years from the day of the birth of the child, whichever first occurs.
+In all cases, the action shall be instituted no later than one year from the day of the death of the child.
+The time periods in this Article are peremptive.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109232</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

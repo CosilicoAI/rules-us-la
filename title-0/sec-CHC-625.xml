@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-625"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-625"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 625"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-625/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-625/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-625/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-625/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-625">
+        <num>CHC 625</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-625__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the child is continued in the custody of the state, the court shall advise the
+parents of:</p>
+          </content>
+          <paragraph eId="CHC-625__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The child's need to have a safe and stable relationship with caretakers, either his
+parents or, if necessary, others who are willing and able to assume parental responsibility and
+provide a permanent home, and to have these caretaker decisions made as quickly as
+possible.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Their responsibility to cooperate in preparing a case plan and otherwise in
+meeting the needs of their child, and if their child cannot return home safely, to assist the
+child's adjustment to other caretakers, and their obligation to contribute to the cost of care
+and treatment of their child as provided in Article 685.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Their responsibility to notify the department and their counsel in writing of their
+current whereabouts, including their address, cellular number, telephone number, and any
+other contact information, and that if they fail to do so, the law authorizes hearings to be held
+in their absence.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-625__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon receipt of information regarding a parent's change of address, the
+department and the parent's counsel shall promptly inform the court of the new address.
+D.</p>
+          </content>
+          <paragraph eId="CHC-625__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court shall direct all persons before the court to identify the name, address,
+and whereabouts of each parent and any suitable relative or other suitable individual willing
+and able to offer a stable and safe home for the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court shall advise all persons before the court of their responsibility in
+achieving timely permanency for the child, and further shall direct all such individuals to
+identify the name, address, and whereabouts of all grandparents, all parents of a sibling
+where such parent has legal custody of such sibling, and all other adult relatives of the child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-625__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If at the time of the hearing a petition has been filed, the court may also call upon
+the parent to answer its allegations in accordance with Chapter 9 of this Title.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73218</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

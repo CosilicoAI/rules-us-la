@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-756"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-756"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 756"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-756/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-756/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-756/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-756/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-756">
+        <num>CHC 756</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-756__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If no informal family services plan agreement has been made, the court shall require the child, the child's caretaker, or other family member served with the petition to appear to answer the petition at any time prior to the adjudication hearing but no later than forty-five days after the filing of the petition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-756__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court may also permit the parties to stipulate that the family is in need of services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-756__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the petition is filed prior to or during the hearing to determine continued custody, the court may order any party to answer the petition upon completion of the hearing or permit the entry of a stipulation that the family is in need of services.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73347</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

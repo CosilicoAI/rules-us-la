@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-551"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-551"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 551"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-551/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-551/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-551/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-551/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-551">
+        <num>CCRP 551</num>
+        <heading>ARRAIGNMENT AND PLEAS</heading>
+        <subsection eId="CCRP-551__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The arraignment consists of the reading of the indictment to the defendant by the
+clerk in open court, and the court calling upon the defendant to plead.  Reading of the
+indictment may be waived by the defendant at the discretion and with the permission of the
+court.  The arraignment and the defendant's plea shall be entered in the minutes of the court
+and shall constitute a part of the record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-551__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court may, by local rule, provide for the defendant's appearance at the
+arraignment and the entry of his plea by way of simultaneous transmission through audio-visual electronic equipment.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112606</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

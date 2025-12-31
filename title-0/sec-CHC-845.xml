@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-845"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-845"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 845"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-845/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-845/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-845/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-845/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-845">
+        <num>CHC 845</num>
+        <heading>845.  Contents of petition</heading>
+        <subsection eId="CHC-845__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The petition shall set forth with specificity:</p>
+          </content>
+          <paragraph eId="CHC-845__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name, date, and place of birth, sex, race, address, and present
+location of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-845__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The names and addresses of the parents and spouse, if any, of the child. 
+If the parents are not within the state or cannot be located, the name and address of
+the child's closest adult relative within the state, or, if there be none, the known adult
+relative residing nearest to the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-845__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Facts which show that the child is a delinquent child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-845__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The statute or ordinance which the child is alleged to have violated.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-845__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the information required by Subparagraph (A)</p>
+          </content>
+          <paragraph eId="CHC-845__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-845__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Article
+is unknown, the petition shall so allege.  Any defects in the allegations required by
+Subparagraphs (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-845__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-845__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Article and in the citation of the statute or
+ordinance required by Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-845__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this Article shall be considered defects
+of form.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-845__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Two or more delinquent acts may be charged in the same petition in a
+separate count for each act if the acts charged, whether based upon felony or
+misdemeanor offenses, are of the same or similar character or are based on the same
+act or transaction or on two or more acts or transactions connected together or
+constituting parts of a common scheme or plan.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-845__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The petition shall conclude with a request that the court adjudicate the
+child to be delinquent.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73436</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

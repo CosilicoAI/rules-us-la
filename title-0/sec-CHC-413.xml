@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-413"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-413"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 413"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-413/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-413/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-413/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-413/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-413">
+        <num>CHC 413</num>
+        <heading>413.  Records; intercourt transfer</heading>
+        <subsection eId="CHC-413__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When any court of this state makes a written request, including telegraphic, teletyped or facsimile transmission requests, hereinafter &quot;requesting court&quot;, of any other court, hereinafter &quot;responding court&quot;, for the arrest, disposition, and other records relating to a juvenile currently within the jurisdiction of the requesting court, the responding court shall promptly comply with such requests by depositing the requested information in the mail, addressed to the requesting court, within ten days exclusive of legal holidays.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-413__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Failure to comply with the provisions of this Article shall subject the violating court to disciplinary action by the Supreme Court of Louisiana upon receipt by the judicial administrator of the supreme court of a written complaint, subsequently substantiated, by the requesting court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108420</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

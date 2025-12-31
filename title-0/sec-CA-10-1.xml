@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-10-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-10-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CA 10 1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-10-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-10-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-10-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-10-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CA-10-1">
+        <num>CA 10 1</num>
+        <heading>REVENUE AND TAXATION</heading>
+        <content>
+          <p>ART. X.  REVENUE AND TAXATION
+§1.  Taxing power; specific taxes
+Section 1.  Vesting of power; restrictions; assessments and valuations.
+The power of taxation shall be vested in the Legislature; shall never be
+surrendered, suspended or contracted away; and all taxes shall be uniform
+upon the same class of subjects throughout the territorial limits of the authority
+levying the tax, and shall be levied and collected for public purposes only. No
+property shall be assessed for more than its actual cash value, ascertained as
+directed by law, and all tax-payers shall have the right of testing the
+correctness of their assessments before the courts at the domicile of the
+assessing authority, or as may be directed by law. The valuation and
+classification fixed for state purposes shall be the valuation and classification
+for local purposes; but the taxing authorities of the local subdivision may adopt
+a different percentage of such valuation for purposes of local taxation.
+Income taxes. Equal and uniform taxes may be levied upon net
+incomes, and such taxes may be graduated according to the amount of the net
+income. Public officials shall not be exempted. Reasonable exemptions may
+be allowed.
+Reforestation; valuation agreements; severance tax. For the purpose of
+encouraging the reforestation of denuded lands, contracts fixing the assessed
+valuation of the specific lands for the duration of the agreements, and fixing
+a total severance tax based on the value of forest products when severed, three-fourths of which shall go to the parish where they are severed, and which
+severance tax, for a period not to exceed fifty years from the date of such
+contract, shall be in lieu of all other taxes on said forest products, are hereby
+authorized under such regulations, terms and conditions as may be prescribed
+by law; and the regulations, terms and conditions of such contracts as
+authorized may be made retroactive by the consent of the parties as respects
+the limit of taxation, on contracts theretofore entered into.
+General provisions. Any legislation adopted at the regular session of the
+Legislature in 1934 based upon this proposed amendment shall be validated
+and ratified by the adoption of this amendment.
+The said income tax schedule of rates shall never exceed the schedule
+imposed in House Bill No. 339 of the Regular Session of the Legislature for
+the year 1934.
+Severance tax on timber. Repealed by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=67947</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

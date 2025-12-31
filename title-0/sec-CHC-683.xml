@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-683"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-683"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 683"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-683/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-683/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-683/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-683/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-683">
+        <num>CHC 683</num>
+        <heading>683.  Disposition; generally</heading>
+        <subsection eId="CHC-683__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall impose the least restrictive disposition of the alternatives
+enumerated in Article 681 that the court finds is consistent with the circumstances of the case
+and the health, welfare, and safety of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-683__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the court determines that the child cannot safely remain in or return to the
+custody of the parent, the court shall place the child in the custody of a suitable relative
+unless the court has made a specific finding that the placement is not in the best interest of
+the child.  The court shall give specific written reasons for its findings, which shall be made
+a part of the record of the proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-683__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the court commits a child to a private institution or agency, it shall select one
+that has been licensed under state law, if licensure is required by law for such an institution
+or agency.  When no institution, social agency, or association so licensed for care or
+placement of children is available to the court, the court may commit the child to some other
+institution, social agency, or association which in the court's judgment is suitable for such
+child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-683__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In committing a child to the custody of another suitable individual or a private
+agency or institution, the court shall, whenever practicable, select an individual, agency, or
+institution of the same religious affiliation as the child or the parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-683__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A child shall not be committed to a public or private mental institution or
+institution for persons with mental illness unless the court finds, based on psychological or
+psychiatric evaluation, that the child has a mental disorder, other than an intellectual
+disability, that has a substantial adverse effect on the child's ability to function and requires
+care and treatment in an institution.  When the child is in the custody of the state of
+Louisiana, this finding shall not be made without a contradictory hearing, notice to the
+Louisiana Department of Health, bureau of legal services, and representation of the child by
+an attorney appointed from the Mental Health Advocacy Service, unless the child retains
+private counsel, who shall represent only the interest of the child.  The Mental Health
+Advocacy Service's attorney appointed shall continue to represent the child in any proceeding
+relating to admission, change of status, or discharge from the mental hospital or psychiatric
+unit.  Upon modification of the disposition to a placement other than a mental hospital or
+psychiatric unit, the Mental Health Advocacy Service's attorney shall be relieved of
+representation of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-683__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A child shall not be committed to a public or private institution for persons with
+intellectual disabilities unless the court finds, based on psychological or psychiatric
+evaluation pursuant to R.S. 28:451.1 et seq., that the child has an intellectual disability and
+that the condition has a substantial adverse effect on the child's ability to function and
+requires care and treatment in an institution.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73279</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

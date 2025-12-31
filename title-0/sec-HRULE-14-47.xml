@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-47"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-47"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 14.47"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-47/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-47/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-47/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-47/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-14-47">
+        <num>HRULE 14.47</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-14-47__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The time and place of the meeting of the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-47__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The members present or absent.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-47__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The names and addresses of all persons appearing before the committee, with the name and address, of any person, firm, corporation or association on whose behalf the appearance is made.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-47__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The instruments or other matters considered, by number where appropriate.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-47__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Action of the committee, including final action of the committee with respect to each instrument on which the committee makes a report to the House.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-47__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The vote of each member on each instrument, matter or motion considered by the committee on which a record vote is taken.
+HR 8, 1974; HR 79, 2008, eff. June 23, 2008.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113259</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

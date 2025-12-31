@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-944"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-944"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 944"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-944/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-944/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-944/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-944/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-944">
+        <num>CCRP 944</num>
+        <heading>944.  Emergency sessions of court; criteria</heading>
+        <subsection eId="CCRP-944__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When the supreme court makes the determination that an appellate, district, parish, city, municipal, juvenile, traffic, justice of the peace, or family court having jurisdiction over criminal prosecutions and proceedings shall conduct proceedings outside its parish or territorial jurisdiction, the supreme court may order emergency sessions of court at a location or locations which are both feasible and practicable outside the parish or territorial jurisdiction of that court.  This determination shall be based upon emergency or disaster circumstances, including but not limited to the lack of a readily available alternative location to conduct court within the parish, terrorist events, enemy attack, sabotage, or other hostile action, or from fire, flood, earthquake, or other natural or manmade causes resulting in the displacement of thousands of residents and the destruction of or severe damage to courthouses and other facilities supporting the criminal justice system.  In making this determination, the supreme court shall make a reasonable effort to consult with the chief judge, the district attorney, the district public defender, and the clerk of the affected court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-944__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The supreme court order requiring emergency sessions of court shall name the affected court, the location or locations in which the emergency sessions of that court shall be conducted, and the date on which emergency sessions shall commence.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=330429</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

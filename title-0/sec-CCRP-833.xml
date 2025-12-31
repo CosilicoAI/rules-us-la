@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-833"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-833"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 833"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-833/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-833/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-833/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-833/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-833">
+        <num>CCRP 833</num>
+        <heading>833.  Presence of defendant; misdemeanor prosecution</heading>
+        <subsection eId="CCRP-833__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court may permit an unrepresented or pro se defendant charged with a
+misdemeanor to be arraigned, enter his plea of guilty, or be tried, in his absence.
+B.</p>
+          </content>
+          <paragraph eId="CCRP-833__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A plea of not guilty of a misdemeanor may be allowed to be entered through
+counsel of record.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-833__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A plea of not guilty of a misdemeanor shall be allowed to be entered through
+counsel of record in the absence of the defendant by the filing of a sworn affidavit in advance
+of the scheduled arraignment date.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-833__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The sworn affidavit referenced in Subparagraph (B)</p>
+          </content>
+          <paragraph eId="CCRP-833__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Article shall include
+the caption of the case and summons number, citation number or docket number as
+applicable, and state as follows:
+AFFIDAVIT ACCEPTING SERVICE AND
+WAIVER OF PRESENCE
+BEFORE ME, the undersigned authority, did personally come and appear,
+____________(CLIENT'S NAME), who after being duly sworn did depose and say:
+1.
+Affiant acknowledges that he is the defendant in the above captioned criminal matter;
+that he is aware of all charges pending against him in this matter and that he has retained the
+services of ____________ (ATTORNEY(S) or LAW FIRM) to represent him in these
+proceedings;
+2.
+Affiant is aware that he is scheduled to be in court on the ______ day of ______,
+20__ at ___ o'clock and that he has the right to be present on that day but expressly wishes
+to waive this right and to have his legal counsel appear on his behalf;
+3.
+Affiant is aware that in his absence, additional court dates could be scheduled in these
+proceedings and he hereby appoints his above named legal counsel as his agent</p>
+            </content>
+            <subparagraph eId="CCRP-833__subsec_C__subsec_2__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>to accept
+service of notice to appear for those dates on his behalf, that he accepts service of those dates
+through his counsel and that he expressly waives his appearance for those dates and
+authorizes his counsel to appear on his behalf;4.
+Affiant understands that the court, in its sole discretion, may revoke its acceptance
+of this waiver and require that affiant personally appear in open court on subsequent court
+dates; that his counsel will also be notified; that a notice of appearance will be mailed to
+affiant at his address of record and that affiant's failure to appear at the subsequent court date
+could result in the issuance of an arrest warrant, a revocation of appearance bond and/or is
+punishable as contempt of court;
+5.
+Finally, Affiant acknowledges that his current address is:
+_______________(Street, Apt/Lot No, City, State and Zip Code); and authorizes the
+court to use this address for all notices, unless changed in writing by affiant.
+____________________________________
+Affiant
+SWORN TO AND SUBSCRIBED BEFORE ME, notary, this ____ day of
+______, 20__.
+____________________________________
+NOTARY PUBLIC</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112823</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

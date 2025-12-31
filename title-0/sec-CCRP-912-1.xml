@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-912-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-912-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 912.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-912-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-912-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-912-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-912-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-912-1">
+        <num>CCRP 912.1</num>
+        <heading>912.1.  Right of appeal and application for review; defendant</heading>
+        <subsection eId="CCRP-912-1__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The defendant may appeal to the supreme court from a judgment in a capital case in which a sentence of death actually has been imposed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-912-1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Except as provided in Code of Criminal Procedure Article 905.9, such defendant may waive his right of appeal.  The defendant shall be informed, both in writing and orally, of this right to waive appeal upon appointment of appellate counsel.
+B.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-912-1__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The defendant may appeal to the court of appeal from a judgment in a criminal case triable by jury, except as provided in Paragraph A or Subparagraph</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-912-1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this Paragraph.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-912-1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An appeal from a judgment in a criminal case triable by jury from a city court located in the Nineteenth Judicial District, except as provided in Paragraph A of this Article, shall be taken to the Nineteenth Judicial District in the parish of East Baton Rouge.
+C.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-912-1__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In all other cases not otherwise provided by law, the defendant has the right of judicial review by application to the court of appeal for a writ of review.  This application shall be accompanied by a complete record of all evidence upon which the judgment is based unless the defendant intelligently waives the right to cause all or any portion of the record to accompany the application.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-912-1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An application for review by the defendant shall not suspend the execution of sentence, unless the defendant is admitted to postconviction bail.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112918</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

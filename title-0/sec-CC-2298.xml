@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2298"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2298"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2298"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2298/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2298/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2298/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2298/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2298">
+        <num>CC 2298</num>
+        <heading>Section </heading>
+        <content>
+          <p>CHAPTER 2--ENRICHMENT WITHOUT CAUSE
+SECTION 1.  GENERAL PRINCIPLES
+Art. 2298.  Enrichment without cause; compensation
+A person who has been enriched without cause at the expense of another person is bound to compensate that person.  The term &quot;without cause&quot; is used in this context to exclude cases in which the enrichment results from a valid juridical act or the law.  The remedy declared here is subsidiary and shall not be available if the law provides another remedy for the impoverishment or declares a contrary rule.
+The amount of compensation due is measured by the extent to which one has been enriched or the other has been impoverished, whichever is less.
+The extent of the enrichment or impoverishment is measured as of the time the suit is brought or, according to the circumstances, as of the time the judgment is rendered.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109350</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-29"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-29"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 29"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-29/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-29/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-29/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-29/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-29">
+        <num>CCRP 29</num>
+        <heading>29.  Peace bond hearing; costs</heading>
+        <subsection eId="CCRP-29__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a defendant appears before the magistrate, a contradictory hearing to determine the validity of the complaint shall be held immediately either in chambers or in open court.  If the magistrate determines that there is just cause to fear that the defendant is about to commit the threatened offense, he may order the defendant to give a peace bond.  Otherwise, he shall discharge the defendant.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-29__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The applicant for a peace bond shall pay as advanced court costs a fee of fifteen dollars for each defendant summoned to a hearing.  If the magistrate discharges the defendant, the costs shall be paid by the applicant.  If the magistrate orders the defendant to give a peace bond, the costs shall be paid instead by the defendant.  However, the court may assess those costs, or any part thereof, against any party, as it may consider equitable.  An applicant for a peace bond who is seeking protection from domestic abuse, dating violence, stalking, or sexual assault shall not be required to prepay or be cast with court costs or cost of service or subpoena for the issuance of a peace bond.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-29__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Costs may be waived for an indigent applicant or defendant who complies with the provisions of Chapter 5 of Book IX of the Louisiana Code of Civil Procedure. 1 The proceeds derived from these costs shall be deposited and used by the court in accordance with the provisions of R.S. 13:1899(B).
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112417</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

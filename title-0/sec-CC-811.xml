@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-811"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-811"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 811"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-811/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-811/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-811/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-811/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-811">
+        <num>CC 811</num>
+        <heading>811.  Partition by licitation or by private sale</heading>
+        <subsection eId="CC-811__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When the thing held in indivision is not susceptible to partition in kind, the court
+shall decree a partition by licitation or, as provided in Paragraph B of this Article, by private
+sale and the proceeds shall be distributed to the co-owners in proportion to their shares.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-811__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In the event that one or more of the co-owners are absentees or have not consented
+to a partition by private sale, the court shall order a partition by private sale and shall give
+first priority to the private sale between the existing co-owners, over the sale by partition by
+licitation or private sale to third persons.  The court shall order the partition by private sale
+between the existing co-owners as identified in the conveyance records as of the date of filing
+for the petition for partition by private sale.  The petition for partition by private sale shall
+be granted first priority, and the sale shall be executed under Title IX of Book VII of the
+Code of Civil Procedure.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111007</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1331"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1331"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1331"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1331/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1331/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1331/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1331/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1331">
+        <num>CC 1331</num>
+        <heading>1331.  Collation in action of partition; time for deliberating</heading>
+        <content>
+          <p>Art. 1331.  Collation in action of partition; time for deliberating.
+If a partition is to be made among the children or descendants of the deceased, and one of the heirs alleges that his coheir is bound to collate an immovable, which has been given him by the deceased, and requires that his coheir should decide on the manner in which he wishes to make this collation, the judge, if it be proved * that the coheir is bound to collate the property, shall order that the donee decide thereon, within a term to be fixed by the judge, which can not exceed three days from the day on which the order has been notified to him, if he or his representative is found in the place.
+* English translation of French text incomplete; should include &quot;or confessed.&quot;</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108684</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

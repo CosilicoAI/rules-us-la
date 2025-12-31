@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1922"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1922"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 1922"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1922/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1922/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1922/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1922/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-1922">
+        <num>CCP 1922</num>
+        <heading>1922.  Money judgments; judgment debtor; date of birth; social security number</heading>
+        <subsection eId="CCP-1922__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A final judgment for the payment of money shall include the date of birth of all parties against whom it is rendered, if the date of birth is known by the attorney preparing the judgment.  However, the failure to include the date of birth of the judgment debtors shall not affect the validity of the judgment.
+B.</p>
+          </content>
+          <paragraph eId="CCP-1922__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A final judgment for the payment of money shall also include the last four digits of the social security number of the judgment debtors, if known by the attorney preparing the judgment. However, the failure to include such information shall not affect the validity of the judgment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1922__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A recorded lien having the effect of a money judgment shall also include the last four digits of the social security number of the debtor, or the Internal Revenue Service taxpayer identification number of the debtor in the case of a debtor doing business other than as an individual, if known by the attorney preparing the lien.  However, the failure to include such information shall not affect the validity of the lien.
+C.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1922__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The recorder shall not refuse to record a money judgment or lien which does not include the information required by Paragraph B of this Article.  If any judgment or lien being recorded does not include the information required by this Article, the recorder shall be entitled to collect a fee not to exceed twenty-five dollars per debtor in addition to the applicable fee set forth in R.S. 13:841.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1922__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The fee authorized by Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1922__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph shall not apply if, at the time of recording the judgment, the creditor attaches to and records with the judgment an affidavit setting forth the information required by Paragraph B of this Article or by Civil Code Article 3352(A)(5).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1922__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person recording an affidavit of distinction pursuant to R.S. 9:5501 through 5503 shall not be required to pay a fee for recording the affidavit of distinction.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1922__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The provisions of Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1922__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this Paragraph shall not apply to an affidavit of distinction recorded in order to distinguish the affiant from a debtor named in a judgment or lien which was recorded prior to July 1, 2012.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111350</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

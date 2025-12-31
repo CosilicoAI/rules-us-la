@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-727"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-727"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 727"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-727/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-727/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-727/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-727/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-727">
+        <num>CCRP 727</num>
+        <heading>727.  Notice of alibi</heading>
+        <subsection eId="CCRP-727__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon written demand of the district attorney stating the time, date, and place at which the alleged offense was committed, the defendant shall serve within ten days, or at such different time as the court may direct, upon the district attorney a written notice of his intention to offer a defense of alibi.  Such notice by the defendant shall state the specific place or places at which the defendant claims to have been at the time of the alleged offense and the names and addresses of the witnesses upon whom he intends to rely to establish such alibi.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-727__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Within ten days thereafter, but in no event less than ten days before trial, unless the court otherwise directs, the district attorney shall serve upon the defendant or his attorney a written notice stating the names and addresses of the witnesses upon whom the state intends to rely to establish the defendant's presence at the scene of the alleged offense and any other witnesses to be relied on to rebut testimony of any of the defendant's alibi witnesses.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-727__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If prior to or during trial, a party learns of an additional witness whose identity, if known, should have been included in the information furnished under Subsection A or B, the party shall promptly notify the other party or his attorney of the existence and identity of such additional witness.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-727__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Upon the failure of either party to comply with the requirements of this rule, the court may exclude the testimony of any undisclosed witness offered by such party as to the defendant's absence from or presence at, the scene of the alleged offense.  This rule shall not limit the right of the defendant to testify in his own behalf.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-727__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>For good cause shown, the court may grant an exception to any of the requirements of Subsections A through D of this Section.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-727__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Evidence of an intention to rely upon an alibi defense, later withdrawn, or of statements made in connection with such intention, is not admissible in any civil or criminal proceeding against the person who gave notice of the intention.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112734</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

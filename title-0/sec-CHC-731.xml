@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-731"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-731"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 731"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-731/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-731/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-731/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-731/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-731">
+        <num>CHC 731</num>
+        <heading>731.  Complaint</heading>
+        <subsection eId="CHC-731__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A caretaker, other adult family member, any representative of an agency having the responsibility or ability to supply services to a family, or any other person authorized by the court may file a complaint which alleges one or more of the grounds enumerated in Article 730.  Referring entities shall utilize all appropriate and available resources prior to filing a complaint and provide documentation of all steps taken at the time the complaint is filed.  If the referring entity is a school, it shall at a minimum document meetings with the child, meetings with the child's caretaker, and referral of the child to school behavior support personnel.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-731__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The complaint shall be in writing but may make allegations of fact on information and belief.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-731__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The complaint shall set forth with specificity:</p>
+          </content>
+          <paragraph eId="CHC-731__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name, date and place of birth, sex, race, address, and present location of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-731__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The name, age, sex, and current address of the child's parents or other caretakers.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-731__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The name, age, and sex of any other family members living within the child's home.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-731__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The name of any public institution or agency having the responsibility or ability to supply services alleged to be needed by the family.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-731__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Whether the child is currently under the supervision of any state or local entity, including but not limited to, the Department of Children and Family Services or the Department of Public Safety and Corrections, youth services, or the office of juvenile justice.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-731__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If any of the information required by Paragraph C of this Article is unknown, the complaint shall so allege.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73320</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

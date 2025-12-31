@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1356"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1356"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 1356"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1356/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1356/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1356/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1356/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-1356">
+        <num>CCP 1356</num>
+        <heading>1356.  Subpoenas and subpoenas duces tecum for depositions or inspections</heading>
+        <subsection eId="CCP-1356__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Proof of service of a notice to take a deposition or of a notice of inspection under Article 1463 constitutes sufficient authorization for issuance by the clerk or judge of the district court wherein the action is pending of subpoenas and subpoenas duces tecum.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1356__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Subpoenas and subpoenas duces tecum compelling the appearance of a witness who is not a party shall be served within a reasonable period of time before the time specified for the deposition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1356__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>All provisions applicable to subpoenas and subpoenas duces tecum shall apply to subpoenas and subpoenas duces tecum issued under the provisions of this Article, except as otherwise provided by law.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111182</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-658"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-658"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 658"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-658/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-658/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-658/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-658/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-658">
+        <num>CCRP 658</num>
+        <heading>658.  Probation; conditional release; reporting</heading>
+        <subsection eId="CCRP-658__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When the committed person is released on probation, which shall also be known
+as conditional release, the clerk of court shall deliver to him a certificate setting forth the
+period and the conditions of his probation.  It shall be a condition of every such probation
+that the person released shall be recommitted if he becomes dangerous to others or to himself
+for reasons of mental illness, substance abuse, or intellectual disability.  The probationer
+shall be required to agree in writing to the conditions of his probation.
+B.</p>
+          </content>
+          <paragraph eId="CCRP-658__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The probationer shall be under the supervision of the division of probation and
+parole.  When the probationer violates or is about to violate the conditions of his probation,
+he may be arrested and detained in conformity with the applicable provisions of Article 899
+of this Code.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-658__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Louisiana Department of Health shall be responsible for the community
+treatment and monitoring of persons placed on outpatient status under this Chapter.  These
+services shall be available on a parish or regional basis.  The department may provide
+treatment services directly or through contracts with private providers or local jurisdictions.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-658__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The department shall designate for each parish or for each region comprised of
+two or more parishes a conditional release program coordinator, who shall be responsible for
+the provisions specified in this Chapter.  The coordinator shall monitor the forensic aftercare
+provider's implementation of the conditional release order and the forensic aftercare
+provider's submission to the court of written reports on the acquittee's progress, adjustment
+in the community, and compliance with the order no less frequently than ninety days after
+admission to the program and every one hundred eighty days thereafter.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-658__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If a person on conditional release or otherwise probated under this Chapter is in
+need of acute, i.e. short-term, hospitalization and is not charged with a new criminal offense,
+he may be voluntarily admitted pursuant to R.S. 28:52 or admitted by emergency certificate
+pursuant to R.S. 28:53 to the Feliciana Forensic Facility or to another suitable treatment
+facility, with subsequent notice to the court.  Transportation to and from the receiving
+hospital may be effected by the Feliciana Forensic Facility or the sheriff of the parish of
+incarceration.  Hospital discharge of the person under this provision shall be at the discretion
+of the clinical director of the facility and a hospital admission pursuant to this provision will
+not be grounds for revocation or recommitment under Subparagraph (C)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-658__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this Article. 
+However, the discharge of a person based on the need for indefinite hospitalization or
+noncompliance with treatment recommendations shall be grounds for revocation or
+recommitment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-658__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The division of probation and parole or the Louisiana Department of Health 
+through the conditional release program coordinator or a designee shall immediately notify
+the court of any substantive violations or imminent violations of the conditions of a person's
+probated release and shall present recommendations to the court regarding whether the court
+should revoke the probation and recommit the probationer to a state mental institution or
+other recommendations as may be appropriate.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-658__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The court, on its own motion or that of the district attorney or probation officer,
+or upon receiving a report recommending revocation or other disposition from the
+conditional release program coordinator, may cause the person to be arrested, if he is not
+already in custody, and shall immediately hold a hearing to consider the violations listed or
+transfer the case to the parish of commitment, if different from that of the arrest, at which
+place the hearing should be held as soon as possible.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-658__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the court determines that there has been a violation or that the probationer was
+about to violate the conditions of release or probation it may do any of the following:</p>
+          </content>
+          <paragraph eId="CCRP-658__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Reprimand and warn the probationer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-658__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Order that supervision be intensified.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-658__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Modify or add additional conditions to the probation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-658__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Revoke the probation and recommit the probationer to a state mental institution,
+subject to consideration for discharge or release on probation only after one year has elapsed
+from the date of revocation and in accordance with the procedure prescribed in Articles 655
+through 657 of this Code for a first application and hearing.  If the probation is revoked and
+the probationer recommitted, the court shall provide the hospital with the report of the
+probation officer or forensic aftercare provider regarding the details of the violations
+involved.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-658__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The court may completely discharge the probationer after the expiration of one
+year in a supervised conditional release program only on recommendation of the director of
+the division of probation and parole or the administrator of the conditional release program
+or on other proper evidence of expected outpatient compliance with any continued treatment
+recommendations, and after a contradictory hearing with the district attorney.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-658__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>No person who is on outpatient conditional release status pursuant to this Chapter
+shall leave this state without first obtaining written approval to do so from the director of the
+division of probation and parole and the administrator of the conditional release program. 
+Any person who violates the provisions of this Paragraph may be fined not more than one
+thousand dollars or imprisoned with or without hard labor for not more than one year, or
+both.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112683</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

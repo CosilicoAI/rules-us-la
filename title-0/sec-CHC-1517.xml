@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1517"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1517"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1517"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1517/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1517/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1517/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1517/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1517">
+        <num>CHC 1517</num>
+        <heading>1517.  Notice; service; curator; reservation of rights</heading>
+        <subsection eId="CHC-1517__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notice of the proceedings, including, if applicable, the parents' right to an attorney in accordance with Paragraph E of this Article, shall be served on any parent or legal custodian who has not joined in the petition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1517__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Notice may be served by personal or domiciliary service or by certified mail, proof of which shall be filed in the record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1517__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a parent or legal custodian cannot be served, the court may appoint an attorney at law as curator for him and service shall be made upon the curator.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1517__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If a parent or legal custodian cannot be served and a curator is not appointed for him, the court shall specifically reserve the absentee's rights in any order transferring custody pursuant to this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1517__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the Department of Children and Family Services has recommended that the petition for voluntary transfer of custody be filed:</p>
+          </content>
+          <paragraph eId="CHC-1517__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It shall also be served with notice of the proceedings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1517__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court may also order a report by the department concerning the safety and well-being of the child and of the circumstances leading the department to recommend that the custody of the child be transferred by the parent to some other individual.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1517__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The court shall advise the parents and may advise the child, insofar as practicable, of the right to be represented by counsel and the right to have counsel appointed as provided in Chapter 4 of Title VI.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72985</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3306"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3306"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 3306"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3306/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3306/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3306/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3306/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-3306">
+        <num>CCP 3306</num>
+        <heading>3306.  Notice of filing of tableau of distribution; effect of failure to serve</heading>
+        <content>
+          <p>Art. 3306.  Notice of filing of tableau of distribution; effect of failure to serve
+When notice has been requested in accordance with Article 3305, the succession representative, without the necessity for a court order thereon, shall send a notice of the filing of a tableau of distribution by mail to the attorney designated by the person praying for notice at the address designated.  Proof of mailing is sufficient; no proof of receipt is required.
+If no notice of the filing of a tableau of distribution has been mailed when required under this article, a judgment homologating the tableau of distribution shall have no effect against the person praying for such notice.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111709</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

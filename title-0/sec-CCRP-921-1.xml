@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-921-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-921-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 921.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-921-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-921-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-921-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-921-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-921-1">
+        <num>CCRP 921.1</num>
+        <heading>921.1.  Notice of decision in criminal appeals</heading>
+        <subsection eId="CCRP-921-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In addition to the requirements regarding transmission of notice of judgment and copies of decisions under the Uniform Rules of Louisiana Courts of Appeal, when a decision in an appellate court in a criminal appeal is rendered, the clerk of court shall transmit a notice or copy of the decision to the clerk of court from which the appeal was taken and to the Department of Public Safety and Corrections.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-921-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a decision of the supreme court is rendered in a criminal appeal, the clerk of court shall transmit a notice or copy of the decision to the clerk of court from which the appeal was taken and to the Department of Public Safety and Corrections.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919661</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

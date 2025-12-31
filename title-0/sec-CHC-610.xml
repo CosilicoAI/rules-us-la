@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-610"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-610"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 610"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-610/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-610/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-610/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-610/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-610">
+        <num>CHC 610</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-610__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A reporter shall immediately report suspected child abuse or neglect or that child
+abuse or neglect was a contributing factor in a child's death in the following ways:</p>
+          </content>
+          <paragraph eId="CHC-610__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To the Department of Children and Family Services if the reporter has reason to
+believe that the perpetrator is  any of the following:</p>
+            </content>
+            <subparagraph eId="CHC-610__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A parent or caretaker as defined in Article 603.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who maintains an interpersonal dating or engagement relationship with
+the parent or caretaker.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person living in the same residence  as the parent or caretaker.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_A__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A person living in the same residence as the child, or any residence of the child,
+if the child has more than one residence.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_A__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An employee or an operator of an early learning center as defined in R.S.
+17:407.33.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_A__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An operator or employee of a registered family child day care home.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_A__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Another child residing in the same residence for cases of suspected sexual abuse.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_A__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Indeterminable by the mandatory reporter, but the reporter suspects that the abuse
+occurred at the child's residence.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To a local or state law enforcement agency if the reporter has reason to believe
+that the perpetrator is any of the following:</p>
+            </content>
+            <subparagraph eId="CHC-610__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person other than a person provided for in Subparagraph</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph.</p>
+            </content>
+            <subparagraph eId="CHC-610__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A teacher, instructor, administrator, staff person, school bus driver, teacher aide,
+paraprofessional, food service worker, or employee of any public or private elementary,
+secondary, vocational-technical training, special, or postsecondary school, city, parish, or
+other local public school board, if the abuse or neglect is perpetrated on a student.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Another child who does not reside in the same residence for cases of suspected
+sexual abuse.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Dual reporting to both the department and the local or state law enforcement
+agency is permitted. However, the agency who receives a report pursuant to Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Paragraph shall be the agency responsible for accepting and acting on the
+report and shall ensure referral to other agencies as necessary.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Reports to the department shall be made as follows:</p>
+            </content>
+            <subparagraph eId="CHC-610__subsec_A__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A mandatory reporter shall make a report of suspected abuse or neglect requiring
+immediate assistance via the designated state child protection reporting hotline telephone
+number. A report of suspected abuse or neglect which is of a nonemergency nature may be
+reported via the Louisiana Department of Children and Family Services Mandated Reporter
+Portal online. Reports may also be made in person at any child welfare office.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_A__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a report involves alleged sex trafficking, all mandatory reporters shall report via
+the hotline telephone number to the department regardless of whether there is alleged
+parental or caretaker culpability.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_A__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A permitted reporter shall make a report through the designated state child
+protection reporting hotline telephone number or in person at any child welfare office.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If a school resource officer suspects child abuse or neglect of a student or if a 
+mandatory reporter reports suspected child abuse or neglect to a school resource officer, the
+school resource officer shall immediately notify the officer's employing law enforcement
+agency or the Department of Children and Family Services in accordance with the provisions
+of this Article. The school resource officer's employer shall assign investigation of the matter
+to the most appropriate law enforcement officer, who may be the school resource officer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>If a mandatory reporter is prohibited from immediately making the report required
+by this Chapter to the department or local or state law enforcement because of an employer's
+policies or employee manual, the mandatory reporter shall file a complaint with local or state
+law enforcement. Local or state law enforcement shall investigate the complaint, and an
+employer violating this Chapter shall be subject to the penalties provided for in R.S. 14:131.1
+and 403. An employer shall not discriminate or retaliate against an employee who is a
+mandatory reporter for complying with this Article. If an employer is found discriminating
+or retaliating against an employee for complying with this Article, the employer shall be
+subject to double the fines provided for in R.S. 14:131.1 and 403.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>In an investigation of a report of abuse or neglect allegedly committed by a parent
+or caretaker, the department shall determine whether the person is an active duty member of
+the United States Armed Forces or the spouse of a member on active duty. If the department
+determines that the person is an active duty member of the United States Armed Forces or
+the spouse of a member on active duty, the department shall notify the United States
+Department of Defense Family Advocacy Program at the closest active duty military
+installation of the investigation.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-610__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The report shall contain the following information, if known:</p>
+          </content>
+          <paragraph eId="CHC-610__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name, address, age, sex, and race of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The nature, extent, and cause of the child's injuries or endangered condition,
+including any previous known or suspected abuse to this child or the child's siblings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The name and address of the child's parent</p>
+            </content>
+            <subparagraph eId="CHC-610__subsec_B__subsec_3__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>or other caretaker.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The names and ages of all other members of the child's household.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The name and address of the reporter.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>An account of how this child came to the reporter's attention.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Any explanation of the cause of the child's injury or condition offered by the
+child, the caretaker, or any other person.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The number of times the reporter has filed a report on the child or the child's
+siblings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Any other information which the reporter believes might be important or relevant.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-610__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The report shall also name the person or persons who are thought to have caused
+or contributed to the child's condition, if known, and the report shall contain the name of
+such person if he is named by the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-610__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the initial report was in oral form by a mandatory reporter, it shall be followed
+by a written report made within five days via the online Mandated Reporter Portal of the
+department or by mail to the centralized intake unit of the department at the address provided
+on the website of the department; or, if necessary, to the local law enforcement agency.  The
+reporter may use a form for the written report, which shall be developed, approved, and made
+available by the Department of Children and Family Services.  The form is optional and may
+be available electronically on the department's website.
+E.</p>
+          </content>
+          <paragraph eId="CHC-610__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All reports made to any local or state law enforcement agency involving abuse
+or neglect in which  an individual provided for in Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article is
+believed responsible shall be  reported to the department within twenty-four hours in
+accordance with Paragraph A of this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All reports made to the department involving abuse or neglect  in which someone
+other than an individual provided for in Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article is believed to be
+responsible shall be reported to the appropriate law enforcement agency within twenty-four
+hours by telephone. The department also shall report all cases of child death which involve
+a suspicion of abuse or neglect as a contributing factor in the child's death to the local and
+state law enforcement agencies, the office of the district attorney, and the coroner.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Reports involving a felony-grade crime against a child shall be promptly
+communicated to the appropriate law enforcement authorities as part of the interagency
+protocols for multidisciplinary investigations of child abuse and neglect in each judicial
+district as provided in Articles 509 and 510.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department shall communicate as soon as possible all reports involving
+alleged child victims of sex trafficking to the Louisiana State Police for referral to the
+appropriate local law enforcement agency for investigation or other action as appropriate.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-610__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Any commercial film or photographic print processor who has knowledge of or
+observes, within the scope of this professional capacity or employment, any film,
+photograph, video tape, negative, or slide depicting a child who he knows or should know
+is under the age of seventeen years, which constitutes child pornography or child sexual
+abuse materials as defined in Article 603, shall report immediately to the local law
+enforcement agency having jurisdiction over the case.  The reporter shall provide a copy of
+the film, photograph, videotape, negative, or slide to the agency receiving the report.
+G.</p>
+          </content>
+          <paragraph eId="CHC-610__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If a physician has cause to believe that a newborn was exposed in utero to an
+unlawfully used controlled dangerous substance, as defined by R.S. 40:961 et seq., the
+physician shall order a toxicology test upon the newborn, without the consent of the
+newborn's parents or guardian, to determine whether there is evidence of prenatal neglect. 
+If the test results are positive, the physician shall issue a report, as soon as possible, in
+accordance with this Article.  If the test results are negative, all identifying information shall
+be obliterated if the record is retained, unless the parent approves the inclusion of identifying
+information.  Positive test results shall not be admissible in a criminal prosecution.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If there are symptoms of withdrawal in the newborn or other observable and
+harmful effects in his physical appearance or functioning that a physician has cause to believe
+are due to the chronic or severe use of alcohol by the mother during pregnancy or are the
+effects of fetal alcohol spectrum disorder, the physician shall issue a report in accordance
+with this Article.
+H.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All instances of alleged child abuse that occur in a school setting shall be
+immediately reported to the child's parent or legal guardian and to local or state law
+enforcement, regardless of the alleged perpetrator.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If more than one child is involved in the allegations, the school shall immediately
+report to the parent or legal guardian of all involved children.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Law enforcement shall begin an investigation of the allegations within forty-eight
+hours of receiving the report.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_F__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If more than one child is involved in the allegations, law enforcement shall
+interview the parent or legal guardian of all children involved.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_F__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Any sexual abuse cases in which the alleged perpetrator is a child shall be referred
+to the Department of Children and Family Services. The department shall assess the family
+of the child victim and the alleged child perpetrator to ensure child safety and well-being in
+accordance with Children's Code Article 612(A)(3).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_F__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>For purposes of this Article, the following definitions shall apply:</p>
+            </content>
+            <subparagraph eId="CHC-610__subsec_F__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;School setting&quot; means in a school building, on school grounds, in school
+vehicles, or at any activities sponsored by a school.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_F__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Sexual abuse&quot; means the perpetration or attempted perpetration of R.S. 14:41,
+42, 42.1, 43, 43.1, 43.2, 43.3, 43.4, 80, 81, 81.1, 81.2, 86, 89, or 89.1.
+I.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The provisions of this Paragraph shall be known and may be cited as The Alfred</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-610__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Williams Child Protection Act.</p>
+          </content>
+          <paragraph eId="CHC-610__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Beginning May 1, 2017, and annually thereafter, the department shall provide to
+the legislature the following child-specific information regarding reports of child abuse or
+neglect reported to the department pursuant to the provisions of this Article:</p>
+            </content>
+            <subparagraph eId="CHC-610__subsec_C__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The actual or estimated age, the sex, and the race of each child at the time the
+latest report was received.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_C__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The parish location of primary case name of the latest report accepted for
+investigation received.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_C__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The categories, levels, and final findings assigned to each allegation contained in
+reports received for each child.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_C__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The number of cases accepted for investigation in which the child was an alleged 
+victim during the report year.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_C__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The number of cases accepted for investigation in which the child was a 
+substantiated victim during the report year.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_C__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The number of reports accepted for investigation prior to report year in which the
+child was an alleged or  substantiated victim.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_C__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The number of other alleged victims in reports accepted for investigation in each
+child's cases prior to report year.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_C__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The number of reports accepted for investigation prior to the report year in which
+the child was a  substantiated victim.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_C__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The number of other  substantiated victims in reports accepted for investigation
+in each child's cases prior to report year.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_C__subsec_2__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The number of distinct reporter names for all investigations in which the child is
+an alleged or  substantiated victim.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of this Paragraph, the following words shall have the following
+meanings:</p>
+            </content>
+            <subparagraph eId="CHC-610__subsec_C__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Alleged victim&quot; includes a child who is the subject of an investigation and for
+whom there is an allegation of abuse or neglect.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-610__subsec_C__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Substantiated victim&quot;  includes an alleged victim for whom one or more
+allegations of abuse or neglect have been  substantiated pursuant to Article 615.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The information provided in the annual report required by Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of
+this Paragraph shall not include the name, street address, or other identifying information of
+any child, parent, sibling, or reporter.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If the department fails to submit timely the report required by Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-610__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Paragraph, then the legislature or either house thereof, through its authorized
+representative, may petition the Nineteenth Judicial District Court for writs of mandamus to
+compel the submission of the report.  Any failure to obey a writ of mandamus issued by the
+court may be punishable by the court as contempt thereof.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73202</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

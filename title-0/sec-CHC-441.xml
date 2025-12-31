@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-441"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-441"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 441"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-441/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-441/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-441/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-441/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-441">
+        <num>CHC 441</num>
+        <heading>441.  Confidentiality</heading>
+        <subsection eId="CHC-441__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>All oral and written communications and records made during the mediation of a juvenile proceeding are not subject to disclosure and may not be used as evidence in any judicial or administrative proceeding unless:</p>
+          </content>
+          <paragraph eId="CHC-441__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The communication or record presented in the course of mediation is otherwise subject or is otherwise admissible if based on  proof independent of the mediation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-441__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All parties and the mediator specifically agree in writing to waive confidentiality.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-441__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Whenever the mediator has cause to believe that a child's physical or mental health or welfare is endangered by abuse or neglect, he shall report and refer the charges to the local child protection unit of the Department of Children and Family Services in accordance with Article 610.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-441__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Disclosure is permitted by Paragraph B of this Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-441__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The mediator, parties, counsel, and other participants shall not be required to testify or otherwise make disclosure through discovery and are not subject to subpoena except:</p>
+          </content>
+          <paragraph eId="CHC-441__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The mediator may report to the court whether the parties appeared as ordered, whether mediation took place, and whether a settlement resulted.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-441__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The mediator may maintain records of mediation cases and may use data for research, training, or statistical reports to the court, provided all individual identifying information about the clients is removed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-441__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The court may compel testimony or documents in a contempt proceeding alleging that a party failed to comply with a court order referring the case for mediation; however, the disclosure of any communications and records made during the course of the mediation shall be strictly limited to the issue of noncompliance with the court's order.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-441__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A court or administrative tribunal may compel testimony in a proceeding concerning the professional competence or ethics of the mediator or otherwise if necessary to prevent fraud or manifest injustice.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-441__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In any judicial or administrative proceeding in which disclosure is sought, the court shall determine in camera whether the facts, circumstances, and context of the communications or records warrant a breach of confidentiality in accordance with this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-441__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The confidentiality protections of this Article are in addition to other provisions governing the confidentiality of juvenile court proceedings contained in this Code.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73183</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

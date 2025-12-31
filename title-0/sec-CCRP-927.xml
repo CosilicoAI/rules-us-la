@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-927"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-927"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 927"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-927/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-927/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-927/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-927/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-927">
+        <num>CCRP 927</num>
+        <heading>927.  Action required after filing of application; procedural objections; answer</heading>
+        <subsection eId="CCRP-927__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If an application is not dismissed pursuant to Paragraph A of this Article,  the
+court shall order the custodian, through the district attorney in the parish in which the
+defendant was convicted, to file any procedural objections he may have, or an answer on the
+merits if there are no procedural objections, within a specified period not in excess of sixty
+days.  If the district attorney waives or does not file procedural objections, the response shall
+be provided to the attorney general concurrent with filing.  The court's order shall include a
+copy of the application for post conviction relief and the attorney general shall have thirty
+days to file objections.  If procedural objections are filed by the district attorney or the
+attorney general, no answer on the merits of the claim nor any hearing on the merits shall be
+ordered until such objections have been considered and rulings thereon have become final.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-927__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In any order of the court requiring a response by the district attorney or attorney
+general pursuant to this Article, the court shall render specific rulings dismissing any claim
+which, if established as alleged, would not entitle the petitioner to relief and shall order a
+response only as to such claim or claims which, if established as alleged, would entitle the
+petitioner to relief.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-927__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the court orders an answer filed, the court need not order production of the
+petitioner except as provided in Article 930.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-927__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Subject to the provisions of Article 930.4(F), if the application is successive or
+supplemental to a previous application, the court shall send notice to the attorney general.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-927__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If the court has determined that the application cannot be summarily dismissed,
+the court shall determine after an answer is filed whether an evidentiary hearing is necessary
+and shall set a status conference within sixty days.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112938</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

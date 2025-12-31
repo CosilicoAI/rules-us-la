@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1123"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1123"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1123"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1123/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1123/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1123/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1123/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1123">
+        <num>CHC 1123</num>
+        <heading>1123.  Effect of surrender; verification of judgment of adoption</heading>
+        <subsection eId="CHC-1123__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An Act of Surrender shall be irrevocable upon execution except as provided in Article 1130.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1123__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An authentic act of voluntary surrender executed by a parent grants the legal custody of the child identified in the act to the agency or person named or represented in the act and grants the irrevocable consent of the surrendering parent and his representative, if applicable, or the child's tutor, to the subsequent adoption of the child surrendered to the agency or to the adoption of the child by the person named or represented in the act except as provided in Paragraph D.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1123__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The agency, firm, or lawyer facilitating the adoption shall provide the surrendering parent, upon request, with a notarized statement that the final judgment of adoption was legally rendered.  The statement shall not disclose the identity of the adoptive parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1123__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If for any reason an adoption cannot be accomplished, the Act of Surrender may be dissolved by a court of competent jurisdiction.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72608</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

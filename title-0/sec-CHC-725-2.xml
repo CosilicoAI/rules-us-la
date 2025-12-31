@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-725-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-725-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 725.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-725-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-725-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-725-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-725-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-725-2">
+        <num>CHC 725.2</num>
+        <heading>725.2.  Safe house for sexually exploited children</heading>
+        <subsection eId="CHC-725-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Each safe house listed with the department to provide services to sexually
+exploited children pursuant to the provisions of this Article shall submit to the governor's
+office of human trafficking prevention and to the department an annual report on their
+operations including information on the services offered, a listing of credentials, training, and
+licenses specific to survivor-centered and trauma-informed services for human trafficking
+survivors, geographic areas served, number of children served, and individual status updates
+on each child served. This information shall not include the name, address, or other
+identifying information of the child served. The governor's office of human trafficking
+prevention shall compile the data from all the reports submitted by each safe house pursuant
+to the provisions of this Article and shall provide this information in an annual report to the
+legislature on or before the first day of February each year.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=859113</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

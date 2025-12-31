@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 9.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-9-5">
+        <num>SRULE 9.5</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-9-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Secretary shall retain the original and requisite number of copies of the prefiled instrument necessary for introduction when the session convenes. He shall transmit copies thereof to the committee of reference.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-9-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The author of a prefiled instrument may withdraw it at any time prior to introduction by written request to the Secretary. In such case, the Secretary shall reclaim the instrument from the committee and enter its withdrawal on the Joint Legislative Website.
+Amended by SR 168 of 2014 RS, eff. August 1, 2014.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180555</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

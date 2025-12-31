@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-946"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-946"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 946"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-946/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-946/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-946/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-946/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-946">
+        <num>CCRP 946</num>
+        <heading>946.  Jurisdiction of affected court conducting emergency sessions</heading>
+        <subsection eId="CCRP-946__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The affected court conducting emergency sessions outside of its parish or territorial jurisdiction pursuant to Article 944 shall retain jurisdiction over all criminal proceedings and prosecutions that would otherwise be conducted by the affected court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-946__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>All court proceedings, grand jury proceedings, hearings, preliminary matters, pretrial hearings, and trials may be conducted in the emergency sessions of the affected court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-946__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The affected court conducting emergency sessions may retain jurisdiction to complete all matters in progress in the host jurisdiction even though the order rendered pursuant to Article 944 has been withdrawn, canceled, or rescinded.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=330431</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

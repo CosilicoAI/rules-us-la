@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1452"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1452"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1452"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1452/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1452/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1452/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1452/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1452">
+        <num>CHC 1452</num>
+        <heading>1452.  Mandatory review of commitments</heading>
+        <subsection eId="CHC-1452__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>All judicial commitments, except those for alcoholism, shall be reviewed by the court issuing the order for commitment every ninety days.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1452__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A commitment for alcoholism shall expire after forty-five days and the minor patient, if not converted to a voluntary status, shall be discharged, unless the court, upon application by the director of the treatment facility, finds that continued involuntary treatment is necessary and orders the minor patient recommitted for a period not to exceed sixty days; provided, that not more than two such sixty-day recommitments may be ordered in connection with the same continuous confinement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1452__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>All judicial commitments involving a minor patient who has been found not guilty by reason of insanity or who has been found to lack the capacity to proceed, shall be reviewed in the manner as set forth in Title VIII.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72948</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

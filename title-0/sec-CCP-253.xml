@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-253"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-253"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 253"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-253/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-253/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-253/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-253/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-253">
+        <num>CCP 253</num>
+        <heading>253.  Pleadings, documents, and exhibits to be filed with clerk</heading>
+        <subsection eId="CCP-253__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>All pleadings or documents to be filed in an action or proceeding instituted or
+pending in a court, and all exhibits introduced in evidence, shall be delivered or transmitted
+to the clerk of the court for that purpose. The clerk of court shall endorse thereon the fact and
+date of filing and shall retain possession thereof for inclusion in the record, or in the files of
+the clerk's office, as required by law. The endorsement of the fact and date of filing shall be
+made upon receipt of the pleadings or documents by the clerk of court and shall be made
+without regard to whether there are orders in connection therewith to be signed by the court.
+B.</p>
+          </content>
+          <paragraph eId="CCP-253__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The filings as provided in Paragraph A of this Article and all other provisions
+of this Chapter may be transmitted electronically in accordance with a system established by
+the clerk of court. The clerk of court shall adopt a system for the electronic filing and storage
+of any pleading, document, or exhibit filed with a pleading. A pleading or document filed
+electronically is deemed filed on the date and time stated on the confirmation of electronic
+filing sent from the system, if the clerk of court accepts the electronic filing. Public access
+to electronically filed pleadings and documents shall be in accordance with the rules
+governing access to paper filings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-253__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>On and after January 1, 2026, all filings as provided in Paragraph A of this
+Article and all other provisions of this Chapter filed by an attorney shall only be filed in
+person in paper form or transmitted electronically in accordance with a system established
+by a clerk of court or by Louisiana Clerks' Remote Access Authority. The filer shall be
+responsible for ensuring that private information is not included in filings. No filing shall
+include the first five digits of any social security number, tax identification numbers, state
+identification numbers, driver's license numbers, financial account numbers, full dates of
+birth, or any information protected from disclosure by state or federal law.  The clerk of court
+shall adopt a system for the electronic filing and storage of any pleading, document, or
+exhibit filed with a pleading.  A pleading or document filed electronically is deemed filed
+on the date and time stated on the confirmation of electronic filing sent from the system, if
+the clerk of court accepts the electronic filing.  Public access to electronically filed pleadings
+and documents shall be in accordance with the rules governing access to paper filings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-253__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding the provisions of Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-253__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Paragraph, the
+following original documents may be filed in paper form, either in person, by U.S. mail, or
+by commercial courier:</p>
+            </content>
+            <subparagraph eId="CCP-253__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An original will or testament filed and retained in accordance with Article 2911.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-253__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An original promissory note, other instrument, or any evidence required to be in
+authentic form in accordance with Article 2635.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-253__subsec_A__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Motions for default judgment which do not require a hearing in open court
+pursuant to Articles 1702 and 1702.1 and supporting attached documentation.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-253__subsec_A__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Documents which are required to be original in order to support or defend against
+a claim.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-253__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The clerk of court may convert into an electronic record any pleading, document,
+or exhibit that is filed in paper form. If requested by the filing party, the clerk of court shall
+return to the filing party the original of any document or exhibit that has been converted into
+an electronic record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-253__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The official record shall be the electronic record. The original of any filed
+document or exhibit shall be maintained by the filing party during the pendency of the
+proceeding and until the judgment becomes final and definitive, unless otherwise provided
+by law or order of the court. Upon request and reasonable notice, the original document or
+exhibit shall be produced to the court. Upon reasonable notice, the original document or
+exhibit shall be made available to the opposing party for inspection.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-253__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Unless otherwise directed by the court, the original of all documents and exhibits
+introduced or proffered into evidence, submitted with a petition for executory process, or
+filed in a summary judgment proceeding shall be retained by the clerk of court until the order
+or judgment becomes final and definitive.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-253__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A judge or justice presiding over a court in this state may sign a court order,
+notice, official court document, and other writings required to be executed in connection with
+court proceedings by use of an electronic signature as defined by R.S. 9:2602.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-253__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>If the filing party fails to comply with any of the requirements of Paragraph A or
+Subparagraph (B)</p>
+          </content>
+          <paragraph eId="CCP-253__subsec_G__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article, the electronic filing shall have no force or effect. A court
+may provide by court rule for other matters related to filings by electronic transmission.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-253__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>The clerk of court may procure equipment, services, and supplies necessary to
+accommodate electronic filings out of the clerk's salary fund.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-253__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>All electronic filings shall include an electronic signature. For the purpose of this
+Article, &quot;electronic signature&quot; means an electronic symbol or process attached to or logically
+associated with a record and executed or adopted by a person with the intent to sign the
+record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-253__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>The clerk of court shall not refuse to accept for filing any pleading or other
+document that is signed by electronic signature and executed in connection with court
+proceedings, or that complies with the procedures for electronic filing implemented pursuant
+to this Article, solely on the ground that the pleading or document was signed by electronic
+signature.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-253__subsec_K">
+          <num>K.</num>
+          <content>
+            <p>Upon adoption of uniform filing standards by the LCRAA, no clerk of court shall
+accept a filing not in accordance with the adopted standards.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111473</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-933"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-933"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 933"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-933/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-933/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-933/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-933/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-933">
+        <num>CCP 933</num>
+        <heading>933.  Effect of sustaining dilatory exception</heading>
+        <subsection eId="CCP-933__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If the dilatory exception pleading want of amicable demand is sustained, the judgment shall impose all court costs upon the plaintiff.  If the dilatory exception pleading prematurity is sustained, the premature action, claim, demand, issue or theory shall be dismissed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-933__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When the grounds of the other objections pleaded in the dilatory exception may be removed by amendment of the petition or other action by plaintiff, the judgment sustaining the exception shall order plaintiff to remove them within the delay allowed by the court; and the action, claim, demand, issue or theory subject to the exception shall be dismissed only for a noncompliance with this order.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112302</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

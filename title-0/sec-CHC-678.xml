@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-678"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-678"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 678"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-678/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-678/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-678/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-678/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-678">
+        <num>CHC 678</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-678__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Prior to entering a judgment of disposition, the court shall conduct a disposition hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-678__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The disposition hearing may be conducted immediately after the adjudication and shall be conducted within thirty days after the adjudication.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-678__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon a showing of good cause and notice to the opposing party, the court may grant, deny, or restrict a requested continuance of the proceeding in accordance with the best interests of the child.  If a continuance is granted, the court shall issue a written order identifying the mover and reciting the particular facts justifying the continuance.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73274</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

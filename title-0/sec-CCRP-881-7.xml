@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-7"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-7"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 881.7"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-7/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-7/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-7/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-7/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-881-7">
+        <num>CCRP 881.7</num>
+        <heading>881.7.  Memorandum of understanding; limits on reduction of sentence for substantial assistance by a defendant</heading>
+        <subsection eId="CCRP-881-7__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Prior to any defendant receiving a reduction of sentence pursuant to Code of Criminal Procedure Article 881.6, the prosecuting attorney shall enter into a memorandum of understanding with the defendant.  Such memorandum of understanding shall be in writing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-881-7__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The memorandum of understanding shall be signed by the following:</p>
+          </content>
+          <paragraph eId="CCRP-881-7__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The prosecuting attorney or his designee.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tutor or legal guardian of the defendant, if the defendant is a minor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The attorney representing the defendant, if the defendant is represented by counsel.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-881-7__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The memorandum of understanding shall not be considered a grant of immunity from criminal prosecution.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-881-7__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The memorandum of understanding shall include the entirety of the agreement between the state and the defendant and shall include the following information:</p>
+          </content>
+          <paragraph eId="CCRP-881-7__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A statement that the state may move for the defendant to receive a reduction of sentence in return for the defendant providing substantial assistance in furtherance of the investigation or prosecution of another person.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A statement that the sentencing court shall examine information provided by the state in determining the nature and extent of the assistance provided by the defendant and the reduction of sentence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A statement that the sentencing court shall not be permitted to reduce the defendant's sentence to a time period which is less than the minimum sentence provided by law without the consent of the district attorney.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A statement that the memorandum of understanding constitutes the entirety of the agreement between the state and the defendant and that the district attorney shall not recommend a reduction of  the defendant's sentence for assistance not described in the memorandum of understanding nor to any greater extent than that which is described in the memorandum of understanding.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_D__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A statement that the sentencing court may choose not to grant the motion for reduction of sentence or accept any sentencing recommendation made by the state.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-881-7__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The memorandum of understanding shall detail the responsibilities agreed to by the defendant relating to any substantial assistance provided by the defendant in the furtherance of an investigation or prosecution of another person and any possible reduction of sentence, including but not limited to the following:</p>
+          </content>
+          <paragraph eId="CCRP-881-7__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A requirement that the defendant provide complete and truthful information to all law enforcement officials related to all relevant investigations.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A statement of the substance of the proposed testimony of the witness.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-881-7__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The memorandum of understanding shall detail the responsibilities agreed to by the state relating to the reduction of sentence, including but not limited to the following:</p>
+          </content>
+          <paragraph eId="CCRP-881-7__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The circumstances under which the state will move for a reduction of sentence pursuant to Code of Criminal Procedure Article 881.6, including the nature and level of assistance the defendant is required to provide before the state will move for such reduction of sentence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The range of the sentencing recommendation that the state agrees to make  to the sentencing court in a motion for reduction of sentence and that the district attorney shall make no other recommendation than that which is described in the memorandum of understanding.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The reduction of sentence the state will recommend for each particular instance of assistance or form of assistance when the defendant provides assistance in more than one investigation or prosecution.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881-7__subsec_F__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The circumstances in which the district attorney shall consent to a reduction of sentence to a time period that is less than the minimum sentence provided by law.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-881-7__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>When the defendant meets his obligation as described in the memorandum of understanding, the state shall move for a reduction of sentence in accordance with the memorandum of understanding.  The memorandum of understanding shall be filed into the criminal record.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=762597</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

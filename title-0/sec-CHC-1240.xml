@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1240"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1240"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1240"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1240/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1240/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1240/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1240/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1240">
+        <num>CHC 1240</num>
+        <heading>1240.  Effect of final decree</heading>
+        <subsection eId="CHC-1240__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided in this Title, upon a final decree of private adoption, the parents of the child whose rights have not been previously terminated by a surrender or a judgment of termination and all other blood relatives of the child are relieved of all their legal duties and divested of all their legal rights with regard to the adopted child, including the right of inheritance from the adopted child and his lawful descendants, and the adopted child is relieved of all of his legal duties and divested of all his legal rights with regard to the parents, except as provided in Paragraph B.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1240__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The right of the child to inherit from his parents and other blood relatives is unaffected by the adoption.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1240__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Under the circumstances and pursuant to the procedures authorized by Chapter 14 of this Title, grandparents may obtain limited visitation rights to the adopted child.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72713</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

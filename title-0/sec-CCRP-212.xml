@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-212"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-212"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 212"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-212/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-212/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-212/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-212/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-212">
+        <num>CCRP 212</num>
+        <heading>212.  Securing jurisdiction over corporation, partnership, or other unincorporated association</heading>
+        <subsection eId="CCRP-212__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a corporation, or partnership, or other association of persons not incorporated, is charged with the commission of an offense, the court before which the case is to be tried shall issue a summons stating the offense charged and ordering the defendant to appear before the court at a time and place stated in the summons.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-212__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The summons is served in the same manner as the citation of a corporation, or partnership, or other association of persons not incorporated, in a civil action.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-212__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the corporation, or partnership, or other association of persons not incorporated, fails to appear as ordered, a plea of not guilty shall be entered by the court.  Without further process, the trial shall be held and the court shall proceed to judgment and sentence as though the defendant had appeared.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112360</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

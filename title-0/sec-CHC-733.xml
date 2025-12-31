@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-733"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-733"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 733"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-733/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-733/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-733/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-733/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-733">
+        <num>CHC 733</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-733__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A peace officer, probation officer, district attorney, or other person designated by the court may file a verified complaint alleging facts showing that there are reasonable grounds to believe that the family is in need of services and that emergency removal of the child from his home is necessary to secure the child's protection or control.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-733__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the court determines that the child's welfare cannot be safeguarded without removal, the court may issue an instanter order directing that the child be taken into custody.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-733__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The order shall specify the place of the child's prehearing placement in accordance with Article 737.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-733__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>An instanter order may be executed by any peace officer having territorial jurisdiction over the child or any other person designated by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-733__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Any peace officer having territorial jurisdiction over the child or any other person designated by the court may serve a summons upon a caretaker to appear at court for a hearing.  A copy of the summons shall be filed in the record as proof of service.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73322</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

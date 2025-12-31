@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-6-7"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-6-7"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 6.7"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-6-7/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-6-7/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-6-7/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-6-7/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-6-7">
+        <num>SRULE 6.7</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-6-7__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>No senator shall speak more than twice on any question without permission of the Senate, or be interrupted when speaking, except by a call to order by the President or by a senator through the President. However, the mover of a motion and the introducer of a legislative instrument shall have the privilege of opening the debate thereon and of closing the debate even after the previous question has been ordered.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-6-7__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The Senate may at any time, by a majority vote, limit debate so that no senator shall be permitted to speak longer than one hour at one time without permission of the Senate. A motion to that effect shall be in order at any time, taking precedence over every other motion, except a motion to adjourn.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-6-7__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When the reading of a paper other than a legislative instrument is called for and the same is objected to by any senator, it shall be determined by a vote of the Senate, without debate.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180530</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-581"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-581"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 581"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-581/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-581/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-581/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-581/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-581">
+        <num>CHC 581</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-581__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Child Protection Representation Commission, referred to hereinafter as the
+&quot;commission&quot;, is hereby established for the purpose of reviewing the system of
+representation of children and indigent parents in child protection cases as provided in
+Chapters 5 and 6 of this Title.  The commission shall be composed of the following
+members:</p>
+          </content>
+          <paragraph eId="CHC-581__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The secretary of the Department of Children and Family Services or his designee.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-581__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The chief justice of the Louisiana Supreme Court or his designee.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-581__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The chairman of the House Committee on Civil Law and Procedure or his
+designee.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-581__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The chairman of the Senate Committee on Judiciary A or his designee.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-581__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The president or designee of the Louisiana Bar Association.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-581__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The executive director or designee of the Louisiana District Attorneys
+Association.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-581__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The state public defender or designee of the Louisiana Public Defender Board.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-581__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The president or designee of the Louisiana Council of Juvenile and Family Court
+Judges.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-581__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The chairwoman of the Louisiana Legislative Women's Caucus or her designee.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-581__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The members of the commission shall serve without compensation, except for the
+members of the legislature who shall receive a per diem in accordance with R.S. 42:3.1.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-581__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The commission shall request and have the authority to obtain all information
+necessary to review the system of representation and shall meet periodically but in no event
+less than once annually.  The commission shall ascertain the continued effectiveness and
+efficiency of the system and the adequacy of funding and may, at its discretion, issue such
+reports and recommendations as it deems necessary to ensure the programmatic efficacy and
+fiscal viability of the system.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=921030</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

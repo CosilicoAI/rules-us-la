@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-523"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-523"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 523"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-523/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-523/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-523/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-523/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-523">
+        <num>CHC 523</num>
+        <heading>523.  Governance of child advocacy centers; board of directors; bylaws; staff</heading>
+        <subsection eId="CHC-523__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A child advocacy center established after August 15, 2003, as an independent nonprofit corporation shall be governed by a child advocacy board of directors, hereafter referred to as a &quot;board&quot;, broadly representative of the community and organized in conformity with this Article.  If a child advocacy center is a nonprofit corporation established before August 15, 2003, the corporation has until November 13, 2003, in which to revise, if necessary, its policies and procedures to comply with the requirements of this Chapter. All other Child Advocacy Centers under an umbrella of nonprofit corporations shall organize advisory councils or other groups that are broadly representative of the community and organized as nearly practicable in accordance with this Article to advise the corporation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-523__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>By a majority vote, the board shall adopt a written set of bylaws, multidisciplinary team investigative protocols in accordance with Articles 510 and 512 of this Title, interviewing guidelines and other written policies required by Article 524 of this Title, and a confidentiality policy in accordance with Article 525 of this Title.  The board may add other bylaws or protocols as needed from time to time.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-523__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>By a majority vote, the board shall also adopt necessary administrative policies and procedures, including provision for employees' job descriptions, supervision, salary, insurance and other benefits, liability coverage, and a policy of nondiscrimination in hiring or service.
+D.</p>
+          </content>
+          <paragraph eId="CHC-523__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The board shall employ a director and such additional administrative and service staff as needed to offer services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-523__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The board shall also cause the sheriff and the Department of Children and Family Services to request that the Louisiana Bureau of Criminal Identification and Information conduct an examination of the criminal history record and identification files of the bureau for any applicant seeking employment at a child advocacy center.  The sheriff and the department shall provide a written certificate indicating whether any information was discovered or that no information was found, all in accordance with the applicable rules and regulations promulgated by the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-523__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The board, to the fullest extent possible, shall strive to hire employees who reflect the diversity of the served community.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-523__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The board shall have authority to accept any funds appropriated by the state or by any local governmental unit, any funds or grants allocated to it by any agency of the state or local governmental unit, and by any private donations.  The board shall also have authority to apply for, receive, and administer any federal or state grants in its own name.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-523__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Unless specifically provided for by this Article or by the provisions of the bylaws, the board and the operations of a child advocacy center shall be governed by the provisions of Chapter 2 of Title 12 of the Louisiana Revised Statutes of 1950.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113452</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

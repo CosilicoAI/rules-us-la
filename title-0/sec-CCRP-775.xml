@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-775"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-775"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 775"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-775/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-775/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-775/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-775/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-775">
+        <num>CCRP 775</num>
+        <heading>775.  Mistrial; grounds for</heading>
+        <subsection eId="CCRP-775__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The defendant consents thereto;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-775__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The jury is unable to agree upon a verdict;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-775__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>There is a legal defect in the proceedings which would make any judgment entered upon a verdict reversible as a matter of law;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-775__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The court finds that the defendant does not have the mental capacity to proceed;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-775__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>It is physically impossible to proceed with the trial in conformity with law; or</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-775__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>False statements of a juror on voir dire prevent a fair trial.
+Upon motion of a defendant, a mistrial shall be ordered, and in a jury case the jury dismissed, when prejudicial conduct in or outside the courtroom makes it impossible for the defendant to obtain a fair trial, or when authorized by Article 770 or 771.
+A mistrial shall be ordered, and in a jury case the jury dismissed, when the state and the defendant jointly move for a mistrial.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112772</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

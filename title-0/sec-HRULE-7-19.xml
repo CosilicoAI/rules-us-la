@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-19"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-19"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 7.19"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-19/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-19/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-19/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-19/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-7-19">
+        <num>HRULE 7.19</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-7-19__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>For purposes of this Rule, the following phrases shall have the following 
+meanings:</p>
+          </content>
+          <paragraph eId="HRULE-7-19__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Federal disaster funds&quot; means money received by the state from the federal
+government in response to and for recovery from a federally declared disaster or emergency.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-19__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Money available for appropriation&quot; means the amount of money to be received
+for a fiscal year by the state general fund and dedicated funds, exclusive of federal funds.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-19__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;One-time money&quot; means any one of the following:</p>
+            </content>
+            <subparagraph eId="HRULE-7-19__subsec_B__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Money available for appropriation from any special treasury fund  excluding any
+monies forecast to be dedicated into such a fund by the Revenue Estimating Conference in
+the official forecast for that fiscal year.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-7-19__subsec_B__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Money available for appropriation from the state general fund from one time
+transactions, but not recognized as nonrecurring revenue by the Revenue Estimating
+Conference, including but not limited to court settlements, the sale of state facilities, and the
+privatization of state operations.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="HRULE-7-19__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Ordinary recurring expenses&quot; means all expenses of a continuing or recurring
+character, that in the normal course of administration, would be expected to be necessary in
+approximately the same amounts each year.
+C.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-19__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A motion the effect of which is to finally pass an appropriation bill that
+appropriates one-time money for ordinary recurring expenses shall be in order without a
+separate prior motion authorizing the use of such money if:</p>
+            </content>
+            <subparagraph eId="HRULE-7-19__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The total recommended general operating appropriations contained in the
+executive budget for the fiscal year for which the appropriation is recommended are less than
+or equal to the total general operating appropriations for the existing operating budget of the
+current fiscal year included in the executive budget; and</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-7-19__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Appropriations from one-time money for ordinary recurring expenses do not
+exceed the projected growth of the state general fund from the fiscal year for which the
+appropriation is proposed and the subsequent fiscal year according to the most recent official
+forecast.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="HRULE-7-19__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A motion the effect of which is to finally pass an appropriation bill that
+appropriates federal disaster funds for ordinary recurring expenses shall be in order without
+a separate prior motion authorizing the use of such money if:</p>
+            </content>
+            <subparagraph eId="HRULE-7-19__subsec_B__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Ordinary recurring expenses are not increased above amounts budgeted
+immediately prior to the federal declaration of the disaster or emergency.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-7-19__subsec_B__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The federal disaster funds are payable to the state on a reimbursement basis.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-7-19__subsec_B__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Revenue Estimating Conference adopts a revised forecast that indicates that
+ordinary recurring revenues are sufficient to fully fund any increase in ordinary recurring
+expenses for the current fiscal year and at least the next two fiscal years.
+D.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="HRULE-7-19__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Prior to consideration on third reading and final passage of any appropriation
+bill, the Legislative Fiscal Officer shall submit a report to the House of Representatives
+which shall indicate whether the appropriation bill appropriates one-time money or federal
+disaster funds for ordinary recurring expenses. No appropriation bill shall be considered
+unless the report of the Legislative Fiscal Officer has been placed on the desk of each
+member.
+(2)</p>
+            </content>
+            <subparagraph eId="HRULE-7-19__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prior to the adoption of any  Committee of the Whole House Amendment, any
+floor amendment, and any conference committee report  to an appropriation bill, the
+presiding officer, after giving due consideration to the advice of legislative staff, shall make
+a determination if the amendment or any amendment recommended by the conference
+committee, as the case may be, appropriates one-time money or federal disaster funds for
+ordinary recurring expenses.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-7-19__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prior to concurrence in an amendment to an appropriation bill, the presiding
+officer, after giving due consideration to the advice of legislative staff, shall make a
+determination if the amendment appropriates one-time money or federal disaster funds for
+ordinary recurring expenses.
+HR 27, 2011, eff. May 23, 2011; HR 17, 2022, eff. May 31, 2022.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=762046</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

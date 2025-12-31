@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-2334"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-2334"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 2334"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-2334/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-2334/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-2334/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-2334/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-2334">
+        <num>CCP 2334</num>
+        <heading>2334.  Reading of advertisement and certificates</heading>
+        <subsection eId="CCP-2334__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At the time and place designated for the sale, the sheriff shall read aloud all or
+part of the advertisement describing the property in such sufficiency as to reasonably provide
+notice to the public of the property being offered for sale, which, at a minimum, shall include
+the lot and subdivision or municipal number or the section, township, and range, including
+some identifying mark, if appropriate, and a reference to the conveyance or mortgage
+recordation.  The sheriff shall also read aloud a mortgage certificate and any other certificate
+required by law or otherwise provide, at least twenty-four hours prior to the sale, a copy of
+these certificates to the public by means of public posting, written copies, electronic means,
+or by any other method.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2334__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In the case of sale through an online auction in accordance with Article 2344, the
+requirements of Article 2344(D) apply.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2334__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The failure of the sheriff to procure, read aloud, or provide a copy of any
+certificate as required by this Article, or to comply with the requirements of Article 2344(D)
+in the case of an online auction, shall not impact the validity of the sale and shall not give
+rise to any cause of action against the sheriff, the seizing creditor, or the purchaser arising
+out of the failure.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111433</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

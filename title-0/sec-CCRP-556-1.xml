@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-556-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-556-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 556.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-556-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-556-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-556-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-556-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-556-1">
+        <num>CCRP 556.1</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-556-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In a felony case, the court shall not accept a plea of guilty or nolo contendere
+without first addressing the defendant personally in open court and informing him of, and
+determining that he understands, all of the following:</p>
+          </content>
+          <paragraph eId="CCRP-556-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The nature of the charge to which the plea is offered, the mandatory minimum
+penalty provided by law, if any, and the maximum possible penalty provided by law.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-556-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the defendant is not represented by an attorney, that he has the right to be
+represented by an attorney at every stage of the proceeding against him and, if financially
+unable to employ counsel, one will be appointed to represent him.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-556-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>That he has the right to plead not guilty or to persist in that plea if it has already
+been made, and that he has the right to be tried by a jury and at that trial has the right to the
+assistance of counsel, the right to confront and cross-examine witnesses against him, and the
+right not to be compelled to incriminate himself.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-556-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>That if he pleads guilty or nolo contendere there will not be a further trial of any
+kind, so that by pleading guilty or nolo contendere he waives the right to a trial.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-556-1__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>That if he pleads guilty or nolo contendere, he may be subject to additional
+consequences or waivers of constitutional rights in the following areas as a result of his plea
+to be informed as follows:</p>
+            </content>
+            <subparagraph eId="CCRP-556-1__subsec_A__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Defense counsel or the court shall inform him regarding:</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-556-1__subsec_A__subsec_5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Potential deportation, for a person who is not a United States citizen.
+(ii)  The right to vote.
+(iii)  The right to bear arms.
+(iv)  The right to due process.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-556-1__subsec_A__subsec_5__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>The right to equal protection.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-556-1__subsec_A__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Defense counsel or the court may inform him of additional direct or potential
+consequences impacting the following:</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-556-1__subsec_A__subsec_5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>College admissions and financial aid.
+(ii)  Public housing benefits.
+(iii)  Employment and licensing restrictions.
+(iv)  Potential sentencing as a habitual offender.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-556-1__subsec_A__subsec_5__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>Standard of proof for probation or parole revocations.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-556-1__subsec_A__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Failure to adhere to the provisions of Subsubparagraphs</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-556-1__subsec_A__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-556-1__subsec_A__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this
+Subparagraph shall not be considered an error, defect, irregularity, or variance affecting the
+substantial rights of the accused and does not constitute grounds for reversal pursuant to
+Article 921.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-556-1__subsec_A__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>It shall be sufficient to utilize a form which conveys this information to the client
+and the form shall constitute prima facie evidence that the content was conveyed and
+understood.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-556-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In a felony case, the court shall not accept a plea of guilty or nolo contendere
+without first addressing the defendant personally in open court and determining that the plea
+is voluntary and not the result of force or threats or of promises apart from a plea agreement.
+C.</p>
+          </content>
+          <paragraph eId="CCRP-556-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court shall also inquire as to whether the defendant's willingness to plead
+guilty or nolo contendere results from prior discussions between the district attorney and the
+defendant or his attorney.  If a plea agreement has been reached by the parties, the court, on
+the record, shall require the disclosure of the agreement in open court or, on a showing of
+good cause, in camera, at the time the plea is offered.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-556-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court shall further inquire of the defendant and his attorney whether the
+defendant has been informed of all plea offers made by the state.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-556-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In a felony case a verbatim record shall be made of the proceedings at which the
+defendant enters a plea of guilty or nolo contendere.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-556-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Any variance from the procedures required by this Article which does not affect
+substantial rights of the accused shall not invalidate the plea.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-556-1__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Nothing in this Article prohibits the court, by local rule, from providing for a
+defendant's appearance at the entry of his plea of guilty or nolo contendere by simultaneous
+audio-visual transmission in accordance with the provisions of Article 562.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112613</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

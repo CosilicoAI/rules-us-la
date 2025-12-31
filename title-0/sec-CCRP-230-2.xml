@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 230.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-230-2">
+        <num>CCRP 230.2</num>
+        <heading>230.2.  Probable cause determinations; persons arrested without a warrant and continued in custody; bail</heading>
+        <subsection eId="CCRP-230-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A law enforcement officer effecting the arrest of a person without a warrant shall promptly complete an affidavit of probable cause supporting the arrest of the person and submit it to a magistrate.  Persons continued or remaining in custody pursuant to an arrest made without a warrant shall be entitled to a determination of probable cause within forty-eight hours of arrest.  The probable cause determination shall be made by a magistrate and shall not be an adversary proceeding.  The determination may be made without the presence of the defendant and may be made upon affidavits or other written evidence, which may be transmitted to the magistrate by means of facsimile transmission or other electronic means.  A magistrate's determination of probable cause hereunder shall not act as a waiver of a person's right to a preliminary examination pursuant to Article 292.
+B.</p>
+          </content>
+          <paragraph eId="CCRP-230-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If a probable cause determination is not timely made in accordance with the provisions of Paragraph A of this Article, the arrested person shall be released on his own recognizance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-230-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in this Paragraph shall preclude the defendant's rearrest and resetting of bond for the same offense or offenses upon the issuance of an arrest warrant based upon a finding of probable cause by a magistrate.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112389</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

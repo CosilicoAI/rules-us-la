@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1302.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1302-1">
+        <num>CHC 1302.1</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1302-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In a proceeding to establish or enforce a support order or to determine parentage
+of a child, a tribunal of this state may exercise personal jurisdiction over a nonresident
+individual or the individual's guardian, curator, or tutor, if:</p>
+          </content>
+          <paragraph eId="CHC-1302-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The individual is personally served with citation, summons, or notice within this
+state;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The individual submits to the jurisdiction of this state by consent in a record, by
+entering a general appearance, or by filing a responsive document having the effect of
+waiving any contest to personal jurisdiction;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The individual resided with the child in this state;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The individual resided in this state and provided prenatal expenses or support for
+the child;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-1__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The child resides in this state as a result of the acts or directives of the individual;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-1__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The individual engaged in sexual intercourse in this state and the child may have
+been conceived by that act of intercourse;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-1__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The individual asserted parentage of a child in the putative father registry
+maintained in this state by the Louisiana Department of Health, office of public health; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-1__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>There is any other basis consistent with the constitutions of this state and the
+United States for the exercise of personal jurisdiction.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1302-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The basis for personal jurisdiction set forth in Paragraph A or in any other law of
+this state may not be used to acquire personal jurisdiction for a tribunal of this state to modify
+a child support order of another state unless the requirements of Article 1306.11 are met, or,
+in the case of a foreign support order, unless the requirements of Article 1306.15 are met.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72799</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

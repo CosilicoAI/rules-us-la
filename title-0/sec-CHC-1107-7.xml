@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-7"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-7"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1107.7"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-7/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-7/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-7/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-7/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1107-7">
+        <num>CHC 1107.7</num>
+        <heading>1107.7.  Objection to intent to surrender for adoption; effect</heading>
+        <subsection eId="CHC-1107-7__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If an alleged or adjudicated father timely files with the court an objection to the intent to surrender for adoption, in accordance with Article 1107.8, he shall be deemed to have filed a timely opposition to the adoption in accordance with Article 1137.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1107-7__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Within ninety days of the filing of her intent to surrender, the mother may file a motion for hearing to determine the father's parental rights.  The court shall schedule a hearing to decide whether the father has established or forfeited his parental rights in accordance with Article 1138 within twenty days after the time the father was served with the motion for hearing.  If the father fails to establish his parental rights, he shall be deemed to have waived notice of the filing and service of any pleading in any subsequent surrender or adoption proceeding and to have no cause of action to challenge the child's adoption and his parental rights are subject to termination upon the filing and approval of the mother's surrender.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1107-7__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the mother thereafter files a surrender within ninety days of the filing of her intent to surrender and the father's rights have not been previously determined to be waived pursuant to Paragraph B of this Article, such a father shall be entitled to receive notice of its filing.  The court shall schedule a hearing to decide whether the father has established or forfeited his parental rights, in accordance with Article 1138, within twenty days after the time he was served with the notice of the surrender.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1107-7__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the mother does not file a motion for hearing pursuant to Paragraph B of this Article or thereafter file a surrender within ninety days of the filing of her intent to surrender, the intent to surrender shall be dissolved and shall be without legal consequences.  Evidence of the intent to surrender, now dissolved, shall not be considered evidence of unfitness.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180619</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

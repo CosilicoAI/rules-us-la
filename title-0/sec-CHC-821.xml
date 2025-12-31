@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-821"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-821"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 821"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-821/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-821/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-821/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-821/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-821">
+        <num>CHC 821</num>
+        <heading>821.  Continued custody hearing</heading>
+        <subsection eId="CHC-821__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At the outset of the continued custody hearing, if not before, the court shall advise the child of his rights to counsel pursuant to Articles 809 and 810.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-821__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>At the continued custody hearing, the state and the child may produce witnesses, who shall be examined in the presence of the child and shall be subject to cross-examination.  The child may also testify, subject to cross-examination.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-821__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Hearsay evidence shall be admissible.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-821__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If probable cause has not been demonstrated, the court shall order the child's release.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-821__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If probable cause has been demonstrated, the court may release the child.  The court may also require bail or other security pursuant to Articles 823 through 825 if the court finds that such is necessary to secure the child's appearance for subsequent hearings.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-821__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Notwithstanding any other provisions of this Code to the contrary, and due to the expedited nature of these hearings, in a judicial district comprised of more than one parish, a continued custody hearing may be conducted in any parish in the judicial district.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73412</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

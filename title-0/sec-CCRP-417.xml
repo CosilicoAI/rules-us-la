@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-417"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-417"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 417"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-417/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-417/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-417/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-417/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-417">
+        <num>CCRP 417</num>
+        <heading>417.  Proces verbal; summoning of petit jurors; parishes other than Orleans</heading>
+        <subsection eId="CCRP-417__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In parishes other than Orleans, the clerk of court shall make a proces verbal of the selection of the general venire and of the drawing of the grand jury venire and of the petit jury venire.  It shall be certified to by a member of the commission and shall be filed in the clerk's office as a public record.
+The clerk shall make a list of the names on the grand jury venire and on the petit jury venire, showing the week for which each petit jury venire is to serve.  The lists, together with the general venire list, shall be a part of the proces verbal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-417__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The clerk shall cause a copy of the petit jury venire list and grand jury venire list to be published in the official journal of the parish, if there be one, or in some other newspaper published in the parish, or, if there is no official journal or other newspaper in said parish, he shall post a copy of the lists on the door of the courthouse.
+C.</p>
+          </content>
+          <paragraph eId="CCRP-417__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The clerk shall prepare subpoenas directed to the persons on the petit jury venire and deliver them to the sheriff for service.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-417__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The sheriff, at the election of the district judges of the judicial district in which the parish lies, may serve such subpoenas by:</p>
+            </content>
+            <subparagraph eId="CCRP-417__subsec_B__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Personal or domiciliary service, or by registered, certified, or regular mail addressed to such juror at his usual residence or business address.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-417__subsec_B__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When the service is by mail, the date of mailing shall not be less than fifteen days prior to the date on which the addressee is subpoenaed to appear.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-417__subsec_B__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When service is by registered or certified mail, the sheriff shall attach to his return the return receipt of delivery from the United States Post Office showing the disposition of the envelope bearing the summons to the juror.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-417__subsec_B__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>When service is by regular mail, the return shall show the date of mailing.  In case of service by regular mail, prior to any contempt citation, the person shall be served by registered or certified mail with return receipt requested.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-417__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The return, with the attached return receipt of delivery, when received by the clerk, shall form part of the record and shall be considered prima facie correct and shall constitute sufficient basis for an action to cite persons for contempt for failure to appear in response thereto.
+Amended by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112528</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

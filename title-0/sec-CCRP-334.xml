@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-334"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-334"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 334"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-334/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-334/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-334/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-334/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-334">
+        <num>CCRP 334</num>
+        <heading>334.  Notice of warrant for arrest</heading>
+        <content>
+          <p>Art. 334.  Notice of warrant for arrest
+After a warrant for arrest is issued, the clerk of court shall, within sixty days of the
+defendant's failure to appear, send a notice of warrant for arrest to the prosecuting attorney. 
+The notice shall also be sent by United States mail or electronic means to the defendant, the
+bail agent or bondsman, if any, and the personal surety.  Notice shall be sent by electronic
+means or by certified mail return receipt requested to the commercial surety.  When the agent
+or bondsman has filed a &quot;Notice of Electronic Notification Opt In&quot; form with the clerk of
+court, the notice of warrant for arrest shall be sent to the agent or bondsman by electronic
+means.  All notices shall be sent to the addresses provided pursuant to Article 329 or an
+address registered with the Department of Insurance. The notice to the commercial surety
+shall include the power of attorney number used to execute the bail undertaking.  Failure to
+include the power of attorney number shall not affect the validity or enforcement of a
+resulting judgment.  After sending the notice of warrant for arrest, the clerk of court shall
+execute a certificate that notice was sent and place the certificate in the record.  Failure to
+send notice to the commercial surety and the agent or bondsman who has opted into
+electronic notification within sixty days of the defendant's failure to appear shall release the
+surety of all obligations under the bail undertaking.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112457</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

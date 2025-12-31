@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-903-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-903-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 903.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-903-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-903-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-903-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-903-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-903-3">
+        <num>CCRP 903.3</num>
+        <heading>903.3.  Substance abuse treatment program; cost</heading>
+        <subsection eId="CCRP-903-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A defendant who is placed under the supervision of the substance abuse probation
+program shall pay the cost of the treatment program to which he is assigned and the cost of
+any additional supervision that may be required to the extent of his financial resources as
+determined by the substance abuse treatment program.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-903-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the defendant does not have the financial resources to pay all the related costs
+of the probation program, the court may do either of the following:</p>
+          </content>
+          <paragraph eId="CCRP-903-3__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To the extent practicable, arrange for the defendant to be assigned to a treatment
+program funded by the state or federal government.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-903-3__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>With the recommendation of the treatment program, order the defendant to
+perform supervised work for the benefit of the community in lieu of paying all or a part of
+the costs related to his treatment and supervision.  The work shall be performed for and under
+the supervising authority of a parish, municipality, or other political subdivision or agency
+of the state or a charitable organization that renders service to the community or its residents.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=859223</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

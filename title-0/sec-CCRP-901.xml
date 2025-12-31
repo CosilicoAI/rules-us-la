@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-901"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-901"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 901"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-901/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-901/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-901/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-901/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-901">
+        <num>CCRP 901</num>
+        <heading>901.  Revocation for commission of another offense</heading>
+        <subsection eId="CCRP-901__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In addition to the grounds for revocation of probation enumerated in Article 900,
+a defendant who is on probation for a felony who subsequently commits and is convicted of
+a felony under the laws of this state, another state, the United States, or the District of
+Columbia, and which if committed in this state would be a felony, shall have his probation
+revoked as of the date of the commission of the felony or final conviction of the felony.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-901__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a defendant who is under a suspended sentence or on probation for a
+misdemeanor commits or is convicted of any offense under the laws of this state, a political
+subdivision thereof, another state or a political subdivision thereof, the United States, or the
+District of Columbia, his suspended sentence or probation may be revoked as of the date of
+the commission or final conviction of the offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-901__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In cases of revocation provided for in this Article:</p>
+          </content>
+          <paragraph eId="CCRP-901__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>No credit shall be allowed for time spent on probation or for the time elapsed
+during suspension of the sentence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-901__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When the new conviction is a Louisiana conviction, the court shall specify in the
+minutes whether the sentence shall run consecutively or concurrently with the sentence for
+the new conviction.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-901__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The defendant may be given credit for time served prior to the revocation hearing
+for time served in actual custody while being held for a probation violation in a local
+detention facility, state institution, or out-of-state institution pursuant to Article 880.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-901__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The provisions of this Article shall not apply to a defendant who, as an additional
+condition for the violation of his probation, has been ordered to complete a drug or specialty
+court program.  A defendant who is eligible for revocation of probation pursuant to
+Paragraph A of this Article and does not successfully complete such court-ordered drug or
+specialty court program shall have his probation revoked as of the date of the commission
+of the felony or final conviction of the felony.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112903</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

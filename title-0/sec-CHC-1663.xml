@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1663"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1663"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1663"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1663/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1663/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1663/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1663/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1663">
+        <num>CHC 1663</num>
+        <heading>1663.  Interstate Commission for Juveniles</heading>
+        <subsection eId="CHC-1663__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The compacting states hereby create the &quot;Interstate Commission for Juveniles&quot;.  The commission shall be a body corporate and joint agency of the compacting states.  The commission shall have all the responsibilities, powers and duties set forth herein, and such additional powers as may be conferred upon it by subsequent action of the respective legislatures of the compacting states in accordance with the terms of this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1663__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The Interstate Commission shall consist of commissioners appointed by the appropriate appointing authority in each state pursuant to the rules and requirements of each compacting state and in consultation with the State Council for Interstate Juvenile Supervision created hereunder.  The commissioner shall be the compact administrator, deputy compact administrator or designee from that state who shall serve on the Interstate Commission in such capacity under or pursuant to the applicable law of the compacting state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1663__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In addition to the commissioners who are the voting representatives of each state, the Interstate Commission shall include individuals who are not commissioners, but who are members of interested organizations.  Such non-commissioner members shall include a member of the National Organizations of Governors, legislators, state chief justices, attorneys general, Interstate Compact for Adult Offender Supervision, Interstate Compact for the Placement of Children, juvenile justice and juvenile corrections officials, and crime victims.  All non-commissioner members of the Interstate Commission shall be ex officio, non-voting members.  The Interstate Commission may provide in its bylaws for such additional ex officio, non-voting members, including members of other national organizations, as such numbers as shall be determined by the commission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1663__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Each compacting state represented at any meeting of the commission is entitled to one vote.  A majority of the compacting states shall constitute a quorum for the transaction of business, unless a larger quorum is required by the bylaws of the Interstate Commission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1663__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The commission shall meet at least once each calendar year.  The chairperson may call additional meetings and, upon the request of a simple majority of the compacting states, shall call additional meetings.  Public notice shall be given of all meetings and meetings shall be open to the public.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1663__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The Interstate Commission shall establish an executive committee, which shall include commission officers, members, and others as determined by the bylaws.  The executive committee shall have the power to act on behalf of the Interstate Commission during periods when the Interstate Commission is not in session, with the exception of rulemaking and/or amendment to the compact.  The executive committee shall oversee the day-to-day activities of the administration of the compact managed by an executive director and Interstate Commission staff; administer enforcement and compliance with the provisions of the compact, its bylaws and rules, and perform such other duties as directed by the Interstate Commission or set forth in the bylaws.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1663__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Each member of the Interstate Commission shall have the right and power to cast a vote to which that compacting state is entitled and to participate in the business and affairs of the Interstate Commission.  A member shall vote in person and shall not delegate a vote to another compacting state.  However, a commissioner, in consultation with the state council, shall appoint another authorized representative, in the absence of the commissioner from that state, to cast a vote on behalf of the compacting state at a specified meeting.  The bylaws may provide for members' participation in meetings by telephone or other means of telecommunication or electronic communication.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1663__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>The Interstate Commission's bylaws shall establish conditions and procedures under which the Interstate Commission shall make its information and official records available to the public for inspection or copying.  The Interstate Commission may exempt from disclosure any information or official records to the extent they would adversely affect personal privacy rights or proprietary interests.
+I.</p>
+          </content>
+          <paragraph eId="CHC-1663__subsec_H__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Public notice shall be given of all meetings and all meetings shall be open to the public, except as set forth in the rules or as otherwise provided in the compact.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1663__subsec_H__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Interstate Commission and any of its committees may close a meeting to the public where it determines by two-thirds vote that an open meeting would be likely to include or provide for any of the following:</p>
+            </content>
+            <subparagraph eId="CHC-1663__subsec_H__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Relate solely to the Interstate Commission's internal personnel practices and procedures.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1663__subsec_H__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Disclose matters specifically exempted from disclosure by statute.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1663__subsec_H__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Disclose trade secrets or commercial or financial information which is privileged or confidential.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1663__subsec_H__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Involve accusing any person of a crime, or formally censuring any person.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1663__subsec_H__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Disclose information of a personal nature where disclosure would constitute a clearly unwarranted invasion of personal privacy.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1663__subsec_H__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Disclose investigative records compiled for law enforcement purposes.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1663__subsec_H__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Disclose information contained in or related to examination, operating or condition reports prepared by, or on behalf of or for the use of, the Interstate Commission with respect to a regulated person or entity for the purpose of regulation or supervision of such person or entity.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1663__subsec_H__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Disclose information, the premature disclosure of which would significantly endanger the stability of a regulated person or entity.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1663__subsec_H__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Specifically relate to the Interstate Commission's issuance of a subpoena, or its participation in a civil action or other legal proceeding.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1663__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>For every meeting closed pursuant to this provision, the Interstate Commission's legal counsel shall publicly certify that, in the legal counsel's opinion, the meeting may be closed to the public, and shall reference each relevant exemptive provision.  The Interstate Commission shall keep minutes which shall fully and clearly describe all matters discussed in any meeting and shall provide a full and accurate summary of any actions taken, and the reasons therefor, including a description of each of the views expressed on any item and the record of any roll call vote, which shall reflect the vote of each member on the question.  All documents considered in connection with any action shall be identified in such minutes.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1663__subsec_K">
+          <num>K.</num>
+          <content>
+            <p>The Interstate Commission shall collect standardized data concerning the interstate movement of juveniles as directed through its rules which shall specify the data to be collected, the means of collection and data exchange and reporting requirements.  Such methods of data collection, exchange and reporting shall insofar as is reasonably possible conform to up-to-date technology and coordinate its information functions with the appropriate repository of records.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=181156</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

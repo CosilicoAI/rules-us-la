@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-626"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-626"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 626"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-626/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-626/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-626/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-626/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-626">
+        <num>CHC 626</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-626__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court may authorize continued custody of a child prior to adjudication if there
+are reasonable grounds to believe the child is in need of care and that continued custody is
+necessary for the health, welfare, and safety of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-626__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Except as otherwise provided in Article 672.1, the court shall determine whether
+the department has made reasonable efforts as defined in Article 603 to prevent or eliminate
+the need for removal of the child from the home and, after removal, to make it possible for
+the child to safely return home.  The health, welfare, and safety of the child shall be the
+paramount concern.  These determinations shall be supported by findings of fact contained
+in the continued custody order issued pursuant to Article 627.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-626__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court may deem the department to have made reasonable efforts to prevent
+or eliminate the need for removal if the department's first contact with the family occurred
+during an emergency which precluded those efforts.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-626__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The court may authorize the removal of the child even if the department's efforts
+have not been reasonable if the court determines that removal is necessary to secure the
+health, welfare, and safety of the child and that additional efforts would not keep the child
+safe from identified threats of danger.  The court may impose any sanctions it deems
+appropriate pursuant to Article 712.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-626__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The court may authorize, with the consent of the state, continued implementation
+of a safety plan prior to the adjudication if there are reasonable grounds to believe that the
+child is in need of care and that the continued implementation of the safety plan is necessary
+for the health, welfare, and safety of the child.  The safety plan shall continue to set forth
+conditions as determined or agreed upon by the state as necessary for the protection of the
+health, welfare, and safety of the child while remaining in the home.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73219</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

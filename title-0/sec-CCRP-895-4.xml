@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-4"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-4"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 895.4"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-4/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-4/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-4/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-4/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-895-4">
+        <num>CCRP 895.4</num>
+        <heading>895.4.  Probation; fees; certified crime stoppers organizations</heading>
+        <subsection eId="CCRP-895-4__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Legislative intent</p>
+          </content>
+          <paragraph eId="CCRP-895-4__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The legislature hereby declares that the intention of the legislature in enacting the provisions of this Article is to establish a procedure for raising revenue for the funding of certain operations of certified crime stoppers organizations and to ensure that the procedure established in this Article complies with the requirements of the Louisiana Constitution, and the pronouncements of the Louisiana Supreme Court concerning those requirements, which govern the collection and expenditure of statutory assessments, including fees and costs of court, which are imposed in criminal cases.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The legislature hereby recognizes the pronouncements of the Louisiana Supreme Court which hold that in order to comply with the requirements of the Louisiana Constitution, revenues which are raised through statutory assessments, including fees and costs of court, which are imposed in criminal cases must reasonably be related to the costs of administering the criminal justice system.  The legislature hereby declares that the crime stoppers activities of paying rewards, of operating hotlines, and of obtaining information on criminal activities are directly related to the administration of the criminal justice system and that the revenues which are raised under the provisions of this Article and which are used for those purposes are directly related to the costs of administering the criminal justice system.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The legislature hereby declares that the intention of the legislature in enacting the provisions of this Article which require certified crime stoppers organizations which apply for these funds to be certified to the local courts by the local sheriff or chief of police, and the provisions of this Article which exclude statewide officials from certifying statewide organizations under the provisions of this Article, is to provide that local revenues which are raised through local courts will be subject to local control in order to ensure that those revenues will be expended for purposes which are directly related to the costs of administering the local criminal justice system.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>As used in this Article, the following words shall have the following meanings ascribed to them:</p>
+          </content>
+          <paragraph eId="CCRP-895-4__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Certified crime stoppers organization&quot; means an organization which is certified as a certified crime stoppers organization by a certifying officer in accordance with the provisions of this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Certifying officer&quot; means a sheriff or a chief of police who is authorized by the provisions of this Article to certify one or more organizations as certified crime stoppers organizations.  &quot;Certifying officer&quot; does not include any official other than a sheriff or a chief of police who is authorized by the provisions of this Article to certify one or more organizations as certified crime stoppers organizations and specifically does not include any statewide official.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Court&quot; means any district court or any parish court, city court, mayor's court, magistrate court, traffic court, or other trial court of limited jurisdiction which has jurisdiction over criminal or traffic matters.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Criminal offense&quot; means any violation of any felony or misdemeanor criminal law or any violation of any criminal ordinance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Privileged communication&quot; means a statement by any person, in any manner whatsoever, to a certified crime stoppers organization for the purpose of reporting alleged criminal activity.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>&quot;Traffic offense&quot; means any violation of any traffic law or any traffic ordinance.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The sheriff in each parish, other than the parish of Orleans, may certify one or more organizations as certified crime stoppers organizations for the district court for that parish and for each other court in that parish for which the sheriff serves as executive officer.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The chief of the police department in each municipality, other than the city of New Orleans, which has a municipal, city, mayor's, magistrate, traffic, or other trial court of limited jurisdiction which has jurisdiction over criminal or traffic matters may certify one or more organizations as certified crime stoppers organizations for each court in that municipality.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>In the parish of Orleans and the city of New Orleans, the chief of the New Orleans Police Department may certify one or more organizations as certified crime stoppers organizations for the Criminal District Court for the parish of Orleans, or for each trial court of limited jurisdiction in that parish and municipality which has jurisdiction over criminal or traffic matters, or for any combination of those courts.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>In order to be certified as a certified crime stoppers organization for the purposes of this Article, the organization:</p>
+          </content>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Must be incorporated as a not-for-profit corporation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Must be qualified by the United States Internal Revenue Service as a not-for-profit corporation for the purposes of the United States Internal Revenue Code.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Must be incorporated for the purpose of accepting funds raised under the provisions of this Article and for expending those funds for the purposes set forth in Paragraph L of this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Must be incorporated for the purpose of accepting funds from sources other than this Article, including donations to the organization, and for expending those funds for any lawful purpose, including  the purposes set forth in Paragraph L of this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Must be incorporated for the purpose of forwarding to the appropriate law enforcement agency any and all information concerning criminal activity which the organization receives from any source.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Must establish and follow written standard operating procedures, directives, and policies.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Should enter into a written agreement or memorandum of understanding with each law enforcement agency with which the organization has a relationship.  Each written agreement or memorandum of understanding should define the procedures which should be used in the relationship and the duties and responsibilities of each of the parties to the relationship.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Should not have voting members of the board of directors of the organization who are active law enforcement officers, or representatives or employees of the criminal justice system, or government employees or officials.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Must establish procedures for determining fair rewards, for the payment of those rewards, and for protecting the anonymity of the persons who provide information and receive awards.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Must pay rewards for information which leads to the arrest of a suspect, or the filing of criminal charges, by indictment or bill of information, against a suspect.  The payment of a reward by the organization should not require a criminal conviction of a suspect.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_F__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Must maintain statistical data as to:</p>
+            </content>
+            <subparagraph eId="CCRP-895-4__subsec_F__subsec_11__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The number and the amounts of rewards that are paid by the organization.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-895-4__subsec_F__subsec_11__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The results which are obtained through the use of the information which was provided to law enforcement agencies by the organization, including the number and nature of the criminal charges which were filed, the type and the value of any controlled dangerous substances which were seized, and the type and the value of any stolen property which was recovered.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Each certifying officer shall use the following guidelines in determining which organizations, if any, to certify as certified crime stoppers organizations:</p>
+          </content>
+          <paragraph eId="CCRP-895-4__subsec_G__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The length of time for which the organization has existed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_G__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The relationship of the board of directors of the organization to the community which will be served by the organization.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_G__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The demonstrated ability of the organization to raise funds for crime stoppers purposes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-4__subsec_G__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The demonstrated ability of the organization to use the funds which it raises to obtain information which leads to arrests or indictments, or both, for violations of criminal laws or ordinances.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>Each certifying officer who certifies more than one organization as a certified crime stoppers organization shall determine how the funds raised through the courts for which those organizations are certified shall be allocated between or among those organizations.  Each certifying officer shall use the guidelines set forth in Paragraph G of this Article in determining how those funds shall be allocated.  In addition, when a certifying officer certifies an organization as a certified crime stoppers organization and that organization exists for the purpose of obtaining information about a specific type of criminal activity, the certifying officer may determine that only funds which are raised from convictions for violations of that specific type of criminal activity shall be allocated to that organization.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>When a defendant in a criminal or traffic matter is convicted of any criminal offense or of any traffic offense in any court for which the appropriate certifying officer has certified one or more organizations as certified crime stoppers organizations, the court shall assess an additional cost of court for each offense for which the defendant is convicted.  This cost of court shall be in the amount of two dollars and shall be in addition to all other fines, penalties, and costs imposed by the court.  The court shall not suspend the payment of this cost of court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>The court shall pay the proceeds from the additional cost of court to the certified crime stoppers organization each month.   If an appropriate certifying officer has certified more than one organization as a certified crime stoppers organization for a court, the court shall distribute the proceeds from the additional cost of court between or among those certified crime stoppers organizations in accordance with the determination of the allocation of those funds by the appropriate certifying officer.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_K">
+          <num>K.</num>
+          <content>
+            <p>All funds received by a certified crime stoppers organization under this Article shall be deposited into a separate account and shall be kept separate and apart from the other funds of the certified crime stoppers organization.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_L">
+          <num>L.</num>
+          <content>
+            <p>All funds received by a certified crime stoppers organization under this Article shall be used solely for the purposes of paying rewards to individuals who provide information on criminal activity to the certified crime stoppers organization, for the operation of a hot line used for receiving that information, and for other purposes which are directly related to obtaining information on criminal activities.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_M">
+          <num>M.</num>
+          <content>
+            <p>All funds received by a certified crime stoppers organization from sources other than this Article, including donations to the organization, may be expended for any lawful purpose, including the purposes set forth in Paragraph L above.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_N">
+          <num>N.</num>
+          <content>
+            <p>The legislative auditor shall have oversight over all funds which are raised, allocated, distributed, and expended under the provisions of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_O">
+          <num>O.</num>
+          <content>
+            <p>No person shall be required to disclose, by way of testimony or otherwise, a privileged communication between a person who submits a report of alleged criminal activity to a certified crime stoppers organization and the person who accepts the report on behalf of a certified crime stoppers organization or to produce, under subpoena, any records, documentary evidence, opinions, or decisions relating to such privileged communication in connection with any criminal case or proceeding or by way of any discovery procedure.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_P">
+          <num>P.</num>
+          <content>
+            <p>Any person arrested or charged with a criminal offense may petition the court for an in-camera inspection of the records of a privileged communication concerning such person made to a certified crime stoppers organization.  The petition shall allege facts showing that such records would provide evidence which would be favorable to the defendant and which would be relevant to the issues of the guilt or punishment of the defendant.  If the court determines that the defendant is entitled to all or any part of such records, the court may order production and disclosure as it deems appropriate.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-4__subsec_Q">
+          <num>Q.</num>
+          <content>
+            <p>The provisions of this Article are not intended and shall not be interpreted to adversely affect any party to any communication which is a privileged communication under the provisions of R.S. 15:477.1, regardless of whether the communication was made to a certified crime stoppers organization which is certified under the provisions of this Article or to a crime stoppers organization which is not certified under the provisions of this Article.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112896</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

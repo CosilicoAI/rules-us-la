@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1515"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1515"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1515"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1515/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1515/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1515/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1515/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1515">
+        <num>CHC 1515</num>
+        <heading>1515.  Petition; contents; form</heading>
+        <subsection eId="CHC-1515__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A petition for voluntary transfer of custody shall set forth specifically:</p>
+          </content>
+          <paragraph eId="CHC-1515__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name and address of all parents and legal custodians.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1515__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>An affirmation that the parents are knowingly and voluntarily transferring
+custody.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1515__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The full name and date of birth of the child whose custody is sought to be
+transferred.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1515__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The factual basis for the transfer of custody.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1515__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The nature, duration, and extent of the transfer of custody, including any terms
+and conditions.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1515__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The name and address of the agency, institution, or individual to whom the child
+is sought to be transferred and the relationship, if any, to the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1515__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Whether the Department of Children and Family Services has recommended a
+petition for voluntary transfer of custody be filed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1515__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Whether the child is an Indian child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1515__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The form for the petition shall be as follows:
+&quot;PETITION FOR VOLUNTARY TRANSFER OF CUSTODY
+The petition of_______ (all legal custodians of the child unless otherwise indicated
+in Paragraph III of the petition), domiciled in the parish of _______, respectfully represent(s):</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1515__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>That petitioner(s) reside at the following address(es):
+________________________________________________________________________
+________________________________________________________________________
+II.
+That petitioner(s) is/are the parent(s) and legal custodian(s) of the minor child(ren),
+namely _______________________________, whose date of birth is ______________ (add
+same information for all children subject to the petition), as more fully appears from the
+attached certificate(s) of birth.
+Is the child an Indian child?
+____                                      ____
+Yes                                        No
+III.
+That there are no other legal custodians of the child(ren) OR that a legal custodian,
+namely _______________________, is unable to join in this petition for the following
+reasons:
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+_______________________________________________________________________.
+IV.
+That petitioner(s) desire(s) to knowingly and voluntarily transfer custody of the above
+named children to ____________________________, which individual(s), institution or
+agency reside(s) at the following address:
+________________________________________________________ and who have the
+following relationship with the children:
+________________________________________________________________________
+________________________________________________________________________.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1515__subsec_V">
+          <num>V.</num>
+          <content>
+            <p>That petitioner(s) desire to transfer physical custody OR legal custody of the person
+of the children (indicate one) for the period of time ______________(specify intended
+duration) in accordance with the following terms and conditions
+________________________________________________________________________
+________________________________________________________________________
+(may include provisions for support and/or visitation).
+VI.
+That petitioners desire this transfer of custody for the following reasons:
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+_________________________________________________________________________
+________________________________________________________________________.
+Has the Department of Children and Family Services recommended to you that this
+petition be filed?
+________ _______
+Yes No
+If yes, state name of the Department of  Children and Family Services worker making
+the recommendation and the reasons for the recommendation with particularity.
+If the department has recommended that this petition be filed, you have a right to
+counsel.  Have you consulted with an attorney?
+________ _______
+Yes    No
+VII.
+That ________________________ has/have agreed to and does/do desire to accept
+custody of the child(ren) to the extent and under the terms and conditions stated in this
+petition, as more fully appears in the attached Affidavit of Acceptance.
+WHEREFORE, petitioner(s) pray(s) that there be judgment herein transferring
+custody of the child(ren), _______________, _____________, ________________,
+________________, to ________________________, to the extent and under the terms and
+conditions set forth in this petition.
+________________________________
+(Signature and address of Petitioner(s))
+or counsel for Petitioner(s)
+(If in proper person, petition shou</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1515__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The petitioner shall inform the court if he subsequently discovers information
+indicating that the child is an Indian child.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72983</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

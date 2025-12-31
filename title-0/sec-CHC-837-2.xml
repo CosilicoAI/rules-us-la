@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-837-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-837-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 837.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-837-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-837-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-837-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-837-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-837-2">
+        <num>CHC 837.2</num>
+        <heading>837.2.  Report of restoration service provider</heading>
+        <subsection eId="CHC-837-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A restoration service provider shall submit a report to the court, the district attorney, and counsel representing the child ninety days after the initial contradictory hearing to determine the mental capacity of the child to proceed and every ninety days thereafter, as long as the child is receiving restoration services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-837-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Each report shall include all of the following:</p>
+          </content>
+          <paragraph eId="CHC-837-2__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The services provided to the child, including medication, education, and counseling.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-837-2__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The likelihood that the mental capacity of the child to proceed will be restored in the foreseeable future.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-837-2__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The progress of the child including his ability to:</p>
+            </content>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Understand and appreciate the delinquency allegations against him.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Understand and appreciate the range and nature of possible adjudications and the range of dispositions that may be imposed.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Comprehend his situation in relation to the proceedings.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Make simple decisions in response to well-explained alternatives.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Distinguish an admission from a denial and understand and appreciate the consequences of each.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Understand and appreciate his legal rights.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Understand and appreciate what defenses are available and maintain a consistent defense.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Understand and appreciate the adversarial nature of the legal process, including the roles of the judge, defense counsel, and the district attorney.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Disclose to counsel facts pertinent to the proceedings at issue and aid counsel in locating and examining relevant witnesses.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Display appropriate courtroom behavior.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Testify relevantly without his mental state deteriorating under the stress of trial.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-837-2__subsec_B__subsec_3__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Listen to witness testimony and inform counsel of any distortions and misstatements.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-837-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the child has been placed by the court in an out-of-home placement, the report shall also include an assessment of the danger the child poses to himself or others and an assessment of the appropriateness of the placement.  In addition, the restoration service provider or agency with custody of the child shall also file a report which includes all components required in Paragraph B of this Article at any time the provider or agency determines that the child has attained the mental capacity to proceed or out-of-home placement is no longer appropriate.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-837-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Testimony from a restoration service provider and reports provided to the court regarding restoration services shall not include any statement of the child relating to the alleged offense, and no such statement may be used against the child in subsequent court proceedings.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=408270</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-821"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-821"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 821"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-821/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-821/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-821/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-821/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-821">
+        <num>CCRP 821</num>
+        <heading>821.  Motion for post verdict judgment of acquittal</heading>
+        <subsection eId="CCRP-821__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The defendant may move for a post verdict judgment of acquittal following the verdict.  A motion for a post verdict judgment of acquittal must be made and disposed of before sentence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-821__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A post verdict judgment of acquittal shall be granted only if the court finds that the evidence, viewed in a light most favorable to the state, does not reasonably permit a finding of guilty.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-821__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the court finds that the evidence, viewed in a light most favorable to the state, supports only a conviction of a lesser included responsive offense, the court, in lieu of granting a post verdict judgment of acquittal, may modify the verdict and render a judgment of conviction on the lesser included responsive offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-821__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If a post verdict judgment of acquittal is granted or if a verdict is modified, the state may seek review by invoking the supervisory jurisdiction of or by appealing to the appropriate appellate court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-821__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the appellate court finds that the evidence, viewed in a light most favorable to the state, supports only a conviction of a lesser included responsive offense, the court, in lieu of granting a post verdict judgment of acquittal, may modify the verdict and render a judgment of conviction on the lesser included responsive offense.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112819</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

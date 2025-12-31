@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1836"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1836"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1836"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1836/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1836/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1836/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1836/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1836">
+        <num>CC 1836</num>
+        <heading>1836.  Act under private signature duly acknowledged</heading>
+        <content>
+          <p>Art. 1836.  Act under private signature duly acknowledged
+An act under private signature is regarded prima facie as the true and genuine act of a party executing it when his signature has been acknowledged, and the act shall be admitted in evidence without further proof.
+An act under private signature may be acknowledged by a party to that act by recognizing the signature as his own before a court, or before a notary public, or other officer authorized to perform that function, in the presence of two witnesses.  An act under private signature may be acknowledged also in any other manner authorized by law.
+Nevertheless, an act under private signature, though acknowledged, cannot substitute for an authentic act when the law prescribes such an act.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109075</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

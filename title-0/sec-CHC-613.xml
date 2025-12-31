@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-613"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-613"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 613"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-613/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-613/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-613/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-613/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-613">
+        <num>CHC 613</num>
+        <heading>613.  Entry orders</heading>
+        <subsection eId="CHC-613__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If in the course of an investigation of a report, admission cannot be obtained to the home, school, or any other place where the child may be found, the investigator shall apply to the juvenile court for an order authorizing an entry for the purposes of interviewing the child and other members of the household, for the visual inspection of the child, and for an inspection of the home to the extent such an inspection is essential to the investigation of specific allegations.  The affidavit of the applicant must demonstrate:</p>
+          </content>
+          <paragraph eId="CHC-613__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>That reasonable suspicion exists that the child has been abused or neglected.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-613__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>That entry has been denied.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-613__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court may grant such an order on an ex parte application and may also order a law enforcement officer to accompany the applicant in executing the entry order.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73205</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

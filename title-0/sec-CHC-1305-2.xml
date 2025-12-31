@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1305-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1305-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1305.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1305-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1305-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1305-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1305-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1305-2">
+        <num>CHC 1305.2</num>
+        <heading>1305.2.  Employer's compliance with income-withholding of another state</heading>
+        <subsection eId="CHC-1305-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon receipt of an income-withholding order, the obligor's employer shall
+immediately provide a copy of the order to the obligor.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1305-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The employer shall treat an income-withholding order issued in another state
+which appears regular on its face as if it had been issued by a tribunal of this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1305-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Except as otherwise provided in Paragraph D of this Article and Article 1305.3,
+the employer shall withhold and distribute the funds as directed in the withholding order by
+complying with the terms of the order, which specify:</p>
+          </content>
+          <paragraph eId="CHC-1305-2__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The duration and amount of periodic payments of current child support, stated
+as a sum certain;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1305-2__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The person designated to receive payments and the address to which the
+payments are to be forwarded;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1305-2__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Medical support, whether in the form of periodic cash payment, stated as a sum
+certain, or ordering the obligor to provide health insurance coverage for the child under a
+policy available through the obligor's employment;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1305-2__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The amount of periodic payments of fees and costs for a support enforcement
+agency, the issuing tribunal, and the obligee's attorney, stated as sums certain; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1305-2__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The amount of periodic payments of arrearages and interest on arrearages, stated
+as sums certain.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1305-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>An employer shall comply with the law of the state of the obligor's principal place
+of employment for withholding from income with respect to:</p>
+          </content>
+          <paragraph eId="CHC-1305-2__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The employer's fee for processing an income-withholding order;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1305-2__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The maximum amount permitted to be withheld from the obligor's income; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1305-2__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The times within which the employer must implement the withholding order and
+forward the child support payment.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72832</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

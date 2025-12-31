@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3121"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3121"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 3121"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3121/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3121/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3121/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3121/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-3121">
+        <num>CCP 3121</num>
+        <heading>Section </heading>
+        <content>
+          <p>SECTION 4.  ADMINISTRATORS OF VACANT SUCCESSIONS
+Art. 3121.  Attorney appointed as administrator of vacant successions; exceptions
+When no qualified person has petitioned for appointment as administrator of a vacant succession within three months of the death of the deceased, the court may appoint an attorney at law as administrator thereof and set his compensation.  Said attorney shall be selected, on a rotating basis, from a list of attorneys currently practicing in the parish in which the succession is to be opened.
+The attorney shall be required to furnish security as required by law.  Otherwise, all of the provisions of law relating to the administrator of a succession apply to the attorney when appointed administrator of a vacant succession.
+This article does not apply to any parish for which a public administrator has been appointed.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111615</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

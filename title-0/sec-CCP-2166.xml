@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-2166"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-2166"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 2166"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-2166/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-2166/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-2166/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-2166/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-2166">
+        <num>CCP 2166</num>
+        <heading>2166.  Court of appeal judgment rehearing; finality; stay</heading>
+        <subsection eId="CCP-2166__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Within fourteen days of the transmission of the notice of the judgment of the court of appeal, a party may apply to the court of appeal for a rehearing.  Within thirty days of the transmission of the notice of the judgment of the court of appeal, a party may apply to the supreme court for a writ of certiorari.  The judgment of a court of appeal becomes final and definitive if neither an application to the court of appeal for rehearing nor an application to the supreme court for a writ of certiorari is timely filed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2166__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When any party files a timely application to the court of appeal for a rehearing, the time within which any other party may apply to the supreme court for a writ of certiorari shall be extended until thirty days of the transmission of the notice of a denial of rehearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2166__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When a timely application for rehearing has been filed in the court of appeal and the court of appeal denies the application, the judgment becomes final and definitive unless an application for writ of certiorari to the supreme court is filed within thirty days of the transmission of the notice of a denial of rehearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2166__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When a party files a timely application for a writ of certiorari to the supreme court within the delays provided in this Article, any other party may also apply for certiorari to the supreme court within thirty days of the transmission of the notice of judgment of the court of appeal or within ten days of the transmission by the supreme court clerk of the notice of first application for certiorari in the case, whichever is later.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2166__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>When an application for certiorari to the supreme court is timely filed, a judgment of the court of appeal becomes final and definitive after a delay of five days, exclusive of legal holidays, commencing to run on the day after the clerk has mailed the denial by the supreme court of the application for certiorari.  The supreme court may stay the execution of the judgment of the court of appeal pending a timely application for certiorari or an appeal to the United States Supreme Court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2166__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>For the purposes of this Article, &quot;transmission of the notice&quot; means the sending of the notice via the United States Postal Service, electronic mail, or facsimile.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111405</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

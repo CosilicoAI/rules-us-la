@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 890.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-890-3">
+        <num>CCRP 890.3</num>
+        <heading>890.3.  Sentencing for crimes of violence</heading>
+        <subsection eId="CCRP-890-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in Paragraph C of this Article, when a defendant is sentenced
+for any offense, or the attempt to commit any offense, defined or enumerated as a crime of
+violence in R.S. 14:2(B), the district attorney may make a written recommendation to the
+court that the offense should not be designated as a crime of violence only for the following
+purposes:</p>
+          </content>
+          <paragraph eId="CCRP-890-3__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The defendant's eligibility for suspension or deferral of sentence pursuant to
+Article 893.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The defendant's eligibility for participation in a drug division probation program
+pursuant to R.S. 13:5304.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-890-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In the absence of a written recommendation by the district attorney as provided
+in Paragraph A of this Article, the offense shall be designated as a crime of violence as a
+matter of law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-890-3__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The following crimes of violence enumerated in R.S. 14:2(B) shall always be
+designated by the court in the minutes as a crime of violence:</p>
+          </content>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Solicitation for murder.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>First degree murder.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Second degree murder.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Manslaughter.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Aggravated or first degree rape.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Forcible or second degree rape.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Simple or third degree rape.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Sexual battery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Second degree sexual battery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Intentional exposure to AIDS virus.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Aggravated kidnapping.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Second degree kidnapping.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Aggravated arson.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>Armed robbery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>Assault by drive-by shooting.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>Carjacking.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>Terrorism.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>Aggravated second degree battery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>Aggravated assault with a firearm.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>Armed robbery; use of firearm; additional penalty.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>Second degree robbery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_22">
+            <num>(22)</num>
+            <content>
+              <p>Disarming of a peace officer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_23">
+            <num>(23)</num>
+            <content>
+              <p>Second degree cruelty to juveniles.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_24">
+            <num>(24)</num>
+            <content>
+              <p>Aggravated crime against nature.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_25">
+            <num>(25)</num>
+            <content>
+              <p>Trafficking of children for sexual purposes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_26">
+            <num>(26)</num>
+            <content>
+              <p>Human trafficking.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-3__subsec_C__subsec_27">
+            <num>(27)</num>
+            <content>
+              <p>Home invasion.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1015538</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

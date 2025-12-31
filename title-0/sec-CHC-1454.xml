@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1454"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1454"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1454"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1454/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1454/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1454/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1454/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1454">
+        <num>CHC 1454</num>
+        <heading>1454.  Hearing to determine continued involuntary commitment</heading>
+        <subsection eId="CHC-1454__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court may at any time upon application or upon its own motion order a new hearing to be held in order to determine whether the involuntary status of the minor patient should be continued.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1454__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Minor patients committed judicially shall have their cases reviewed in a hearing every one hundred twenty days.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1454__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The review hearing shall be conducted according to the procedures and standards set forth in this Chapter and may be held by the juvenile court in the parish in which the minor patient is being confined or, if not confined, by the juvenile court in the parish in which he resides or may be found.  The hearing shall not be transferred to another district except for good cause shown.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72950</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

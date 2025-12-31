@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1567"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1567"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1567"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1567/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1567/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1567/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1567/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1567">
+        <num>CHC 1567</num>
+        <heading>1567.  Venue; standing</heading>
+        <subsection eId="CHC-1567__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Venue lies in either:</p>
+          </content>
+          <paragraph eId="CHC-1567__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The parish in which the marital domicile is located or in which the household is located.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1567__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The parish in which the defendant resides.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1567__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The parish in which the abuse is alleged to have been committed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1567__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For purposes of issuing an order pursuant to Article 1569(A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1567__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>only, the parish in which the petitioner resides.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1567__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The parish in which an action for an annulment of marriage or for a divorce could be brought pursuant to the Code of Civil Procedure.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1567__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An adult may seek relief under this Chapter by filing a petition with the court alleging abuse by the defendant.  Any parent, adult household member, local child protection unit of the Department of Children and Family Services, or district attorney may seek relief on behalf of any child or any person alleged to be incompetent by filing a petition with the court alleging abuse by the defendant.  A petitioner's right to relief under this Chapter shall not be affected by his leaving the residence or household to avoid further abuse.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73025</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

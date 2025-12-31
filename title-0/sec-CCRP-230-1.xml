@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 230.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-230-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-230-1">
+        <num>CCRP 230.1</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-230-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The sheriff or law enforcement officer having custody of an arrested person shall
+bring him promptly, and in any case within seventy-two hours from the time of the arrest,
+before a judge for the purpose of appointment of counsel.  Saturdays, Sundays, and legal
+holidays shall be excluded in computing the seventy-two-hour period referred to herein.  The
+defendant shall appear in person unless the court by local rule provides for such appearance
+by telephone or audio-video electronic equipment.  However, upon a showing that the
+defendant is incapacitated, unconscious, or otherwise physically or mentally unable to appear
+in court within seventy-two hours, then the defendant's presence is waived by law, and a
+judge shall appoint counsel to represent the defendant within seventy-two hours from the
+time of arrest.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-230-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>At this appearance, if a defendant has the right to have the court appoint counsel
+to defend him, the court shall assign counsel to the defendant.  The court may also, in its
+discretion, determine or review a prior determination of the amount of bail.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-230-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the arrested person is not brought before a judge in accordance with the
+provisions of Paragraph A of this Article, he shall be released on his own recognizance.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-230-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The failure of the sheriff or law enforcement officer to comply with the
+requirements herein shall have no effect whatsoever upon the validity of the proceedings
+thereafter against the defendant.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112388</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

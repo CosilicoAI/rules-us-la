@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 3.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-3-3">
+        <num>SRULE 3.3</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-3-3__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Convene the Senate at the time fixed by Senate Rule 10.1 and shall open each
+session by taking the chair and calling the members to order.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Preside at all sessions of the Senate, but he may designate any member to serve
+as presiding officer for a limited time, which shall not extend beyond adjournment each
+day.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Cause the Senate to proceed with its business in the order established by the
+rules, if a quorum is present, and announce or direct the Secretary to announce the
+business before the Senate as the Senate proceeds upon each order of business.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Preserve order and decorum, particularly as provided in these rules.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Confine members to the question under consideration.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Speak on points of order, and he shall have preference over other members in
+doing so.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Decide all points of order, subject to appeal to the Senate as provided in Senate
+Rule 6.3.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Explain or clarify any rule of procedure upon request.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>State, or direct the Secretary to state, each motion as it is made, as provided in
+Senate Rule 11.1.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Recognize members who seek the floor for the purpose of speaking in debate
+or otherwise, but such recognition shall be in accordance with Senate Rules 6.5 and 6.6.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>State and put to a vote all questions requiring a vote or upon which a vote is
+ordered and announce the vote as provided in Senate Rules 12.5 and 12.8.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>Cast his vote when the Senate is equally divided; otherwise, he may but shall
+not be required to vote.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>Have general charge and supervision of the Senate Chamber and all physical
+facilities, particularly as provided in Chapter 1.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>Assemble the members in meetings during the interim between sessions or at
+any other time for any purpose he deems necessary or desirable and expend funds of the
+Senate to pay the expenses thereof, including per diem and travel expenses.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>Appoint or remove the members of each Senate and conference committee,
+except as otherwise provided by law, rule, or resolution, and appoint or remove the
+chairman and vice chairman of each committee, as provided by Senate Rule 13.2.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>Create select committees and appoint or remove the members thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>Provide for a schedule of committee meetings, as provided by Senate Rules
+13.69 and 13.70.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>Refer to standing committees all prefiled instruments or other matters to be
+referred to committee, as provided in Senate Rules 13.4 and 13.5.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>Sign all documents which require his signature, particularly as provided in
+Senate Rule 7.11.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>At his discretion, examine and correct the Journal.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>Have general charge and supervision over the Secretary and his assistants, the
+Sergeant at Arms and his assistants, and all employees of the Senate.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>Employ, fix the compensation, and have authority to discharge all Senate
+employees.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_23">
+          <num>(23)</num>
+          <content>
+            <p>Approve all expenditures of the Senate and its members and enter into
+contracts for the Senate and its members.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_24">
+          <num>(24)</num>
+          <content>
+            <p>Preside over joint sessions of the legislature, as provided in Joint Rule No. 1.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_25">
+          <num>(25)</num>
+          <content>
+            <p>Do and perform such other duties as are required by the constitution and laws,
+the legislature, or the Senate, and such other duties as may properly appertain to the office
+of the President.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_26">
+          <num>(26)</num>
+          <content>
+            <p>At his discretion, name any senator to perform any duties of the chair for a
+time he shall specify.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_27">
+          <num>(27)</num>
+          <content>
+            <p>Delegate any of his duties or functions to the President Pro Tempore.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_28">
+          <num>(28)</num>
+          <content>
+            <p>Appoint a parliamentarian.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_29">
+          <num>(29)</num>
+          <content>
+            <p>Have control and custody of all vehicles owned by or assigned to the Senate.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_30">
+          <num>(30)</num>
+          <content>
+            <p>Be responsible for the assignment and use of vehicles owned by or assigned to
+the Senate and may assign such vehicles for use by the staff for Senate business.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_31">
+          <num>(31)</num>
+          <content>
+            <p>Submit receipts or documentation supported by other evidence for all
+expenses for which reimbursement is sought pursuant to R.S. 24:503.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_32">
+          <num>(32)</num>
+          <content>
+            <p>Cause to be distributed reports covering interim activity from standing, joint,
+or special legislative or Senate committees or subcommittees to all members of the
+Senate, particularly Senators representing geographic areas included in the study.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-3__subsec_33">
+          <num>(33)</num>
+          <content>
+            <p>Suspend any or all of the duties of the Secretary of the Senate prescribed in
+Senate Rule 3.7 when the Secretary has been censured and placed on probation by the
+Senate by adoption of a resolution. The length of time of any probation shall be specified
+in a resolution in which the Secretary is censured and placed on probation. Upon the
+conclusion of such a period of probation, the authority of the President under this
+Paragraph shall cease. In addition to the suspension of duties, the President may reduce
+the compensation of the Secretary commensurate with the suspension of the Secretary's
+duties and may designate an acting secretary of the Senate to perform such duties during
+the time of the Secretary's suspension.
+SR 3 of 1996 1 st ES; SR 14 of 1996 1 st ES; SR 8 of 2004 1 st EX</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180507</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

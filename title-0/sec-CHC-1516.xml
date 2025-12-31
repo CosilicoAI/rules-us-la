@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1516"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1516"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1516"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1516/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1516/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1516/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1516/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1516">
+        <num>CHC 1516</num>
+        <heading>1516.  Affidavit of acceptance; contents; form</heading>
+        <subsection eId="CHC-1516__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An Affidavit of Acceptance shall be executed by the agency, institution, or individual accepting custody and shall state that the agency, institution, or individual knowingly and voluntarily accepts custody of the child to the extent and under the terms and conditions custody is transferred from the parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1516__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The form for the Affidavit of Acceptance shall be as follows:
+&quot;AFFIDAVIT OF ACCEPTANCE
+BEFORE ME, the undersigned Notary Public, personally came and appeared: ________________________________________________________________________
+___________________________________, individual(s) OR a representative of _____________________________ (name of agency or institution) who, being first duly sworn, did depose and state:
+That affiant is a person of the full age of majority and resides at ___________________________________ (address of individual(s), agency, or institution) in ____________ Parish, Louisiana.
+That affiant does knowingly and voluntarily accept physical custody OR legal custody of the person of the children (indicate one) of _________, _________, _________, _________ (name(s) of child(ren)) for the period of time ______________ (specify intended period) in accordance with the following terms and conditions:
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________
+________________________________________________________________________.
+(may include provisions for support and/or visitation)
+____________________________
+AFFIANT
+SWORN TO AND SUBSCRIBED BEFORE ME ON THIS THE ______ DAY OF _____________________,20___.
+____________________________
+NOTARY PUBLIC&quot;</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72984</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-24"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-24"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 24"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-24/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-24/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-24/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-24/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-24">
+        <num>CCRP 24</num>
+        <heading>24.  Procedure for punishing constructive contempt</heading>
+        <subsection eId="CCRP-24__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a person is charged with committing a constructive contempt, he shall be tried by the judge on a rule to show cause alleging the facts constituting the contempt.  The rule may be issued by the court on its own motion or on motion of the district attorney.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-24__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A certified copy of the motion and of the rule shall be served on the person charged in the manner of a subpoena not less than forty-eight hours prior to the time assigned for trial of the rule.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-24__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A person charged with committing a constructive contempt of a court of appeal may be found guilty thereof and punished therefor after receiving a notice to show cause, by brief, to be filed not less than forty-eight hours from the date the person receives such notice, why he should not be found guilty of contempt and punished accordingly.  Such notice may be sent by certified or registered mail or may be served by the sheriff.  The person so charged shall be granted an oral hearing on the charge if he submits a written request to the clerk of the appellate court within forty-eight hours after receiving notice of the charge.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-24__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the person charged with contempt is found guilty, the court shall render an order reciting the facts constituting the contempt, adjudging the person charged with the contempt guilty thereof, and specifying the punishment imposed.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112392</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

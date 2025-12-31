@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-972"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-972"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 972"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-972/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-972/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-972/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-972/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-972">
+        <num>CCRP 972</num>
+        <heading>972.  Definitions</heading>
+        <subsection eId="CCRP-972__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Expedited expungement&quot; means an order of expungement that a judge may sign 
+pursuant to Article 999 without the individual filing a motion to expunge with the clerk of
+court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-972__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Expunge a record&quot; means to remove a record of arrest or conviction,
+photographs, fingerprints, disposition, or any other information of any kind from public
+access pursuant to the provisions of this Title.  &quot;Expunge a record&quot; does not mean destruction
+of the record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-972__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Expungement by redaction&quot; provides for the expungement of records of a person
+who is arrested or convicted with other persons who are not entitled to expungement and
+involves the removal of the name or any other identifying information of the person entitled
+to the expungement and otherwise retains the records of the incident as they relate to the
+other persons.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-972__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Interim expungement&quot; means to expunge a felony arrest from the criminal
+history of a person who was convicted of a misdemeanor offense arising out of the original
+felony arrest.  Only the original felony arrest may be expunged in an interim expungement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-972__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Records&quot; includes any incident reports, photographs, fingerprints, disposition,
+or any other such information of any kind in relation to a single arrest event in the possession
+of the clerk of court, any criminal justice agency, and local and state law enforcement
+agencies but shall not include DNA records.  Records shall also include records of an arrest
+based on a warrant or attachment for failure to appear in court for the same offense or
+offenses for which the person is seeking an expungement.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919663</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

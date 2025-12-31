@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3604"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3604"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 3604"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3604/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3604/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3604/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3604/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-3604">
+        <num>CCP 3604</num>
+        <heading>3604.  Form, contents, and duration of restraining order</heading>
+        <subsection eId="CCP-3604__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A temporary restraining order shall be endorsed with the date and hour of
+issuance; shall be filed in the clerk's office and entered of record; shall state why the order
+was granted without notice and hearing; and shall expire by its terms within such time after
+entry, not to exceed ten days, as the court prescribes.  A restraining order, for good cause
+shown, and at any time before its expiration, may be extended by the court for one or more
+periods not exceeding ten days each.  The party against whom the order is directed may
+consent that it be extended for a longer period.  The reasons for each extension shall be
+entered of record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-3604__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Nevertheless, in a suit for divorce, a temporary restraining order issued in
+conjunction with a rule to show cause for a preliminary injunction shall remain in force until
+a hearing is held on the rule for the preliminary injunction prohibiting a spouse from:</p>
+          </content>
+          <paragraph eId="CCP-3604__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Disposing of or encumbering community property;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3604__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Harming the other spouse or a child; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3604__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Removing a child from the jurisdiction of the court.
+C.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3604__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A temporary restraining order issued in conjunction with a rule to show cause
+for a protective order filed in an action pursuant to the Protection from Family Violence Act,
+R.S. 46:2121 et seq., and pursuant to the Protection From Dating Violence Act, R.S.
+46:2151, shall remain in force until a hearing is held on the rule for the protective order or
+for thirty days, whichever occurs first.  If the initial rule to show cause is heard by a hearing
+officer, the temporary restraining order shall remain in force for fifteen days after the hearing
+or until the judge signs the protective order, whichever occurs last.  At any time before the
+expiration of a temporary restraining order issued pursuant to this Paragraph, it may be
+extended by the court for a period not exceeding thirty days.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3604__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In the event that the hearing on the rule for the protective order is continued by
+the court because of a declared state of emergency made in accordance with R.S. 29:724, any
+temporary restraining order issued in the matter shall remain in force for five days after the
+date of conclusion of the state of emergency.  When a temporary restraining order remains
+in force under this Paragraph, the court shall reassign the rule for a protective order for
+hearing at the earliest possible time, but no later than five days after the date of conclusion
+of the state of emergency.  The reassignment of the rule shall take precedence over all
+matters except older matters of the same character.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-3604__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>To be effective against a federally insured financial institution, a temporary
+restraining order or preliminary injunction issued in accordance with Subparagraph (B)</p>
+          </content>
+          <paragraph eId="CCP-3604__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article shall be served in accordance with the provisions of R.S. 6:285(C).  A
+temporary restraining order or preliminary injunction granted pursuant to the provisions of
+this Article shall be effective only against accounts, safe deposit boxes, or other assets listed
+or held in the name of the following:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3604__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>One or both of the spouses named in the injunction.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3604__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Another party or business entity specifically named in the injunction.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-3604__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A federally insured financial institution shall not be liable for loss or damages
+resulting from its actions to comply with a temporary restraining order or preliminary
+injunction provided that the requirements of this Article have been met.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111806</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

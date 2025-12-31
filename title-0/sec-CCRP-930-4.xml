@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-4"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-4"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 930.4"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-4/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-4/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-4/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-4/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-930-4">
+        <num>CCRP 930.4</num>
+        <heading>930.4.  Jurisdictional bars to relief; repetitive applications</heading>
+        <subsection eId="CCRP-930-4__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Any claim for relief which was fully litigated in an appeal from the proceedings
+leading to the judgment of conviction and sentence shall not be considered.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930-4__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the application alleges a claim of which the petitioner had knowledge and
+inexcusably failed to raise in the proceedings leading to conviction, the court shall deny
+relief.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930-4__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the application alleges a claim which the petitioner raised in the trial court and
+inexcusably failed to pursue on appeal, the court shall deny relief.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930-4__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the application alleges a claim seeking to apply a new rule of criminal
+procedure that has been held by the United States Supreme Court and the Louisiana Supreme
+Court to be nonretroactive, the court shall deny relief.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930-4__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A successive application shall be dismissed if it fails to raise a new or different
+claim.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930-4__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A successive application shall be dismissed if it raises a new or different claim
+that was inexcusably omitted from a prior application.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930-4__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Any attempt or request by a petitioner to supplement or amend the application
+shall be subject to all of the limitations and restrictions set forth in this Article.  In addition
+to serving the district attorney for the jurisdiction where the underlying conviction was
+obtained, any subsequent, successive, amending, or supplemental application shall be served
+by the petitioner on the district attorney and the attorney general.  If the court subsequently
+orders any hearing on the application, the court shall send notice to the district attorney and
+attorney general at least sixty days in advance of the hearing date.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930-4__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>The limitations set forth in this Article shall be jurisdictional and shall not be
+waived or excused by the court or the district attorney.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112945</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

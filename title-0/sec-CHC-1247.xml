@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1247"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1247"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1247"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1247/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1247/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1247/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1247/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1247">
+        <num>CHC 1247</num>
+        <heading>1247.  Notice of filing petition</heading>
+        <subsection eId="CHC-1247__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except when waived in accordance with the provisions of Title XI or XII, notice of the filing of the petition for intrafamily adoption shall be issued by the clerk and served, together with a copy of the petition, on every parent whose consent to the adoption is required pursuant to Article 1193 and whose parental rights have not been terminated by a court of competent jurisdiction, and shall state:
+Notice
+Louisiana law provides that under certain circumstances your consent to the adoption of your child may be dispensed with and you can permanently lose your rights as a parent by final decree of adoption.  An intrafamily adoption petition has been filed requesting the court to grant an adoption and terminate your parental rights to your child.  A copy of the petition is attached to this notice.  If you do not file a written answer stating your opposition to the adoption within fifteen days of receiving this notice you will lose the right to object to the adoption.  If you choose to file a written answer stating your opposition to the adoption you must file it with the clerk of court at _______________.  Only if you file an answer stating your opposition to the adoption will you have an opportunity to present your opposition to the adoption.  If you file an answer stating your opposition, the court will set a hearing, and you will receive notice of the hearing of your opposition.
+If you do not file an answer stating your opposition, and if the court at the adoption hearing finds that the facts set out in the petition are true and that adoption is in the best interests of your child, the court can enter a judgment ending your rights to your child.  If the judgment terminates your parental rights, you will no longer have any rights to visit or to have custody of your child or make any decisions affecting your child, and your child will be legally freed to be adopted.
+This is a very serious matter.  You should contact an attorney immediately so that he or she can help y</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1247__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the adoption petition names an alleged or adjudicated father and his parental rights have not been terminated by a court of competent jurisdiction, he shall be served with notice of the filing of the petition in accordance with Articles 1133, 1134, and 1136 and thereafter, his rights shall be determined in accordance with the provisions of Articles 1137 through 1143.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72722</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

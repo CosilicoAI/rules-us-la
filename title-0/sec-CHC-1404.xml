@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1404"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1404"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1404"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1404/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1404/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1404/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1404/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1404">
+        <num>CHC 1404</num>
+        <heading>1404.  Definitions</heading>
+        <subsection eId="CHC-1404__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Caretaker&quot; means any person legally obligated to provide or secure adequate
+care for a child, including a parent, tutor, guardian, legal custodian, foster home parent, or
+other person providing a residence for the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Conditional discharge&quot; means the physical release of a judicially committed
+minor from a treatment facility by the director or by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Dangerous to others&quot; means the condition of a person whose behavior or
+significant threats support a reasonable expectation that there is a substantial risk that he will
+inflict physical harm upon another person in the near future.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Dangerous to self&quot; means the condition of a person whose behavior, significant
+threats, or inaction supports a reasonable expectation that there is a substantial risk that he
+will inflict physical or severe emotional harm upon his own person.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Department&quot; means the Louisiana Department of Health.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Diagnosis&quot; means the art and science of determining the presence of disease in
+an individual and distinguishing one disease from another.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Director&quot; or &quot;superintendent&quot; means a person in charge of a treatment facility
+or his deputy.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Discharge&quot; means the full or conditional release from a treatment facility of any
+minor admitted or otherwise detained under this Title.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Family psychiatric mental health nurse practitioner&quot; means an individual who
+maintains the credentials as such and meets the requirements of a &quot;psychiatric mental health
+nurse practitioner&quot; as provided in R.S. 28:2.  Further, a family psychiatric mental health
+nurse practitioner shall have been engaged in clinical practice for not less than three years.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Formal voluntary admission&quot; means the admission of a minor suffering from
+mental illness or substance abuse desiring admission to a treatment facility for diagnosis or
+treatment of such condition, or both, who may be formally admitted upon his written request.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Grave disability&quot; means the condition of a person who is unable to provide for
+his own basic physical needs, such as essential food, clothing, medical care, and shelter, as
+a result of serious mental illness or substance abuse and is unable to survive safely in
+freedom or protect himself from serious harm; the term also includes incapacitation by
+alcohol, which means the condition of a person who, as a result of the use of alcohol, is
+unconscious or whose judgment is otherwise so impaired that he is incapable of realizing and
+making a rational decision with respect to his need for treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Informal voluntary admission&quot; means the admission of a minor suffering from
+mental illness or substance abuse, desiring admission to a treatment facility for diagnosis or
+treatment of such condition, or both, who may be admitted upon his request without making
+formal application.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;MHAS&quot; means Mental Health Advocacy Service, as established by R.S. 28:64
+and Article 1405.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Major surgical procedure&quot; means an invasive procedure of a serious nature
+with incision upon the body or parts thereof under general, local, or spinal anesthesia,
+utilizing surgical instruments, for the purpose of diagnosis or treatment of a medical
+condition.  Diagnostic procedures, including but not limited to the following, shall not be
+considered as major surgical procedures:</p>
+          </content>
+          <paragraph eId="CHC-1404__subsec_14__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Endoscopy through natural body openings, such as the mouth, anus, or urethra,
+to view the trachea, bronchi, esophagus, stomach, pancreas, small or large intestine, urethra,
+urinary bladder, or ureters, and to obtain from such organs specimens of fluids or tissues for
+chemical or microscopic analysis.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Subcutaneous percutaneous liver biopsy.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Punch biopsy of skeletal muscles.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Bone marrow biopsy.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Lumbar puncture.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Myelogram.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Abdominocentesis.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Conization of the uterine cervix.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Renal angiography.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_j">
+            <num>(j)</num>
+            <content>
+              <p>Femoral angiography.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_k">
+            <num>(k)</num>
+            <content>
+              <p>Carotid angiography.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1404__subsec_14__subsec_l">
+            <num>(l)</num>
+            <content>
+              <p>Vertebral angiography.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Mental Health Advocacy Service&quot; means a service established by the state of
+Louisiana for the purpose of providing legal counsel and representation for persons with
+mental disabilities and for children and to ensure that their legal rights are protected.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Patient&quot; means any person detained and taken care of as a person with mental
+illness or person suffering from substance abuse.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>&quot;Person with mental illness&quot; means any person with a psychiatric disorder which
+has substantial adverse effects on his ability to function and who requires care and treatment. 
+It does not include a person with, solely, an intellectual disability, or who suffers solely from
+epilepsy, alcoholism, or drug abuse.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>&quot;Psychologist&quot; means an individual licensed to practice psychology in Louisiana
+in accordance with R.S. 37:2351 et seq., or licensed to practice medical psychology in
+Louisiana in accordance with R.S. 37:1360.51 et seq., and who has been engaged in the
+practice of a clinical specialty for not less than three years.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>&quot;Respondent&quot; means a person alleged to be mentally ill or suffering from
+substance abuse and for whom an application for commitment to a treatment facility has been
+filed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>&quot;Restraint&quot; means the partial or total immobilization of any or all of the
+extremities or the torso by mechanical means for psychiatric indications.  Restraint does not
+include the use of mechanisms usually and customarily used during medical or surgical
+procedures, including but not limited to body immobilization during surgery and arm
+immobilization during intravenous administration.  Restraint does not include orthopedic
+appliances used to posturally support the patient, such as posies.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>&quot;Seclusion&quot; means the involuntary confinement of a patient alone in a room,
+which the patient is physically prevented from leaving, for any period of time, except that
+seclusion does not include the placement of a patient alone in a room or other area for no
+more than thirty minutes at a time and no more than three hours in any twenty-four hour time
+period pursuant to behavior-shaping techniques such as &quot;time-out&quot;.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>&quot;Substance abuse&quot; means the condition of a person who uses narcotic, stimulant,
+depressant, soporific, tranquilizing, or hallucinogenic drugs or alcohol to the extent that it
+renders the person dangerous to himself or others or renders the person gravely disabled.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_23">
+          <num>(23)</num>
+          <content>
+            <p>&quot;Treatment&quot; means an active effort to accomplish an improvement in the mental
+condition or behavior of a patient or to prevent deterioration in his condition or behavior. 
+Treatment includes but is not limited to hospitalization, partial hospitalization, outpatient
+services, examination, diagnosis, training, the use of pharmaceutical, and other services
+provided for patients by a treatment facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1404__subsec_24">
+          <num>(24)</num>
+          <content>
+            <p>&quot;Treatment facility&quot; means any public or private hospital, retreat, institution,
+mental health center, or facility licensed by the state of Louisiana in which any mentally ill
+minor or minor suffering from substance abuse is received or detained as a patient except a
+facility under the control or supervision of the Department of Public Safety and Corrections
+unless otherwise provided in Title VIII of this Code.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72900</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

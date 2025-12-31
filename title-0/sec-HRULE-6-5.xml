@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 6.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-6-5">
+        <num>HRULE 6.5</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-6-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>All bills, joint resolutions, and resolutions other than perfunctory resolutions shall be referred by the Speaker to the appropriate standing committee according to the subject matter.  Referral shall not require a motion from the floor.  At the time of referral, any member may object to the referral and may move that the bill, joint resolution, or resolution be referred to any other standing committee.  A motion to refer to a different standing committee is a substitute motion to the original referral.  Such motion shall not be in order unless the author of the legislative instrument and the chairman of the standing committee of original referral are present in the chamber at the time the motion is made.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The provisions of this Rule shall govern the referral of any petition, memorial, communication, or other paper addressed to the House which is referred to a standing committee under the provisions of Rule 8.7.
+Mason's Manual:  Sec. 380, 381, and 383
+HR 3, 1973; HR 3, 1975; HR 5, 1975; HR 14, 1977; HR 4, 1978; HR 4, 1979; HR 18, 1979; HR 4, 1980; HR 8, 1982; HR 10, 1983; HR 4, 2nd Ex. Sess., 1983; HR 8, 1984; HR 4, 1st Ex. Sess., 1984; HR 3, 1985; HR 45, 1998, eff. May 20, 1998; HR 46, 2005, eff. June 21, 2005.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113338</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

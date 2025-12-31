@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1531"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1531"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1531"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1531/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1531/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1531/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1531/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1531">
+        <num>CHC 1531</num>
+        <heading>1531.  Right to waive trial by jury</heading>
+        <subsection eId="CHC-1531__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A defendant charged in juvenile court with a misdemeanor triable by jury may knowingly and intelligently waive a trial by jury and elect to be tried by the judge.  At the time of arraignment, the defendant in such cases shall be informed by the court of his right to waive trial by jury.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1531__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The defendant shall exercise his right to waive trial by jury within fifteen days after the arraignment.  However, with permission of the court, he may exercise his right to waive trial by jury at any time prior to the commencement of trial.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1531__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The defendant may withdraw a waiver of trial by jury unless the court finds that withdrawal of the waiver would result in interference with the administration of justice, unnecessary delay, unnecessary inconvenience to witnesses, or prejudice to the state.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72999</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

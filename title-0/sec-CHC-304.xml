@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-304"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-304"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 304"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-304/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-304/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-304/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-304/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-304">
+        <num>CHC 304</num>
+        <heading>304.  Transfer of child adjudicated in another state for disposition</heading>
+        <subsection eId="CHC-304__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The order of adjudication of the requesting state is not subject to attack.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-304__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Within fourteen days of receiving such request, the court shall determine whether the conditions of transfer are met.  If the conditions of transfer have not been met, the court shall immediately advise the requesting court in writing.  If the conditions of transfer are met, the court shall immediately issue written notice of its intent to accept jurisdiction of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-304__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Upon receipt of an order of the requesting court transferring jurisdiction of the child, the court shall direct its probation officer or other person to take custody of the child or otherwise provide for his appearance before the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-304__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Upon acceptance, the court shall promptly hold a hearing to determine the proper disposition.  The disposition hearing and judgment of disposition shall be in accordance with the provisions of this Code.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73102</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

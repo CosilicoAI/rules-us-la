@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1460"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1460"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1460"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1460/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1460/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1460/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1460/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1460">
+        <num>CHC 1460</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1460__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Any minor may be admitted to a treatment facility for inpatient care and treatment upon application of a parent, tutor, or, in the absence of a parent or tutor, of a caretaker to the director of a treatment facility if the director finds that the minor has a mental illness or suffers from substance abuse which has a substantial adverse effect on his ability to function and requires care and treatment in an institution.  Within twenty-four hours of admission, the minor shall be examined by a physician who shall set forth in detail in the patient's medical record the reasons for the continued need of confinement and treatment of the minor.  The parent, tutor, or caretaker may request the minor's discharge pursuant to the provisions of Paragraph C.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1460__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A minor who is eligible for admission pursuant to Paragraph A of this Article and who is in such a condition that immediate hospitalization is necessary may be admitted upon the application of any interested adult, when after diligent effort the minor's parent, tutor, or caretaker cannot be located.  Following the admission of the minor, the director of the treatment facility shall continue efforts to locate the minor's parent, tutor, or caretaker. If such person is located and consents in writing to the admission, the minor may continue to be hospitalized. However, upon notification of the admission, the parent, tutor, or caretaker, may request the minor's discharge pursuant to the provisions of Paragraph C.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1460__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon receipt of a request for discharge, the director of the treatment facility shall release such minor within seventy-two hours unless proceedings are begun pursuant to Chapter 7 or 9 of this Title.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72956</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

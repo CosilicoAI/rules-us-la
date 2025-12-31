@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1608"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1608"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1608"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1608/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1608/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1608/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1608/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1608">
+        <num>CC 1608</num>
+        <heading>1608.  Revocation of a legacy or other testamentary provision</heading>
+        <subsection eId="CC-1608__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>So declares in one of the forms prescribed for testaments.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1608__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Makes a subsequent incompatible testamentary disposition or provision.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1608__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Makes a subsequent inter vivos disposition of the thing that is the object of the legacy and does not reacquire it.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1608__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Clearly revokes the provision or legacy by a signed writing on the testament itself.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1608__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Is divorced from the legatee after the testament is executed and at the time of his death, unless the testator provides to the contrary.  Testamentary designations or appointments of a spouse are revoked under the same circumstances.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108936</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

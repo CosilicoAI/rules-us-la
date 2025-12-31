@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-780"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-780"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 780"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-780/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-780/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-780/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-780/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-780">
+        <num>CHC 780</num>
+        <heading>780.  Removal of a child from parental custody or control; limitations; cooperation of state agencies</heading>
+        <subsection eId="CHC-780__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall not remove a child from the custody of his caretakers unless his welfare cannot, in the opinion of the court, be adequately safeguarded without such removal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-780__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In support of any disposition removing a child from the caretaker's home, the court shall determine whether reasonable efforts have been made by public institutions and agencies to prevent or eliminate the need for removal of the child from his home and, after removal, to make it possible for the child to return home.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-780__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a child is assigned to the custody of a public or private institution or agency, the court shall transmit with the judgment of disposition all relevant reports concerning the child and his family.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-780__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Any institution or agency to which a child is assigned shall:</p>
+          </content>
+          <paragraph eId="CHC-780__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Report at least once every six months in writing concerning the whereabouts and condition of the child to the judge who rendered the judgment of disposition.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-780__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Upon request, provide the court any information concerning the condition, supervision, treatment, or rehabilitation program of the child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-780__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>State agencies shall fully cooperate with any court which has authority with respect to the placement of a child in foster care for the purpose of locating a parent of the child.  Such cooperation shall include making available all information obtained from the Federal Parent Locator Service.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73371</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

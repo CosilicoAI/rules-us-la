@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-676"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-676"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 676"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-676/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-676/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-676/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-676/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-676">
+        <num>CCRP 676</num>
+        <heading>676.  Ad hoc judge to try cause when judge recused</heading>
+        <subsection eId="CCRP-676__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a judge of a court having more than two judges recuses himself or is
+recused after a trial of the motion, the matter shall be randomly reassigned to another judge
+for trial of the cause in accordance with the procedures contained in Article 675.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-676__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a judge of a court having two judges recuses himself or is recused after a
+trial of the motion, the cause shall be tried by the other judge of that court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-676__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When the judge of a court having only one judge recuses himself or is recused
+after a trial of the motion, the supreme court shall appoint an ad hoc judge to try the cause.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-676__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The ad hoc judge has the same power and authority to dispose of the cause as the
+recused judge would have.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112694</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

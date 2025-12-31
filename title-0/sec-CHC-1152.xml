@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1152"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1152"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1152"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1152/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1152/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1152/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1152/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1152">
+        <num>CHC 1152</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1152__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Every designated emergency care facility shall appoint as its representative one
+or more employees on duty during regular business hours who is knowledgeable about the
+requirements of this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1152__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Each designated emergency care facility that installs a newborn safety device as
+authorized by Article 1151(A) shall:</p>
+          </content>
+          <paragraph eId="CHC-1152__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Be responsible for the cost of the installation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1152__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Install an adequate dual alarm system connected to the physical location of the
+newborn safety device.  The facility shall ensure all of the following with respect to the alarm
+system:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1152__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The system generates an audible alarm at a central location within the facility
+sixty seconds after the opening of the access door to the newborn safety device.
+(ii)  The system generates an automatic call to 911 if the alarm is activated and not
+turned off from within the facility less than sixty seconds after the commencement of the
+initial alarm.
+(iii)  The alarm system is tested at least one time per week to ensure that it is in
+working order.
+(iv)  The alarm system is visually checked at least two times per day to ensure that
+it is in working order.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1152__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Ensure that the device is checked at least daily for debris and is cleaned and
+sanitized with a hospital-quality disinfectant at least weekly and after any newborn
+relinquishment into the device.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1152__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Maintain documentation of the testing of the alarm system and the cleaning and
+sanitation of the device required by this Subparagraph.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1152__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Install adjacent to the device a card holder and shall keep the card holder stocked
+with safe haven informational cards supplied by the department pursuant to Paragraph D of
+this Article and other safe haven informational materials produced in accordance with Article
+1160 in an envelope conspicuous and readily available in the newborn safety device for the
+relinquishing parent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1152__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Adopt written policies for receiving, in accordance with the applicable
+requirements of this Chapter and applicable licensing rules, a newborn who has been
+relinquished into the newborn safety device.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1152__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Maintain neonatal and pediatric resuscitation supplies.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1152__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180650</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

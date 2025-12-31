@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-899-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-899-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 899.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-899-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-899-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-899-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-899-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-899-1">
+        <num>CCRP 899.1</num>
+        <heading>899.1.  Administrative sanctions for technical violations</heading>
+        <subsection eId="CCRP-899-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At the time of sentencing, the court may make a determination as to whether a
+defendant is eligible for the imposition of administrative sanctions as provided in this
+Article.  If authorized to do so by the sentencing court, each time a defendant violates a
+condition of his probation, a probation agency may use administrative sanctions to address
+a technical violation committed by a defendant when all of the following occur:</p>
+          </content>
+          <paragraph eId="CCRP-899-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The defendant, after receiving written notification of the right to a hearing before
+a court and the right to counsel provides a written waiver of a probation violation hearing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-899-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The defendant admits to the violation or affirmatively chooses not to contest the
+violation alleged in the probation violation report.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-899-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The defendant consents to the imposition of administrative sanctions by the
+Department of Public Safety and Corrections.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-899-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The department shall promulgate rules to implement the provisions of this Article
+to establish the following:</p>
+          </content>
+          <paragraph eId="CCRP-899-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A system of structured, administrative sanctions which shall be imposed for
+technical violations of probation and which shall take into consideration the following
+factors:</p>
+            </content>
+            <subparagraph eId="CCRP-899-1__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The severity of the violation behavior.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-899-1__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The prior violation history.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-899-1__subsec_B__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The severity of the underlying criminal conviction.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-899-1__subsec_B__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The criminal history of the probationer.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-899-1__subsec_B__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any special circumstances, characteristics, or resources of the probationer.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-899-1__subsec_B__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Protection of the community.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-899-1__subsec_B__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Deterrence.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-899-1__subsec_B__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The availability of appropriate local sanctions, including but not limited to jail,
+treatment, community service work, house arrest, electronic surveillance, restitution centers,
+work release centers, day reporting centers, or other local sanctions.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-899-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Procedures to provide a probationer with written notice of the right to a probation
+violation hearing to determine whether the probationer violated the conditions of probation
+alleged in the violation report and the right to be represented by counsel at state expense at
+that hearing if financially eligible.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-899-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Procedures for a probationer to provide written waiver of the right to a probation
+violation hearing, to admit to the violation or affirmatively choose not to contest the violation
+alleged in the probation violation report, and to consent to the imposition of administrative
+sanctions by the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-899-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The level and type of sanctions that may be imposed by probation officers and
+other supervisory personnel.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-899-1__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The level and type of violation behavior that warrants a recommendation to the
+court that probation be revoked.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-899-1__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Procedures notifying the probationer, the district attorney, the defense counsel
+of record, and the court of probation of a violation admitted by the probationer and the
+administrative sanctions imposed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-899-1__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Such other policies and procedures as are necessary to implement the provisions
+of this Article and to provide adequate probation supervision.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-899-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the administrative sanction imposed pursuant to the provisions of this Article
+is jail confinement, the confinement shall not exceed ten days per violation and shall not
+exceed a total of sixty days per year.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-899-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>For purposes of this Article, &quot;technical violation&quot; means any violation of a
+condition of probation, except for an allegation of a subsequent criminal act. 
+Notwithstanding any provision of law to the contrary, if the subsequent alleged criminal act
+is misdemeanor possession of marijuana or tetrahydrocannabinol, or chemical derivatives
+thereof, as provided in R.S. 40:966(E)(1), it shall be considered a &quot;technical violation&quot;.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=762604</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

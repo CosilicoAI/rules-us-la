@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3352"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3352"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 3352"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3352/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3352/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3352/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3352/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-3352">
+        <num>CC 3352</num>
+        <heading>3352.  Recorded acts; required information</heading>
+        <subsection eId="CC-3352__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An instrument shall contain the following information when appropriate for its
+type and nature:</p>
+          </content>
+          <paragraph eId="CC-3352__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The full name, domicile, and permanent mailing address of the parties.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-3352__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The marital status of all of the parties who are individuals, including the full
+name of the present spouse or a declaration that the party is unmarried.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-3352__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A declaration as to whether there has been a change in the marital status of any
+party who is a transferor of the immovable or interest or right since he acquired it, and if so,
+when and in what manner the change occurred.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-3352__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The municipal number or postal address of the property, if it has one.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-3352__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The last four digits of the social security number or the taxpayer identification
+number of the mortgagor, whichever is applicable.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-3352__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The notary's identification number or the attorney's bar roll number and the typed,
+printed, or stamped name of the notary and witnesses if the instrument is an authentic act of,
+or an authenticated act by, a notary.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CC-3352__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The recorder shall not refuse to record an instrument because it does not contain
+the information required by this Article.  The omission of that information does not impair
+the validity of an instrument or the effect given to its recordation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-3352__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The recorder shall display only the last four digits of the social security numbers
+or taxpayer identification numbers listed on instruments that his office makes available for
+viewing on the internet.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=321903</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

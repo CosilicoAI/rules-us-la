@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1015-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1015-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1015.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1015-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1015-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1015-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1015-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1015-2">
+        <num>CHC 1015.2</num>
+        <heading>1015.2.  Termination of parental rights; certain grounds; costs and fees</heading>
+        <subsection eId="CHC-1015-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A petitioner shall not be required to prepay nor be cast with court costs or costs
+of service or subpoena for the filing of the petition pursuant to Article 1015.1.  The clerk of
+court shall immediately file and process the petition, regardless of the ability of the petitioner
+to pay court costs.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1015-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>All court costs, attorney fees, costs of enforcement and modification proceedings,
+costs of appeals, evaluation fees, and expert witness fees incurred in filing, maintaining, or
+defending any proceeding in accordance with Article 1015.1 shall be paid by the perpetrator
+of the sex offense, including all costs of medical and psychological care for the sexually
+abused parent or for the child conceived as a result of the sex offense.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1336054</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

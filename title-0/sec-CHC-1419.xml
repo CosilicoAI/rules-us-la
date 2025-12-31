@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1419"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1419"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1419"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1419/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1419/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1419/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1419/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1419">
+        <num>CHC 1419</num>
+        <heading>1419.  Immunity</heading>
+        <subsection eId="CHC-1419__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Any licensed physician exercising that degree of skill and care ordinarily employed under similar circumstances by members of his profession in good standing in the same community or locality and using reasonable care and diligence with his best judgment in the application of his skill, shall not be held civilly liable or subject to criminal prosecution for acts arising from his medical opinions, judgments, actions, or duties pursuant to any of the provisions of this Title.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1419__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Any person who acts in good faith to assist in the apprehension or taking into protective custody and examination of a minor patient will not be subject to civil or criminal penalties.  However, a person who willfully advises or participates in the making of a false application or certificate shall be imprisoned with or without hard labor for not more than two years or fined not more than ten thousand dollars, or both.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1419__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Any apprehension or taking into protective custody and confinement made by law enforcement officers, ordered by a court or upon the certificate of a physician under the procedures provided in this Title, is hereby declared to be an administrative act relative to the functions of their office, as required by law, and for which act they are specifically granted personal immunity, but not thereby relieved of their official responsibilities.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1419__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Coroners and assistant coroners who act in good faith to order persons to be taken into protective custody and transported for examination in accordance with Article 1432 shall not be civilly liable for damages to such persons resulting from those actions.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72915</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

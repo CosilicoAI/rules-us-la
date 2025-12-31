@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-228"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-228"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 228"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-228/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-228/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-228/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-228/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-228">
+        <num>CCRP 228</num>
+        <heading>228.  Booking of arrested person, submission of booking information summary</heading>
+        <subsection eId="CCRP-228__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>It is the duty of every peace officer making an arrest, or having an arrested person in his custody, promptly to conduct the person arrested to the nearest jail or police station and cause him to be booked.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-228__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A person is booked by an entry, in a book kept for that purpose, showing his name and address, a list of any property taken from him, the date and time of booking, and the submission of a booking information summary as provided for in Paragraph C of this Article to the person making the entry in the police or jail book.  Every jail and police station shall keep a book for the listing of the above information as to each prisoner received.  The book and booking information summaries shall always be open for public inspection.  The person booked shall be imprisoned unless he is released on bail.
+C.</p>
+          </content>
+          <paragraph eId="CCRP-228__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>At the time of booking, the peace officer causing the arrested person to be booked shall deliver to the person at the jail or police station who accepts custody of the arrestee a booking information summary which shall include at least the following information:</p>
+            </content>
+            <subparagraph eId="CCRP-228__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The proper legal name of the arrestee, if known.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-228__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The charge or charges upon which the person was arrested and the name of the person making the arrest.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-228__subsec_B__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A short recitation of the facts or events which caused the defendant to be arrested.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-228__subsec_B__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The names of all other persons arrested as a result of the same events or facts.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-228__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the peace officer presenting an arrestee for booking is unable to submit a complete booking information summary, he shall provide the person receiving custody of the arrestee a written statement or form, explaining why a complete booking information summary cannot be presented.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112381</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

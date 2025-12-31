@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 895.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-895-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-895-1">
+        <num>CCRP 895.1</num>
+        <heading>895.1.  Probation; restitution; judgment for restitution; fees</heading>
+        <subsection eId="CCRP-895-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a court suspends the imposition or the execution of a sentence and places
+the defendant on probation, it may in its discretion, order placed, as a condition of probation,
+an amount of money to be paid by the defendant to any or all of the following:</p>
+          </content>
+          <paragraph eId="CCRP-895-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To the indigent defender program for that court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To the criminal court fund to defray the costs of operation of that court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>To the sheriff and clerk of court for costs incurred.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>To a law enforcement agency for the reasonable costs incurred in arresting the
+defendant, in felony cases involving the distribution of or intent to distribute controlled
+dangerous substances.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>To the victim to compensate him for his loss and inconvenience.  Such an amount
+may be in addition to any amounts ordered to be paid by the defendant under Paragraph A
+herein.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>To a duly incorporated crime stoppers organization for the reasonable costs
+incurred in obtaining information which leads to the arrest of the defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>To a local public or private nonprofit agency involved in drug abuse prevention
+and treatment for supervising a treatment program ordered by the court for a particular
+defendant, provided that such agency is qualified as a tax-exempt organization under Section
+501</p>
+            </content>
+            <subparagraph eId="CCRP-895-1__subsec_B__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of the Internal Revenue Code of the United States.  Any nonprofit agency receiving
+money under the provisions of this Paragraph must be licensed by the Louisiana Department
+of Health in the supervision of drug abuse prevention and treatment.
+C.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>When the court places the defendant on supervised probation, it shall order as
+a condition of probation a monthly fee of not less than sixty nor more than one hundred ten
+dollars payable to the Department of Public Safety and Corrections or such other probation
+office, agency, or officer as designated by the court, to defray the cost of supervision which
+includes salaries for probation and parole officers.  If the probation supervision services are
+rendered by an agency other than the department, the fee may be ordered payable to that
+agency.  These fees are only to supplement the level of funds that would ordinarily be
+available from regular state appropriations or any other source of funding.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When the court places the defendant on unsupervised probation, it shall order as
+a condition of probation a monthly fee of not more than one dollar payable to the Department
+of Public Safety and Corrections or such other probation office, agency, or officer as
+designated by the court.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-895-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The court may, in lieu of the monthly supervision fee provided for in Paragraph
+C of this Article, require the defendant to perform a specified amount of community service
+work each month if the court finds the defendant is unable to pay the minimum supervision
+fee provided for in Paragraph C of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>When the court places any defendant convicted of a violation of the Uniform
+Controlled Dangerous Substances Law, R.S. 40:966 through 1034, on any type of probation,
+it shall order as a condition of probation a fee of not less than fifty nor more than one
+hundred dollars, payable to the Louisiana Commission on Law Enforcement and
+Administration of Criminal Justice to be credited to the Drug Abuse Education and
+Treatment Dedicated Fund Account and used for the purposes provided in R.S. 15:1224.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-895-1__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>When the court places the defendant on supervised probation, it shall order as a
+condition of probation the payment of a monthly fee of eleven dollars.  The monthly fee
+established in this Paragraph shall be in addition to the fee established in Paragraph C of this
+Article and shall be collected by the Department of Public Safety and Corrections and shall
+be transmitted, deposited, appropriated, and used in accordance with the following
+provisions:</p>
+          </content>
+          <paragraph eId="CCRP-895-1__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The monthly fee established in this Paragraph shall be deposited immediately
+upon receipt in the state treasury.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>After compliance with the requirements of Article VII, Section 9(B) of the
+Constitution of Louisiana relative to the Bond Security and Redemption Fund, and prior to
+monies being placed in the state general fund, the treasurer shall credit an amount equal to
+that deposited as required by Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph to a special agency account
+to be retained for future appropriation as provided in this Article which is hereby created in
+the state treasury to be known as the &quot;Sex Offender Registry Technology Dedicated Fund
+Account&quot;.  The monies in this account shall be used solely as provided in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this Paragraph and only in the amounts appropriated by the legislature.  Monies deposited
+into this account shall be categorized as fees and self-generated revenue for the sole purpose
+of reporting related to the executive budget, supporting documents, and general
+appropriations bills and shall be available for annual appropriations by the legislature.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-895-1__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The monies in the Sex Offender Registry Technology Dedicated Fund Account
+shall be appropriated as follows:</p>
+            </content>
+            <subparagraph eId="CCRP-895-1__subsec_F__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For Fiscal Year 2006-2007, the amount of one hundred ninety thousand dollars
+to the Department of Public Safety and Corrections, office of state police, to be used in the
+administration of programs for the registration of sex offenders in compliance with federal
+and state laws, and support of community notification efforts by local law enforcement
+agencies. For Fiscal Years 2007-2008 through 2009-2010, the amount to be appropriated
+under this Subparagraph shall be twenty-five thousand dollars.  For Fiscal Years 2010-2011,
+and thereafter, the amount to be appropriated to the Department of Public Safety and
+Corrections, office of state police, shall be twenty-five thousand dollars for the purposes of
+maintaining and administering the programs for the registration of sex offenders pursuant to
+this Subparagraph and special law enforcement initiatives.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-895-1__subsec_F__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For Fiscal Year 2010-2011 and each year thereafter, an amount equal to fifteen
+percent of the total residual monies available for appropriation from the account shall be
+appropriated to the Department of Public Safety and Corrections, office of adult services,
+division of probation and parole.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-895-1__subsec_F__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For Fiscal Year 2010-2011 through Fiscal Year 2013-2014, residual monies
+available for appropriation after satisfying the requirements of Subsubparagraphs</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-895-1__subsec_F__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-895-1__subsec_F__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this Subparagraph shall be appropriated to the Department of Justice, office of the attorney
+general.  Of that residual amount, one hundred fifty thousand dollars shall be allocated to the
+office of the attorney general of which fifty thousand dollars shall be allocated for personnel
+and other costs to assist and monitor sheriff participation in utilization of the computer
+system, and one hundred thousand dollars of which shall be allocated to the cost of
+maintenance of the computer system which shall interface with the computer systems of the
+sheriffs of the parishes for registration of sex offenders and child predators.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-895-1__subsec_F__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For Fiscal Year 2014-2015, and thereafter, residual monies available for
+appropriation after satisfying the requirements of Subsubparagraphs</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-895-1__subsec_F__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-895-1__subsec_F__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this
+Subparagraph shall be appropriated to the Department of Justice, office of the attorney
+general.  Of that residual amount, two hundred and fifty thousand dollars shall be allocated
+to the office of the attorney general of which one hundred and fifty thousand dollars shall be
+allocated for personnel and other costs to assist and monitor sheriff participation in
+utilization of the computer system and the administration of the sex offender and child
+predator registration and notification laws as set forth in R.S. 15:540 et seq., and one hundred
+thousand dollars of which shall be allocated to the cost of maintenance of the computer
+system of the sheriffs of the parishes for registration of sex offenders and child predators.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-895-1__subsec_F__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>After providing for the allocations in Subsubparagraphs (a), (b), (c), and</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-895-1__subsec_F__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of
+this Subparagraph, the remainder of the residual monies in the Sex Offender Registry
+Technology Dedicated Fund Account shall, pursuant to an appropriation to the office of the
+attorney general, be distributed to the sheriff of each parish, based on the population of
+convicted sex offenders, sexually violent predators, and child predators who are residing in
+the parish and who are active sex offender registrants or active child predator registrants in
+the respective parishes according to the State Sex Offender and Child Predator Registry.
+These funds shall be used to cover the costs associated with sex offender registration and
+compliance. Population data necessary to implement the provisions of this Subparagraph
+shall be as compiled and certified by the undersecretary of the Department of Public Safety
+and Corrections on the first day of June of each year. No later than thirty days after the
+Revenue Estimating Conference recognizes the prior year account balance, the office of the
+attorney general shall make these distributions, which are based on the data certified by the
+undersecretary of the Department of Public Safety and Corrections, to the recipient sheriffs
+who are actively registering offenders pursuant to this Paragraph.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112893</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

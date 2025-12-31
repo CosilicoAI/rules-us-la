@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-612"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-612"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 612"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-612/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-612/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-612/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-612/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-612">
+        <num>CE 612</num>
+        <heading>612.  Writing used to refresh memory</heading>
+        <subsection eId="CE-612__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Civil cases.  In a civil case, any writing, recording, or object may be used by a witness to refresh his memory while testifying.  If a witness asserts that his memory is refreshed he must then testify from memory independent of the writing, recording, or object.  If, before or during testimony, a witness has used or uses a writing, recording, or object to refresh his memory for the purpose of testifying in court, an adverse party is entitled, subject to Paragraph C, to have the writing, recording, or object produced, if practicable, at the hearing, to inspect it, to examine the witness thereon, and to introduce in evidence those portions which relate to the testimony of the witness.  If production of the writing, recording, or object at the hearing is impracticable, the court may make any appropriate order, including one for inspection.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-612__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Criminal cases.  In a criminal case, any writing, recording, or object may be used by a witness to refresh his memory while testifying.  If a witness asserts that his memory is refreshed he must then testify from memory independent of the writing, recording, or object.  If while testifying a witness uses a writing, recording, or object to refresh his memory an adverse party is entitled, subject to Paragraph C, to inspect it, to examine the witness thereon, and to introduce in evidence those portions which relate to the testimony of the witness.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-612__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Claim of irrelevance.  If it is claimed that a writing or recording contains matters not related to the subject matter of the testimony the court shall examine it in camera, excise any portions not so related, and order delivery of the remainder to the party entitled thereto.  Any portion withheld over objections shall be preserved and made available to the appellate court in the event of an appeal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-612__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Failure to produce.  If a writing, recording, or object is not produced or delivered pursuant to an order under this Article, the court shall make any order justice requires, except that in criminal cases when the prosecution elects not to comply, the order shall only be one excluding the testimony or, if the court in its discretion determines that the interests of justice so require, declaring a mistrial.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72501</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

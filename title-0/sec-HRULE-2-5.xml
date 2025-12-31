@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 2.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-2-5">
+        <num>HRULE 2.5</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-2-5__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To preside at all sessions of the House; provided, that he may appoint any member to serve as presiding officer for a limited period which shall not extend beyond adjournment each day.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To open the session at the time to which the House shall have adjourned by taking the chair and calling the members to order.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To cause the House to proceed with its business in the proper order under the rules, if a quorum is present, and to announce the business before the House as the House proceeds upon each order of business.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To preserve order and decorum particularly as otherwise provided by the rules of the House.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>To speak on points of order, in which case he shall have preference over other members.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>To decide all points of order, subject to appeal to the House as provided in House Rule 9.12.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>To explain or clarify any rule of procedure upon request.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>To state, or to direct the Clerk to state, each motion as it is made, as provided in House Rule 9.1.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>To recognize members who seek the floor for the purpose of speaking in debate or otherwise; provided, that such recognition shall be in accordance with House Rules 5.4 and 5.5.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>To state and put to a vote all questions requiring a vote or upon which a vote is ordered and to announce the vote as provided in House Rule 10.4.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>To cast his vote when the House is equally divided; otherwise he shall not be required to vote.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>To have general charge and supervision of the House Chamber, galleries, adjoining or connecting hallways and passageways, House committee rooms, and all space allocated to the House of Representatives.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>To appoint the membership of all House committees, except as provided in House Rule 6.4 and except as otherwise provided by law, rule or resolution; to appoint the House membership of conference committees as provided by House Rule 6.14, and to appoint the chairmen and vice chairmen of committees as provided in House Rule 6.2.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>To appoint a chairman for the Committee of the Whole, as provided for in House Rule 6.20.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>To refer all proposed legislation or other matter to be referred to committee to standing committees, as provided in House Rules 6.5, 6.8, and 7.2.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>To sign all documents which require his signature, particularly as provided in House Rules 7.12 and 7.13.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>At his discretion, to examine and correct the Journal.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>To have general charge and supervision over the Clerk and his assistants, the Sergeant-at-Arms and his assistants and all employees of the House.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>To employ and have authority to discharge all House employees.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>To do and perform such other duties as may be required by the Constitution and laws of the state, or by the legislature or the House of Representatives and such other duties as may properly appertain to the office of Speaker of the House.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-2-5__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>To provide that audio and video of each meeting of a committee or of the House be recorded and maintained for viewing on the Internet as provided in these Rules.
+Mason's Manual: Sec. 96(2), 240(1), 513, 514, 575, 582(1 and 4), and 684(1 and 2)
+HR 3, 1973; HR 4, 1978; HR 45, 1998, eff. May 20, 1998; HR 1, 2008 1 st Ex. Sess., eff. Feb. 22, 2008.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113290</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-305"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-305"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 305"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-305/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-305/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-305/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-305/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-305">
+        <num>CHC 305</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-305__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>When a child is fifteen years of age or older at the time of the commission of
+first degree murder, second degree murder, aggravated or first degree rape, or aggravated
+kidnapping, he is subject to the exclusive jurisdiction of the juvenile court until either:</p>
+          </content>
+          <paragraph eId="CHC-305__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An indictment charging one of these offenses is returned.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The juvenile court holds a continued custody hearing pursuant to Articles 819
+and 820 and finds probable cause that he committed one of these offenses, whichever occurs
+first.  During this hearing, when the child is charged with aggravated or first degree rape, the
+court shall inform him that if convicted he shall register as a sex offender for life, pursuant
+to Chapter 3-B of Title 15 of the Louisiana Revised Statutes of 1950.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The district attorney shall have the discretion to file a petition alleging any of
+the offenses listed in Subparagraph</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-305__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this Paragraph in the juvenile court or,
+alternatively, to obtain an indictment.  If the child is being held in detention, the district
+attorney shall file the petition or indictment in the appropriate court within sixty calendar
+days after the child's arrest, unless the child waives this right.</p>
+          </content>
+          <paragraph eId="CHC-305__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Failure to institute prosecution as provided in this Subparagraph shall result in
+release of the child if, after a contradictory hearing with the district attorney, just cause for
+the failure is not shown. If just cause is shown, the court shall reconsider bail for the child. 
+Failure to institute prosecution as provided in this Subparagraph shall result in the release of
+the bail obligation if, after a contradictory hearing with the district attorney, just cause for the
+delay is not shown.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>When the juvenile court holds a continued custody hearing pursuant to Articles
+819 and 820 and finds probable cause that the child committed one of the offenses listed in
+Subparagraph</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-305__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this Paragraph, the time limitations contained in this Code are
+inapplicable, and the time period for filing an indictment after arrest shall be governed by
+Code of Criminal Procedure Article 701.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-305__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Thereafter, if an indictment is returned, the child is subject to the exclusive
+jurisdiction of the appropriate court exercising criminal jurisdiction for all subsequent
+procedures, including the review of bail applications, and the court exercising criminal
+jurisdiction may order that the child be transferred to the appropriate adult facility for
+detention prior to his trial as an adult.  If the district attorney elects to file a petition and the
+child waives the right to a continued custody hearing, the child is subject to the exclusive
+jurisdiction of the juvenile court for all subsequent procedures, including the review of bail
+applications.
+B.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-305__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>When a child is fifteen years of age or older at the time of the commission of
+any of the offenses listed in Subparagraph</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-305__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this Paragraph, he is subject to the exclusive
+jurisdiction of the juvenile court until whichever of the following occurs first:</p>
+          </content>
+          <paragraph eId="CHC-305__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An indictment charging one of the offenses listed in Subparagraph</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-305__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this
+Paragraph is returned.</p>
+          </content>
+          <paragraph eId="CHC-305__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The juvenile court holds a continued custody hearing and finds probable cause
+that the child has committed any of the offenses listed in Subparagraph</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-305__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this Paragraph
+and a bill of information charging any of the offenses listed in Subparagraph</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-305__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>of this
+Paragraph is filed.  During this hearing, when the child is charged with forcible or second
+degree rape or second degree kidnapping, the court shall inform him that if convicted he shall
+register as a sex offender for life, pursuant to Chapter 3-B of Title 15 of the Louisiana
+Revised Statutes of 1950.
+(2)</p>
+          </content>
+          <paragraph eId="CHC-305__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Attempted first degree murder.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Attempted second degree murder.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Manslaughter.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Armed robbery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Aggravated burglary.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_2__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Forcible or second degree rape.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_2__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Simple or third degree rape.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_2__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Second degree kidnapping.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-305__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Repealed by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73103</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

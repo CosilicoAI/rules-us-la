@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4872"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4872"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 4872"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4872/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4872/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4872/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4872/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-4872">
+        <num>CCP 4872</num>
+        <heading>4872.  Transfer to district court</heading>
+        <subsection eId="CCP-4872__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Where a principal demand is commenced in a parish or city court in which the defendant would otherwise be entitled to trial by jury under the provisions of Article 1731, or under any other provision of law, the defendant may obtain trial by jury by transferring the action to the district court in the manner provided by Article 4873.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4872__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Where a principal demand commenced in a parish or city court is one in which the defendant was not entitled to trial by jury under the provisions of Article 1731, a party who files an incidental demand in that court as authorized by Article 4846 waives any right he may have to jury trial on such incidental demand.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112106</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

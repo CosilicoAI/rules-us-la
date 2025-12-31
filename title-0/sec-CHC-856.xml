@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-856"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-856"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 856"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-856/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-856/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-856/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-856/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-856">
+        <num>CHC 856</num>
+        <heading>856.  Answer to petition</heading>
+        <subsection eId="CHC-856__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>After the child has been advised pursuant to Article 855, the court shall inquire how the child responds.  The child may:</p>
+          </content>
+          <paragraph eId="CHC-856__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Deny the allegations of the petition, in which case the court shall set the matter for an adjudication hearing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-856__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Deny the allegations of the petition and contest the request for adjudication due to insanity as defined in this Title, in which case the court shall not adjudicate the child without a hearing, at which time the child has the burden of establishing this defense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-856__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Admit the allegations of the petition, in which case the court shall further inquire to determine whether there is a factual basis for adjudication.  If so, the court may then adjudicate the child delinquent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-856__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>With the court's permission, enter a response of nolo contendere.  If, in its discretion, the court accepts such response, the court shall further inquire to determine whether there is a factual basis for adjudication, and it may then adjudicate the child delinquent.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-856__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A child shall plead when called upon to answer.  If he stands mute, refuses to plead, or pleads evasively, a denial of the petition shall be entered of record.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73447</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

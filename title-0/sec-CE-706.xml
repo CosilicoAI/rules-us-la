@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-706"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-706"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 706"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-706/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-706/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-706/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-706/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-706">
+        <num>CE 706</num>
+        <heading>706.  Court appointed experts</heading>
+        <subsection eId="CE-706__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Civil cases.  In a civil case, the court may on its own motion or on the motion of any party enter an order to show cause why expert witnesses should not be appointed, and may request the parties to submit nominations.  The court may appoint any expert witnesses agreed upon by the parties, and may appoint expert witnesses of its own selection.  An expert witness shall not be appointed by the court unless he consents to act.  A witness so appointed shall be informed of his duties by the court in writing, a copy of which shall be filed with the clerk, or at a conference in which the parties shall have opportunity to participate.  A witness so appointed shall advise the parties of his findings, if any; his deposition may be taken by any party; and he may be called to testify by the court or any party.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-706__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Disclosure of appointment.  In a civil case, in the exercise of its discretion, the court may authorize disclosure to the jury of the fact that the court appointed the expert witness.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-706__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Parties' experts of own selection.  Nothing in this Article limits the parties in calling expert witnesses of their own selection.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-706__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Criminal cases.  In a criminal case, the court may appoint an expert witness only when specifically authorized by statute, or as constitutionally required.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72510</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

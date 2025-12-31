@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-733-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-733-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 733.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-733-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-733-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-733-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-733-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-733-1">
+        <num>CHC 733.1</num>
+        <heading>733.1.  Stop of child absent from school; transportation to school facility</heading>
+        <subsection eId="CHC-733-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In addition to the authority provided in Article 736, a peace officer, probation officer, or school attendance officer may briefly detain any child from the age of seven through sixteen whom the officer reasonably believes to be absent from school during normal school hours and the officer may question the child about his reasons for being absent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-733-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If based on this inquiry the officer has reasonable grounds to believe that the child is absent from school without justification, the officer may release the child to his parents or transport the child to the appropriate administrator of the child's assigned school or to a receiving center designated by the parish school board for acceptance of such children.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-733-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon the child's transportation to either school or receiving center, the administrator shall promptly notify the child's parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-733-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the officer has reasonable grounds to believe that the child is truant or that the family is otherwise in need of services, the officer or administrator may file a complaint pursuant to Article 731.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73323</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

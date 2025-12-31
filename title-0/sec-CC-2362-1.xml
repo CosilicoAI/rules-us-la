@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2362-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2362-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2362.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2362-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2362-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2362-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2362-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2362-1">
+        <num>CC 2362.1</num>
+        <heading>2362.1.  Obligation incurred in an action for divorce</heading>
+        <subsection eId="CC-2362-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An obligation incurred before the date of a judgment of divorce for attorney fees
+and costs in an action for divorce and in incidental actions is deemed to be a community
+obligation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2362-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The obligation for attorney fees and costs incurred by the perpetrator of abuse or
+awarded against him in an action for divorce granted pursuant to Article 103</p>
+          </content>
+          <paragraph eId="CC-2362-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2362-1__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>or in
+an action in which the court determines that a spouse or a child of one of the spouses was the
+victim of domestic abuse committed by the perpetrator during the marriage, and in incidental
+actions, shall be a separate obligation of the perpetrator.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109437</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

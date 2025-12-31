@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1467"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1467"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1467"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1467/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1467/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1467/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1467/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1467">
+        <num>CHC 1467</num>
+        <heading>1467.  Capacity required</heading>
+        <subsection eId="CHC-1467__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>No admission may be deemed voluntary unless the admitting physician determines that the minor to be admitted has the capacity to make a knowing and voluntary consent to the admission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1467__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Knowing and voluntary consent shall be determined by the ability of the minor to understand:</p>
+          </content>
+          <paragraph eId="CHC-1467__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>That the treatment facility to which the minor patient is requesting admission is one for persons with mental illness or persons suffering from substance abuse.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1467__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>That he is making an application for admission.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1467__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The nature of his status and the provisions governing discharge or conversion to an involuntary status.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72963</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-294"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-294"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 294"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-294/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-294/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-294/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-294/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-294">
+        <num>CCRP 294</num>
+        <heading>294.  Examination of witnesses; transcript of testimony</heading>
+        <subsection eId="CCRP-294__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At the preliminary examination the state and the defendant may produce witnesses, who shall be examined in the presence of the defendant and shall be subject to cross-examination.  The defendant may also testify, subject to cross-examination.  A record of the preliminary examination proceedings shall be made.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-294__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Except upon an order issued by the court pursuant to a motion filed by the defendant, a defendant who is charged with a crime against a juvenile may not subpoena the victim to testify at the preliminary examination.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-294__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A transcript of the testimony of the witnesses, including that of the defendant, may be made by the court or under its direction and, if made, shall be signed and certified by the person taking the testimony.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-294__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Upon motion of the state or the defendant, a transcript of the preliminary examination proceedings may be made.  The cost of the transcript preparation under this Paragraph shall be paid by the party making the motion, unless the party is an indigent defendant.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-294__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The procedures set forth in Articles 322 through 329 of the Louisiana Children's Code and R.S. 15:440.1 and 283, relative to those procedures which provide protection for children who are victims of physical or sexual abuse, shall apply to all trial and pretrial procedures.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112421</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

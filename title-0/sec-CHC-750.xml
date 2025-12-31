@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-750"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-750"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 750"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-750/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-750/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-750/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-750/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-750">
+        <num>CHC 750</num>
+        <heading>750.  Amendment of petition</heading>
+        <subsection eId="CHC-750__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Without leave of court, the court's designate may amend the petition at any time
+prior to the adjudication hearing to add new names of agencies or institutions having the
+legal responsibility to provide services to the family or to delete the names of agencies or
+institutions named in the original petition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-750__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The petitioner may amend the petition at any time to cure defects of form,
+imperfection, omission, or uncertainty.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-750__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Prior to the adjudication hearing, the petitioner may amend the petition to include
+new allegations of fact or requests for adjudication.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-750__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Prior to the adjudication hearing, the petitioner may dismiss the family in need
+of services petition and instead file a petition which alleges delinquency pursuant to Title
+VIII of this Code or that a child is in need of care pursuant to Title VI of this Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-750__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>On motion of the child or parent that he has been prejudiced in his defense on the
+merits by defect of form, imperfection, omission, or uncertainty, the court may grant a
+continuance for a reasonable time. In determining whether the child or parent has been
+prejudiced in his defense upon the merits, the court shall consider all circumstances of the
+case and the entire course of the proceedings.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73341</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

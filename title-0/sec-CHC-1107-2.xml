@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1107.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1107-2">
+        <num>CHC 1107.2</num>
+        <heading>1107.2.  Intent to surrender for adoption; purpose; limitations</heading>
+        <subsection eId="CHC-1107-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The purpose of an act of intent to surrender for adoption is to facilitate early planning for the child who may be surrendered by the mother for adoption and to provide due notice at the earliest possible time to any alleged or adjudicated father who may have an interest in the child's custody.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1107-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An act of intent to surrender for adoption may be executed only by a pregnant female or mother of a child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1107-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The intent to surrender for adoption process may be used only when the alleged or adjudicated father is identified and can be served.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1107-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The intent to surrender for adoption process may not be used to terminate the rights of a legal father.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180613</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-858"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-858"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 858"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-858/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-858/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-858/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-858/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-858">
+        <num>CHC 858</num>
+        <heading>858.  Motion for transfer; notice</heading>
+        <subsection eId="CHC-858__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>On motion of the district attorney, the child, or on its own motion, the court may
+conduct a transfer hearing. Such motion may be filed at any time following the filing of a
+delinquency petition but shall be heard prior to the adjudication hearing or acceptance of an
+admission to the delinquency petition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-858__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Notice in writing of the time, place, and purpose of the hearing shall be given to
+the child and his parents and other custodian, if any, at least ten days before the hearing.  In
+addition, if the petition charges the child with second degree kidnapping, aggravated or first
+degree rape, or forcible or second degree rape, the court shall inform the child regarding the
+applicable registration and duration requirements in Chapter 3-B of Title 15 of the Louisiana
+Revised Statutes of 1950.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73449</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

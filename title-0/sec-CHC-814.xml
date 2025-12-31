@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-814"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-814"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 814"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-814/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-814/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-814/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-814/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-814">
+        <num>CHC 814</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-814__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A child may be taken into custody without a court order or warrant by a peace
+officer or probation officer if the officer has probable cause to believe that the child has
+committed a delinquent act.  When the officer has probable cause to believe that the child
+has committed a delinquent act, the officer, in lieu of taking the child into custody, may issue
+a verbal warning to the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-814__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a child is taken into custody without a court order or warrant, the officer shall
+have the responsibility to either:</p>
+          </content>
+          <paragraph eId="CHC-814__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Counsel and release the child to the care of his parents upon their written promise
+to bring the child to court at such time as may be fixed by the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-814__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Follow the appropriate procedures set forth in Article 815.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-814__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the officer does not release the child to the care of his parents, the officer shall
+promptly notify the child's parents that he has been taken into custody.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-814__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The officer shall immediately execute a written statement of facts, sworn to before
+an officer authorized by law to administer oaths, supporting the existence of probable cause
+to believe either that the child committed a delinquent act or that the child has violated the
+terms of his probation or otherwise has violated the terms of his release.  This affidavit shall
+be submitted to the juvenile court.  Within forty-eight hours after the child has been taken
+into custody, including legal holidays within the time computation, the court shall review the
+affidavit, and if it determines that probable cause exists, the child shall be held for a
+continued custody hearing pursuant to Article 819.  If the court determines that probable
+cause does not exist, the child shall be released from custody.  The provisions of this
+Paragraph shall not be construed to require the officer who executed the written statement
+to personally appear in court for any determination of probable cause in connection with the
+child being taken into custody.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-814__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The officer shall submit a report to the district attorney or an officer designated
+by the court to receive such reports.  The report shall include:</p>
+          </content>
+          <paragraph eId="CHC-814__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name, address, date of birth, sex, and race of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-814__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The name and address of the parents, or spouse, if any, of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-814__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A plain and concise statement of the facts and circumstances of the officer's
+taking the child into custody.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-814__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A plain and concise statement of facts and circumstances showing probable cause
+that the child committed a delinquent act.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-814__subsec_E__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A statement indicating whether the child was released, or escorted to a juvenile
+detention center, or placed in a shelter care facility.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-814__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If the child is released pursuant to Paragraph B or D of this Article, the report shall
+be submitted by the officer within seven days from the child's release.  If the child is not so
+released, the report shall be submitted within twenty-four hours of the child being taken into
+custody.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73405</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

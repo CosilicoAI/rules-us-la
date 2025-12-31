@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-211"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-211"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 211"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-211/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-211/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-211/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-211/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-211">
+        <num>CCRP 211</num>
+        <heading>211.  Summons by officer instead of arrest and booking</heading>
+        <subsection eId="CCRP-211__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When a peace officer has reasonable grounds to believe a person has committed
+an offense of driving with a driver's license that is under revocation, suspension, or
+cancellation, the officer may use his discretion to make a custodial arrest or issue a written
+summons to the offender, in accordance with law, commanding him to appear and answer
+the charge.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-211__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>When the officer has reasonable grounds to believe a person committed the
+offense of domestic abuse battery, battery of a dating partner, violation of a protective order,
+stalking, or any other offense involving the use or threatened use of force or a deadly weapon
+upon the defendant's family members, as defined in R.S. 46:2132, upon the defendant's
+household member, as defined in R.S. 14:35.3, or upon the defendant's dating partner, as
+defined in R.S. 46:2151, the officer shall make a custodial arrest.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112355</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

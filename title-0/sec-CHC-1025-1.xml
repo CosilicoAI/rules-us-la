@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1025-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1025-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1025.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1025-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1025-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1025-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1025-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1025-1">
+        <num>CHC 1025.1</num>
+        <heading>1025.1.  Appearance to answer petition</heading>
+        <subsection eId="CHC-1025-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall require the parent to appear in person to answer the petition within fifteen days after the filing of the petition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1025-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court may also permit the parent to consent to judgment in accordance with Article 1025.2 or execute a surrender for adoption in accordance with Article 1122.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1025-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>At the appearance the court may either convene immediately the pre-hearing conference required by Article 1025.4 or set a date for the conference.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72552</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

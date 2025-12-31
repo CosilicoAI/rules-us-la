@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-724-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-724-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 724.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-724-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-724-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-724-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-724-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-724-1">
+        <num>CHC 724.1</num>
+        <heading>724.1.  Temporary guardianship; designated successor guardian; construction</heading>
+        <subsection eId="CHC-724-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An individual who has been named as a successor guardian in the guardianship
+subsidy agreement may request an ex parte order of temporary guardianship of the child in
+a motion for guardianship or modification of guardianship pursuant to Article 720 or 724.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-724-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>An ex parte order of temporary guardianship of the child may be granted to the
+named successor only if all of the following conditions are satisfied:</p>
+          </content>
+          <paragraph eId="CHC-724-1__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The current guardian is incapacitated or deceased.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-724-1__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>It clearly appears from specific facts shown by a verified motion or by supporting
+affidavit that the individual is able to provide a stable and safe home for the child pending
+the hearing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-724-1__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The mover was previously named as a successor guardian in a guardianship
+subsidy agreement with the department as shown by the agreement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-724-1__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The mover certifies to the court in writing the efforts undertaken to give notice
+to the parent of the child, the department, and the attorney for the child of the request for the
+ex parte order granting temporary guardianship or the reasons supporting the claim that
+notice should not be required.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-724-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>An ex parte order of temporary guardianship shall:</p>
+          </content>
+          <paragraph eId="CHC-724-1__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Continue until a hearing on the motion for guardianship or modification of
+guardianship is held and guardianship is established or denied by the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-724-1__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Provide the date on which the ex parte order is signed and the date and hour of
+the hearing on the motion for guardianship or modification of the guardianship.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=962473</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

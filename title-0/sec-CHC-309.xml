@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-309"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-309"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 309"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-309/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-309/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-309/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-309/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-309">
+        <num>CHC 309</num>
+        <heading>309.  Continuing jurisdiction over custody disputes</heading>
+        <subsection eId="CHC-309__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in Article 313, a court exercising juvenile jurisdiction shall have continuing jurisdiction over the following proceedings and the exclusive authority to modify any custody determination rendered, including the consideration of visitation rights:</p>
+          </content>
+          <paragraph eId="CHC-309__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Child in need of care proceedings pursuant to Title VI.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-309__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Families in need of services proceedings pursuant to Title VII.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-309__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Involuntary termination of parental rights proceedings pursuant to Title X.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-309__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Voluntary termination of parental rights proceedings pursuant to Title XI.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-309__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Adoption proceedings pursuant to Title XII.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-309__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Parental transfer of custody proceedings pursuant to Chapter 3 of Title XV.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-309__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In exercise of its jurisdiction to determine the custody of a child under writs of habeas corpus or when custody is incidental to the determination of pending cases, a district court may enter an order of custody or modify any prior order of custody rendered by a juvenile court concerning the same child in any proceeding except those enumerated in Paragraph A of this Article.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73108</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

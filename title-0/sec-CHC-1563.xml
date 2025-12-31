@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1563"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1563"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1563"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1563/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1563/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1563/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1563/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1563">
+        <num>CHC 1563</num>
+        <heading>1563.  Declaratory judgment; appeal</heading>
+        <subsection eId="CHC-1563__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An action seeking a declaratory judgment may be brought by any parent, guardian, physician, or hospital in the juvenile court in the parish in which the child is present or is domiciled for the purposes of resolving any issue arising out of a dispute whether certain medical care or treatment should be extended in accordance with this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1563__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An attorney shall be appointed to represent the child in all trial and appellate proceedings.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1563__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>This proceeding shall be heard in chambers, confidentially and within forty-eight hours of the filing thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1563__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Before entering any judgment approving the refusal or discontinuance of any medical or surgical care for a child, the court must find by clear and convincing evidence that the requirements of Article 1554 have been met.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1563__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Any appeal or application for writs to review the juvenile court's judgment in any appellate court shall be heard in chambers, confidentially and within forty-eight hours of the filing thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1563__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Nothing in this Article shall be construed to require any court proceeding when a declaration authorized by Article 1557 has been executed or when the parent and the child's physician agree concerning the child's care, consistent with the requirements of this Chapter.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73021</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

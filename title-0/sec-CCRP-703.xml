@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-703"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-703"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 703"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-703/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-703/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-703/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-703/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-703">
+        <num>CCRP 703</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-703__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A defendant adversely affected may move to suppress any evidence from use at the trial on the merits on the ground that it was unconstitutionally obtained.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-703__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A defendant may move on any constitutional ground to suppress a confession or statement of any nature made by the defendant.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-703__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A motion filed under the provisions of this Article must be filed in accordance with Article 521, unless opportunity therefor did not exist or neither the defendant nor his counsel was aware of the existence of the evidence or the ground of the motion, or unless the failure to file the motion was otherwise excusable.  The court in its discretion may permit the filing of a motion to suppress at any time before or during the trial.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-703__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>On the trial of a motion to suppress filed under the provisions of this Article, the burden of proof is on the defendant to prove the ground of his motion, except that the state shall have the burden of proving the admissibility of a purported confession or statement by the defendant or of any evidence seized without a warrant.
+E.</p>
+          </content>
+          <paragraph eId="CCRP-703__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An evidentiary hearing on a motion to suppress shall be held only when the defendant alleges facts that would require the granting of relief.  The state may file an answer to the motion.  The defendant may testify in support of a motion to suppress without being subject to examination on other matters.  The defendant's testimony cannot be used by the state except for the purpose of attacking the credibility of the defendant's testimony at the trial on the merits.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-703__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the defendant testifies before the jury at the trial on the merits, he can be cross-examined on the whole case.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-703__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A ruling prior to trial on the merits, upon a motion to suppress, is binding at the trial.  Failure to file a motion to suppress evidence in accordance with this Article prevents the defendant from objecting to its admissibility at the trial on the merits on a ground assertable by a motion to suppress.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-703__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>When a ruling on a motion to suppress a confession or statement is adverse to the defendant, the state shall be required, prior to presenting the confession or statement to the jury, to introduce evidence concerning the circumstances surrounding the making of the confession or statement for the purpose of enabling the jury to determine the weight to be given the confession or statement.
+A ruling made adversely to the defendant prior to trial upon a motion to suppress a confession or statement does not prevent the defendant from introducing evidence during the trial concerning the circumstances surrounding the making of the confession or statement for the purpose of enabling the jury to determine the weight to be given the confession or statement.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112710</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

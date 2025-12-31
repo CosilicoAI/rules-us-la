@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-53"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-53"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 14.53"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-53/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-53/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-53/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-53/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-14-53">
+        <num>HRULE 14.53</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-14-53__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The secretary assigned to each committee shall maintain committee records, prepare committee reports, and perform such other duties as assigned by the chairman or the committee or by these rules or the House Rules.  The clerk assigned to each committee shall perform such duties as assigned by the chairman or the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-53__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>With respect to the operations of the standing committees of the House of Representatives, supervision of House Legislative Services employees assigned to each such committee shall be exercised by the executive director in coordination with each respective committee chairman.  All other employees of the House of Representatives assigned to a committee shall be under the general direction of the Speaker and under the direct supervision of the committee chairman subject to the approval of a majority of the committee.
+HR 8, 1974; HR 45, 1998, eff. May 20, 1998.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113266</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

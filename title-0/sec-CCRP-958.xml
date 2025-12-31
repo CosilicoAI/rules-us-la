@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-958"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-958"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 958"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-958/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-958/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-958/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-958/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-958">
+        <num>CCRP 958</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-958__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any provision of law to the contrary, if the governor has declared
+a disaster or emergency pursuant to the provisions of R.S. 29:721 et seq. or a public health
+emergency pursuant to R.S. 29:760 et seq., the supreme court is authorized to issue an order,
+or series of orders as it determines to be necessary and appropriate, that shall have the full
+force and effect of suspending all time periods, limitations, and delays pertaining to the
+initiation, continuation, prosecution, defense, appeal, and post-conviction relief of any
+prosecution of any state or municipal criminal, juvenile, wildlife, or traffic matter within the
+state of Louisiana including but not limited to any such provisions in this Code, the
+Children's Code, and Titles 14, 15, 32, 40, and 56 of the Louisiana Revised Statutes of 1950,
+or in any other provision of Louisiana law, for a determinate period of thirty days except as
+otherwise provided by this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-958__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The thirty-day period provided for in this Article shall commence to run from the
+date the supreme court issues the order or from a particular date specified by the supreme
+court in the order, whichever is earlier.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-958__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The thirty-day period provided in Paragraph A of this Article may be extended
+by further order of the supreme court for additional successive periods with each period not
+exceeding thirty days.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-958__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The period of suspension authorized by the provisions of this Article shall
+terminate upon order of the supreme court or upon termination of the declared disaster,
+emergency, or public health emergency, whichever is earlier.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-958__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The provisions of this Article shall not apply to Articles 230.1, 230.2, and 232 and
+Children's Code Articles 624 and 819.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-958__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Nothing in this Article shall be construed to negate or impair the application of
+any other provision of law regarding the suspension or interruption of time periods,
+limitations, or delays.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1187303</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

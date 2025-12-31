@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-15-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-15-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CA 14 15.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-15-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-15-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-15-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-15-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CA-14-15-1">
+        <num>CA 14 15.1</num>
+        <heading>1.  Fire and police civil service; municipalities of 13,000 to 250,000</heading>
+        <content>
+          <p>§15.1.  Fire and police civil service; municipalities of 13,000 to 250,000
+1.  Applicability.  This Section applies to any municipality which operates a regularly
+paid fire and police department and which has a population of not less than thirteen thousand
+nor more than two hundred fifty thousand according to the latest regular federal census for
+which the official figures have been made public.
+2.  Short Title.  This Section shall be known and may be cited as &quot;The Municipal Fire
+and Police Civil Service Law.&quot;
+3.  Definitions.  The following words and phrases when used in this Section shall
+have the following meaning, unless the context clearly requires otherwise:
+a.  &quot;Allocation&quot; means the official determination of the class to which a position in
+the classified service belongs.
+b.  &quot;Appointing authority&quot; means any official, officer, board, commission, council,
+or person having the power to make appointments to positions in the municipal fire and
+police service.
+c.  &quot;Appointment&quot; means the designation of a person, by due authority, to become an
+employee in a position, and his induction into employment in the position.
+d.  &quot;Board&quot; means the municipal fire and police civil service board.
+e.  &quot;Class&quot; or &quot;class of position&quot; means a definitely recognized kind of employment
+in the classified service, designated to embrace positions that are so nearly alike in the
+essential character of their duties, responsibilities, and consequent qualification requirements,
+that they can fairly and equitably be treated alike under like conditions for all personnel
+purposes.
+f.  &quot;Classification plan&quot; means all the classes of positions established for the
+classified service.
+g.  &quot;Classified service&quot; means every appointive office and position of trust or
+employment in the municipal government which has as its primary duty one of the functions
+specifically set forth to be included in the classified service by the provisions of this Section;
+and excludes all elective and appointive offices and positions of trust or employment which
+have a primary duty specifically set forth to be included in the unclassified service by the
+provisions of this Section.
+h.  &quot;Demotion&quot; means a change of an employee in the classified service from a
+position of one class to a position of a lower class which generally affords less responsibility
+and pay.
+i.  &quot;Department service&quot; means employment in the public service offered and
+performed separately by the fire and by the police departments of the municipality.
+j.  &quot;Eligible&quot; means a person whose name is on the list.
+k.  &quot;Employee&quot; means a person legally occupying a position.
+l.  &quot;Employment list&quot; or &quot;lists&quot; means a reinstatement employment list, a promotional
+employment list, a competitive employment list, and a reemployment list.
+m.  &quot;Position&quot; means any office and employment in the municipal fire and police
+services, the duties of which call for services to be rendered by one person.
+n.  &quot;Promotion&quot; means a change of an employee in the classified service from a
+position of one class to a position of a higher class which generally affords increased
+responsibilities and pay.
+o.  &quot;Promotion employment list&quot; or &quot;promotion list&quot; means an employment list
+containing the names of eligible persons established from the results of promotion tests given
+for a particular class of positions which is not specifically required by this Section to be
+established from the results of a competitive test.
+p.  &quot;Promotion test&quot; means a test for positions in a particular class which is not
+specifically required by this Section to be filled by competitive tests, admission to which is
+limited to regular employees of the next lower class, or the next lower classes when
+authorized by the rules, in the classified service.
+q.  &quot;Reemployment list&quot; means an employment list for the entrance or lowest ranking
+class in the classified service, or in any group of classes as may have been grouped in the
+classification plan, containing names of regular employees who have been laid off under the
+&quot;lay off&quot; provisions of this Section.  This list shall not be applicable to persons who have
+resigned or have been discharged.
+r.  &quot;Regular employee&quot; or &quot;permanent employee&quot; means an employee who has been
+appointed to a position in the classified service in accordance with this Section after
+completing his working test period.
+s.  &quot;Reinstatement employment list&quot; or &quot;reinstatement list&quot; means an employment list
+containing names of persons eligible for reinstatement in positions of a class from which they
+have been demoted for reasons other than disciplinary action.
+t.  Repealed by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=67949</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-839"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-839"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 839"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-839/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-839/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-839/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-839/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-839">
+        <num>CHC 839</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-839__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Prior to the filing of a petition, the district attorney or the court with the consent of the district attorney may authorize an informal adjustment agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-839__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>After the filing of a petition but before the attachment of jeopardy pursuant to Article 811, the court may authorize the district attorney or probation officer to effect an informal adjustment agreement if the child and district attorney have no objection.  The court may, with concurrence of the district attorney, dismiss the petition or allow the petition to remain pending during the period of informal adjustment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-839__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When entering an informal adjustment agreement, the court may, with concurrence of the district attorney, utilize or initiate a teen or youth court program and may assess a fee to a participant in the program to offset costs.
+D.</p>
+          </content>
+          <paragraph eId="CHC-839__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Where a petition involves an allegation of an act of prostitution pursuant to R.S. 14:82, prostitution by massage pursuant to R.S. 14:83.3 or 83.4, or crimes against nature by solicitation pursuant to R.S. 14:89.2 and it is the child's first offense and the child expresses a willingness to cooperate and receive specialized services for sexually exploited children, the district attorney may effect an informal adjustment agreement which includes specialized services for the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-839__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If, however, the child has previously been adjudicated a delinquent in violation of R.S. 14:82, 83.3, 83.4, or 89.2 or is unwilling to cooperate with specialized services for sexually exploited children, continuing with the delinquency proceeding shall be within the discretion of the district attorney.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-839__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The specialized services referenced in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-839__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph may include but are not limited to safe and stable housing, comprehensive on-site case management, integrated mental health and chemical dependency services, including specialized trauma recovery services, education and employment training, and referrals to off-site specialized services, as appropriate.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73430</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

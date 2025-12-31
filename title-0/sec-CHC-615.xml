@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-615"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-615"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 615"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-615/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-615/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-615/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-615/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-615">
+        <num>CHC 615</num>
+        <heading>615.  Disposition of reports</heading>
+        <subsection eId="CHC-615__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In determining the disposition of the report, the agency shall take into account,
+in mitigation, the possibility of accidental injury or condition, or that the injury resulted from
+what might be considered a reasonable exercise of discipline for the child's misbehavior.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-615__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>After investigation, the local child protection unit shall make one of the following
+determinations:</p>
+          </content>
+          <paragraph eId="CHC-615__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The child appears to be a child in need of care and the child's immediate removal
+is necessary for protection from further abuse or neglect, in which case, whenever
+extraordinary justification arises, the local child protection unit shall apply for an instanter
+removal order to place the child in the custody of a suitable relative or other suitable
+individual capable of protecting the health, welfare, and safety of the child or the state as
+authorized by Articles 619 and 620 and shall notify the district attorney as soon as possible.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The report  is substantiated, in that there is evidence of child abuse, or neglect,
+and a protective order or instanter safety plan order would eliminate the need for removal of
+the child in order to protect him from further abuse, in which case it may apply for a
+temporary restraining order or protective order authorized by Articles 617 and 618, or an
+instanter safety plan order authorized by Article 619 or 620.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The report  is substantiated, in that there is evidence of child abuse or neglect,
+in which case it shall report all pertinent information to the district attorney, as soon as
+possible but in no case more than thirty days after such determination, for evaluation of
+whether a child in need of care petition should be filed in the court with juvenile jurisdiction.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The report is inconclusive, in that the evidence tends to support a finding of
+abuse or neglect, but there is not enough  information to confirm a justified report.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The report  is unsubstantiated as the evidence does not support a finding of child
+abuse or neglect.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The investigation indicates the report appears to be false and that the reporter
+knowingly made a false report in which case all pertinent information shall be forwarded to
+the district attorney for a determination of whether the evidence supports a finding of a false
+public report.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-615__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In addition to investigation or assessment of reports, or both, the local child
+protection family services unit may offer available information, referrals, or services to the
+family when there appears to be some need for medical, mental health, social, basic support,
+supervision, or other services. Assignments for case response and allocation of resources
+shall be made in the order of children at greatest risk of harm to the lowest risk of harm. The
+individualized intervention strategies based on this risk assessment may include concurrent
+planning.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-615__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Violation of the duties imposed by this Article subjects the offender to criminal
+prosecution authorized by R.S. 14:403(A)(2).</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-615__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>When after the investigation of a report, the determination is made that the report
+is inconclusive or  unsubstantiated, as provided in Subparagraphs (B)</p>
+          </content>
+          <paragraph eId="CHC-615__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_E__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>of this
+Article, the files, records, and pertinent information regarding the report and investigation
+shall be strictly confidential, shall not become part of the central registry except as otherwise
+provided in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph or in Article 616(F), shall not be disclosed
+or ordered to be produced in conjunction with any legal proceeding or other matter except
+as provided in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this Paragraph, and shall be maintained only for the
+following purposes:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The files, records, and information shall remain unsealed and shall be maintained
+for the exclusive use of child protective services, to assist in future risk and safety
+assessments. The Department of Children and Family Services shall maintain all files and
+records for seven years from the date of the determination, unless a subsequent inconclusive
+or  unsubstantiated report is received during that period. In that case, information from all
+such reports will be maintained until the youngest child in the alleged victim's family attains
+the age of eighteen years or seven years from the date of the latest determination, whichever
+is longer. If information from an inconclusive or  unsubstantiated report is used as a part of
+the basis for a later, related, and  substantiated report, the earlier report shall become part of
+the file of the  substantiated report and shall cease to be a separate report.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All files, records, and information shall be admissible in any civil litigation or
+criminal proceeding against the Department of Children and Family Services or its
+employees wherein work performance or conduct is at issue.  They shall remain confidential
+and be placed under seal by the court to prevent disclosure to the public.  The department
+shall maintain the files, records and information during the pendency of the litigation or
+prosecution.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>All files, records, and information regarding a report that has been determined
+to be inconclusive may be released to law enforcement investigators in the course of
+investigations of crimes involving acts against children in order to assist in the proper
+evaluation of current reports of abuse which may include a pattern of incidents. 
+Notwithstanding any other provision of law to the contrary, these files, records, and
+information shall remain confidential and shall not be subject to disclosure pursuant to R.S.
+44:1 et seq.  If a court determines that the files, records, and information are admissible in
+criminal proceedings involving acts against children, those files, records, and information
+shall be placed under seal by the court to prevent disclosure to the public.
+(4)</p>
+            </content>
+            <subparagraph eId="CHC-615__subsec_E__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All files, records, and information regarding a report that has been determined
+to be inconclusive or  unsubstantiated shall be released to local, state, and federal law
+enforcement agencies, military authorities, prosecuting authorities, and coroners upon request
+when such entity is in the course of investigations or legal proceedings and the requesting
+entity has good cause to believe that the files, records, or information contain information
+which may be constitutionally required to be disclosed pursuant to Brady v. Maryland, 373
+U.S. 83</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-615__subsec_E__subsec_1963">
+            <num>(1963)</num>
+            <content>
+              <p>and its progeny. The requesting agency shall request the information in
+writing and state the purpose for which the information is being requested.</p>
+            </content>
+            <subparagraph eId="CHC-615__subsec_E__subsec_1963__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Files, records, and information released pursuant to this Subparagraph shall be
+confidential and shall not be further disclosed except as expressly authorized by Article 412. 
+Notwithstanding any other provision of law to the contrary, files, records, and information
+released pursuant to this Subparagraph shall not be subject to disclosure pursuant to R.S.
+44:1 et seq.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-615__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The department shall promulgate rules to provide for the disposition, handling,
+maintenance, and storage of inconclusive and  unsubstantiated reports in keeping with this
+Article. Nothing in this Article shall be construed to modify or abrogate the provisions of
+R.S. 44:411.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-615__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Except as provided in Subparagraph (B)</p>
+          </content>
+          <paragraph eId="CHC-615__subsec_G__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>of this Article, the name of the
+reporter shall not be disclosed.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73207</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

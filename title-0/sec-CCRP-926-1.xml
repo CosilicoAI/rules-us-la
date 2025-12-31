@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 926.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-926-1">
+        <num>CCRP 926.1</num>
+        <heading>926.1.  Application for DNA testing</heading>
+        <subsection eId="CCRP-926-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An application filed under the provisions of this Article shall comply with the
+provisions of Article 926  and shall allege all of the following:</p>
+          </content>
+          <paragraph eId="CCRP-926-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A factual explanation of why there is an articulable doubt, based on competent
+evidence whether or not introduced at trial, as to the guilt of the petitioner in that DNA
+testing will resolve the doubt and establish the innocence of the petitioner.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The factual circumstances establishing the timeliness of the application.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The identification of the particular evidence for which DNA testing is sought.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>That the applicant is factually innocent of the crime for which he was convicted,
+in the form of an affidavit signed by the petitioner under penalty of perjury.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-926-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In addition to any other reason established by legislation or jurisprudence, and
+whether based on the petition and answer or after contradictory hearing, the court shall
+dismiss any application filed pursuant to this Article unless it finds all of the following:</p>
+          </content>
+          <paragraph eId="CCRP-926-1__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There is an articulable doubt based on competent evidence, whether or not
+introduced at trial, as to the guilt of the petitioner and there is a reasonable likelihood that the
+requested DNA testing will resolve the doubt and establish the innocence of the petitioner. 
+In making this finding the court shall evaluate and consider the evidentiary importance of the
+DNA sample to be tested.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The application has been timely filed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The evidence to be tested is available and in a condition that would permit DNA
+testing.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-926-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Relief under this Article shall not be granted when the court finds that there is a
+substantial question as to the integrity of the evidence to be tested.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-926-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Relief under this Article shall not be granted solely because there is evidence
+currently available for DNA testing but the testing was not available or was not done at the
+time of the conviction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-926-1__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Once an application has been filed and the court determines the location of the
+evidence sought to be tested, the court shall serve a copy of the application on the district
+attorney and the law enforcement agency which has possession of the evidence to be tested,
+including but not limited to sheriffs, the office of state police, local police agencies, and
+crime laboratories.  If the court grants relief under this Article and orders DNA testing the
+court shall also issue such orders as are appropriate to obtain the necessary samples to be
+tested and to protect their integrity.  The testing shall be conducted by a laboratory mutually
+agreed upon by the district attorney and the petitioner.  If the parties cannot agree, the court
+shall designate a laboratory to perform the tests that is accredited in forensic DNA analysis
+by an accrediting body that is a signatory to the International Laboratory Accreditation
+Cooperation Mutual Recognition Arrangements for Testing Laboratories (ILAC MRA) and
+requires conformance to an accreditation program based on the international standard
+ISO/IEC 17025 with an accreditation scope in the field of forensic science testing in the
+discipline of biology, and that is compliant with the current version of the Federal Bureau
+of Investigations Quality Assurance Standards for Forensic DNA Testing Laboratories.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-926-1__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>If the court orders the testing performed at a private laboratory, the district
+attorney shall have the right to withhold a sufficient portion of any unknown sample for
+purposes of his independent testing.  Under such circumstances, the petitioner shall submit
+DNA samples to the district attorney for purposes of comparison with the unknown sample
+retained by the district attorney.  A laboratory selected to perform the analysis shall, if
+possible, retain and maintain the integrity of a sufficient portion of the unknown sample for
+replicate testing.  If after initial examination of the evidence, but before actual testing, the
+laboratory decides that there is insufficient evidentially significant material for replicate tests,
+then it shall notify the district attorney in writing of its finding.  If the petitioner and district
+attorney cannot agree, the court shall determine which laboratory as required by Paragraph
+F of this Article is best suited to conduct the testing and shall fashion its order to allow the
+laboratory conducting the tests to consume the entirety of the unknown sample for testing
+purposes if necessary.
+H.</p>
+          </content>
+          <paragraph eId="CCRP-926-1__subsec_G__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The results of the DNA testing ordered under this Article shall be filed by the
+laboratory with the court and served upon the petitioner and the district attorney.  The court
+may, in its discretion, order production of the underlying facts or data and laboratory notes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_G__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>After service of the application on the district attorney and the law enforcement
+agency in possession of the evidence, no evidence shall be destroyed that is relevant to a case
+in which an application for DNA testing has been filed until the case has been finally
+resolved by the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_G__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>After service of the application on the district attorney and the law enforcement
+agency in possession of the evidence, the clerks of court of each parish and all law
+enforcement agencies, including but not limited to district attorneys, sheriffs, the office of
+state police, local police agencies, and crime laboratories, shall preserve until August 31,
+2030, all items of evidence in their possession which are known to contain biological
+material that can be subjected to DNA testing, in all cases that, as of August 15, 2001, have
+been concluded by a verdict of guilty or a plea of guilty.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_G__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In all cases in which the defendant has been sentenced to death prior to August
+15, 2001, the clerks of court of each parish and all law enforcement agencies, including but
+not limited to district attorneys, sheriffs, the office of state police, local police agencies, and
+crime laboratories shall preserve, until the execution of sentence is completed, all items of
+evidence in their possession which are known to contain biological material that can be
+subjected to DNA testing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_G__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding the provisions of Subparagraphs</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_G__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_G__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this Paragraph,
+after service of the application on the district attorney and the law enforcement agency in
+possession of the evidence, the clerks of court of each parish and all law enforcement
+agencies, including but not limited to district attorneys, sheriffs, the office of state police,
+local police agencies, and crime laboratories may forward for proper storage and preservation
+all items of evidence described in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_G__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this Paragraph to a laboratory that is
+accredited by an accrediting body that is a signatory to the International Laboratory
+Accreditation Cooperation Mutual Recognition Arrangements for Testing Laboratories
+(ILAC MRA) and requires conformance to an accreditation program based on the
+international standard ISO/IEC 17025 with an accreditation scope in the field of forensic
+science testing in the discipline of biology, and that is compliant with the current version of
+the Federal Bureau of Investigations Quality Assurance Standards for Forensic DNA Testing
+Laboratories.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_G__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Except in the case of willful or wanton misconduct or gross negligence, no clerk
+of court or law enforcement officer or law enforcement agency, including but not limited to
+any district attorney, sheriff, the office of state police, local police agency, or crime
+laboratory which is responsible for the storage or preservation of any item of evidence in
+compliance with either the requirements of Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-1__subsec_G__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this Paragraph or R.S.
+15:621 shall be held civilly or criminally liable for the unavailability or deterioration of any
+such evidence to the extent that adequate or proper testing cannot be performed on the
+evidence.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-926-1__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>The DNA profile of the petitioner obtained under this Article shall be sent by the
+district attorney to the state police for inclusion in the state DNA data base established
+pursuant to R.S. 15:605.  The petitioner may seek removal of his DNA record pursuant to
+R.S. 15:614.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-926-1__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>The petitioner, in addition to other service requirements, shall mail a copy of the
+application requesting DNA testing to the Department of Public Safety and Corrections,
+Corrections Services, office of adult services.  If the court grants relief under this Article, the
+court shall mail a copy of the order to the Department of Public Safety and  Corrections,
+Corrections Services, office of adult services.  The Department of Public Safety and
+Corrections, Corrections Services, office of adult services, shall keep a copy of all records
+sent to them pursuant to this Subsection and report to the legislature before January 1, 2003,
+on the number of petitions filed and the number of orders granting relief.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-926-1__subsec_K">
+          <num>K.</num>
+          <content>
+            <p>There is hereby created in the state treasury a special fund designated as the DNA
+Testing Post-Conviction Relief for Indigents Fund. The fund shall consist of money specially
+appropriated by the legislature. No other public money may be used to pay for the DNA
+testing authorized under the provisions of this Article. The fund shall be administered by the
+office of the state public defender. The fund shall be segregated from all other funds and
+shall be used exclusively for the purposes established under the provisions of this Article.
+If the court finds that a petitioner under this Article is indigent, the fund shall pay for the
+testing as authorized in the court order.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112937</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

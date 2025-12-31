@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-679"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-679"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 679"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-679/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-679/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-679/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-679/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-679">
+        <num>CCRP 679</num>
+        <heading>679.  Recusal of an appellate judge and a supreme court justice</heading>
+        <subsection eId="CCRP-679__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A party desiring to recuse a judge of a court of appeal shall file a written motion
+therefor assigning the ground for recusal under Article 671.  When a written motion is filed
+to recuse a judge of a court of appeal, the judge may recuse himself or the motion shall be
+heard by the other judges on the panel to which the cause is assigned, or by all judges of the
+court, except the judge sought to be recused, sitting en banc.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-679__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a judge of a court of appeal recuses himself or is recused, the court shall
+randomly allot another of its judges to act for the recused judge in the hearing and disposition
+of the cause.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-679__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the motion to recuse fails to set forth facts constituting a ground for recusal
+under Article 671, the judge may deny the motion without a hearing but shall provide written
+reasons for the denial.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-679__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A party desiring to recuse a justice of the supreme court shall file a written motion
+therefor assigning the ground for recusal under Article 671.  When a written motion is filed
+to recuse a justice of the supreme court, the justice may recuse himself or the motion shall
+be heard by the other justices of the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-679__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>When a justice of the supreme court recuses himself or is recused, the court may
+have the cause argued before and disposed of by the other justices or appoint a sitting or
+retired judge of a district court or of a court of appeal having the qualifications of a justice
+of the supreme court to sit as a member of the court in the hearing and disposition of the
+cause.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112697</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

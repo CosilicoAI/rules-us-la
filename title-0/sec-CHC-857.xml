@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-857"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-857"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 857"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-857/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-857/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-857/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-857/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-857">
+        <num>CHC 857</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-857__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court on its own motion or on motion of the district attorney may conduct a
+hearing to consider whether to transfer a child for prosecution to the appropriate court
+exercising criminal jurisdiction if a delinquency petition has been filed which alleges that a
+child who is fourteen years of age or older at the time of the commission of the alleged
+offense but is not otherwise subject to the original jurisdiction of a court exercising criminal
+jurisdiction has committed any one or more of the following crimes:</p>
+          </content>
+          <paragraph eId="CHC-857__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>First degree murder.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-857__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Second degree murder.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-857__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Aggravated kidnapping.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-857__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Aggravated or first degree rape.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-857__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Aggravated battery when committed by the discharge of a firearm.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-857__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Armed robbery when committed with a firearm.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-857__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Repealed by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73448</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

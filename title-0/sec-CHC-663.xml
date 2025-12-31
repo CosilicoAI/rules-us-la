@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-663"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-663"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 663"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-663/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-663/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-663/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-663/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-663">
+        <num>CHC 663</num>
+        <heading>663.  Evidence; suspension of privileges</heading>
+        <subsection eId="CHC-663__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise hereinafter provided, the adjudication hearing shall be conducted according to the rules of evidence applicable to civil proceedings.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-663__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court may consider as evidence any videotape which is prepared in compliance with Chapter 8 of Title III and which is relevant to the proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-663__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Evidence of a prior criminal conviction shall be admissible in proceedings brought under this Title in order to prove allegations made under Article 606.  Such proof shall be by certified copy of the judgment of conviction or certified copy of the minute entry of conviction in accordance with the Louisiana Code of Evidence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-663__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Testimony or other evidence relevant to the abuse or neglect of a child or the cause of such condition may not be excluded on any ground of privilege, except in the case of confessions or communications between an attorney and his client or confidential communications between a priest, rabbi, duly ordained minister, or Christian Science practitioner and his confidential communicant.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73257</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-412-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-412-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 412.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-412-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-412-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-412-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-412-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-412-1">
+        <num>CHC 412.1</num>
+        <heading>412.1.  Data collection and remittance</heading>
+        <subsection eId="CHC-412-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Each special juvenile court created by law with exclusive original juvenile jurisdiction may biennially report, by respective section or division, to the Louisiana Supreme Court and its local district attorney and sheriff the aggregate number of preadjudication and postadjudication court interventions resulting from taking a child into custody for the alleged commission of a delinquent act for each child who is:</p>
+          </content>
+          <paragraph eId="CHC-412-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Released to the custody of his parents or other suitable persons.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Placed on probation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Committed to the custody of the Department of Public Safety and Corrections.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Referred for appropriate placement at detention, shelter, or other treatment facilities.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412-1__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Referred to an alternative formal processing program.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-412-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In addition, such courts may also report by respective section or division to the Louisiana Supreme Court and the local district attorney and sheriff the aggregate number of times each statute was allegedly violated by a child, the number of cases in which adjudicated juveniles violated probation, and the number of times a specific term of probation was violated, including but not limited to curfews, ankle bracelets, and house arrests.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The Louisiana Supreme Court may develop a form to be used by the courts for such reporting and provide by policy for the uniform definitions of terms so as to allow statistical analysis of the data and information submitted.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The local district attorney or sheriff, at his expense, may publish the data received in the official journal of the locality.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=814350</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

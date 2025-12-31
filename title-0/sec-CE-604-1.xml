@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-604-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-604-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 604.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-604-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-604-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-604-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-604-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-604-1">
+        <num>CE 604.1</num>
+        <heading>604.1.  Qualifications of interpreters; interpretations</heading>
+        <subsection eId="CE-604-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If a party objects to the qualifications of any court-appointed interpreter, the party
+or the party's attorney shall have the right to conduct a voir dire examination of the
+interpreter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-604-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a qualified interpreter is not available for a court proceeding, upon the consent
+of all parties, the court may appoint a person who the court and parties agree will be able to
+accurately interpret the proceeding in a fair and impartial manner. Before giving consent, the
+party or the party's attorney shall have the right to conduct a voir dire examination of the
+interpreter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-604-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Any party may object to the interpretation or translation of an interpreter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-604-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In all court proceedings in a court of record, interpreted communications with the
+court shall be recorded in an audio or audiovisual format. The recordings shall be retained
+by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-604-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Nothing in this Article prevents any party from having its own interpreter at any
+proceeding for the party's own purposes.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1387037</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1422"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1422"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1422"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1422/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1422/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1422/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1422/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1422">
+        <num>CHC 1422</num>
+        <heading>1422.  Certificate; contents</heading>
+        <subsection eId="CHC-1422__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The emergency certificate shall state all of the following:</p>
+          </content>
+          <paragraph eId="CHC-1422__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The date the physician, family psychiatric mental health nurse practitioner, or psychologist examined the minor, which shall not be more than seventy-two hours prior to the date of the signature of the certificate.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1422__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The objective findings of the physician, family psychiatric mental health nurse practitioner, or psychologist relative to the physical and mental condition of the minor, leading to the conclusion that he is dangerous to himself or others or is gravely disabled as a result of substance abuse or mental illness.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1422__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The history of the case, if known.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1422__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The determination of whether the minor examined is in need of immediate psychiatric treatment in a treatment facility because he is either:</p>
+            </content>
+            <subparagraph eId="CHC-1422__subsec_A__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Dangerous to himself.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1422__subsec_A__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Dangerous to others.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1422__subsec_A__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Gravely disabled.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1422__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A statement that the minor is unwilling or unable to seek voluntary admission.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1422__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The certificate shall be dated and executed under the penalty of perjury, but need not be notarized.  The certificate shall be valid for seventy-two hours and shall be delivered to the director of the treatment facility where the person is to be further evaluated and treated.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72918</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

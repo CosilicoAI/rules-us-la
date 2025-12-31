@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-253"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-253"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 253"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-253/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-253/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-253/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-253/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-253">
+        <num>CCRP 253</num>
+        <heading>253.  Eyewitness identification procedures</heading>
+        <subsection eId="CCRP-253__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>For any criminal justice entity that elects to draft its own policy on eyewitness
+identification procedures, these policies shall:</p>
+          </content>
+          <paragraph eId="CCRP-253__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Be based on all of the following:</p>
+            </content>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Credible field, academic, or laboratory research on eyewitness memory.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Relevant policies, guidelines, and best practices designed to reduce erroneous
+eyewitness identifications and to enhance the reliability and objectivity of eyewitness
+identifications.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Other relevant information as appropriate.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-253__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Include the following information regarding evidence-based practices:</p>
+            </content>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Procedures for selecting photograph and live lineup filler photographs or
+participants to ensure that the photographs or participants:</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Are consistent in appearance with the description of the alleged perpetrator.
+(ii)  Do not make the suspect noticeably stand out.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Instructions given to a witness before conducting a photograph or live lineup
+identification procedure shall include a statement that the person who committed the offense
+may or may not be present in the procedure.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Procedures for documenting and preserving the results of a photograph or live
+lineup identification procedure, including the documentation of witness statements,
+regardless of the outcome of the procedure.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Procedures for administering a photograph or live lineup identification procedure
+to an illiterate person or a person with limited English language proficiency.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>For a live lineup identification procedure, if practicable, procedures for assigning
+an administrator who is unaware of which member of the live lineup is the suspect in the
+case or alternative procedures designed to prevent opportunities to influence the witness.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>For a photograph identification procedure, procedures for assigning an
+administrator who is capable of administering a photograph array in a blind manner or in a
+blinded manner consistent with other proven or supported best practices designed to prevent
+opportunities to influence the witness.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Any other procedures or best practices supported by credible research or
+commonly accepted as a means to reduce erroneous eyewitness identifications and to
+enhance the objectivity and reliability of eyewitness identifications.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-253__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Provide that a witness who makes an identification based on a photograph or live
+lineup identification procedure be asked immediately after the procedure to state, in the
+witness's own words, how confident the witness is in making the identification.  A law
+enforcement agency shall document in accordance with Subsubparagraph (2)</p>
+            </content>
+            <subparagraph eId="CCRP-253__subsec_B__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of this
+Paragraph any statement made under this Subparagraph.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-253__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Not later than December thirty-first of each odd-numbered year, the institute shall
+review the model policy and training materials adopted under this Article and shall modify
+the policy and materials as appropriate while maintaining the requirements outlined in
+Paragraph B of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-253__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Not later than December thirty-first of each even-numbered year, each law
+enforcement agency shall review its policy adopted under this Article and shall modify that
+policy as appropriate while maintaining the requirements outlined in Paragraph B of this
+Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-253__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Failure to conduct a photograph or live lineup identification procedure in
+substantial compliance with the model policy or any other policy adopted under this Article
+shall not bar the admission of eyewitness identification testimony.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-253__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A video record of identification procedures shall be made or, if a video record is
+not practicable, an audio record shall be made.  If neither a video nor audio record are
+practicable, the reasons shall be documented in writing, and the lineup administrator shall
+make a full and complete written record of the lineup in accordance with Subsubparagraph
+(B)(2)(c) of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-253__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>The written eyewitness identification procedures of a criminal justice entity shall
+be made available, in writing, to the public upon request.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-253__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>Evidence of failure to comply with any of the provisions of this Article:</p>
+          </content>
+          <paragraph eId="CCRP-253__subsec_H__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>May be considered by the district court in adjudicating motions to suppress an
+eyewitness identification.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-253__subsec_H__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>May be admissible in support of any claim of eyewitness misidentification, as
+long as the evidence is otherwise admissible.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1106482</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

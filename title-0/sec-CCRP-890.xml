@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 890"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-890">
+        <num>CCRP 890</num>
+        <heading>890.  Method of service of sentence of imprisonment; labor and confinement; workday release program</heading>
+        <subsection eId="CCRP-890__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A sentence of imprisonment in the state penitentiary shall be served in conformity with the applicable provisions of Title 15 of the Louisiana Revised Statutes of 1950 that govern the state penitentiary.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-890__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Except in misdemeanor cases, any other sentence of imprisonment subjects the defendant to confinement, and to labor unless otherwise specified.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-890__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In all misdemeanor cases in which a sentence of imprisonment is imposed and the sentencing court has ordered the defendant to report to the sheriff for participation in a court-approved workday release program during the term of imprisonment, the defendant shall be subjected to confinement and costs as provided for in R.S. 15:708.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112874</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

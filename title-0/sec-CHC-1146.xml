@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1146"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1146"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1146"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1146/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1146/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1146/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1146/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1146">
+        <num>CHC 1146</num>
+        <heading>1146.  Permanency planning; review hearings; counsel for child</heading>
+        <subsection eId="CHC-1146__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If no permanent placement has been made by the department within ninety days after a voluntary surrender to a child care agency, review hearings shall be held in accordance with the provisions of Chapters 15 and 16 of Title VI of this Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1146__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When the department is not the legal custodian of the child review hearings shall be held as follows:</p>
+          </content>
+          <paragraph eId="CHC-1146__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A review hearing shall be held within ninety days after the filing of a surrender if a petition for adoption has not  been filed.  The court may waive the hearing if it has received and is satisfied with the placement report required by Article 1144.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1146__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the hearing is waived, a review hearing shall be held within ninety days of the initial waiver, unless an updated placement report is accepted by the court, or a petition for adoption has been filed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1146__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In any case, a review hearing shall be held within nine months of the filing of the surrender and at least once every six months thereafter until a petition for adoption has been filed or until the court determines that the child is in a permanent placement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1146__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The court may schedule such other review hearings as it deems necessary to ensure the permanency of the child's placement.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1146__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Any attorney previously appointed to represent the child shall continue to represent the child in all subsequent review hearings until the child is permanently placed.  If no attorney was previously appointed, the court shall appoint an attorney to represent the child for the purpose of facilitating permanent placement by the department.  When the department is not the legal custodian of the child, the court may appoint an attorney to represent the child if necessary for the best interest of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1146__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The attorney appointed to represent the child shall also be responsible for reviewing and submitting a recommendation to the court regarding any agreement for post-adoption continuing contact that is filed for approval in accordance with Chapter 14-A of Title XII.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1146__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The court, at a permanency review hearing, shall inform the child of the provisions of Chapter 11 of Title X of this Code.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72634</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

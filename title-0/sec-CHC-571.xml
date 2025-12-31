@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-571"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-571"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 571"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-571/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-571/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-571/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-571/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-571">
+        <num>CHC 571</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-571__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The legislature finds that society has a responsibility to provide indigent or absent
+parents with quality legal representation, including curatorship appointments, in child abuse
+and neglect cases.  Provision of counsel for indigent parents or curators for absent parents
+are essential due process rights provided by Louisiana law to ensure sound and fair decision-making concerning children's safety, permanency, and well-being.  Legal counsel providing
+representation in child abuse and neglect cases should have specialized knowledge and skills
+essential for effective representation.  Resources to support the provision of legal
+representation, including curatorship appointments, of indigent or absent parents should be
+used efficiently and equitably to assure qualified representation throughout the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-571__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The legislature finds that there is a need for a uniform system of representation
+of indigent or absent parents statewide that provides for appropriate oversight, minimization
+of potential conflicts, and adequate local and state funding.  To this end, the legislature finds
+that local public defender offices best serve the interests of children and families by
+representing indigent or absent parents, which shall include curatorship appointments, in
+child abuse and neglect cases consistent with the provisions of R S. 15:185.1 et seq., and
+with the Trial Court Performance Standards for Attorneys Representing Parents in Child in
+Need of Care and Termination of Parental Right Cases provided in Chapter 11 of Part XV
+of Title 22 of the Louisiana Administrative Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-571__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=451561</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

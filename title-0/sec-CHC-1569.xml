@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1569"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1569"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1569"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1569/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1569/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1569/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1569/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1569">
+        <num>CHC 1569</num>
+        <heading>1569.  Temporary restraining order</heading>
+        <subsection eId="CHC-1569__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon good cause shown in an ex parte proceeding, the court may enter a
+temporary restraining order, without bond, as the court deems necessary to protect from
+abuse the petitioner, any children, or any person alleged to be incompetent.  Immediate and
+present danger of abuse shall constitute good cause for purposes of this Article.  The order
+may include but is not limited to the following:</p>
+          </content>
+          <paragraph eId="CHC-1569__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Awarding to a party the use and possession of specified community property,
+such as an automobile.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1569__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Granting possession to the petitioner of the residence or household to the
+exclusion of the defendant, by evicting the defendant or restoring possession to the petitioner
+when either:</p>
+            </content>
+            <subparagraph eId="CHC-1569__subsec_A__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The residence is jointly owned in equal proportion or leased by the defendant and
+the petitioner or the person on whose behalf the petition is brought.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1569__subsec_A__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The residence is solely owned by the petitioner or the person on whose behalf the
+petition is brought.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1569__subsec_A__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The residence is solely leased by defendant and defendant has a duty to support
+the petitioner or the person on whose behalf the petition is brought.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1569__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Prohibiting either party from the transferring, encumbering, or otherwise
+disposing of property mutually owned or leased by the parties, except when in the ordinary
+course of business or for the necessary support of the party or the children.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1569__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Awarding temporary custody of children or persons alleged to be incompetent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1569__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Awarding or restoring possession to the petitioner of all separate property and all
+personal property, including but not limited to telephones or other communication
+equipment, computer, medications, clothing, toiletries, social security cards, birth certificates
+or other forms of identification, tools of the trade, checkbook, keys, automobile,
+photographs, jewelry, or any other items or personal effects of the petitioner and restraining
+the defendant from transferring, encumbering, concealing, or disposing of the personal or
+separate property of the petitioner.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1569__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Granting to the petitioner the exclusive care, possession, or control of any pets
+belonging to or under the care of the petitioner or children residing in the residence or
+household of either party, and directing the defendant to refrain from harassing, interfering
+with, abusing or injuring any pet, without legal justification, known to be owned, possessed,
+leased, kept, or held by either party or a child residing in the residence or household of either
+party.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1569__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a temporary restraining order is granted without notice, the matter shall be set
+within twenty-one days for a rule to show cause why the protective order should not be
+issued, at which time the petitioner must prove the allegations of abuse by a preponderance
+of the evidence.  The defendant shall be given notice of the temporary restraining order and
+the hearing on the rule to show cause by service of process as required by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1569__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>During the existence of the temporary restraining order, a party shall have the
+right to return to the family residence once to recover his or her personal clothing and
+necessities, provided that the party is accompanied by a law enforcement officer to insure the
+protection and safety of the parties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1569__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If no temporary restraining order has been granted, the court shall issue a rule to
+show cause why the protective order should not be issued, and set the rule for hearing on the
+earliest day that the business of the court will permit, but in any case within ten days from
+the date of service of the petition, at which time the petitioner must prove the allegations of
+abuse by a preponderance of the evidence.  The defendant shall be given notice by service
+of process as required by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1569__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the hearing pursuant to Paragraph B or D of this Article is continued, the court
+shall make or extend such temporary restraining order as it deems necessary.  Any
+continuance of a hearing ordered pursuant to Paragraph B or D of this Article shall not
+exceed fifteen days, unless good cause is shown for further continuance.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1569__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The court may, in its discretion, grant an emergency temporary restraining order
+outside regular court hours.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1569__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73027</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

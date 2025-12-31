@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-404"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-404"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 404"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-404/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-404/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-404/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-404/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-404">
+        <num>CCRP 404</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-404__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided in this Article:</p>
+          </content>
+          <paragraph eId="CCRP-404__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The jury commission of each parish shall consist of the clerk of court or a deputy
+clerk designated by him in writing to act in his stead in all matters affecting the jury
+commission, and four other members, each having the qualifications set forth in Article 401
+and appointed by written order of the district court, who shall serve at the court's pleasure.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-404__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Before entering upon their duties, members of the jury commission shall take an
+oath to discharge their duties faithfully.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-404__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Three members of the jury commission shall constitute a quorum.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-404__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Meetings of the jury commission shall be open to the public.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-404__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In the parish of East Baton Rouge the function of the jury commission shall be
+performed by the judicial administrator of the Nineteenth Judicial District Court or by a
+deputy judicial administrator designated by him in writing to act in his stead in all matters
+affecting the jury commission.  The judicial administrator or his designated deputy shall have
+the same powers, duties and responsibilities, and be governed by those provisions of law as
+presently pertain to jury commissioners which are applicable, including the taking of an oath
+to discharge their duties faithfully.  The clerk of court of the parish of East Baton Rouge shall
+perform the duties and responsibilities otherwise imposed upon him by law with respect to
+jury venires, shall coordinate the jury venire process, and shall receive the compensation
+generally authorized for a jury commissioner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In Orleans Parish, the jury commission shall be appointed by the judges en banc
+of the Criminal District Court of the parish of Orleans, and the jury commissioners shall
+serve at the pleasure of the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In the parish of Lafourche, the function of the jury commission may be performed
+by the clerk of court of the parish of Lafourche or by a deputy clerk of court designated by
+him in writing to act in his stead in all matters affecting the jury commission.  The clerk of
+court or his designated deputy shall have the same powers, duties, and responsibilities, and
+shall be governed by applicable provisions of law pertaining to jury commissioners.  The
+clerk of court of the parish of Lafourche shall perform the duties and responsibilities
+otherwise imposed upon him by law with respect to jury venires, shall coordinate the jury
+venire process, and shall receive the compensation generally authorized for a jury
+commissioner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>In the parish of Terrebonne, the function of the jury commission shall be
+performed by the clerk of court of Terrebonne Parish or by a deputy clerk of court designated
+by him in writing to act in his stead in all matters affecting the jury commission.  The clerk
+of court or his designated deputy shall have the same powers, duties, and responsibilities, and
+shall be governed by all  applicable provisions of law pertaining to jury commissioners.  The
+clerk of court of Terrebonne Parish shall perform the duties and responsibilities otherwise
+imposed upon him by law with respect to jury venires, shall coordinate the jury venire
+process, and shall receive the compensation generally authorized for a jury commissioner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>In the parish of St. Charles, the function of the jury commission shall be
+performed by the clerk of court of St. Charles Parish or by a deputy clerk of court designated
+by him in writing to act in his stead in all matters affecting the jury commission.  The clerk
+of court or his designated deputy shall have the same powers, duties, and responsibilities, and
+shall be governed by all applicable provisions of law pertaining to jury commissioners.  The
+clerk of court of St. Charles Parish shall perform the duties and responsibilities otherwise
+imposed upon him by law with respect to jury venires, shall coordinate the jury venire
+process, and shall receive the compensation generally authorized for a jury commissioner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>In the parishes of East Feliciana and West Feliciana, the function of the jury
+commission shall be performed by the clerks of court of East Feliciana Parish and West
+Feliciana Parish or by a deputy clerk of court designated by the respective clerk in writing
+to act in his stead in all matters affecting the jury commission.  The clerk of court or his
+designated deputy shall have the same powers, duties, and responsibilities, and shall be
+governed by all applicable provisions of law pertaining to jury commissioners.  The clerks
+of court of  East Feliciana Parish and West Feliciana Parish shall perform the duties and
+responsibilities otherwise imposed upon him by law with respect to jury venires, shall
+coordinate the jury venire process, and shall receive the compensation generally authorized
+for a jury commissioner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>In the parishes of Caldwell, Claiborne, DeSoto, Franklin, Red River, Union, and
+Webster, the function of the jury commission shall be performed by the clerks of court of
+Caldwell Parish, Claiborne Parish, DeSoto Parish, Franklin Parish, Red River Parish, Union
+Parish, and Webster Parish or by a deputy clerk of court designated by the respective clerk
+in writing to act in his stead in all matters affecting the jury commission.  The clerk of court
+or his designated deputy shall have the same powers, duties, and responsibilities and shall
+be governed by all applicable provisions of law pertaining to jury commissioners.  The clerks
+of court of Caldwell Parish, Claiborne Parish, DeSoto Parish, Franklin Parish, Red River
+Parish, Union Parish, and Webster Parish shall perform the duties and responsibilities
+otherwise imposed upon him by law with respect to jury venires, shall coordinate the jury
+venire process, and shall receive the compensation generally authorized for a jury
+commissioner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>In the parish of Tangipahoa, the function of the jury commission shall be
+performed by the clerk of court of Tangipahoa Parish or by a deputy clerk of court designated
+by the respective clerk in writing to act in his stead in all matters affecting the jury
+commission.  The clerk of court or his designated deputy shall have the same powers, duties,
+and responsibilities, and shall be governed by all applicable provisions of law pertaining to
+jury commissioners.  The clerk of court of Tangipahoa Parish shall perform the duties and
+responsibilities otherwise imposed upon him by law with respect to jury venires, shall
+coordinate the jury venire process, and shall receive the compensation generally authorized
+for a jury commissioner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>In the parishes of Ascension, Assumption, Jackson, and St. James, the function of
+the jury commission shall be performed by the clerks of court of Ascension Parish,
+Assumption Parish, Jackson Parish, and St. James Parish or by a deputy clerk of court
+designated by the respective clerk in writing to act in his stead in all matters affecting the jury
+commission.  The clerk of court or his designated deputy shall have the same powers, duties,
+and responsibilities and shall be governed by all applicable provisions of law pertaining to
+jury commissioners.  The clerks of court of Ascension Parish, Assumption Parish, Jackson
+Parish, and St. James Parish shall perform the duties and responsibilities otherwise imposed
+upon him by law with respect to jury venires, shall coordinate the jury venire process, and
+shall receive the compensation generally authorized for a jury commissioner.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112505</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

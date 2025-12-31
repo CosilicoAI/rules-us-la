@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1136"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1136"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1136"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1136/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1136/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1136/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1136/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1136">
+        <num>CHC 1136</num>
+        <heading>1136.  Absentee alleged or adjudicated fathers; curator</heading>
+        <subsection eId="CHC-1136__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If the alleged or adjudicated father of the child is identified but his whereabouts are unknown, as indicated in a surrender or in a return on service, the court shall appoint a curator and notice of filing of a surrender shall be served upon him.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1136__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court must appoint a curator for an alleged or adjudicated father whose whereabouts are unknown within five days, exclusive of legal holidays, from the date of the filing of an act of surrender indicating that his whereabouts are unknown or from the receipt of a return indicating that he cannot be served.  The curator shall begin a diligent effort to locate the alleged or adjudicated father within seven days, exclusive of legal holidays, from the date of his appointment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1136__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon motion of the agency or attorney for the prospective adoptive parent, which motion may be filed thirty days after the appointment of the curator, and upon finding that a diligent effort has been made to locate the alleged or adjudicated father, but that he has not been located within thirty days from the appointment of the curator, the court shall terminate the alleged or adjudicated father's parental rights.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1136__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>For purposes of this Article, the following is sufficient proof that the alleged or adjudicated father's whereabouts are unknown and that a diligent effort was made to locate him:</p>
+          </content>
+          <paragraph eId="CHC-1136__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A declaration by the surrendering mother in the act of surrender that his address is unknown or evidence that attempts to contact him at the address indicated in the act of surrender have been unsuccessful.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1136__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A certified copy of the child's birth certificate, with no one indicated thereon as the father of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1136__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A certificate from the putative father registry indicating whether any person is listed registered as the child's father and if so registered, proof that no address is stated thereon or evidence that attempts to contact him at the address indicated on the registration form have been unsuccessful, which certificate must be dated more than fifteen days after the date the act of surrender was executed by the surrendering mother.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1136__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A certificate from the clerk of court where the child was born indicating whether any act of acknowledgment with respect to this child has been recorded and if so recorded, proof that no address is stated thereon or evidence that attempts to contact the alleged or adjudicated father at the address indicated on the acknowledgment have been unsuccessful, which certificate must be dated after fifteen days from the date the act of surrender was executed by the surrendering mother.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1136__subsec_D__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>An affidavit executed by the curator detailing efforts made to locate the alleged or adjudicated father, including but not limited to proof of publication seeking his whereabouts.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1136__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the alleged or adjudicated father of the child is located by the curator within thirty days of his appointment, the curator shall promptly file an affidavit with the court detailing efforts made to locate him, disclosing his location and certifying that he has been given oral or written notice of filing of surrender in conformity with Article 1132.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72623</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

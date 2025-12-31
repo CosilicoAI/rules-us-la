@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-362"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-362"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 362"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-362/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-362/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-362/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-362/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-362">
+        <num>CCRP 362</num>
+        <heading>362.  Custody with court order</heading>
+        <subsection eId="CCRP-362__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The court has exceeded its jurisdiction;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-362__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The original custody was lawful, but by some act, omission, or event which has since occurred, the custody has become unlawful;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-362__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The order for the custody is deficient in some legal requisite;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-362__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The order for the custody, although legal in form, imposes an illegal custody;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-362__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The custodian is not the person allowed by law to detain the person in custody;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-362__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>He has been denied his right to a hearing in an extradition case, as provided in Article 267; or</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-362__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>He is being held in custody prior to trial in violation of due process of law.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112484</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

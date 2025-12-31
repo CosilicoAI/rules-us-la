@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-408"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-408"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 408"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-408/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-408/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-408/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-408/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-408">
+        <num>CCRP 408</num>
+        <heading>408.  Selection of general venire in parishes other than Orleans</heading>
+        <subsection eId="CCRP-408__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In parishes other than Orleans, the jury commission shall select impartially at least three hundred persons having the qualifications to serve as jurors, who shall constitute the general venire.  A list of persons so selected shall be prepared and certified by the clerk of court as the general venire list, and said list shall be kept as part of the records of the commission.  The name and address of each person on the list shall be written on a separate slip of paper, with no designation as to race or color, which shall be placed in a box labeled &quot;General Venire Box.&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-408__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>After the jury commission has selected the general venire, it shall lock and seal the general venire box and deliver it to the clerk of court, as the custodian thereof.  Alternatively, the list of persons so selected may be retained in a form suitable for use by a properly programmed electronic device commonly known as a computer.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-408__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The jury commission shall meet at least once every six months and when ordered by the court, and may meet at any time to select or supplement the general venire.  The commission may select a new general venire at any meeting and shall do so when ordered by the court.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112510</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

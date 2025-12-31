@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1005"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1005"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 1005"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1005/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1005/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1005/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1005/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-1005">
+        <num>CCRP 1005</num>
+        <heading>1005.  Transfer of firearms; aggregate data collection and reporting</heading>
+        <subsection eId="CCRP-1005__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Not later than January 1, 2023, the Louisiana Commission on Law Enforcement
+and Administration of Criminal Justice shall create and distribute a standardized form for use
+by the sheriff of each parish to use to report all aggregate data fields required by Paragraph
+A of this Article.  The form shall not contain any identifying information of the person who
+possesses the firearm and shall only contain numerical data provided in Paragraph A of this
+Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1005__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The Louisiana Commission on Law Enforcement and Administration of Criminal
+Justice shall identify a single point of contact or web portal to which each sheriff shall submit
+the completed form created pursuant to Paragraph B of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1005__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The sheriff of each parish shall submit the completed form to the Louisiana
+Commission on Law Enforcement and Administration of Criminal Justice no later than
+January thirty-first of each calendar year.  Each form shall contain the aggregate data for each
+of the items listed in Paragraph A of this Article for the prior calendar year.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1005__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The Louisiana Commission on Law Enforcement and Administration of Criminal
+Justice shall publish the data collected from the sheriff of each parish pursuant to Paragraph
+D of this Article to the commission's public website by February twenty-eighth of each
+calendar year.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1005__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The Louisiana Commission on Law Enforcement and Administration of Criminal
+Justice shall submit a report containing the information received pursuant to Paragraph D of
+this Article to the House Committee on Administration of Criminal Justice and the Senate
+Committee on Judiciary C no later than March first of each calendar year.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1293463</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

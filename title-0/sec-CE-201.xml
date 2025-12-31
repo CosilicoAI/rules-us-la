@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-201"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-201"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 201"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-201/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-201/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-201/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-201/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-201">
+        <num>CE 201</num>
+        <heading>Section </heading>
+        <subsection eId="CE-201__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Scope of Article.  This Article governs only judicial notice of adjudicative facts.  An &quot;adjudicative fact&quot; is a fact normally determined by the trier of fact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-201__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Kinds of facts.  A judicially noticed fact must be one not subject to reasonable dispute in that it is either:</p>
+          </content>
+          <paragraph eId="CE-201__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Generally known within the territorial jurisdiction of the trial court; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-201__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-201__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When discretionary.  A court may take judicial notice, whether requested or not.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-201__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When mandatory.  A court shall take judicial notice upon request if supplied with the information necessary for the court to determine that there is no reasonable dispute as to the fact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-201__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Opportunity to be heard.  A party is entitled upon timely request to an opportunity to be heard as to the propriety of taking judicial notice and the tenor of the matter noticed.  In the absence of prior opportunity to be heard, the request may be made after judicial notice has been taken.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-201__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Time of taking notice.  A party may request judicial notice at any stage of the proceeding but shall not do so in the hearing of a jury.  Before taking judicial notice of a matter in its instructions to the jury, the court shall inform the parties before closing arguments begin.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-201__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Instructing jury.  In a civil case, the court shall instruct the jury to accept as conclusive any fact judicially noticed.  In a criminal case, the court shall instruct the jury that it may, but is not required to, accept as conclusive any fact judicially noticed.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72445</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-851"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-851"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 851"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-851/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-851/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-851/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-851/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-851">
+        <num>CCRP 851</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-851__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The motion for a new trial is based on the supposition that injustice has been done the defendant, and, unless such is shown to have been the case the motion shall be denied, no matter upon what allegations it is grounded.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-851__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court, on motion of the defendant, shall grant a new trial whenever any of the following occur:</p>
+          </content>
+          <paragraph eId="CCRP-851__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The verdict is contrary to the law and the evidence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-851__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court's ruling on a written motion, or an objection made during the proceedings, shows prejudicial error.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-851__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>New and material evidence that, notwithstanding the exercise of reasonable diligence by the defendant, was not discovered before or during the trial, is available, and if the evidence had been introduced at the trial it would probably have changed the verdict or judgment of guilty.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-851__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The defendant has discovered, since the verdict or judgment of guilty, a prejudicial error or defect in the proceedings that, notwithstanding the exercise of reasonable diligence by the defendant, was not discovered before the verdict or judgment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-851__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The court is of the opinion that the ends of justice would be served by the granting of a new trial, although the defendant may not be entitled to a new trial as a matter of strict legal right.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-851__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The defendant is a victim of human trafficking or trafficking of children for sexual purposes and the acts for which the defendant was convicted were committed by the defendant as a direct result of being a victim of the trafficking activity.
+Amended by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112832</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

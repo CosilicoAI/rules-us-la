@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-645"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-645"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 645"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-645/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-645/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-645/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-645/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-645">
+        <num>CHC 645</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-645__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any other provision of the law to the contrary, the department
+shall obtain and provide to the district attorney with any request for a petition all available
+information pertinent to the location of every parent, including names and addresses of
+known relatives and any parents of a sibling where such parent has legal custody of the
+sibling, and any information available from the parent locator service.  If a curator ad hoc is
+appointed, the department shall supply this information to him within fifteen days of its
+receipt of a copy of the order appointing the curator ad hoc.  This duty shall be a continuing
+one as long as the child remains subject to the jurisdiction of the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-645__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The department shall fully cooperate with any court which has authority with
+respect to the placement of a child in foster care or for adoption for the purpose of locating
+a parent of the child.  Such cooperation shall include making available all information
+obtained from the Federal Parent Locater Service.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73238</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

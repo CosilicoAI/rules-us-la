@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-974"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-974"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 974"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-974/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-974/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-974/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-974/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-974">
+        <num>CCRP 974</num>
+        <heading>974.  Dissemination of expunged records by third parties; court order</heading>
+        <subsection eId="CCRP-974__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A private third-party entity, excluding a news-gathering organization, that
+compiles and disseminates criminal history information for compensation shall not
+disseminate any information in its possession regarding an arrest, conviction, or other
+disposition after it has received notice of an issuance of a court order to expunge the record
+of any such arrest or conviction.  The provisions of this Paragraph shall not apply to private
+third-party entities which are regulated by the Fair Credit Reporting Act (15 U.S.C. §1681
+et seq.) or the Gramm-Leach-Bliley Act (15 U.S.C. §6801-6809).</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-974__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The person obtaining the expungement shall send notice of the order of
+expungement by certified or registered mail with return receipt requested and a certified copy
+of the order of expungement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-974__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A private third-party entity that publicly disseminates criminal history information
+in violation of this Article after having received notice as provided for in Paragraph B of this
+Article, may be liable for any actual damages, court costs, and attorney fees that are incurred
+by the person whose criminal history was disseminated.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919665</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1003"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1003"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1003"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1003/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1003/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1003/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1003/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1003">
+        <num>CHC 1003</num>
+        <heading>1003.  Definitions</heading>
+        <subsection eId="CHC-1003__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Abuse&quot; means any of the following acts that seriously endanger the physical,
+mental, or emotional health, welfare, and safety of the child:</p>
+          </content>
+          <paragraph eId="CHC-1003__subsec_1__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The infliction or attempted infliction, or, as a result of inadequate supervision,
+the allowance or toleration of the infliction or attempted infliction of physical or mental
+injury upon the child by a parent or any other person.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1003__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The exploitation or overwork of a child by a parent or any other person.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1003__subsec_1__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The involvement of the child in any sexual act with a parent or any other person,
+or the aiding or toleration by the parent or the caretaker of the child's sexual involvement
+with any other person or of the child's involvement in pornographic displays, or any other
+involvement of a child in sexual activity constituting a crime under the laws of this state.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Agency&quot; shall include the Department of Children and Family Services, the
+corresponding department of any other state, and those private agencies and institutions
+licensed for the placement of children for adoption by the Department of Children and
+Family Services or by the corresponding department of any other state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Child in need of care&quot; means a child adjudicated as such under Title VI.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Dangerous to others&quot; means the condition of a person whose behavior or
+significant threats support a reasonable expectation that there is a substantial risk that he will
+inflict physical harm upon another person in the near future.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Dangerous to self&quot; means the condition of a person whose behavior, significant
+threats, or inaction supports a reasonable expectation that there is a substantial risk that he
+will inflict physical or severe emotional harm upon his own person.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Department&quot; means the Louisiana Department of Children and Family Services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Grave disability&quot; means the condition of a person who is unable to provide for
+his own basic physical needs, such as essential food, clothing, medical care, and shelter, as
+a result of serious mental illness or substance abuse and is unable to survive safely in
+freedom or protect himself from serious harm.  The term also includes incapacitation by
+alcohol, which means the condition of a person who, as a result of the use of alcohol, is
+unconscious or whose judgment is otherwise so impaired that he is incapable of realizing and
+making a rational decision with respect to his need for treatment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Mental deficiency&quot; means significantly subaverage intellectual functioning
+existing concurrently with deficits in adaptive behavior, as determined by a psychiatrist or
+psychologist and manifested during the developmental period.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Mental illness&quot; means  a psychiatric disorder which has substantial adverse
+effects on the parent's ability to function and which requires care and treatment as determined
+by a psychiatrist or psychologist.  It does not include a person who has, solely, one of the
+following conditions:</p>
+          </content>
+          <paragraph eId="CHC-1003__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>An intellectual disability.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1003__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Epilepsy.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1003__subsec_9__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Alcoholism.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1003__subsec_9__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Drug abuse.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Neglect&quot; means the refusal or failure of a parent or caretaker to supply the child
+with necessary food, clothing, shelter, care, treatment, or counseling for any injury, illness,
+or condition of the child, as a result of which the child's physical, mental, or emotional
+health, welfare, and safety is substantially threatened or impaired.  Whenever, in lieu of
+medical care, a child is being provided treatment in accordance with the tenets of a
+well-recognized religious method of healing that has a reasonable, proven record of success,
+the child shall not, for that reason alone, be considered to be neglected or abused. 
+Disagreement by the parent regarding the need for medical care shall not, by itself, be
+grounds for termination of parental rights.  However, nothing in this Subparagraph shall
+prohibit the court from ordering medical services for the child when there is substantial risk
+of harm to the child's health, welfare, or safety.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Permanent placement&quot; means either placement of the child with a legal
+guardian or placement of the child with adoptive parents pursuant to a final decree of
+adoption.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Starvation&quot; means mistreatment causing suffering from extreme hunger or
+malnourishment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Substance abuse&quot; means the condition of a person who uses narcotic, stimulant,
+depressant, soporific, tranquilizing, or hallucinogenic drugs or alcohol to the extent that it
+renders the person dangerous to himself or others or renders the person gravely disabled.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1003__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Torture&quot; means  torment, maiming, mutilation, or ritualistic or malicious acts
+causing extreme and unjustifiable physical or mental pain or suffering, disfigurement, or
+injury.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72526</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

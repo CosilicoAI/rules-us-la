@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-719"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-719"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 719"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-719/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-719/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-719/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-719/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-719">
+        <num>CCRP 719</num>
+        <heading>719.  Reports of examinations and tests</heading>
+        <subsection eId="CCRP-719__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon written motion of the defendant, the court shall order the district attorney to permit or authorize the defendant to inspect and copy, photograph, or otherwise reproduce any results or reports, or copies thereof, of a physical or mental examination, and of scientific tests or experiments, made in connection with or material to the particular case, that are in the possession, custody, control, or knowledge of the district attorney and intended for use at trial. If the witness preparing the report will be called as an expert, the report shall contain the witness's area of expertise, his qualifications, a list of materials upon which his conclusion is based, and his opinion and the reason therefor.  If the expert witness has not reduced his results to writing, or if the expert witness's written report does not contain the information required of an expert as provided in this Article, the state must produce for the defendant a written summary containing any information required to be produced pursuant to this Article but absent from a written report, if any, including  the name of the expert witness, his qualifications, a list of materials upon which his conclusion is based, and his opinion and the reason therefor.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-719__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In addition, upon motion of the defendant, whenever the court orders the defendant to provide urine, blood, saliva, or hair samples or samples of other bodily substances for deoxyribonucleic acid testing in a criminal case, the defendant shall be authorized to acquire one-half of the deoxyribonucleic acid sample to be tested separately by the defendant at his expense.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112726</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

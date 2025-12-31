@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-921"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-921"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 921"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-921/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-921/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-921/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-921/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-921">
+        <num>CHC 921</num>
+        <heading>921.  Order of expungement and sealing; agency records</heading>
+        <subsection eId="CHC-921__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An order for the expungement and sealing of juvenile records and reports shall
+be in the form provided in Article 925 and shall require that both of the following occur:</p>
+          </content>
+          <paragraph eId="CHC-921__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as otherwise provided by law, all officials, agencies, institutions, boards,
+systems, and law enforcement offices, and their employees, agents, and consultants, expunge
+and seal all records and reports, in any form, and any other photographic, fingerprint, DNA,
+or any other information of any kind and all kinds or descriptions relating to the conduct or
+conditions referred to in the motion for expungement and sealing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-921__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All agencies and law enforcement offices file with the court an affidavit to the
+effect that such records and reports have been expunged and sealed and that no notation or
+references have been retained in any central depository which will or might lead to the
+inference that any record or report ever was on file with that agency or law enforcement
+office.  A copy of the affidavit of expungement and sealing shall be retained by the court.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-921__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The order shall state that the expungement and sealing is to be effected no later
+than thirty days from the date of the order. The order shall also specify the limitations on
+information that may be maintained in accordance with this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-921__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>An order for expungement and sealing shall be served in the manner provided for
+service of the motion on both the district attorney and the head of each agency whose records
+or reports are to be expunged and sealed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-921__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A copy of the order of expungement and sealing may be maintained by the
+custodian of  records and reports of the agency or office.  However, the custodian shall not
+disclose to anyone the fact that such order is maintained or that the expunged and sealed
+records or reports previously existed except upon written order of the court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73515</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

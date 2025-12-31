@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-619"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-619"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 619"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-619/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-619/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-619/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-619/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-619">
+        <num>CHC 619</num>
+        <heading>619.  Instanter custody orders; instanter safety plan orders</heading>
+        <subsection eId="CHC-619__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>An instanter order shall be executed by either an employee of the local child
+protection unit or any peace officer having territorial jurisdiction over the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-619__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Any peace officer having territorial jurisdiction over the child is authorized to
+serve a summons upon a parent or caretaker, commanding him to appear at court for a
+continued custody or continued safety plan hearing. The summons shall expressly notify the
+parent or caretaker that the court may issue a binding order in his absence if he fails to
+appear. A copy of the summons shall be filed in the record as proof of service. An employee
+of the local child protection unit shall provide written notice to the parents or caretaker of the
+date, time, and location of the continued custody or continued safety plan hearing.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73212</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

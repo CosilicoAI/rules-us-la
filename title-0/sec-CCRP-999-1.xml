@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-999-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-999-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 999.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-999-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-999-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-999-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-999-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-999-1">
+        <num>CCRP 999.1</num>
+        <heading>999.1.  Order form to be used; expedited expungement</heading>
+        <subsection eId="CCRP-999-1__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The defendant was seventeen years of age when the defendant was arrested or
+charged with any criminal offense as provided in Title 14 or 40 of the Louisiana Revised
+Statutes of 1950.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-999-1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The district attorney, for any reason, declined to prosecute all offenses arising out
+of that arrest, including the reason that the person successfully completed a pretrial diversion
+program.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-999-1__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Prosecution was instituted and such proceedings have been finally disposed of
+by dismissal, sustaining of a motion to quash, or acquittal.
+IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the following
+charges and arrest on the dates provided herein be expunged.
+THUS ORDERED AND SIGNED, ADJUDGED, AND DECREED this ____ day
+of ___________, 20 ____ at ______________, Louisiana, ___________________________.
+___________________________
+JUDGE
+DEFENDANT INFORMATION:
+NAME:________________________________________________
+First Middle Last
+DATE OF BIRTH:_____________
+GENDER:_____________
+SS#___________________________
+RACE___________________________
+DRIVER'S LICENSE#___________________
+ARRESTING AGENCY___________________
+SID#___________________
+ARREST NUMBER (ATN)___________________
+AGENCY ITEM NO:________________________
+PLEASE SERVE:
+1. District Attorney:________________________________________________
+2. Arresting Agency:_______________________________________________
+3. Parish Sheriff:_______________________________________
+4. Louisiana Bureau of Criminal Identification and Information
+_____________________________
+5. Attorney for Defendant (or defendant)____________________________
+6. Clerk of Court ____________________________</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1386723</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

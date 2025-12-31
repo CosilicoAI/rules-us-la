@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 9.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-9-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-9-1">
+        <num>SRULE 9.1</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-9-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At any time between regular sessions, but no later than ten days before the
+beginning of a regular session for joint resolutions proposing a constitutional amendment,
+or no later than five o'clock in the evening of the forty-fifth calendar day prior to the first
+day of a regular session for bills relative to retirement, or no later than five o'clock in the
+evening of the tenth calendar day prior to the first day of a regular session for all other
+bills, senators may prefile with the Secretary legislative instruments that are proposed for
+introduction at the next session.  However, no instrument shall be prefiled between final
+adjournment of the last regular session of a legislative term and promulgation of the
+returns of the general election for members of the legislature for the next succeeding
+term. After the promulgation of the election returns, any member-elect may prefile
+instruments for introduction at the next regular session.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-9-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>No legislative instrument shall be prefiled without the written consent of the
+author or, in case of more than one author, the written consent of at least the primary
+author.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-9-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A request for legislation that is to be prefiled must be received by Senate
+Legislative Services staff not later than forty-eight hours prior to the prefiling deadline
+applicable to the instrument being requested.
+SR 3 of 1994 2 nd EX; SR 6 of 2008 RS; SR 11 of 2010 RS.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180551</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

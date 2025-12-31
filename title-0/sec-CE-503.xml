@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-503"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-503"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 503"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-503/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-503/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-503/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-503/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-503">
+        <num>CE 503</num>
+        <heading>503.  Comment on or inference from claim of privilege; instructions; exception</heading>
+        <subsection eId="CE-503__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Comment, inference, and instructions.</p>
+          </content>
+          <paragraph eId="CE-503__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The claim of privilege, whether in the present proceeding or upon a prior occasion, is not a proper subject of comment by judge or counsel.  No inferences may be drawn therefrom.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-503__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In jury cases, proceedings shall be conducted, to the extent practicable, so as to facilitate the making of claims of privilege without the knowledge of the jury.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-503__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Upon request, any party against whom the jury might draw an adverse inference from a claim of privilege is entitled to an instruction that no inference may be drawn therefrom.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-503__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Exception in non-criminal proceedings.  In non-criminal proceedings, under exceptional circumstances in the interest of justice, if a claim of privilege is sustained counsel may comment thereon, and, upon request, the court shall instruct the trier of fact that it may draw all reasonable inferences therefrom.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72474</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

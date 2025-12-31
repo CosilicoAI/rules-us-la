@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-11"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-11"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1303.11"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-11/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-11/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-11/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-11/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1303-11">
+        <num>CHC 1303.11</num>
+        <heading>1303.11.  Pleadings and accompanying documents</heading>
+        <subsection eId="CHC-1303-11__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In a proceeding under this Chapter, a petitioner seeking to establish a support
+order, to determine parentage of a child, or to register and modify a support order of a
+tribunal of another state or a foreign country must file a petition.  Unless otherwise ordered
+under Article 1303.12, the petition or accompanying documents must provide, so far as
+known, the name, residential address, and social security numbers of the obligor and the
+obligee or the parent and alleged parent, and the name, sex, residential address, social
+security number, and the date of birth of each child for whose benefit support is sought or
+whose parentage is to be determined.  Unless filed at the time of registration, the petition
+must be accompanied by a copy of any support order known to have been issued by another
+tribunal.  The petition may include any other information that may assist in locating or
+identifying the respondent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-11__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The petition must specify the relief sought.  The petition and accompanying
+documents must conform substantially with the requirements imposed by the forms
+mandated by federal law for use in cases filed by a support enforcement agency.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72811</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

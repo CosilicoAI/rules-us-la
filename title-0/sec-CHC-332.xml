@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-332"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-332"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 332"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-332/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-332/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-332/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-332/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-332">
+        <num>CHC 332</num>
+        <heading>332.  Notice of judgment; new trials; time for appeal</heading>
+        <subsection eId="CHC-332__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided within a particular Title of this Code, appeals shall be taken within fifteen days from the mailing of notice of the judgment.  However, if a timely application for a new trial is made pursuant to Paragraph C, the delay for appeal commences to run from the date of the mailing of notice of denial of the new trial motion.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-332__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Notice of judgment, including notice of orders or judgments taken under advisement, shall be as provided in Code of Civil Procedure Article 1913.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-332__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>After judgment is signed, a party may make a written request for a motion for new trial on any ground provided by law.  The delay for applying for a new trial is three days, exclusive of holidays, and shall commence to run from the mailing of notice of judgment.  A motion for new trial shall be decided expeditiously and within seven days from the date of submission for decision.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73132</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

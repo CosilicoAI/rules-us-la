@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1228"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1228"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1228"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1228/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1228/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1228/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1228/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1228">
+        <num>CC 1228</num>
+        <heading>1228.  Collation by descendants</heading>
+        <subsection eId="CC-1228__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Children or grandchildren, coming to the succession of their fathers, mothers, or other ascendants, must collate what they have received from them by donation inter vivos, directly or indirectly, and they cannot claim the legacies made to them by such ascendants unless the donations and legacies have been made to them expressly as an advantage over their coheirs and besides their portion.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1228__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>This rule takes place whether the children or their descendants succeed to their ascendants as legal or as testamentary heirs.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108576</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

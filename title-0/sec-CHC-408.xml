@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-408"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-408"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 408"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-408/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-408/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-408/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-408/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-408">
+        <num>CHC 408</num>
+        <heading>408.  Duty of court to control proceedings; use of restraints on a child</heading>
+        <subsection eId="CHC-408__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall require that the proceedings be conducted with dignity and
+in an orderly and expeditious manner, and shall control the proceedings so that
+justice is done.  The court may exclude any person whose conduct is disruptive if the
+person fails promptly to heed the court's admonition to refrain from such conduct.
+B.</p>
+          </content>
+          <paragraph eId="CHC-408__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Restraints shall not be used upon a child during any juvenile court
+proceeding except in a delinquency proceeding as specifically provided in this
+Paragraph.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-408__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A court may permit a child to be restrained in the courtroom only upon
+the court's individualized determination that the use of restraints is necessary because
+the child presents a particularized risk of physical harm to himself or another or
+presents a particularized substantial risk of flight from the courtroom, and that there
+are no less restrictive alternative measures to prevent flight or physical harm.  The
+fact that the child is detained is insufficient to warrant a finding that the use of
+restraints is necessary.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-408__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If it is alleged that the use of restraints upon a child is necessary, the
+district attorney or law enforcement shall inform the judge and the attorney for the
+child prior to the proceeding.  The attorney for the child shall be given an opportunity
+to be heard and object on the record.  If the use of restraints is ordered, the judge shall
+state on the record the reasons therefor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-408__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In accordance with Paragraph A of this Article, a court may authorize the
+use of restraints when the conduct of the child during a hearing presents an imminent
+threat, risk of flight, or physical harm.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-408__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>This Paragraph does not apply when the child is in a detention center,
+when the child is in transport from a detention center to the courthouse, or when the
+child is held in the courthouse outside of the room where the juvenile delinquency
+proceeding will occur.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108416</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

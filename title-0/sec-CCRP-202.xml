@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-202"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-202"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 202"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-202/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-202/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-202/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-202/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-202">
+        <num>CCRP 202</num>
+        <heading>202.  Warrant of arrest; issuance</heading>
+        <subsection eId="CCRP-202__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A warrant of arrest may be issued by any magistrate pursuant to this Paragraph or as provided in Paragraph D of this Article and, except where a summons is issued under Article 209 of this Code, shall be issued when all of the following occur:</p>
+          </content>
+          <paragraph eId="CCRP-202__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The person making the complaint executes an affidavit specifying, to his best knowledge and belief, the nature, date, and place of the offense, and the name and surname of the offender if known, and of the person injured if there be any.  An affidavit containing the electronic signature of the applicant shall satisfy the constitutional requirement that the testimony of the applicant be made under oath, provided that such signature is made under penalty of perjury and in compliance with R.S. 9:2603.1(D).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-202__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The magistrate has probable cause to believe that an offense was committed and that the person against whom the complaint was made committed it.
+B.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-202__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A justice of the peace shall not have the authority to issue a warrant for the arrest of a peace officer for acts performed while in the course and scope of his official duties.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-202__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A justice of the peace shall not issue a warrant for the arrest of an administrator of any public or private elementary, secondary, high school, vocational-technical school, college, university, or licensed child day care center in this state or a teacher in any public or private elementary, secondary, high school, vocational-technical school, college, or university in this state who is acting in the course and scope of his official duties, unless an independent investigation into the allegations has been conducted and the investigator's findings support the allegations contained in the affidavit required in Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-202__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-202__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When complaint is made before a magistrate of the commission of an offense in another parish, the magistrate shall also immediately notify the district attorney of the parish in which the offense is alleged to have been committed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-202__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A warrant of arrest may be issued when the person making the complaint executes an oath specifying, to his best knowledge and belief, the nature, date, and place of the offense, and the name and surname of the offender if known, and of the person injured if there be any, using telephone and facsimile transmission equipment under all of the following conditions:</p>
+          </content>
+          <paragraph eId="CCRP-202__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The oath is made during a telephone conversation with the magistrate, after which the declarant shall sign his or her declaration in support of the warrant of probable cause for arrest.  The proposed warrant and all supporting declarations and attachments shall then be transmitted to the magistrate utilizing facsimile transmission equipment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-202__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The magistrate shall confirm with the declarant the receipt of the warrant and the supporting declarations and attachments.  The magistrate shall verify that all the pages sent have been received, that all pages are legible, and that the declarant's signature is acknowledged as genuine.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-202__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the magistrate has probable cause to believe that an offense was committed and that the person against whom the complaint was made committed it and decides to issue the warrant, he or she shall:</p>
+            </content>
+            <subparagraph eId="CCRP-202__subsec_D__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Sign the warrant.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-202__subsec_D__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Note on the warrant the exact date and time of the issuance of the warrant.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-202__subsec_D__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Indicate on the warrant that the oath of the declarant was administered orally over the telephone.  The completed warrant, as signed by the magistrate, shall be deemed to be the original warrant.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-202__subsec_D__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The magistrate shall transmit via facsimile transmission equipment the signed warrant to the declarant who shall telephonically acknowledge its receipt.  The magistrate shall then telephonically authorize the declarant to write the words &quot;duplicate original&quot; on the copy of the completed warrant transmitted to the declarant, and this document shall be deemed to be a duplicate original warrant.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-202__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The warrant shall be in the form required by Article 203 of this Code.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-202__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Notwithstanding any other provision of law to the contrary, after December 31, 2010, a justice of the peace shall not have the authority to issue a warrant for arrest unless he has received a certificate of completion from the Attorney General's Arrest Warrants Course for Justices of the Peace pursuant to R.S. 49:251.4.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-202__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Notwithstanding any other provisions of law to the contrary, no magistrate shall have the authority to issue a warrant of arrest for a school employee, as defined by R.S. 17:16(G), for any misdemeanor act allegedly committed on school premises or at a school-sanctioned event during the course and scope of the school employee's employment.  In all such instances, a summons shall be issued to the school employee pursuant to Article 209 of this Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-202__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Notwithstanding any other provision of law to the contrary, no magistrate shall have the authority to issue a warrant for the arrest of a school employee, as defined by R.S. 17:16(G), for any misdemeanor allegedly committed upon a student during the course and scope of the school employee's employment regardless whether the act is alleged to have occurred on or off the school campus.  In all such instances, a summons shall be issued to the school employee pursuant to Article 209 of this Code.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112345</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

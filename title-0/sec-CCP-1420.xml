@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1420"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1420"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 1420"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1420/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1420/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1420/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1420/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-1420">
+        <num>CCP 1420</num>
+        <heading>Section </heading>
+        <subsection eId="CCP-1420__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Every request for discovery, or response or objection thereto, made by a party represented by an attorney shall be signed by at least one attorney of record in his individual name, whose address shall be stated.  A party who is not represented by an attorney shall sign the request, response, or objection and state his address.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1420__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The signature of an attorney or party constitutes a certification by him that he has read the request, response, or objection and that to the best of his knowledge, information, and belief formed after reasonable inquiry the request, response, or objection is:</p>
+          </content>
+          <paragraph eId="CCP-1420__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Consistent with all the rules of discovery and is warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1420__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Not interposed for any improper purpose, such as to harass or to cause unnecessary or needless increase in the cost of litigation; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1420__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Not unreasonable, unduly burdensome, or expensive, given the needs of the case, the discovery already had in the case, the amount in controversy, and the importance of the issues at stake in the litigation.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-1420__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a request, response, or objection is not signed, it shall be stricken unless promptly signed after the omission is called to the attention of the person whose signature is required.  A party shall not be obligated to take any action with respect to the request, response, or objection until it is signed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1420__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If, upon motion of any party or upon its own motion, the court determines that a certification has been made in violation of the provisions of this Article, the court shall impose upon the person who made the certification or the represented party, or both, an appropriate sanction which may include an order to pay to the other party or parties the amount of the reasonable expenses incurred because of the filing of the request, response, or objection, including a reasonable attorney's fee.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1420__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A sanction authorized in Paragraph D shall be imposed only after a hearing at which any party or his counsel may present any evidence or argument relevant to the issue of imposition of the sanction.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111191</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

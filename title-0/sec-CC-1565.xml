@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1565"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1565"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1565"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1565/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1565/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1565/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1565/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1565">
+        <num>CC 1565</num>
+        <heading>1565.  Dissolution for non-execution of condition</heading>
+        <content>
+          <p>Art. 1565.  Dissolution for non-execution of condition
+In case of dissolution of a donation of an immovable for the failure of the donee to fulfill conditions or perform charges, the property shall return to the donor free from all alienations, leases, or encumbrances created by the donee or his successors, subject to the law of registry.  If the thing cannot be returned free from alienations, leases, or encumbrances, the donor may, nevertheless, accept it subject to the alienation, lease, or encumbrance, but the donee shall be accountable for any diminution in value.  Otherwise, the donee shall restore the value of the thing donated, measured as of the time the action to dissolve is filed.
+In case of dissolution of a donation of a movable for failure to fulfill conditions or perform charges, an alienation, lease, or encumbrance created by the donee or his successors is effective against the donor only when it is an onerous transaction made in good faith by the transferee, lessee, or creditor.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108890</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

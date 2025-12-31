@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-313-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-313-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 313.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-313-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-313-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-313-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-313-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-313-1">
+        <num>CCRP 313.1</num>
+        <heading>313.1.  Detention of noncitizen defendant pending bail hearing</heading>
+        <subsection eId="CCRP-313-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A contradictory bail hearing, as provided for in this Article, shall be held prior to
+setting bail for any person in custody who is not a citizen of the United States or not lawfully
+admitted for permanent residence and who is charged with the commission of an offense in
+which there was a fatality.  The hearing shall be held within five days from the date of
+determination of probable cause, exclusive of weekends and legal holidays.  At the
+contradictory hearing, the court shall determine the conditions of bail or whether the
+defendant should be held without bail pending trial.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-313-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In determining whether the defendant should be admitted to bail pending trial, or
+in determining the conditions of bail, the judge or magistrate shall consider the following:</p>
+          </content>
+          <paragraph eId="CCRP-313-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The criminal history of the defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The nature and seriousness of the danger to any other person or the community
+that would be posed by the defendant's release.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Documented history or records of substance abuse by the defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The seriousness of the offense charged and the weight of the evidence against the
+defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313-1__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The risk that the defendant might flee.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-313-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Following the contradictory hearing and based upon the judge's or magistrate's
+review of the factors set forth in Paragraph B of this Article, the judge or magistrate may
+order that the defendant not be admitted to bail, upon proof by clear and convincing evidence
+that the defendant might flee, or that the defendant poses an imminent danger to any other
+person or the community.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-313-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If bail is granted, the judge or magistrate may consider, as a condition of bail, a
+requirement that the defendant wear an electronic monitoring device and be placed under
+active electronic monitoring and house arrest.  The conditions of the electronic monitoring
+and house arrest shall be determined by the court and may include but are not limited to
+limitation of the defendant's activities outside the home and a curfew.  The defendant may
+be required to pay a reasonable supervision fee to the supervising agency to defray the cost
+of the required electronic monitoring and house arrest.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-313-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Any violation of the conditions of bail may be punishable by revocation of the
+bond and the issuance of a bench warrant for the defendant's arrest or remanding of the
+defendant to custody or a modification of the terms of bail.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1015265</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

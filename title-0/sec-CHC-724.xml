@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-724"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-724"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 724"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-724/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-724/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-724/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-724/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-724">
+        <num>CHC 724</num>
+        <heading>724.  Motion for modification of guardianship; termination of guardianship</heading>
+        <subsection eId="CHC-724__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall retain jurisdiction to enforce, modify, or terminate a guardianship
+order until the child attains eighteen years of age.  The program representing the child in the
+child of need of care proceedings pursuant to Children's Code Article 607 and the program
+representing the indigent parents in the child in need of care proceedings pursuant to
+Children's Code Article 608 shall provide representation in guardianship proceedings.
+B.</p>
+          </content>
+          <paragraph eId="CHC-724__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any of the following parties may seek to enforce, modify or terminate a
+guardianship order:</p>
+            </content>
+            <subparagraph eId="CHC-724__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The department.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-724__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Counsel for the child.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-724__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The guardian or, if the guardian is incapacitated, an individual previously named
+as a successor guardian by the guardian in a guardianship subsidy agreement with the
+department.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-724__subsec_A__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A parent permitted to intervene under Children's Code Article 707.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-724__subsec_A__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The court on its own motion.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-724__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A copy of the motion to modify shall be personally served on the parents, and the
+court shall promptly notify the programs representing the child and indigent parents,
+respectively, in child in need of care proceedings.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-724__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A guardianship order may be enforced in accordance with the contempt provisions
+of Chapter 2 of Title XV of this Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-724__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A guardianship order may be modified or terminated if the court finds by clear
+and convincing evidence that there has been a substantial and material change in the
+circumstances of the guardian or child because of any of the following:</p>
+          </content>
+          <paragraph eId="CHC-724__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The guardian no longer wishes to serve or can no longer serve as guardian of the
+child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-724__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Continuation of the guardianship is so deleterious to the child as to justify a
+modification or termination of the relationship or the harm likely to be caused from a change
+in the guardianship is substantially outweighed by the advantages to the child of the
+modification.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-724__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The court shall hold a hearing before modifying or terminating a guardianship and
+shall, at the conclusion of the hearing, enter a written order that includes the findings upon
+which the order is based.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=762603</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

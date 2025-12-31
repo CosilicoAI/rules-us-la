@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2844"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2844"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2844"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2844/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2844/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2844/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2844/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2844">
+        <num>CC 2844</num>
+        <heading>2844.  Liability of the partner in commendam to third persons</heading>
+        <subsection eId="CC-2844__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A partner in commendam is not liable for the obligations of the partnership unless
+the partner is also a general partner or, in addition to the exercise of the partner's rights and
+powers as a partner, the partner participates in the control of the business.  If, however, the
+partner in commendam participates in the control of the business, the partner is liable only
+to persons who transact business with the partnership reasonably believing, based upon the
+partner in commendam's conduct, that the partner in commendam is a general partner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2844__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A partner in commendam does not participate in the control of the business within
+the meaning of Paragraph A of this Article solely by doing one or more of the following:</p>
+          </content>
+          <paragraph eId="CC-2844__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Being a contractor for or an agent or employee of the partnership or of a general
+partner.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2844__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Being an employee, officer, director, or shareholder of a general partner that is
+a corporation or a member or manager of a general partner that is a limited liability company.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2844__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Consulting with and advising a general partner with respect to the business of the
+partnership.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2844__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Acting as surety for the partnership or guaranteeing or assuming one or more
+specific obligations of the partnership.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2844__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Taking any action required or permitted by law to bring or pursue a derivative
+action in the right of the partnership.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2844__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Requesting or attending a meeting of partners.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2844__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Proposing, approving, or disapproving, by voting or otherwise, one or more of
+the following matters:</p>
+            </content>
+            <subparagraph eId="CC-2844__subsec_B__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The continuation, dissolution, termination, or liquidation of the partnership.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2844__subsec_B__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The alienation, exchange, lease, mortgage, pledge, or other transfer of all or
+substantially all of the assets of the partnership.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2844__subsec_B__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The incurrence of indebtedness by the partnership other than in the ordinary
+course of its business.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2844__subsec_B__subsec_7__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A change in the nature of the business.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2844__subsec_B__subsec_7__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The admission, expulsion, or withdrawal of a general partner.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2844__subsec_B__subsec_7__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The admission, expulsion, or withdrawal of a partner in commendam.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2844__subsec_B__subsec_7__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A transaction involving an actual or potential conflict of interest between a
+general partner and the partnership or the partners in commendam.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2844__subsec_B__subsec_7__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>An amendment to the contract of partnership.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2844__subsec_B__subsec_7__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Matters related to the business of the partnership not otherwise enumerated in this
+Paragraph, which the contract of partnership states in writing may be subject to the approval
+or disapproval of partners.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CC-2844__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Liquidating the partnership.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2844__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Exercising any right or power permitted to partners in commendam under this
+Chapter and not specifically enumerated in this Paragraph.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CC-2844__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The enumeration in Paragraph B of this Article does not mean that the possession
+or exercise of any other powers by a limited partner constitutes participation by the partner
+in the business of the partnership.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109914</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

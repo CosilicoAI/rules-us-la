@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1154"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1154"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1154"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1154/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1154/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1154/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1154/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1154">
+        <num>CHC 1154</num>
+        <heading>1154.  Safe haven continued custody hearing; instanter order</heading>
+        <subsection eId="CHC-1154__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Immediately after notification that an infant has been relinquished, the department
+shall request an oral instanter order of custody from the court in accordance with Article 620
+and shall take physical custody of the infant within twelve hours of notice that the infant is
+ready to be discharged from the hospital.  The department shall exercise due diligence in
+attempting to identify and locate any nonrelinquishing parent, including but not limited to
+performing a missing children search, which shall include contacting the Missing and
+Exploited Children Information Clearinghouse, as defined in R.S. 46:1431, for information
+on missing endangered adults and missing children to determine if the child has been
+reported missing.
+B.</p>
+          </content>
+          <paragraph eId="CHC-1154__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A hearing shall be held by the court within three days after the infant's entry
+into the custody of the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1154__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>No notice to a parent or other caretaker shall be required.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1154__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The court shall order the appointment of counsel for the child and may also
+appoint a CASA volunteer for the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1154__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Hearsay evidence shall be admissible at this hearing.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1154__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>At this hearing, the department has the burden to prove all of the following:</p>
+          </content>
+          <paragraph eId="CHC-1154__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There are reasonable grounds to believe that the infant has been relinquished to
+the state for adoption in accordance with this Chapter.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1154__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>There is no evidence that the infant was abused or neglected prior to his
+relinquishment.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1154__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the court finds that the department has satisfied the requirements of Paragraph
+C of this Article and that removal of the child is necessary in order to safeguard his welfare,
+it shall order continued custody of the infant in the department prior to final entry of an order
+declaring parental rights terminated and enter a finding that the department is deemed to have
+made reasonable efforts to prevent or eliminate the need for removal and that reunification
+efforts are not required.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1154__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the court determines that the infant was abused or neglected prior to its
+relinquishment, the court shall direct that a child in need of care investigation be commenced
+by the department in accordance with Title VI.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180652</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

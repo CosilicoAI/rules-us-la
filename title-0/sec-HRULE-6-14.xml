@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-14"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-14"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 6.14"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-14/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-14/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-14/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-14/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-6-14">
+        <num>HRULE 6.14</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-6-14__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Conference committee appointees from the House of Representatives shall be the following:</p>
+          </content>
+          <paragraph eId="HRULE-6-14__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The member who authored or handled the bill or resolution, or in his absence, a member appointed by the Speaker;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-14__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The chairman of the committee that reported the bill or resolution, or in his absence, the vice chairman of such committee, or in the absence of the chairman and vice chairman, a member appointed by the Speaker from among the members of such committee; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-14__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>One member appointed by the Speaker.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-14__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Conference committee appointees from the House of Representatives to a conference committee on a legislative instrument originating in the Senate shall be made only after the Speaker has received a request to appoint such conferees from the member who handled the legislative instrument or a member of the committee that reported the bill or resolution.
+Mason's Manual:  Sec. 769-771
+HR 3, 1973; HR 4, 1998; HR 45, 1998, eff. May 20, 1998; HR 4, 2006 2 nd Ex. Sess., eff. Dec. 13, 2006; HR 76, 2007, eff. June 27, 2007.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113322</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

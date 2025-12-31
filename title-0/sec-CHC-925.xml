@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-925"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-925"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 925"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-925/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-925/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-925/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-925/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-925">
+        <num>CHC 925</num>
+        <heading>925.  Expungement and sealing; forms</heading>
+        <subsection eId="CHC-925__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The following form shall be used for filing a motion, setting a contradictory
+hearing, and ordering the expungement and sealing of records and reports:
+MOTION FOR EXPUNGEMENT AND SEALING
+NOW INTO COURT COMES _______________________________, in proper
+person or through undersigned counsel, and herein moves this Honorable Court:</p>
+          </content>
+          <paragraph eId="CHC-925__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To order the expungement and sealing of all records and reports, including but
+not limited to the record of arrest and order of disposition concerning the below-described
+conduct or condition, and directing all officials, agencies, institutions, boards, and systems,
+including their employees, agents, consultants, and special committees, to expunge and seal
+any record, in any form, concerning the arrest of mover, and any other photographic,
+fingerprint, DNA, or any other information of any and all kinds or descriptions; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-925__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To direct each agency and law enforcement office having any such records,
+including but not limited to the above named entities, to file a sworn affidavit with the clerk
+of court to the effect that such records have been expunged and sealed and that no notation
+or reference has been retained in any central depository which could or might lead to the
+inference that the expunged and sealed record was ever on file with that agency or law
+enforcement office, except as otherwise specifically provided by law.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-925__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>Full name of mover:
+_________________________________________________________________
+SEX: {   } Male    {   } FemaleSocial Security Number:_________
+Race/Ethnicity: ____________Date of Birth: ____/____/_____
+Address: Street: ______________________________________ Apt. #: _______
+City/State: __________________________________________Zip: __________
+NOTE: A separate page shall be completed for EACH of the charges for
+which expungement and sealing is sought.  Failure to provide ALL of the
+requested information may result in dismissal of the motion for insufficiency.
+II.
+Offense Report #: ___________________Offense charged:________________
+Date of Arrest: ____/____/________
+Arresting Agency: ___________________________________________________
+City/ Parish of Arrest: ________________________________________________
+III.
+Action taken: (Check appropriate action and insert date)
+{   } Charges not filed
+{   } Charges refused on____/____/________
+{   } Informal Adjustment Agreement completed on____/____/________
+{   } Adjudicated on ____/____/________
+{   } Dismissed on ____/____/________
+{   } Continued without date on____/____/________
+IV.
+Court Docket and Complaint #: __________________, # _____________</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-925__subsec_V">
+          <num>V.</num>
+          <content>
+            <p>Authority for motion (Check one only)
+{   } This matter did not result in adjudication.
+{   } This matter resulted in a Families in Need of Services or delinquency
+adjudication.
+AND the court which had exercised juvenile jurisdiction has ceased to exercise such
+in accordance with Children's Code Article 313.
+AND the adjudication was not for murder, manslaughter, an offense requiring
+registration as a sex offender under R.S. 15:542, kidnapping, or armed robbery.
+AND mover has no adult felony conviction and no adult conviction for a
+misdemeanor against a person involving a firearm.
+AND mover has no pending indictment or bill of information against him.
+WHEREFORE, mover prays that after due proceedings are had, there be an order
+herein in favor of mover, ordering the clerk of court and all other agencies, offices or
+organizations to expunge and seal their records or reports concerning the conduct or
+condition of mover as a child as more fully described herein.
+Respectfully submitted,
+_________________________________________
+Name of Mover or Attorney
+_________________________________________
+Address
+_________________________________________
+City/State/Zip
+_________________________________________
+Phone
+ORDER
+CONSIDERING the above and foregoing:
+IT IS ORDERED that a contradictory hearing be and is hereby set for the ______ day
+of _________________, 20____ at _________ in Section ________.
+_________________, Louisiana this ______ day of __________________20___.
+____________________________________
+JUDGE
+Note: Please add any additional necessary agencies below.
+PLEASE SERVE:
+Parish of___________________
+District Attorney________________
+Clerk of Court _________________
+Sheriff________________________
+Bureau of Criminal Identification and Information
+Attn: Expungements
+7919 Independence Blvd.
+Baton Rouge, Louisiana   70806
+and
+_____________________________ __________________________________
+Name of Agency Name of Agency
+_________________________________ ___________</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-925__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The following form shall be used to order the expungement and sealing:
+ORDER OF EXPUNGEMENT AND SEALING
+CONSIDERING the Motion for Expungement and Sealing and the evidence adduced
+as to the following described matter, and as to the following described conduct or conditions:
+Item #s
+Offense(s) Charged
+Date of Arrest(s)
+Arresting Agencies
+IT IS ORDERED that the clerk of court expunge and seal all records and reports, in
+any medium, including but not limited to pleadings, exhibits, reports, minute entries,
+correspondence, and all other documents.  The court may maintain a confidential record of
+the fact of an adjudication, which may be released only upon written motion of a court
+exercising criminal jurisdiction over the mover herein and then only for purposes authorized
+by the Code of Criminal Procedure.
+IT IS FURTHER ORDERED that all officials, agencies, institutions, boards, systems,
+and law enforcement officers and their employees, agents, and consultants expunge and seal
+all records and reports, in any form, concerning the above-described matter, and any other
+photographic, fingerprint, DNA, or any other information of any and all kinds and
+descriptions.  The custodian of records and reports of the agency or office may maintain a
+copy of this order.  However, the custodian shall not disclose to anyone the fact that an order
+is maintained or that the expunged and sealed records or reports previously existed except
+upon written order of the court.
+IT IS FURTHER ORDERED that each agency and law enforcement office herein
+served and having any records or reports of the conduct or condition file a sworn affidavit
+with the clerk of court to the effect that the records and reports have been expunged and
+sealed and that no notation or references have been retained in any central depository which
+could or might lead to the inference that any report or record was on file with the agency or
+law enforcement office served, which affidavit shall be filed with t</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1054558</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-6"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-6"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1307.6"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-6/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-6/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-6/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-6/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1307-6">
+        <num>CHC 1307.6</num>
+        <heading>1307.6.  Registration of convention support order</heading>
+        <subsection eId="CHC-1307-6__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided in this Section, a party who is an individual or a
+support enforcement agency seeking recognition of a Convention support order shall register
+the order in this state as provided in Section 6.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1307-6__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Notwithstanding Articles 1303.11 and 1306.2(A), a request for registration of a
+Convention support order must be accompanied by:</p>
+          </content>
+          <paragraph eId="CHC-1307-6__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A complete text of the support order or an abstract or an extract of the support
+order drawn up by the issuing foreign tribunal, which may be in the form recommended by
+The Hague Conference on Private International Law;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-6__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A record stating that the support order is enforceable in the issuing country;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-6__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the respondent did not appear and was not represented in the proceedings in
+the issuing country, a record attesting, as appropriate, either that the respondent had proper
+notice of the proceedings and an opportunity to be heard or that the respondent had proper
+notice of the support order and an opportunity to be heard in a challenge or appeal on fact or
+law before a tribunal;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-6__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A record showing the amount of arrears, if any, and the date the amount was
+calculated;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-6__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A record showing a requirement for automatic adjustment of the amount of
+support, if any, and the information necessary to make the appropriate calculations; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-6__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>If necessary, a record showing the extent to which the applicant received free
+legal assistance in the issuing country.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1307-6__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A request for registration of a Convention support order may seek recognition and
+partial enforcement of the order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1307-6__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A tribunal of this state may vacate the registration of a Convention support order
+without the filing of a contest under Article 1307.7 only if, acting on its own motion, the
+tribunal finds that recognition and enforcement of the order would be manifestly
+incompatible with public policy.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1307-6__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The tribunal shall promptly notify the parties of the registration or the order
+vacating the registration of a Convention support order.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=962644</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

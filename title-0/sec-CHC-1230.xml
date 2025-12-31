@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1230"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1230"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1230"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1230/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1230/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1230/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1230/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1230">
+        <num>CHC 1230</num>
+        <heading>1230.  Hearing; petition for private adoption</heading>
+        <subsection eId="CHC-1230__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall sign the order setting the time and place for the hearing of the petition for private adoption not less than thirty nor more than sixty days after the filing of the adoption petition.  The court may extend this time for up to sixty additional days for good cause, which may include a showing by the department that it has been impossible to gather the necessary data within the time prescribed.  The court may reduce the time to a minimum of fifteen days with written approval of the department and the petitioner.  If an extension of time is granted, the court shall set a new hearing date and shall require the petitioner to report to the court, either at that hearing, or before, in detail concerning the progress of the child's adoptive placement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1230__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>At this hearing the court shall consider:</p>
+          </content>
+          <paragraph eId="CHC-1230__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any motion to intervene which has been filed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1230__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any other issues in dispute.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1230__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The confidential report of the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1230__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The report of any criminal records concerning the petitioner, including the nature of the offenses, the number of offenses, and the length of time between the offenses and between the last offense committed and the petition for private adoption.  The existence of a criminal record of the petitioner shall not be automatic grounds for the court to refuse to grant a private adoption.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1230__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The report of any validated complaints of child abuse or neglect concerning the petitioner.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1230__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The testimony of the parties.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1230__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the child to be adopted is twelve years of age or older, the court shall solicit and consider his wishes in the matter.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72703</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

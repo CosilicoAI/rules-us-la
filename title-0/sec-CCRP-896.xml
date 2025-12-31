@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-896"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-896"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 896"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-896/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-896/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-896/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-896/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-896">
+        <num>CCRP 896</num>
+        <heading>896.  Modifying or changing conditions of probation</heading>
+        <subsection eId="CCRP-896__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court may, at any time during the probation period, modify, change, or discharge the conditions of probation when either of the following occur:</p>
+          </content>
+          <paragraph eId="CCRP-896__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The state has previously provided written verification that it has no opposition to a modification, change, or discharge of the conditions of probation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-896__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A contradictory hearing with the state, set by the court, has been held. The court shall provide notice of the hearing to the state at least fifteen days prior to the hearing date.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-896__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court may, at any time during the probation period, impose additional conditions of probation authorized by Article 895 of this Code without a contradictory hearing with the state.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112897</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

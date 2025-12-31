@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-324"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-324"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 324"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-324/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-324/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-324/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-324/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-324">
+        <num>CHC 324</num>
+        <heading>324.  Authorization</heading>
+        <subsection eId="CHC-324__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A court exercising juvenile jurisdiction may require that a statement of a protected
+person be recorded on videotape in conformity with Article 326 by any of the following:</p>
+          </content>
+          <paragraph eId="CHC-324__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Motion of the court or motion of the district attorney, a parish welfare unit or
+agency, the Department of Children and Family Services, or a child advocacy center
+operating in the judicial district.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-324__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Adoption of a local court rule that authorizes the videotaping of any protected
+person without the necessity of the issuance of an order by the court in any individual case.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-324__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Execution of a written protocol between the court and law enforcement agencies,
+a parish welfare unit or agency, the Department of Children and Family Services, or a child
+advocacy center operating in the judicial district that authorizes the videotaping of any
+protected person without the necessity of the issuance of an order by the court in any
+individual case.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-324__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The coroner may, in conjunction with the district attorney and appropriate hospital
+personnel and pursuant to their duties in R.S. 40:2109.1 and 2113.4, provide for the
+videotaping of the statements of children under the age of eighteen who present themselves
+or who are brought to a hospital for treatment as victims of rape or who have been otherwise
+physically or sexually abused.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-324__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Such a videotape shall be available for introduction into evidence in any juvenile
+proceeding under this Code in which it is relevant.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73124</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

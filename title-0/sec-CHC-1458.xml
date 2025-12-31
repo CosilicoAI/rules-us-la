@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1458"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1458"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1458"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1458/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1458/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1458/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1458/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1458">
+        <num>CHC 1458</num>
+        <heading>1458.  Conditional discharge</heading>
+        <subsection eId="CHC-1458__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A minor who is judicially committed as a result of mental illness may be conditionally discharged for a period of up to one hundred twenty days by the director or by the court during which time the judicial commitment of the minor shall remain in effect.  The minor patient may be required to report for outpatient treatment as a condition of his release.  The terms and conditions of the conditional discharge shall be specifically set forth in writing and signed by the minor patient.  A copy of the conditional discharge shall be given to him and explained to him before he is discharged.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1458__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the minor patient is conditionally discharged by the director, a copy of the conditional discharge shall be sent to the court which judicially committed him.  If the minor patient is conditionally discharged by the court, a copy of the conditional discharge shall be sent to the facility to which he has been committed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1458__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a minor patient does not comply with the terms and conditions of his conditional discharge, he is subject to any of the procedures for involuntary treatment, including but not limited to the issuance of an order for custody and the execution of an emergency certificate.  A conditionally discharged minor patient who is confined pursuant to any of these involuntary procedures shall have all rights of an involuntary patient, including the right to demand a probable cause hearing, the right to periodic reports and review, and a review hearing pursuant to Article 1454.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1458__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>An extension of a conditional discharge may be granted upon application by the director of the treatment facility to the court and notification to the minor's counsel of record.  The court may grant the extension of the conditional discharge for an additional period of up to one hundred twenty days.  No further extension may be made without a contradictory hearing.  The burden of proof is on the director of the treatment facility to show why continued treatment is necessary.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72954</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

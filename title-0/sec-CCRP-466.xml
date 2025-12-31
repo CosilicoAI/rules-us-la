@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-466"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-466"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 466"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-466/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-466/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-466/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-466/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-466">
+        <num>CCRP 466</num>
+        <heading>Section </heading>
+        <content>
+          <p>CHAPTER 2.  SPECIAL ALLEGATIONS
+Art. 466.  Name of defendant
+In an indictment it is sufficient for the purpose of identifying the defendant to state his true name, or to state the name, appellation, or nickname by which he is known, or if no better way of identifying him is practicable, to state a fictitious name, or to describe him as a person whose name is unknown, or in any other manner.  In stating the true name or the name by which the defendant is known or a fictitious name, it is sufficient to state a surname, a surname and one or more given names, or a surname and one or more abbreviations or initials of a given name or names.
+If the true name of a defendant identified in the indictment otherwise than by his true name is disclosed by the evidence or is otherwise discovered, the court shall cause the indictment to be amended to show his true name, and the proceedings shall continue against the defendant in his true name.
+In no case is it necessary to aver or prove that the true name of the defendant is unknown to the grand jury, complainant, or prosecuting officer.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112551</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

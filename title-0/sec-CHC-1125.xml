@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1125"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1125"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1125"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1125/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1125/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1125/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1125/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1125">
+        <num>CHC 1125</num>
+        <heading>1125.  Statement of family history; contents; form</heading>
+        <subsection eId="CHC-1125__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Statement of Family History shall contain the following nonidentifying
+information, if known:</p>
+          </content>
+          <paragraph eId="CHC-1125__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The age of each biological parent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1125__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Descriptive information about each biological parent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1125__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The biological relationship between parents, if applicable.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1125__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Explicit and extensive medical genetic history of each biological parent and his
+parents, siblings, grandparents, great-grandparents, aunts, uncles, and cousins.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1125__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If applicable, the child's:</p>
+            </content>
+            <subparagraph eId="CHC-1125__subsec_A__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Immunization record.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1125__subsec_A__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Illness history.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1125__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The Statement of Family History form shall be substantially as follows:
+STATEMENT OF FAMILY HISTORY
+Child's Biological MOTHER
+Child's Biological FATHER
+Age
+Height
+Weight
+Hair color
+Eye color
+Complexion
+Body build
+Education-last grade
+completed/ degree
+received
+Right/left handed
+Occupation
+Talents
+Religion
+Race
+Ethnicity/
+Nationality
+Native
+American/Tribal
+Affiliation, if
+applicable
+Other
+Yes
+No
+Diseases/conditions
+If yes,
+•state relationship to child [biological 
+parent (mother or father), sibling (full or
+half), grandparent (paternal or maternal),
+great grandparent (paternal or maternal),
+aunt/uncle/cousin (paternal or maternal)];
+•state specific condition;
+•age of onset;
+•treatment (medication, surgery, etc.); and
+•outcome.
+Cancer
+Heart disease
+Stroke
+High blood pressure
+Diabetes
+Kidney disease
+Liver disease
+Digestive disorders
+Respiratory disorders
+Blood disease (sickle
+cell, hemophilia, etc.)
+Glandular disturbances 
+(thyroid, adrenal,
+growth, etc.)
+Neurological &amp;
+muscular disorders
+(multiple sclerosis,
+muscular dystrophy,
+Tay-Sachs, etc.)
+Arthritis (juvenile,
+rheumatoid, gout,
+hammertoe, etc.)
+Epilepsy, seizures,
+convulsions
+Allergies (drugs, food,
+other)
+Asthma
+Vision
+problems/blindness
+Hearing
+problems/deafness
+Speech disorders
+Dental
+problems/braces
+Birth defects (cleft
+palate, missing digit,
+club foot, etc.)
+Curvature of spine
+Headaches/migraines
+Alcoholism
+Substance abuse
+Eating
+disorders/obesity
+Mental illness
+(schizophrenia,
+bipolar, depressive,
+etc.)
+Intellectual
+disability–non-injury
+(PKU, Down
+Syndrome, etc.)
+Learning disabilities
+(ADD, ADHD, etc.)
+Multiple births
+Miscarriages,
+stillbirths, neonatal
+deaths
+SIDS
+Rh Factor
+HIV ( biological
+mother only)
+Venereal disease
+during pregnancy
+(biological mother
+only)
+Other: specify
+Other: specify
+Other: specify
+Prenatal
+History
+Yes
+No
+If yes,
+•state type;
+•state amount; and
+•state during what months of pregnancy.
+Prescription
+medication
+Over the counter
+medication
+Alcoho</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72610</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-521"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-521"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 521"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-521/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-521/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-521/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-521/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-521">
+        <num>CHC 521</num>
+        <heading>Section </heading>
+        <content>
+          <p>CHAPTER 2.  CHILD ADVOCACY CENTERS
+Art. 521.  Purpose
+The purpose of this Chapter is to protect children whose physical or mental health and welfare is substantially at risk of harm by sexual abuse, other physical abuse, neglect, or exploitation, and who may be further threatened by the conduct of others, by providing for interprofessional and interagency cooperation in the investigation of such allegations; by facilitating the exchange of information among agencies, serving as a meeting place of multidisciplinary investigative teams, and as a place of referral for interviewing child victims; by using a multidisciplinary team and case management approach thereby reducing to a minimum the number of times a child victim is questioned, thus reducing further trauma to the child; by providing for the training and continuing education of skilled professional interviewers of child victims; by collecting data, thereby improving cooperative interagency investigations; by providing the services needed by child victims and their families thereby assisting them in their recovery process; by maintaining the confidentiality of center records, in order to ensure the protection of the privacy of the child, his family, and any accused perpetrator; and by developing community outreach programs, thereby enhancing the community's understanding of child abuse.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113449</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

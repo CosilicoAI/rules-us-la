@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2324"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2324"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2324"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2324/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2324/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2324/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2324/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2324">
+        <num>CC 2324</num>
+        <heading>2324.  Liability as solidary or joint and divisible obligation</heading>
+        <subsection eId="CC-2324__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>He who conspires with another person to commit an intentional or willful act is answerable, in solido, with that person, for the damage caused by such act.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2324__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If liability is not solidary pursuant to Paragraph A, then liability for damages caused by two or more persons shall be a joint  and divisible obligation.  A joint tortfeasor shall not be liable for more than his degree of fault and shall not be solidarily liable with any other person for damages attributable to the fault of such other person, including the person suffering injury, death, or loss, regardless of such other person's insolvency, ability to pay, degree of fault, immunity by statute or otherwise, including but not limited to immunity as provided in R.S. 23:1032, or that the other person's identity is not known or reasonably ascertainable.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2324__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Interruption of prescription against one joint tortfeasor is effective against all joint tortfeasors.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109388</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

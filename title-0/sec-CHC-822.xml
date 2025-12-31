@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-822"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-822"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 822"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-822/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-822/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-822/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-822/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-822">
+        <num>CHC 822</num>
+        <heading>822.  Place of continued custody prior to adjudication</heading>
+        <subsection eId="CHC-822__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Following the hearing required by Article 819, the court may order a child alleged to have committed a delinquent act or alleged to have violated probation or parole for a delinquent act, continued in custody in a licensed public or private facility for juveniles, if licensure is required by law for such a facility, or in a private home subject to the supervision of the court or in a juvenile detention center.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-822__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court shall not place a child alleged to be delinquent in the custody of either the department of Children and Family Services or the department of Public Safety and Corrections prior to adjudication.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-822__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>No child subject to the jurisdiction of the juvenile court shall be held in an adult jail or lockup.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73413</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

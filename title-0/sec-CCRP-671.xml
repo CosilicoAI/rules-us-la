@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-671"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-671"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 671"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-671/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-671/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-671/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-671/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-671">
+        <num>CCRP 671</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-671__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In a criminal cause, a judge of any trial or appellate court shall be recused upon
+any of the following grounds:</p>
+          </content>
+          <paragraph eId="CCRP-671__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The judge is biased, prejudiced, or personally interested in the cause to such an
+extent that the judge would be unable to conduct a fair and impartial trial.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-671__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The judge is the spouse of the accused, of the party injured, of an attorney
+employed in the cause, or of the district attorney; or is related to the accused or the party
+injured, or to the spouse of the accused or party injured, within the fourth degree; or is related
+to an attorney employed in the cause or to the district attorney, or to the spouse of either,
+within the second degree.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-671__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The judge has been employed or consulted as an attorney in the cause, or has
+been associated with an attorney during the latter's employment in the cause.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-671__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The judge is a witness in the cause.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-671__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The judge performed a judicial act in the cause in another court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-671__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The judge would be unable, for any other reason, to conduct a fair and impartial
+trial.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-671__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In a criminal cause, a judge of any trial or appellate court shall also be recused
+when there exists a substantial and objective basis that would reasonably be expected to
+prevent the judge from conducting any aspect of the cause in a fair and impartial manner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-671__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In any cause in which the state or a political subdivision thereof is interested, the
+fact that the judge is a citizen of the state or a resident of the political subdivision, or pays
+taxes thereto, is not a ground for recusal.  In any cause in which a religious body or religious
+corporation is interested, the fact that a judge is a member of the religious body or religious
+corporation is not alone a ground for recusal.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112689</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

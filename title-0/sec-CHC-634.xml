@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-634"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-634"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 634"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-634/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-634/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-634/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-634/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-634">
+        <num>CHC 634</num>
+        <heading>634.  Contents of petition</heading>
+        <subsection eId="CHC-634__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The petition shall set forth with specificity:</p>
+          </content>
+          <paragraph eId="CHC-634__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name, date and place of birth, sex, race, and address of the child.  If the child
+is in a foster home, the identification of the parish in which he resides shall suffice for his
+address.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-634__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The name and current address of each parent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-634__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A statement as to whether the petitioner knows or has reason to know that the
+child is an Indian child and facts that support that statement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-634__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Facts that show the child is a child in need of care, including the acts or
+omissions of either parent which caused or contributed to the child's condition.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-634__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If any of the information required by Subparagraph (A)</p>
+          </content>
+          <paragraph eId="CHC-634__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-634__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Article
+is unknown, the petition shall so allege.  Any defects in the information required by
+Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-634__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article shall be considered defects of form.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-634__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The petition shall conclude with a request that the court adjudicate the child to be
+a child in need of care.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73227</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

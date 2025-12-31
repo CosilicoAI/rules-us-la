@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-729-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-729-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 729.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-729-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-729-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-729-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-729-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-729-5">
+        <num>CCRP 729.5</num>
+        <heading>729.5.  Failure to comply; sanctions</heading>
+        <subsection eId="CCRP-729-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If at any time during the course of the proceedings it is brought to the attention of the court that a party has failed to comply with this Chapter or with an order issued pursuant to this Chapter, the court may order such party to permit the discovery or inspection, grant a continuance, order a mistrial on motion of the defendant, prohibit the party from introducing into evidence the subject matter not disclosed, or enter such other order, other than dismissal, as may be appropriate.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-729-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In addition to the sanctions authorized in Part A hereof, if at any time prior or subsequent to final disposition the court finds that either the state through the district attorney or assistant district attorney or the defendant or his counsel has willfully failed to comply with this Chapter or with an order issued pursuant to this Chapter, such failure shall be deemed to be a constructive contempt of court.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112741</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

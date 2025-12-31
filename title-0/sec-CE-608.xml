@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-608"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-608"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 608"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-608/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-608/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-608/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-608/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-608">
+        <num>CE 608</num>
+        <heading>608.  Attacking or supporting credibility by character evidence</heading>
+        <subsection eId="CE-608__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Reputation evidence of character.  The credibility of a witness may be attacked or supported by evidence in the form of general reputation only, but subject to these limitations:</p>
+          </content>
+          <paragraph eId="CE-608__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The evidence may refer only to character for truthfulness or untruthfulness.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-608__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A foundation must first be established that the character witness is familiar with the reputation of the witness whose credibility is in issue.  The character witness shall not express his personal opinion as to the character of the witness whose credibility is in issue.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-608__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Inquiry into specific acts on direct examination while qualifying the character witness or otherwise is prohibited.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-608__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Particular acts, vices, or courses of conduct.  Particular acts, vices, or courses of conduct of a witness may not be inquired into or proved by extrinsic evidence for the purpose of attacking his character for truthfulness, other than conviction of crime as provided in Articles 609 and 609.1 or as constitutionally required.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-608__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Cross-examination of character witnesses.  A witness who has testified to the character for truthfulness or untruthfulness of another witness may be cross-examined as to whether he has heard about particular acts of that witness bearing upon his credibility.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72496</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

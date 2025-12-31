@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-788"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-788"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 788"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-788/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-788/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-788/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-788/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-788">
+        <num>CCRP 788</num>
+        <heading>788.  Tendering jurors</heading>
+        <subsection eId="CCRP-788__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>After the examination provided by Article 786, a prospective juror may be tendered first to the state, which shall accept or challenge him.  If the state accepts the prospective juror, he shall be tendered to the defendant, who shall accept or challenge him.  When a prospective juror is accepted by the state and the defendant, he shall be sworn immediately as a juror.  This Article is subject to the provisions of Articles 795 and 796.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-788__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the court does not require tendering of jurors, it shall by local rule provide for a system of simultaneous exercise of challenges.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112785</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

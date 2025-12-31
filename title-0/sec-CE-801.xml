@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-801"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-801"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 801"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-801/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-801/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-801/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-801/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-801">
+        <num>CE 801</num>
+        <heading>Section </heading>
+        <subsection eId="CE-801__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Statement.  A &quot;statement&quot; is:</p>
+          </content>
+          <paragraph eId="CE-801__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An oral or written assertion; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-801__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Nonverbal conduct of a person, if it is intended by him as an assertion.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-801__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Declarant.  A &quot;declarant&quot; is a person who makes a statement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-801__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Hearsay.  &quot;Hearsay&quot; is a statement, other than one made by the declarant while
+testifying at the present trial or hearing, offered in evidence to prove the truth of the matter
+asserted.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-801__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Statements which are not hearsay.  A statement is not hearsay if:</p>
+          </content>
+          <paragraph eId="CE-801__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Prior statement by witness.  The declarant testifies at the trial or hearing and is
+subject to cross-examination concerning the statement, and the statement is:</p>
+            </content>
+            <subparagraph eId="CE-801__subsec_D__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In a criminal case, inconsistent with his testimony, provided that the proponent
+has first fairly directed the witness' attention to the statement and the witness has been given
+the opportunity to admit the fact and where there exists any additional evidence to
+corroborate the matter asserted by the prior inconsistent statement;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Consistent with his testimony and is offered to rebut an express or implied charge
+against him of recent fabrication or improper influence or motive;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>One of identification of a person made after perceiving the person; or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Consistent with the declarant's testimony and is one of initial complaint of
+sexually assaultive behavior.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A statement made by the victim of a sexually oriented criminal offense to a
+healthcare provider during the course of a forensic medical examination as defined in R.S.
+15:622 and the healthcare provider has documented that statement in writing during the
+course of the forensic medical examination.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-801__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Personal, adoptive, and authorized admissions.  The statement is offered against
+a party and is:</p>
+            </content>
+            <subparagraph eId="CE-801__subsec_D__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>His own statement, in either his individual or a representative capacity;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement of which he has manifested his adoption or belief in its truth; or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A statement by a person authorized by him to make a statement concerning the
+subject.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-801__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Relational and privity admissions.  The statement is offered against a party, and
+the statement is:</p>
+            </content>
+            <subparagraph eId="CE-801__subsec_D__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A statement by an agent or employee of the party against whom it is offered,
+concerning a matter within the scope of his agency or employment, made during the
+existence of the relationship;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement by a declarant while participating in a conspiracy to commit a crime
+or civil wrong and in furtherance of the objective of the conspiracy, provided that a prima
+facie case of conspiracy is established;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>In a civil case, a statement by a declarant when the liability, obligation, or duty
+of the party against whom it is offered is derivatively based in whole or in part upon a
+liability, obligation, or duty of the declarant, or when the claim or right asserted by that party
+is barred or diminished by a breach of duty by the declarant, and when the statement would
+be admissible if offered against the declarant as a party in an action involving that liability,
+obligation, or breach of duty;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In a civil case, a statement by a declarant when a right, title, or interest in any
+property or claim asserted by the party against whom it is offered requires a determination
+that a right, title, or interest exists or existed in the declarant during the time that that party
+now claims the declarant was the holder of the right, title, or interest, and when the statement
+would be admissible if offered against the declarant as a party in an action involving that
+right, title, or interest;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A statement by a declarant offered against the party in an action for damages
+arising from the death of that declarant; or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-801__subsec_D__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A statement by a minor child offered against a party in an action to recover for
+injury to that child, or against the person responsible for the child in an action to recover
+damages for losses caused by the child.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-801__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Things said or done.  The statements are events speaking for themselves under
+the immediate pressure of the occurrence, through the instructive, impulsive and spontaneous
+words and acts of the participants, and not the words of the participants when narrating the
+events, and which are necessary incidents of the criminal act, or immediate concomitants of
+it, or form in conjunction with it one continuous transaction.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-801__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Optical disk imaging system.  &quot;Optical disk imaging system&quot; means a storage
+system that utilizes non-erasable Write Once Read Many (WORM) optical storage
+technology to record information on an optical disk with the use of laser technology, and that
+utilizes laser technology to retrieve and read previously stored information.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72511</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

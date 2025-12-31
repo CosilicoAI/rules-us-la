@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-831"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-831"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 831"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-831/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-831/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-831/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-831/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-831">
+        <num>CCRP 831</num>
+        <heading>PRESENCE OF DEFENDENT</heading>
+        <subsection eId="CCRP-831__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as may be provided by local rules of court in accordance with Articles
+522, 551, and 562, a defendant charged with a felony shall be present at all of the following:</p>
+          </content>
+          <paragraph eId="CCRP-831__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>At arraignment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-831__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When a plea of guilty, not guilty, or not guilty and not guilty by reason of insanity
+is made.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-831__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>At the calling, examination, challenging, impaneling, and swearing of the jury,
+and at any subsequent proceedings for the discharge of the jury or of a juror.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-831__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>At all times during the trial when the court is determining and ruling on the
+admissibility of evidence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-831__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In trials by jury, at all proceedings when the jury is present, and in trials without
+a jury, at all times when evidence is being adduced.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-831__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>At the rendition of the verdict or judgment, unless he voluntarily absents himself.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-831__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112821</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

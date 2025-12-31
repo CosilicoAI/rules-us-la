@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1662"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1662"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1662"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1662/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1662/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1662/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1662/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1662">
+        <num>CHC 1662</num>
+        <heading>1662.  Definitions</heading>
+        <subsection eId="CHC-1662__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Bylaws&quot; means those bylaws established by the Interstate Commission for its governance, or for directing or controlling its actions or conduct.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Compact administrator&quot; means the individual in each compacting state appointed pursuant to the terms of this compact, responsible for the administration and management of the state's supervision and transfer of juveniles subject to the terms of this compact, the rules adopted by the Interstate Commission and policies adopted by the State Council under this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Compacting state&quot; means any state which has enacted the enabling legislation for this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Commissioner&quot; means the voting representative of each compacting state appointed pursuant to Article 1663 of this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Court&quot; means any court having jurisdiction over delinquent, neglected, or dependent children.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Deputy compact administrator&quot; means the individual, if any, in each compacting state appointed to act on behalf of a compact administrator pursuant to the terms of this compact responsible for the administration and management of the state's supervision and transfer of juveniles subject to the terms of this compact, the rules adopted by the Interstate Commission and policies adopted by the State Council under this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Interstate Commission&quot; means the Interstate Commission for Juveniles created by Article 1663 of this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Juvenile&quot; means any person defined as a juvenile in any member state or by the rules of the Interstate Commission, including any of the following:</p>
+          </content>
+          <paragraph eId="CHC-1662__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Accused delinquent&quot; means a person charged with an offense that, if committed by an adult, would be a criminal offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1662__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>&quot;Adjudicated delinquent&quot; means a person found to have committed an offense that, if committed by an adult, would be a criminal offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1662__subsec_8__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>&quot;Accused status offender&quot; means a person charged with an offense that would not be a criminal offense if committed by an adult.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1662__subsec_8__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>&quot;Adjudicated status offender&quot; means a person found to have committed an offense that would not be a criminal offense if committed by an adult.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1662__subsec_8__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>&quot;Non-offender&quot; means a person in need of supervision who has not been accused or adjudicated a status offender or delinquent.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Non-compacting state&quot; means any state which has not enacted the enabling legislation for this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Probation or parole&quot; means any kind of supervision or conditional release of juveniles authorized under the laws of the compacting states.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Rule&quot; means a written statement by the Interstate Commission promulgated pursuant to Article 1666 of this compact that is of general applicability, implements, interprets or prescribes a policy or provision of the compact, or an organizational, procedural, or practice requirement of the commission, and has the force and effect of statutory law in a compacting state, and includes the amendment, repeal, or suspension or an existing rule.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1662__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;State&quot; means a state of the United States, the District of Columbia or its designee, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Northern Marianas Islands.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=181155</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

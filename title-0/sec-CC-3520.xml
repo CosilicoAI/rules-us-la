@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3520"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3520"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 3520"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3520/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3520/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3520/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3520/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-3520">
+        <num>CC 3520</num>
+        <heading>Section </heading>
+        <subsection eId="CC-3520__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A marriage that is valid in the state where contracted, or in the state
+where the parties were first domiciled as husband and wife, shall be treated as
+a valid marriage unless to do so would violate a strong public policy of the
+state whose law is applicable to the particular issue under Article 3519.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-3520__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A purported marriage between persons of the same sex violates a
+strong public policy of the state of Louisiana and such a marriage contracted
+in another state shall not be recognized in this state for any purpose, including
+the assertion of any right or claim as a result of the purported marriage.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110540</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

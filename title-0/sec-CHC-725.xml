@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-725"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-725"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 725"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-725/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-725/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-725/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-725/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-725">
+        <num>CHC 725</num>
+        <heading>Section </heading>
+        <content>
+          <p>CHAPTER 20.  SAFE HARBOR FOR SEXUALLY EXPLOITED CHILDREN
+Art. 725.  Findings and purpose
+The legislature finds that arresting, prosecuting, and incarcerating victimized children serves to re-traumatize them and to increase their feelings of low self-esteem, which only makes the process of recovery more difficult. Both federal and international law recognize that sexually exploited children are the victims of crime and should be treated as such.  Therefore, sexually exploited children should not be prosecuted for criminal acts related to prostitution.  Instead, sexually exploited children should, where possible, be diverted into services that address the needs of these children outside of the justice system.  Sexually exploited children deserve the protection of child welfare services, including diversion, crisis intervention, counseling, and emergency housing services.  The purpose of this Chapter is to protect a child from further victimization after the child is discovered to be a sexually exploited child by ensuring that a child protective response is in place in the state. This is to be accomplished by presuming that any child engaged in prostitution, prostitution by massage, or crime against nature by solicitation is a victim of sex trafficking and providing these children with the appropriate care and services where possible.  In determining the need for and capacity of services that may be provided, the Department of Children and Family Services shall recognize that sexually exploited children have separate and distinct service needs according to gender, and every effort should be made to ensure these children are not prosecuted or treated as juvenile delinquents, but instead are given the appropriate social services.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=859109</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-924"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-924"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 924"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-924/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-924/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-924/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-924/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-924">
+        <num>CHC 924</num>
+        <heading>924.  Fees</heading>
+        <subsection eId="CHC-924__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>No court costs or fees shall be allowed against any party to a proceeding for an
+expungement and sealing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-924__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court may waive all or any part of any other fees or costs associated with the
+expungement and sealing and shall waive those fees and costs upon finding that the applicant
+is indigent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-924__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Notwithstanding any provision of law to the contrary, a child who has
+successfully completed a juvenile drug court program operated by a court of this state shall
+be exempt from payment of any processing or filing fees or other costs associated with the
+expungement and sealing of his related juvenile records and reports.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1054557</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

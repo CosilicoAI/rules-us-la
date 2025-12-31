@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1498"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1498"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1498"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1498/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1498/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1498/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1498/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1498">
+        <num>CC 1498</num>
+        <heading>1498.  Nullity of donation inter vivos of entire patrimony</heading>
+        <content>
+          <p>Art. 1498.  Nullity of donation inter vivos of entire patrimony
+The donation inter vivos shall in no case divest the donor of all his property; he must reserve to himself enough for subsistence.  If he does not do so, a donation of a movable is null for the whole, and a donation of an immovable is null for the whole unless the donee has alienated the immovable by onerous title, in which case the donation of such immovable shall not be declared null on the ground that the donor did not reserve to himself enough for his subsistence, but the donee is bound to return the value that the immovable had at the time that the donee received it.  If the donee has created a real right by onerous title in the immovable given to him, or such right has been created by operation of law since the donee received the immovable, the donation is null for the whole and the donor may claim the immovable in the hands of the donee, but the property remains subject to the real right that has been created.  In such a case, the donee and his successors by gratuitous title are accountable for the resulting diminution of the value of the property.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108816</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

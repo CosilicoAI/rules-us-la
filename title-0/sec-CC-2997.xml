@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2997"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2997"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2997"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2997/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2997/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2997/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2997/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2997">
+        <num>CC 2997</num>
+        <heading>2997.  Express authority required</heading>
+        <subsection eId="CC-2997__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Make an inter vivos donation, either outright or to a new or existing trust or other
+custodial arrangement, and, when also expressly so provided, to impose such conditions on
+the donation, including, without limitation, the power to revoke, that are not contrary to the
+other express terms of the mandate.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2997__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Accept or renounce a succession.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2997__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Contract a loan, acknowledge or make remission of a debt, or become a surety.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2997__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Draw or endorse promissory notes and negotiable instruments.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2997__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Enter into a compromise or refer a matter to arbitration.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2997__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Make health care decisions, such as surgery, medical expenses, nursing home
+residency, and medication.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2997__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Prevent or limit reasonable communication, visitation, or interaction between the
+principal and a relative by blood, adoption, or affinity within the third degree, or another
+individual who has a relationship based on or productive of strong affection.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110034</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

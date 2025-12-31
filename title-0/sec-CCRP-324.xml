@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-324"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-324"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 324"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-324/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-324/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-324/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-324/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-324">
+        <num>CCRP 324</num>
+        <heading>324.  Unsecured personal surety</heading>
+        <subsection eId="CCRP-324__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A person in custody may be released by order of the court on an unsecured
+personal surety bail undertaking.  An unsecured personal surety is a personal surety where
+the surety satisfies all the requirements of Article 311</p>
+          </content>
+          <paragraph eId="CCRP-324__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>and lives and resides in the state of
+Louisiana without specifically mortgaging or giving a security interest in any property as
+security to guarantee the surety's performance.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-324__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A personal surety shall execute an affidavit that he possesses the sufficiency and
+qualifications of a personal surety and that he is not disqualified from becoming a surety by
+Article 327.  The affidavit shall list the number and amount of undischarged bail
+undertakings, if any, entered into by the personal surety.  The officer accepting the bail may
+require the personal surety to state in his affidavit the nature and value of his property not
+exempt from execution, and the amount of his liabilities.  An officer authorized to accept the
+bail shall have authority to administer any affidavit required of the person signing a bail
+undertaking.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112443</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

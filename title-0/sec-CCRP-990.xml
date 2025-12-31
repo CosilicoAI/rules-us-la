@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-990"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-990"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 990"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-990/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-990/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-990/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-990/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-990">
+        <num>CCRP 990</num>
+        <heading>990.  Affidavit of response form to be used</heading>
+        <content>
+          <p>Art. 990.  Affidavit of response form to be used
+&quot;
+STATE OF LOUISIANA
+JUDICIAL DISTRICT FOR THE PARISH OF
+______________________________
+No.: ______________
+Division: &quot;_______&quot;
+State of Louisiana
+vs.
+_______________________________________________________
+AFFIDAVIT OF RESPONSE
+Pursuant to Louisiana Code of Criminal Procedure Article 980, the District Attorney for the Parish of __________________ acknowledges the following:
+*
+No Opposition. Respondent respectfully consents to waiver of the contradictory hearing.
+*
+Opposition to the Motion of Expungement with Reasons. Respondent respectfully requests a contradictory hearing.
+OR
+Pursuant to Louisiana Code of Criminal Procedure Article 980, the Louisiana Bureau of Criminal Identification and Information acknowledges the following:
+*
+No Opposition. Respondent respectfully consents to waiver of the contradictory hearing.
+*
+Opposition to the Motion of Expungement with Reasons. Respondent respectfully requests a contradictory hearing.
+OR
+Pursuant to Louisiana Code of Criminal Procedure Article 980, the arresting law enforcement agency__________________acknowledges the following:
+*
+No Opposition. Respondent respectfully consents to waiver of the contradictory hearing.
+*
+Opposition to the Motion of Expungement with Reasons. Respondent respectfully requests a contradictory hearing.
+Respectfully submitted,
+____________________________________
+Signature of Attorney
+____________________________________
+Attorney's Bar Roll No.
+____________________________________
+Address
+____________________________________
+City, State, ZIP Code
+____________________________________
+Telephone Number
+PLEASE SERVE:
+1.
+District Attorney:______________________________________________
+2.
+Louisiana Bureau of Criminal Identification and Information___________
+3.
+The Arresting Law Enforcement Agency___________________________</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919685</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

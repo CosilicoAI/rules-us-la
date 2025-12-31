@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-330-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-330-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 330.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-330-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-330-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-330-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-330-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-330-1">
+        <num>CCRP 330.1</num>
+        <heading>330.1.  Posting bail when arrested outside of originating jurisdiction</heading>
+        <subsection eId="CCRP-330-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any provisions of law to the contrary, a person who is arrested
+and booked in an executing jurisdiction pursuant to a warrant for arrest issued by the
+originating jurisdiction may be released from custody when bail is posted under the following
+conditions:</p>
+          </content>
+          <paragraph eId="CCRP-330-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The amount of the bail obligation is included on the warrant for arrest. If the
+warrant for arrest does not include the amount of the bail obligation, the amount may be set
+within forty-eight hours by anyone in the originating jurisdiction who is authorized to set bail
+pursuant to Article 314.  If a personal surety undertaking is authorized, the personal surety
+undertaking shall be in accordance with either Article 323 or 324.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-330-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>There are no holds, court orders, or other legal impediments that would prohibit
+the release of the arrested person from custody.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-330-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The executing jurisdiction does not object.  If the executing jurisdiction objects,
+the originating jurisdiction shall comply with existing provisions of law relative to bail.  The
+originating jurisdiction shall retain the right to transport or to have the person in custody
+transported to the originating jurisdiction for the purpose of posting bail in the originating
+jurisdiction.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-330-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Written notice shall be provided to the executing jurisdiction when bail is posted
+in the originating jurisdiction and release from custody is authorized. When released, the
+executing jurisdiction shall provide notice in accordance with Article 330 to the arrested
+person.  The originating jurisdiction shall deliver to the executing jurisdiction the
+information necessary to provide such notice to the arrested person. The notice shall include
+the date, time, and location of any required court appearances as well as any conditions of
+bail.  Notwithstanding any provisions of law to the contrary, an electronic copy, digital copy,
+or photocopy of the arrested person's signature on the notice shall be the equivalent of an
+original signature.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-330-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The provisions of this Article shall not apply to warrants for sex offenses,
+homicides and crimes resulting in a death or deaths, felony domestic violence offenses, and
+aggravated offenses.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112453</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

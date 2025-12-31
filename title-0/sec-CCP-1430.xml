@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1430"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1430"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 1430"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1430/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1430/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1430/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1430/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-1430">
+        <num>CCP 1430</num>
+        <heading>1430.  Notice and service of petition; perpetuation of testimony</heading>
+        <content>
+          <p>Art. 1430.  Notice and service of petition; perpetuation of testimony
+The petitioner shall thereafter serve a notice upon each person named in the petition as an expected adverse party, together with a copy of the petition, stating that the petitioner will apply to the court, at a time and place named therein, for the order described in the petition.  At least twenty days before the date of hearing the notice shall be served as provided in Article 1314; but if such service cannot with due diligence be made upon any expected adverse party named in the petition, the court may make such order as is just for service by publication or otherwise, and shall appoint, for persons not served in the manner provided in Article 1314, an attorney who shall represent them, and, in case they are not otherwise represented, shall cross examine the deponent.  If any expected adverse party is a minor or incompetent the court shall appoint an attorney to represent him.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111201</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

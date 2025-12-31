@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-306"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-306"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 306"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-306/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-306/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-306/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-306/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-306">
+        <num>CHC 306</num>
+        <heading>306.  Places of detention; juveniles subject to criminal court jurisdiction</heading>
+        <subsection eId="CHC-306__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Prior to the divesting events specified in Paragraphs A and B of Article 305, the
+child shall be held in custody in a juvenile detention center, except as hereinafter provided.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-306__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a detention facility for juveniles is not available, the child may be held in an
+adult jail or lockup for identification or processing procedures or while awaiting
+transportation only as long as necessary to complete these activities for up to six hours,
+except that in nonmetropolitan areas, the child may be held for up to forty-eight hours if all
+of the following occur:</p>
+          </content>
+          <paragraph eId="CHC-306__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The child meets the age and offense criteria set out in Article 305.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-306__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A continued custody hearing in accordance with Articles 820 and 821 is held
+within forty-eight hours after his arrest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-306__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>There is no acceptable alternative placement to the jail or lockup in which he is
+being held.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-306__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The sheriff or the administrator of the adult jail or lockup has certified to the
+court that facilities exist providing for sight and sound separation of the juvenile from adult
+offenders and that he can be given continuous visual supervision while placed in the jail or
+lockup.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-306__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If an indictment has not been returned, a bill of information filed, or a continued
+custody hearing not held within forty-eight hours, the child held in an adult jail or lockup in
+a nonmetropolitan area shall be released or removed to a juvenile detention facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-306__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If at the conclusion of the continued custody hearing, the court determines that
+the child meets the age requirements and that there is probable cause that the child has
+committed one of the offenses enumerated in Article 305, the court shall order him held for
+trial as an adult for the appropriate court of criminal jurisdiction.  The appropriate court of
+criminal jurisdiction may thereafter order that the child be held in any facility used for the
+pretrial detention of accused adults and the child shall apply to the appropriate court of
+criminal jurisdiction for a preliminary hearing, bail, and for any other rights to which he may
+be entitled under the Code of Criminal Procedure.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-306__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If for any reason the court determines that the child is not subject to the
+jurisdiction of the criminal courts, it may continue him in custody only in those places
+authorized by Article 822.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-306__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The court authorizing the detention of the child in an adult jail or lockup pursuant
+to Paragraph B or D of this Article shall submit a written report delineating appropriate
+reasons for the continued custody to the judicial administrator of the supreme court for
+review and shall submit copies to the Louisiana Commission on Law Enforcement and
+Administration of Criminal Justice and to the sheriff or chief of police of the facility in which
+the child is being detained within seven working days of the court's decision.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-306__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Notwithstanding any provision of law to the contrary, a child who is subject to
+criminal jurisdiction pursuant to Article 305 and being held in a juvenile detention facility
+before trial shall be transferred to the appropriate adult facility for continued pretrial
+detention upon reaching the age of eighteen.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73104</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1521"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1521"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1521"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1521/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1521/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1521/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1521/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1521">
+        <num>CC 1521</num>
+        <heading>1521.  Vulgar substitutions</heading>
+        <content>
+          <p>Art. 1521.  Vulgar substitutions
+The disposition by which a third person is called to take a gift or legacy in case the donee or legatee does not take it is not a prohibited substitution.  A testator may impose as a valid suspensive condition that the legatee or a trust beneficiary must survive the testator for a stipulated period, which period shall not exceed six months after the testator's death, in default of which a third person is called to take the legacy.  In such a case, the right of the legatee or trust beneficiary is in suspense until the survivorship as required is determined.  If the legatee or trust beneficiary survives as required, he is considered as having succeeded to the deceased from the moment of his death.  If he does not survive as required, he is considered as never having received it, and the third person who is called to take the bequest in default of his survival is considered as having succeeded to the deceased from the moment of his death.  A survivorship condition as to the legitime of a forced heir shall only be valid if the forced heir dies without descendants, or if he dies with descendants and neither the forced heir nor the descendants survive the stipulated time.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108842</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

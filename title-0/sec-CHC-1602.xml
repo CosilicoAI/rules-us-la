@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1602"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1602"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1602"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1602/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1602/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1602/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1602/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1602">
+        <num>CHC 1602</num>
+        <heading>1602.  Findings</heading>
+        <subsection eId="CHC-1602__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>In order to obtain adoptive families for children with special needs, prospective adoptive parents must be assured of substantial assistance, usually on a continuing basis, in meeting the high costs of supporting and providing for the special needs and services required by such children.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1602__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The states have a fundamental interest in promoting adoption for children with special needs because the care, emotional stability, and general support and encouragement required by such children to surmount their physical, mental, or emotional conditions can be best, and often only, obtained in family homes with a normal parent-child relationship.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1602__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The states obtain advantages from providing adoption assistance because the customary alternative is for the state to defray the entire cost of meeting all the needs of such children.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1602__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The special needs involved are for the emotional, physical maintenance of the child, and medical support and services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1602__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The necessary assurances of adoption assistance for children with special needs, in those instances where children and adoptive parents are in states other than the one undertaking to provide the assistance, is to establish and maintain suitable substantive guarantees and workable procedures for interstate payments to assist with the necessary child maintenance, procurement of services, and medical assistance.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73036</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

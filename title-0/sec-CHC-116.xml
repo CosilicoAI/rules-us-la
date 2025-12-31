@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-116"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-116"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 116"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-116/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-116/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-116/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-116/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-116">
+        <num>CHC 116</num>
+        <heading>116.  Definitions</heading>
+        <subsection eId="CHC-116__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Act&quot; includes a failure or omission to perform a legal duty.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Capital offense&quot; means an offense that may be punished by death.
+(2.1)  &quot;CASA program&quot; means a court-appointed special advocate program
+established in compliance with  Louisiana CASA Association standards.
+(2.2)  &quot;CASA volunteer&quot; means a court-appointed special advocate who has been
+trained in accordance with  Louisiana CASA Association standards and is under the
+supervision of a CASA program.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Child&quot; means a person who has not attained the age of eighteen years, except
+as it is specially defined by a Title of this Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Court&quot; means any city, parish, district, or juvenile, or its judge, when exercising
+juvenile jurisdiction as provided for in this Code.  It does not include a judge of a mayor's
+court or a justice of the peace.
+(4.1)  &quot;Diligent effort to locate&quot; means efforts made by a curator that, under the
+circumstances known to the curator, are reasonably calculated to locate an absentee. Such
+efforts may include a review of court records, department records, law enforcement records,
+vital records, military records, directory assistance, internet search sites, and licensing
+agencies.  Publication shall not be required except as specifically provided in this Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Felony&quot; means an offense that may be punished by death or by imprisonment
+at hard labor.
+(5.1)  &quot;Guardianship&quot; means the judicial placement of a child under the duty and
+authority of a guardian to make decisions in matters having a permanent effect on the life and
+development of the child as set forth in Article 719.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Home study&quot; means an evaluation of a home environment conducted in
+accordance with applicable requirements of the state in which the home is located to
+determine whether a proposed placement of a child would meet the individual needs of the
+child, including the child's safety, permanency, health, well-being, and mental, emotional,
+and physical development.
+(6.1)  &quot;Indian child&quot; means any unmarried child under eighteen years of age who is
+a member of an Indian tribe or who is eligible for membership in an Indian tribe and is the
+biological child of a member of an Indian tribe.
+(6.2)  &quot;Indian tribe&quot; means any Indian tribe, band, nation, or other organized group
+or community of Indians recognized as eligible for the services provided to Indians by the
+Secretary of the Interior in accordance with their status as Indians.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Indictment&quot; means a written accusation of crime made by a grand jury.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Information&quot; means a written accusation of crime  made and signed by the
+district attorney or the city prosecutor.  It must be filed in open court in a court having
+jurisdiction to try the offense, or in the office of the clerk thereof.
+(8.1)  &quot;Interstate home study&quot; means a home study conducted by a state at the request
+of another state to facilitate an adoptive or foster placement in the state of a child in foster
+care under the responsibility of the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Judge&quot; means the judge of a court exercising juvenile jurisdiction.
+(9.1)  &quot;Juvenile crime victim&quot; means a person, under the age of seventeen, against
+whom a felony offense against the person has been committed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Juvenile detention center&quot; means the same as a secure detention facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Juvenile proceeding&quot; or &quot;juvenile case&quot; means a proceeding or case in which
+the court is exercising juvenile jurisdiction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Legal custody&quot; means the right to have physical custody of the child and to
+determine where and with whom the child shall reside; to exercise the rights and duty to
+protect, train, and discipline the child; the authority to consent to major medical, psychiatric,
+and surgical treatment; and to provide the child with food, shelter, education, and ordinary
+medical care, all subject to any residual rights possessed by the child's parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>&quot;Licensed institution&quot;, &quot;licensed facility&quot;, or &quot;licensed agency&quot; means an
+institution or agency that has been licensed under state law, if licensure is required by law
+for such an institution or agency.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>&quot;Minor&quot; means a person who has not attained the age of eighteen years.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>&quot;Misdemeanor&quot; means an offense other than a felony, and includes the violation
+of an ordinance providing a penal sanction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>&quot;Offense&quot; includes both felony and misdemeanor.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>&quot;Parent&quot; means any living person who is presumed to be a parent under the Civil
+Code or a biological or adoptive mother or father of a child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>&quot;Parole&quot; means the legal status created by court order whereby a child is
+conditionally released from a juvenile correctional institution to a less restrictive setting
+where continued supervision will be provided by a probation officer and standards of conduct
+will be imposed by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>&quot;Peace officer&quot; means any sheriff, police officer, or other person deputized by
+proper authority to serve as a peace officer.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>&quot;Physician&quot; means a person permitted to practice and in active practice as a
+physician under the laws of Louisiana or a person in a postgraduate medical training program
+of an accredited medical school in Louisiana or a medical officer similarly qualified by the
+government of the United States while in this state in the performance of official duties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_21">
+          <num>(21)</num>
+          <content>
+            <p>&quot;Probation&quot; means the legal status created by court order following an
+adjudication of delinquency or an adjudication that a family is in need of services or that the
+child is in need of supervision, whereby a child is permitted to remain in a community
+subject to supervision by a probation officer and to standards of conduct imposed by the
+court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_22">
+          <num>(22)</num>
+          <content>
+            <p>&quot;Probation officer&quot; is a representative of the agency providing supervision
+services to a court exercising juvenile jurisdiction.  It also includes any person designated by
+the court to serve as the court's probation officer.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_23">
+          <num>(23)</num>
+          <content>
+            <p>&quot;Psychiatrist&quot; means a physician who has at least three years of formal training
+or primary experience in the diagnosis and treatment of mental illness.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_24">
+          <num>(24)</num>
+          <content>
+            <p>&quot;Residual parental rights&quot; means those rights and responsibilities remaining
+with the parents after the legal transfer of custody of their child, including but not necessarily
+limited to right of visitation, consent to adoption, right to determine religious affiliation,
+responsibility of support, and the right of inheritance from the child.
+(24.1)  &quot;Secure detention facility&quot; means a facility that provides a physically
+restricting environment for the temporary care of children in accordance with the Minimum
+Standards for Licensure of the Louisiana Detention Association.
+(24.2) &quot;Secure placement&quot; means a placement characterized by a range of moderate
+to high security level facilities that include construction, fixtures, and staff supervision
+designed to restrict the movements and activities of the residents, and to control, on a twenty-four-hour basis, the ability of the residents to enter and leave the premises, and which are
+intended for the treatment and rehabilitation of children who have been adjudicated
+delinquent. Secure placements shall include but are not limited to secure correctional centers
+for children and may include community-based secure detention facilities. However, no
+placement of a child to a community-based secure detention facility shall occur when a child
+has been adjudicated for the commission of a crime listed in Article 897.1 unless notice of
+such placement is provided to the committing judge and the district attorney.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_25">
+          <num>(25)</num>
+          <content>
+            <p>&quot;Shelter care facility&quot; means a licensed, physically unrestricting public or private
+child caring facility, a residential facility operated for runaway, homeless, or sexually
+exploited children, or a safe house as defined in Article 725.1 which provides temporary care
+for children.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_26">
+          <num>(26)</num>
+          <content>
+            <p>&quot;State&quot; includes a city or other political subdivision of the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_27">
+          <num>(27)</num>
+          <content>
+            <p>&quot;Statute&quot; or &quot;law&quot; means a statute, a constitutional provision, or an ordinance
+of a city or other political subdivision of the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-116__subsec_28">
+          <num>(28)</num>
+          <content>
+            <p>&quot;Tutor&quot; means one other than a parent who has qualified for the office and has
+been confirmed or appointed by a court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72638</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-43"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-43"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 14.43"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-43/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-43/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-43/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-43/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-14-43">
+        <num>HRULE 14.43</num>
+        <heading>Section </heading>
+        <content>
+          <p>Rule 14.43.  Roll Call; Record Votes Required
+Any motion to report an instrument referred to a committee to which an objection is offered and any motion to adopt or reject a substantive committee amendment to which an objection is offered shall be decided by a roll call vote of the members.  Any other vote shall be by roll call if demanded by a member.  All roll call votes and all votes on motions to report an instrument shall be record votes and shall appear in the records of the committee as otherwise provided in these rules.  In the case of record votes the names of members voting for the motion, the names of members voting against the motion, and the names of members abstaining shall be recorded.  In the case of a record vote on a motion to report an instrument to which there is no objection, the names of all members present shall be recorded as voting for the motion.  For the purposes of this rule a substantive amendment shall be deemed to be any amendment which is not strictly technical in nature.
+Mason's Manual:  Sec. 535
+HR 8, 1974; HR 4, 2006 2 nd Ex. Sess., eff. Dec. 13, 2006.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113255</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

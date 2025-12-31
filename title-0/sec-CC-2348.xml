@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2348"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2348"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2348"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2348/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2348/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2348/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2348/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2348">
+        <num>CC 2348</num>
+        <heading>2348.  Renunciation of right to concur</heading>
+        <content>
+          <p>Art. 2348.  Renunciation of right to concur.
+A spouse may expressly renounce the right to concur in the alienation, encumbrance, or lease of a community immovable or some or all of the community immovables, or community immovables which may be acquired in the future, or all or substantially all of a community enterprise.  He also may renounce the right to participate in the management of a community enterprise.  The renunciation may be irrevocable for a stated term not to exceed three years.  Further, any renunciation of the right to concur in the alienation, encumbrance, or lease of a community immovable, or some or all of the community immovables or community immovables which may be acquired in the future, or all or substantially all of a community enterprise which was proper in form and effective under the law at the time it was made shall continue in effect for the stated term not to exceed three years or if there was no term stated, then until it is revoked.
+A spouse may nonetheless reserve the right to concur in the alienation, encumbrance, or lease of specifically described community immovable property.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109418</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

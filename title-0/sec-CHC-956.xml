@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-956"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-956"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 956"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-956/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-956/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-956/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-956/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-956">
+        <num>CHC 956</num>
+        <heading>956.  Authority of juvenile traffic referee</heading>
+        <subsection eId="CHC-956__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A juvenile traffic referee shall have the authority including but not limited to the following:</p>
+          </content>
+          <paragraph eId="CHC-956__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To administer oaths.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-956__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To compel the attendance of witnesses and issue subpoenas.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-956__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>To take testimony.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-956__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>To make a record of the hearing.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-956__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The referee's exercise of control over traffic proceedings through punishment for contempt of court shall be limited to the following:</p>
+          </content>
+          <paragraph eId="CHC-956__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The referee may make a recommendation to any judge of the court exercising juvenile jurisdiction that the child be charged with a direct or constructive contempt of court, as otherwise governed by Chapter 2 of Title XV.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-956__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Failure to comply with a subpoena, without reasonable excuse, proof of service of which appears of record, constitutes a direct contempt of the court which issued the subpoena.  The referee may order the witness attached and brought to court forthwith or on a designated day.  If an order of attachment is issued, it may be executed in any parish by the sheriff of the parish from which the attachment was issued, or by the sheriff of the parish where the witness is found.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73522</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

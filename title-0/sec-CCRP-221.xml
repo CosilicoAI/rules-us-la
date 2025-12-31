@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-221"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-221"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 221"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-221/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-221/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-221/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-221/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-221">
+        <num>CCRP 221</num>
+        <heading>221.  Blood and saliva testing</heading>
+        <subsection eId="CCRP-221__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Following arrest if an offender is charged by bill of information
+or indicted by a grand jury for intentionally exposing a police officer to AIDS
+virus as defined in R.S. 14:43.5, or battery upon a police officer as defined in
+R.S. 14:34.2, the police officer may be tested to determine whether the police
+officer is infected with a sexually transmitted disease, or is infected with
+acquired immune deficiency syndrome (AIDS), the human immunodeficiency
+virus (HIV), HIV-1 antibodies, or any other probable causative agent of AIDS,
+or other infectious disease resulting from this exposure, or viral hepatitis.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-221__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>For purposes of this Article, &quot;police officer&quot; means a commissioned
+police officer, sheriff, deputy sheriff, marshal, deputy marshal, correctional
+officer, constable, wildlife enforcement agent, and probation and parole
+officer.
+B.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-221__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If testing is requested by the police officer, as provided in
+Paragraph A of this Article, the testing shall be performed at a state hospital
+or other facility as determined by the Louisiana Department of Health or as
+provided by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-221__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the police officer tested under the provisions of this Paragraph
+tests positive for AIDS, HIV, HIV-1 antibodies, or any other probable
+causative agent of AIDS, viral hepatitis, or other infectious disease, the police
+officer, upon request, shall be provided with the following services:</p>
+          </content>
+          <paragraph eId="CCRP-221__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Counseling regarding HIV, viral hepatitis, or other infectious
+disease.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-221__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Referral to appropriate health care and support services.  These
+services shall be provided in accordance with applicable state law and the
+regulations governing the specific programs under which the services are to be
+provided.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-221__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The cost associated with this testing and services shall be paid by
+the employing law enforcement agency of the police officer.  The agency may
+seek reimbursement for these expenses from the offender.
+C.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-221__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If the police officer tested under the provisions of Paragraph B
+tests positive for AIDS, HIV, HIV-1 antibodies, or any other probable
+causative agent of AIDS, viral hepatitis, or other infectious disease, then the
+offender who may have exposed the officer shall submit to a test designed to
+determine whether the offender is infected with a sexually transmitted disease,
+or is infected with acquired immune deficiency syndrome (AIDS), the human
+immunodeficiency virus (HIV), HIV-1 antibodies, or any other probable
+causative agent of AIDS, viral hepatitis, or other infectious disease.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-221__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The procedure or test shall be performed by a qualified physician
+or other qualified person who shall report any positive result to the chief
+administrator of the jail or correctional facility, if the offender is incarcerated,
+and shall also notify the offender, regardless of the results.  If the offender is
+incarcerated, the test may be administered at the place of incarceration or the
+offender may be transferred to an appropriate testing facility and returned to
+incarceration following the testing procedure.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-221__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If the offender tested under the provisions of this Paragraph tests
+positive for AIDS, HIV, HIV-1 antibodies, or any other probable causative
+agent of AIDS, viral hepatitis, or other infectious disease, upon request, he
+shall be provided with the following services:</p>
+          </content>
+          <paragraph eId="CCRP-221__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Counseling regarding HIV, viral hepatitis, or other infectious
+disease.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-221__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Referral to appropriate health care and support services.  These
+services shall be provided in accordance with applicable state law and the
+regulations governing the specific programs under which the services are to be
+provided.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-221__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The costs associated with this testing shall be paid by the offender.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112374</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

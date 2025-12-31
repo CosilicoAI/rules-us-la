@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-38-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-38-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CA 14 38.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-38-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-38-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-38-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-38-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CA-14-38-1">
+        <num>CA 14 38.1</num>
+        <heading>Section </heading>
+        <subsection eId="CA-14-38-1__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>days before the date fixed for the hearing, in a newspaper published in the
+Parish.  At the place and time specified in the notice, the Police Jury shall hear
+all objections which may be interposed to the boundaries of the district and to
+the inclusion of the property proposed to be included in the district, and after
+disposing of all objections, the Police Jury shall, if it decides to create the
+district, adopt a resolution fixing the boundaries of the district and giving it a
+numerical designation and name.
+(a-2).  To accomplish the purpose hereinafter enumerated in this Section
+any Public Improvement District created as provided in this Section shall have
+the power to incur obligations and to levy taxes upon only the land included
+within such district under and in accordance with the authority of Chapter 4,
+Title 39 of the Louisiana Revised Statutes of 1950 as amended.  Any other
+provision to the contrary notwithstanding, such power to tax shall not extend
+to oil, gas or other minerals or mineral rights or to any equipment used for the
+exploration, production, storage, refining or transportation thereof, and all
+rights to property acquired hereunder to which the mineral rights are reserved
+to the state in paragraph d hereof shall be subordinate to the right of the state
+to lease, explore and develop such property for oil, gas and other minerals. 
+Such districts shall also have the right to contract for legal, financial,
+engineering and other services which may be necessary or required to carry out
+the provisions of this Section.
+(a-3).  Public Improvement Districts hereafter created within the parish
+of St. Charles having a frontage of land on Lake Pontchartrain within said
+district, in addition to the powers now conferred on such districts by law, shall
+have the power to construct and undertake reclamation projects as herein
+provided, to locate, relocate, construct, maintain, extend and improve levees,
+embankments, seawalls, jetties, brea</p>
+          </content>
+        </subsection>
+        <subsection eId="CA-14-38-1__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Any and all lands reclaimed or to be reclaimed, or otherwise
+acquired by said Districts as part of said development, except such part of said
+land as is required by the provisions hereof to be reserved and dedicated for
+public parks, parkways, boulevards, playgrounds or places of amusement, or
+beach purposes, together with all buildings or improvements made or
+constructed, or to be made or constructed thereon, and all rights, ways,
+privileges, servitudes or appurtenances, thereunto belonging, or in anywise
+appertaining, and</p>
+          </content>
+        </subsection>
+        <subsection eId="CA-14-38-1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Cash, notes, or other evidences of indebtedness received, or to be
+received, by said Districts in consideration for the sale or sales of any lands,
+lots, and improvements forming part of said development; and</p>
+          </content>
+        </subsection>
+        <subsection eId="CA-14-38-1__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Any lease or leases and the rents, incomes and other advantages
+arising out of any lease or leases, made or granted by said Districts in
+connection with said development; and</p>
+          </content>
+        </subsection>
+        <subsection eId="CA-14-38-1__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Generally any and all rights of said Districts and to any lands,
+property, incomes, revenues, claims and other choses in action, forming part
+of and arising out of said development.
+Said Districts shall have the power and authority to sign, execute and
+deliver any act or acts of mortgage and pledge containing all such terms,
+conditions and stipulations, not inconsistent herewith, as they may deem
+proper to secure any bonds, notes or other certificates of indebtedness issued,
+or to be issued by it in pursuance hereof.  The said bonds, notes or certificates
+of indebtedness shall be exempt from all taxation for state, parish and
+municipal purposes, and savings banks and insurance companies shall be
+authorized to invest funds in their hands therein and said bonds, notes and
+certificates of indebtedness may be used for deposit with any officer, board,
+municipality or other political subdivision of the State of Louisiana, in any
+case in which any present or future laws deposit of security may be required. 
+Said bonds, notes and certificates of indebtedness shall be deemed to be
+negotiable instruments and incontestable in the hands of bona fide holders for
+value; provided, however, nothing herein contained shall be construed as
+pledging the credit of the State of Louisiana for the payment of said bonds,
+notes or certificates of indebtedness, nor shall said bonds, notes or certificates
+of indebtedness be construed as obligations of the State of Louisiana.</p>
+          </content>
+          <paragraph eId="CA-14-38-1__subsec_4__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>The power and authority hereby conferred shall be in addition to any
+power to issue bonds, or other evidences of indebtedness and to borrow
+money, now or hereafter conferred by law upon said Districts.  Anything
+herein contained to the contrary notwithstanding, the aggregate principal
+amount of all bonds, notes and certificates of indebtedness issued hereunder
+at any time outstanding, together with the total maximum liability, whether or
+not due, then unpaid, on all contracts for any work and material in connection
+with the project herein authorized, shall never exceed the sum of Thirty
+Million Dollars, and any contract made, or any bond, note or certificate of
+indebtedness issued in violation of this provision shall be null and void.
+For a period of sixty</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CA-14-38-1__subsec_60">
+          <num>(60)</num>
+          <content>
+            <p>days from the date of publication of the
+proceedings of the Board of Commissioners of any District hereunder,
+authorizing the issuance of any bonds, notes or certificates of indebtedness,
+any person in interest shall have the right to contest the legality of such
+proceedings, the bonds, notes or certificates of indebtedness provided for, for
+any cause; after which time no one shall have any cause or right of action to
+contest the regularity, formality or legality of said proceedings or authorization
+for any cause whatsoever.  If the validity of any proceedings or issue
+authorized or provided for, held under the provisions of this Section, is not
+raised within sixty</p>
+          </content>
+        </subsection>
+        <subsection eId="CA-14-38-1__subsec_60">
+          <num>(60)</num>
+          <content>
+            <p>days from the date of publication of the proceedings
+taken in connection therewith, the legality thereof shall be conclusively
+presumed, and no court shall have authority to inquire into such proceedings.
+(j).  The provisions hereof are self-executing and the District is
+authorized and empowered to carry same into effect, and no further legislation
+shall be required to effect the same.
+(Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=67981</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

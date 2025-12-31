@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3226"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3226"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 3226"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3226/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3226/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3226/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3226/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-3226">
+        <num>CCP 3226</num>
+        <heading>3226.  Lease of succession property</heading>
+        <content>
+          <p>Art. 3226.  Lease of succession property
+When it appears to the best interest of the succession, the court may authorize a succession representative to grant a lease upon succession property after compliance with Article 3229.  No lease may be granted for more than one year, except with the consent of the heirs and interested legatees.
+The court may also authorize the granting of mineral leases on succession property after compliance with Article 3229.  The leases may be for a period greater than one year as may appear reasonable to the court.  A copy of the proposed lease contract shall be attached to the application for the granting of a mineral lease, and the court may require alterations as it deems proper.
+The order of the court shall state the minimum bonus, if any, to be received by the executor or administrator of the estate under the lease and the minimum royalty to be reserved to the estate, which in no event shall be less than one-eighth royalty on the oil and such other terms as the court may embody in its order.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111658</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

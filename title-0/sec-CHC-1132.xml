@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1132"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1132"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1132"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1132/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1132/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1132/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1132/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1132">
+        <num>CHC 1132</num>
+        <heading>1132.  Notice of filing of surrender; form</heading>
+        <subsection eId="CHC-1132__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If a mother of a child born outside of marriage has executed a surrender and
+identifies the child's alleged or adjudicated father, the agency or individual to whom the child
+was surrendered shall exercise due diligence in attempting to locate him and to offer pre-surrender counseling in accordance with Article 1120.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1132__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon approval of the mother's surrender by the court, notice of the filing of the
+mother's surrender shall be served upon the alleged or adjudicated father unless any of the
+following apply:</p>
+          </content>
+          <paragraph eId="CHC-1132__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>His potential parental rights have been terminated by a judgment in accordance
+with Title X of this Code.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1132__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>He has executed a surrender in accordance with this Title.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1132__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>He has given his consent in open court in accordance with Article 1195.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1132__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>He has executed a release of claims in accordance with Article 1196.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1132__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the alleged or adjudicated father is a minor, his parents or tutor shall be served
+if required by Article 1113.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1132__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The notice of the surrender shall be issued by the clerk and shall contain the
+following information in substantially the following form:
+&quot;NOTICE OF FILING OF SURRENDER
+Be advised that on the ___ day of ___, 20__, an authentic Act of Surrender executed
+by ______ was filed wherein she surrendered for adoption her child, namely _____, born on
+the ___ day of  _____, __, in the Parish of _____, State of ____.
+The Act of Surrender alleges that you are the father of this child.  You may attempt
+to oppose the adoption of this child only by filing a written objection with this court within
+fifteen days after you receive this notice.
+If you file a written objection timely, the court will then hold a hearing within twenty
+days of the filing of the opposition, to determine whether you have established or forfeited
+your parental rights.
+To establish your parental rights to oppose the adoption, you must acknowledge that
+you are the father of the child or be found to be the father by court order as a result of blood
+tests.  Thereafter, you must also demonstrate to the court that you are a fit parent who is
+willing and able to assume the legal and physical care of your child.  You must also
+demonstrate that you have made a substantial commitment to your parental responsibilities
+by providing or attempting to provide substantial and consistent support for the mother
+during pregnancy or after the child's birth and by frequently and consistently visiting or
+attempting to visit the child after birth.
+If you fail to file a written motion of opposition, or if, after a hearing on a motion
+timely filed, the court finds that you have failed to establish your parental right to oppose the
+adoption, the court will order the termination of any and all parental rights you may have and
+the child may be subject to adoption.&quot;</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72619</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

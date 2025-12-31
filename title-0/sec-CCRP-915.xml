@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-915"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-915"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 915"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-915/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-915/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-915/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-915/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-915">
+        <num>CCRP 915</num>
+        <heading>915.  Action on a motion for appeal; return; notice</heading>
+        <subsection eId="CCRP-915__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a motion for an appeal is made in conformity with Articles 912, 914, and 914.1 the trial court shall grant or deny the motion within seventy-two hours, exclusive of legal holidays, after the motion is made.  The return date shall be seventy-five days from the date the motion for appeal is granted, unless the trial judge fixes a lesser period.  When a motion for an appeal has been timely made, the appeal shall not be affected by any fault or omission on the part of the trial court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-915__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The minute clerk for each section of the trial court shall forward a copy of the notice of appeal to the clerk of the trial court and to the court reporters responsible for preparing the necessary transcripts, within twenty-four hours, exclusive of legal holidays, of the date the appeal is ordered.  The clerk of the trial court shall forward a copy of the notice of appeal to the sheriff having custody of the defendant, to the appropriate appellate court, and to each party, within seven days of the date the appeal is ordered.  The party moving for the appeal must forward notice that a motion for appeal has been made to the appropriate appellate court within seven days of the date the motion is made.  Failure of the minute clerk, the clerk of court, or the party moving for the appeal, to provide notice shall not affect the validity of the appeal.
+Amended by Act 1974, No. 207, §1;</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112922</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

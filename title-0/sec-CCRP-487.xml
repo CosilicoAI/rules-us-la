@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-487"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-487"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 487"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-487/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-487/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-487/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-487/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-487">
+        <num>CCRP 487</num>
+        <heading>487.  Defective indictment; amendment</heading>
+        <subsection eId="CCRP-487__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An indictment that charges an offense in accordance with the provisions of this Title shall not be invalid or insufficient because of any defect or imperfection in, or omission of, any matter of form only, or because of any miswriting, misspelling, or improper English, or because of the use of any sign, symbol, figure, or abbreviation, or because any similar defect, imperfection, omission, or uncertainty exists therein.  The court may at any time cause the indictment to be amended in respect to any such formal defect, imperfection, omission, or uncertainty.
+Before the trial begins the court may order an indictment amended with respect to a defect of substance.  After the trial begins a mistrial shall be ordered on the ground of a defect of substance.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-487__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Nothing contained herein shall be construed to prohibit the defendant from entering a plea of guilty to a crime nonresponsive to the original indictment when such a plea is acceptable to the district attorney, and in such case, the district attorney shall not be required to file a new indictment to charge the crime to which the plea is offered.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112572</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

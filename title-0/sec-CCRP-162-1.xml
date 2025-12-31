@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 162.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-162-1">
+        <num>CCRP 162.1</num>
+        <heading>162.1.  Warrant issued upon oral testimony</heading>
+        <subsection eId="CCRP-162-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In addition to the provisions of Article 162, a search warrant may issue only upon probable cause established to the satisfaction of the judge by the sworn oral testimony of a credible person reciting facts establishing the cause for issuance of the warrant.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The sworn oral testimony may be communicated to the judge, and the oath may be administered by the judge, by telephone, radio, or such other electronic method of communication deemed appropriate by the judge.  If the judge determines that the warrant should issue, he shall order the applicant to affix a facsimile of his signature to the warrant which the applicant has prepared and to note thereon the date and time of the determination.  The sworn oral testimony, the contents of the warrant issued, the order to affix the signature facsimile, and the date and time of the determination shall be electronically recorded by the judge, who shall cause the recording to be transcribed and fixed in the record within seven days.  The judge shall certify the accuracy of the transcription.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A search warrant shall particularly describe the person or place to be searched, the persons or things to be seized, and the lawful purpose or reason for the search or seizure.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The testimony may also be communicated to the judge by facsimile transmission signed by the applicant, after the administration of the oath by the judge by telephone, radio, or such other electronic method of communication deemed appropriate by the judge.  The judge shall certify on the facsimile transmission the date and time of the administration of the oath.  If the judge determines that the warrant should issue, he shall affix his signature to the warrant which the applicant has prepared and forwarded to him by facsimile transmission.  The judge shall transmit to the applicant, by facsimile transmission, the warrant which he has executed together with the written testimony and certification of oath.  The original application for the warrant with the applicant's signature and the facsimile copy with the original signature of the judge shall be preserved in the same manner as an original warrant signed by both the applicant and the judge.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112333</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

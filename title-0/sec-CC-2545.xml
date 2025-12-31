@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2545"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2545"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2545"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2545/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2545/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2545/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2545/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2545">
+        <num>CC 2545</num>
+        <heading>2545.  Liability of seller who knows of the defect; presumption of knowledge</heading>
+        <content>
+          <p>Art. 2545.  Liability of seller who knows of the defect; presumption of knowledge
+A seller who knows that the thing he sells has a defect but omits to declare it, or a seller who declares that the thing has a quality that he knows it does not have, is liable to the buyer for the return of the price with interest from the time it was paid, for the reimbursement of the reasonable expenses occasioned by the sale and those incurred for the preservation of the thing, and also for damages and reasonable attorney fees.  If the use made of the thing, or the fruits it might have yielded, were of some value to the buyer, such a seller may be allowed credit for such use or fruits.
+A seller is deemed to know that the thing he sells has a redhibitory defect when he is a manufacturer of that thing.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109597</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-855"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-855"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 855"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-855/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-855/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-855/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-855/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-855">
+        <num>CCRP 855</num>
+        <heading>855.  Errors discovered after verdict or judgment of guilty; necessary allegations</heading>
+        <subsection eId="CCRP-855__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>of Article 851 shall contain allegations of fact sworn to by the defendant or his counsel, showing:</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-855__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The specific nature of the error or defect complained of; and</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-855__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>That, notwithstanding the exercise of reasonable diligence by the defense, the error or defect was not discovered before or during the trial.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112836</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

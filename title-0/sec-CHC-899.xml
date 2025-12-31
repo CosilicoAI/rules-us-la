@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-899"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-899"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 899"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-899/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-899/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-899/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-899/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-899">
+        <num>CHC 899</num>
+        <heading>899.  Disposition after adjudication of a misdemeanor-grade delinquent act</heading>
+        <subsection eId="CHC-899__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>After adjudication of a misdemeanor-grade delinquent act, the court may:</p>
+          </content>
+          <paragraph eId="CHC-899__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Reprimand and warn the child and release him into the custody of his parents
+either unconditionally or subject to such terms and conditions as deemed in the best interests
+of the child and the public.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-899__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Reprimand and warn the child and release him into the custody of some other
+suitable person either unconditionally or subject to such terms and conditions as deemed in
+the best interests of the child and the public.  The court shall, whenever practicable, select
+a person of the same religious faith as the child or his parents.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-899__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Place the child on probation in the custody of his parents or other suitable person.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-899__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>As conditions of probation, if ordered pursuant to Subparagraph (A)</p>
+          </content>
+          <paragraph eId="CHC-899__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this
+Article:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-899__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court shall impose all of the following restrictions:</p>
+            </content>
+            <subparagraph eId="CHC-899__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prohibit the child from possessing any drugs or alcohol.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-899__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prohibit the child from engaging in any further delinquent or criminal activity.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-899__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court may impose any other term and condition deemed in the best interests
+of the child and the public, including:</p>
+            </content>
+            <subparagraph eId="CHC-899__subsec_B__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A requirement that the child attend school, if the school admits the child.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-899__subsec_B__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A requirement that the child or his parent or legal guardian perform court-approved community service activities.  If feasible, the court-approved community service
+activities shall be conducted by the caretaker and child together.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-899__subsec_B__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A requirement that the adjudicated child make reasonable restitution to any
+victim for any personal or property damage caused by the child in the commission of the
+delinquent act.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-899__subsec_B__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A requirement that the child participate in any program of medical or
+psychological or other treatment found necessary for his rehabilitation.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-899__subsec_B__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A requirement suspending or restricting the child's driving privileges, if any, for
+all or part of the period of probation.  In such cases, a copy of the order shall be forwarded
+to the Department of Public Safety and Corrections, which shall suspend the child's driver's
+license or issue a restricted license in accordance with the order of the court.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-899__subsec_B__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A requirement prohibiting the child from possessing a firearm or carrying a
+concealed weapon.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-899__subsec_B__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A requirement that the child pay a monthly supervision fee of not less than ten
+nor more than one hundred dollars per month, payable to the Department of Public Safety
+and Corrections or other supervising agency, to defray the cost of supervision.  The court
+may order a parent, tutor, guardian, or other person who is financially responsible for the care
+of the child to be responsible for payment of all or part of any supervision fee imposed.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-899__subsec_B__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A requirement that the child and his parent or legal guardian cooperate in
+connection with any part of the disposition order, including but not limited to a
+court-approved decisionmaking course necessary for his rehabilitation.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-899__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court may commit the child to the custody of a private or public institution
+or agency.  When commitment is to be made to a private institution or agency, the court
+shall:</p>
+          </content>
+          <paragraph eId="CHC-899__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Select one that has been licensed under state law, if licensure is required by law
+for such an institution or agency.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-899__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Whenever practicable, select an agency or institution of the same religious faith
+as the child or his parents.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-899__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the child is thirteen years of age or older at the time of the commission of the
+delinquent act, the court may commit the child to the custody of the Department of Public
+Safety and Corrections, with or without a recommendation that the child be placed in
+alternative care facilities through the department's client placement process, or be referred
+to appropriate placement resources in the state available through other public or private
+agencies.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-899__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The court may impose but suspend the execution of the whole or part of any
+authorized order of commitment and place the child on probation subject to any of the terms
+and conditions authorized under Paragraph B of this Article.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73491</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

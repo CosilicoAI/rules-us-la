@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3544"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3544"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 3544"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3544/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3544/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3544/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3544/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-3544">
+        <num>CC 3544</num>
+        <heading>3544.  Issues of loss distribution and financial protection</heading>
+        <subsection eId="CC-3544__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>If, at the time of the injury, the injured person and the person who caused the injury were domiciled in the same state, by the law of that state.  Persons domiciled in states whose law on the particular issue is substantially identical shall be treated as if domiciled in the same state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-3544__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If, at the time of the injury, the injured person and the person who caused the injury were domiciled in different states:</p>
+          </content>
+          <paragraph eId="CC-3544__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>when both the injury and the conduct that caused it occurred in one of those states, by the law of that state; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-3544__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>when the injury and the conduct that caused it occurred in different states, by the law of the state in which the injury occurred, provided that</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-3544__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>the injured person was domiciled in that state, (ii) the person who caused the injury should have foreseen its occurrence in that state, and (iii) the law of that state provided for a higher standard of financial protection for the injured person than did the law of the state in which the injurious conduct occurred.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110565</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

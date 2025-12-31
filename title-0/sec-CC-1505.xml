@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1505"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1505"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1505"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1505/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1505/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1505/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1505/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1505">
+        <num>CC 1505</num>
+        <heading>1505.  Calculation of disposable portion on mass of succession</heading>
+        <subsection eId="CC-1505__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>To determine the reduction to which the donations, either inter vivos or mortis causa , are subject, an aggregate is formed of all property belonging to the donor or testator
+at the time of his death; the sums due by the estate are deducted from this aggregate amount;
+to that is fictitiously added the property disposed of by donation inter vivos within three years
+of the date of the donor's death, according to its value at the time of the donation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1505__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The disposable quantum is determined on the above calculation, taking into
+consideration the number of forced heirs.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1505__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Neither the premiums paid for insurance on the life of the donor nor the proceeds
+paid pursuant to such coverage shall be included in the above calculation.  Moreover, the
+value of such proceeds at the donor's death payable to a forced heir, or for his benefit, shall
+be deemed applied and credited in satisfaction of his forced share.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1505__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Employer and employee contributions under any plan of deferred compensation
+adopted by any public or governmental employer or any plan qualified under Sections 401
+or 408 of the Internal Revenue Code, and any benefits payable by reason of death, disability,
+retirement, or termination of employment under any such plans, shall not be included in the
+above calculation, nor shall any of such contributions or benefits be subject to the claims of
+forced heirs.  However, the value of such benefits paid or payable to a forced heir, or for the
+benefit of a forced heir, shall be deemed applied and credited in satisfaction of his forced
+share.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108824</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

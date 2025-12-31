@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-562"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-562"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 562"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-562/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-562/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-562/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-562/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-562">
+        <num>CCRP 562</num>
+        <heading>562.  Use of simultaneous audio-visual transmission for certain proceedings</heading>
+        <subsection eId="CCRP-562__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In a case where the offense is a noncapital felony or a misdemeanor, the
+defendant, who is confined in a jail, prison, or other detention facility in Louisiana, may, with
+the court's consent and the consent of the district attorney, appear at the entry of his plea of
+guilty, at any revocation hearing for a probation violation, including any hearing for a
+contempt of court, and at sentencing by simultaneous audio-visual transmission if the court,
+by local rule, provides for the defendant's appearance in this manner and the defendant
+waives his right to be physically present at the proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-562__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In a capital case, the defendant may not enter his plea by simultaneous audio-visual transmission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-562__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the defendant is represented by an attorney during the proceeding in which a
+simultaneous audio-visual transmission system is used, the attorney may elect to be present
+either in the courtroom with the presiding judicial officer or in the place where the defendant
+is confined.  Upon request by the defendant or the attorney representing the defendant, the
+court shall provide the opportunity for confidential communication between the defendant
+and the attorney representing him at any time prior to or during the proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-562__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The law enforcement agency who has custody of the defendant at the time of the
+proceeding shall obtain the fingerprints of the defendant for purposes of Article 871.  The
+fingerprints may be taken electronically or in ink and converted to electronic format.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1054258</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-8"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-8"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 17.8"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-8/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-8/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-8/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-17-8/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-17-8">
+        <num>SRULE 17.8</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-17-8__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a resolution seeking the expulsion of or disciplinary action against a
+senator is introduced, a motion to indefinitely postpone shall be in order. The motion shall
+require the favorable vote of a majority of the elected members for adoption. If no such
+motion is adopted, the Secretary shall direct the attention of the presiding officer to the
+fact of its introduction. The presiding officer then shall announce to the Senate the day
+and hour when the select committee shall commence its hearings on the resolution.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-17-8__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the senator who is the subject of the resolution is present in the chamber
+when the resolution is introduced, the presiding officer shall cause the Sergeant at Arms
+to deliver to him a copy of the resolution and a copy of these rules, together with written
+notice of the day and hour when the committee will meet to commence its hearings.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-17-8__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the senator is not present in the chamber, the presiding officer shall inquire of
+the Secretary whether or not he has answered roll call or cast any vote on that legislative
+day. If the Secretary informs him and the Senate that the senator has not answered roll
+call or cast any vote, the presiding officer shall</p>
+          </content>
+          <paragraph eId="SRULE-17-8__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>appoint legal counsel to represent the
+absent senator before the committee at all of its proceedings and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-17-8__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>direct the Sergeant at
+Arms to locate the senator and deliver to him, and also to the attorney appointed by the
+presiding officer, a copy of the resolution, a copy of these rules, a written notice of the
+day and hour when the select committee will commence its hearings on the resolution,
+and the name, address, and telephone number of the legal counsel appointed to represent
+him unless and until he designates legal counsel of his own choice.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-17-8__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If, after reasonable effort, the Sergeant at Arms is unable to locate the absent
+senator or for any reason is unable to deliver to him the documents herein stipulated,
+delivery to the attorney appointed by the presiding officer shall be deemed sufficient
+notification to the senator. If at any time during the proceedings in the committee the
+absent senator selects legal counsel to represent him or if he appears in person and
+notifies the committee that he does not desire to be represented, the attorney appointed by
+the presiding officer shall be discharged.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-17-8__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>An attorney appointed to represent an absent senator shall be compensated in
+accordance with the terms and conditions and in the amount determined by the President
+as chairman of the committee. Such compensation shall be an expense of the committee,
+payable out of funds available to the Senate for expenses of the Senate and committees.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180497</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

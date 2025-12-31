@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-611"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-611"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 611"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-611/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-611/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-611/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-611/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-611">
+        <num>CE 611</num>
+        <heading>611.  Mode and order of interrogation and presentation</heading>
+        <subsection eId="CE-611__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Control by court.  Except as provided by this Article and Code of Criminal Procedure Article 773, the parties to a proceeding have the primary responsibility of presenting the evidence and examining the witnesses.  The court, however, shall exercise reasonable control over the mode and order of interrogating witnesses and presenting evidence so as to:</p>
+          </content>
+          <paragraph eId="CE-611__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Make the interrogation and presentation effective for the ascertainment of the truth;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-611__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Avoid needless consumption of time; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-611__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Protect witnesses from harassment or undue embarrassment.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-611__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Scope of cross-examination.  A witness may be cross-examined on any matter relevant to any issue in the case, including credibility.  However, in a civil case, when a party or person identified with a party has been called as a witness by an adverse party to testify only as to particular aspects of the case, the court shall limit the scope of cross-examination to matters testified to on direct examination, unless the interests of justice otherwise require.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-611__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Leading questions.  Generally, leading questions should not be used on the direct examination of a witness except as may be necessary to develop his testimony and in examining an expert witness on his opinions and inferences.  However, when a party calls a hostile witness, a witness who is unable or unwilling to respond to proper questioning, an adverse party, or a witness identified with an adverse party, interrogation may be by leading questions.  Generally, leading questions should be permitted on cross-examination.  However, the court ordinarily shall prohibit counsel for a party from using leading questions when that party or a person identified with him is examined by his counsel, even when the party or a person identified with him has been called as a witness by another party and tendered for cross-examination.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-611__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Scope of redirect examination; recross examination.  A witness who has been cross-examined is subject to redirect examination as to matters covered on cross-examination and, in the discretion of the court, as to other matters in the case.  When the court has allowed a party to bring out new matter on redirect, the other parties shall be provided an opportunity to recross on such matters.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-611__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Rebuttal evidence.  The plaintiff in a civil case and the state in a criminal prosecution shall have the right to rebut evidence adduced by their opponents.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72500</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

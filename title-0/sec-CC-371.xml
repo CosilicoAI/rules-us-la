@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-371"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-371"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 371"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-371/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-371/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-371/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-371/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-371">
+        <num>CC 371</num>
+        <heading>371.  Modification or termination of limited emancipation by authentic act</heading>
+        <content>
+          <p>Art. 371.  Modification or termination of limited emancipation by authentic act
+The parties to an authentic act of limited emancipation may modify or terminate the limited emancipation by making a subsequent authentic act.  In addition, a court, for good cause, may modify or terminate limited emancipation by authentic act.
+An authentic act or judgment modifying or terminating limited emancipation by authentic act is effective toward third persons as to immovable property when the act or judgment is filed for registry in the conveyance records of the parish in which the property is situated and as to movables when the act or judgment is filed for registry in the conveyance records in the parish or parishes in which the minor was domiciled at the time of the act modifying or terminating limited emancipation by authentic act.
+An authentic act or judgment modifying or terminating a prior act of limited emancipation does not affect the validity of a juridical act made by the minor prior to the effective date of modification or termination.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110587</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

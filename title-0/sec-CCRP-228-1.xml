@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 228.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-228-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-228-1">
+        <num>CCRP 228.1</num>
+        <heading>228.1.  Disposal of property of prisoners; Orleans Parish</heading>
+        <subsection eId="CCRP-228-1__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>There shall be notice of the sheriff's right to dispose of the property in
+ninety days on the entry of the list of property made at the time the person is
+incarcerated.  Provided however, this provision shall not apply to property in
+possession of the sheriff at the effective date of this Act.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-228-1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>After the passage of ninety days from the release of the prisoner, and
+providing the property is not needed for any legal reason by the sheriff, and it remains
+unclaimed, the criminal sheriff of Orleans Parish may petition the Criminal District
+Court for the parish of Orleans or any court of proper jurisdiction for the disposal of
+said property in any lawful manner, at his discretion.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-228-1__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Before the criminal sheriff petitions said court he shall cause an
+advertisement of his intention to seek approval of the court to be placed in the
+newspaper designated as the official journal of the city of New Orleans one time at
+least ten days prior to filing of his petition.  In the petition for disposal the sheriff
+shall set forth a brief description of the items to be disposed of, the court in which the
+proceedings will be filed, the title of the proceedings, and method or methods of
+intended disposal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-228-1__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The petition of the sheriff shall make specific recommendations as to the
+method of disposal for each item of unclaimed property and pray for the court to
+order its disposal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-228-1__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The court shall order the property disposed of in the manner contained
+in the sheriff's petition or order the disposal of the property in any legal manner
+within the sole discretion of the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-228-1__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The costs of the proceeding to dispose of unclaimed property shall be
+derived from the disposal of the property as provided under this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-228-1__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Any funds remaining after payment of the cost of the proceedings to
+dispose of unclaimed property shall be deposited in the criminal court fund account
+which shall be used in defraying the expenses of the criminal district courts of
+Orleans Parish.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112382</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

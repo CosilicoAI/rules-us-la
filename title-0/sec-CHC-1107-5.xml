@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1107.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1107-5">
+        <num>CHC 1107.5</num>
+        <heading>1107.5.  Contents of intent to surrender for adoption; form</heading>
+        <subsection eId="CHC-1107-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Every act of intent to surrender for adoption shall contain the following information:</p>
+          </content>
+          <paragraph eId="CHC-1107-5__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name, parish of domicile, age, and marital status of the pregnant female anticipating adoption of her unborn child or of the mother of a child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The name and address of the alleged father of the child or expected child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The anticipated or actual birth date of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The court in which the act of intent to surrender for adoption will be filed.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1107-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The act of intent to surrender for adoption shall also recite the following declarations:</p>
+          </content>
+          <paragraph eId="CHC-1107-5__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Whether the act of intent to surrender for adoption is being executed prior to or after the birth of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>That she has no mental incapacity and is under no interdiction that impairs her capacity to consent to the surrender of her child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>That, if required by Article 1113, she is joined in the act of intent to surrender for adoption by her parents or tutor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>That she has been informed and understands that the act of intent to surrender for adoption is only in anticipation of adoption and does not mean that she agrees to surrender the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>That she has been informed and understands that her rights as the parent of the child are not being terminated by execution of this act of intent to surrender for adoption.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>That she has been informed and understands that the act of intent to surrender for adoption is being executed for the purpose of determining whether the alleged father will oppose her plans for surrendering her child for adoption.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>That she has been informed and understands that if the alleged father responds by filing a timely written objection, he will receive notice of any motion for hearing to determine his parental rights that she may thereafter file or of any surrender she may thereafter execute and will be given notice of a hearing on his opposition and will be given an opportunity to present evidence to acknowledge his paternity, to demonstrate his fitness as a parent, and to demonstrate his commitment to the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>That she has been informed and understands that if the father does not respond by filing a timely written objection, that his potential parental rights may be terminated by the court upon the court's approval of her surrender.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>That she freely and voluntarily executes the act of intent to surrender for adoption and understands that she is not required to execute it and that failing to execute it will not prevent her from later deciding to surrender her child for adoption.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1107-5__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In a private adoption, the act of intent to surrender for adoption shall also recite that the pregnant female or mother has consulted with and been fully advised by an attorney about the meaning of these declarations and the consequences of the act of intent to surrender for adoption, other than the attorney, associate, partner, shareholder, or employee of the attorney's law firm or corporation for the prospective adoptive parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1107-5__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The act of intent to surrender for adoption shall be in authentic form and shall be dated and signed by the pregnant female or mother and her representative, if applicable.  If required by Article 1113, it shall also be signed by the minor's parents or tutor, or the written consent of the court shall be attached.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1107-5__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The act of intent to surrender for adoption shall contain the requirements in substantially the following form:
+&quot;INTENT TO SURRENDER A CHILD FOR ADOPTION
+STATE OF LOUISIANA&quot;
+PARISH OF (NAME OF PARISH)
+BEFORE ME, the undersigned notary public, and in the presence of the two undersigned competent witnesses who are over the age of eighteen, personally came and appeared:
+(NAME OF MOTHER)
+a female of the age of (AGE), who is (MARITAL STATUS), and domiciled in the Parish of (NAME OF PARISH), who being first duly sworn, did depose and state:</p>
+          </content>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>She is pregnant and expects to deliver a child on or about (EXPECTED DELIVERY DATE)
+OR
+[She is the mother of (CHILD'S NAME), born on (DATE OF BIRTH) in the (PARISH/COUNTY OF BIRTH), State of (STATE OF BIRTH).]</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The father of the child is [is believed to be] (FATHER'S NAME), and his address is (ADDRESS).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>To the best of her knowledge, the alleged father:</p>
+            </content>
+            <subparagraph eId="CHC-1107-5__subsec_E__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Has not executed a notarial act of acknowledgment of the child.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1107-5__subsec_E__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Has not admitted his paternity of the child by registering with the putative father registry.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1107-5__subsec_E__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has not informally acknowledged his paternity of this child.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1107-5__subsec_E__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Has not had his paternity of this child established by court judgment.
+OR
+[The paternity of this child has been established by the judgment of the (NAME OF COURT) _________ on (DATE) finding that (FATHER'S NAME) is the father.]</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The court in which this act of intent to surrender for adoption is to be filed is (NAME OF JUVENILE COURT) located in (CITY AND PARISH OF COURT).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Affiant declares that she has no mental incapacity and is under no interdiction that impairs her capacity to surrender the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Affiant declares that she has been informed and understands that this act of intent to surrender for adoption is only in anticipation of adoption and does not mean that she agrees to surrender the child nor does her refusal to sign this intent to surrender for adoption prevent her from surrendering the child after birth for adoption.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Affiant declares that she has been informed and understands that her rights as the parent of the child are not being terminated by execution of this act of intent to surrender for adoption.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Affiant declares that she has been informed and understands that this act of intent to surrender for adoption is being executed for the purpose of determining whether the father will oppose her plans for surrendering her child for adoption.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Affiant declares that she has been informed and understands that if the father responds by filing a timely written objection, he will receive notice of any motion for hearing to determine his parental rights that she may thereafter file or of any surrender she may thereafter execute, and will be given notice of a hearing on his opposition, and will be given an opportunity to present evidence to acknowledge his paternity, to demonstrate his fitness as a parent, and to demonstrate his commitment to the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Affiant declares that she has been informed and understands that if the father does not respond by filing a timely written objection, that his potential parental rights may be terminated by the court upon the court's approval of her surrender.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Affiant declares that she freely and voluntarily executes this act of intent to surrender for adoption.
+(ADDITIONAL DECLARATIONS IF THE INTENT
+TO SURRENDER IS FOR A PRIVATE ADOPTION)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Affiant declares that she is eighteen years of age or older.
+OR
+[Affiant declares that she is under the age of eighteen and that (NAME OF PARENTS OR TUTOR) join in this act of intent to surrender for adoption.]
+OR
+[Affiant declares that she is under the age of eighteen and that (NAME OF JUVENILE COURT) located in (CITY AND PARISH OF COURT) has given its written consent for her execution of this act of intent to surrender for adoption.]</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-5__subsec_E__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Affiant declares that she has consulted with and been fully advised by an attorney about the meaning of these declarations and the consequences of this act of intent to surrender for adoption, other than the attorney for the prospective adoptive parent or an associate, partner, shareholder, or employee of the prospective adoptive parent's attorney's law firm or corporation.
+Sworn to, signed, and notarized, after being carefully read and explained to (NAME OF MOTHER) in the presence of the undersigned notary and witnesses on this _____ day of _________, 20__.
+_______________________________
+AFFIANT MOTHER
+WITNESSES:
+______________________
+______________________
+(ADDITIONAL SIGNATURE(S) IN PRIVATE ADOPTION
+IF THE MOTHER IS A MINOR)
+________________________________
+PARENT(S)/TUTOR OF MINOR MOTHER
+______________________
+NOTARY PUBLIC AND SEAL
+(REQUIRED ADDITIONAL ATTACHMENT(S) IF THE ACT OF INTENT TO SURRENDER FOR ADOPTION IS FOR A PRIVATE ADOPTION:
+(AFFIDAVIT OF ATTORNEY FOR MOTHER)
+(REQUIRED ADDITIONAL ATTACHMENT IF THE SURRENDER IS BY A MINOR MOTHER WHOSE PARENT(S) OR TUTOR REFUSE TO JOIN IN THE INTENT TO SURRENDER FOR ADOPTION:
+(WRITTEN CONSENT OF THE COURT)</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180616</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-896"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-896"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 896"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-896/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-896/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-896/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-896/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-896">
+        <num>CHC 896</num>
+        <heading>896.  Deferred dispositional agreement</heading>
+        <subsection eId="CHC-896__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At any time after the entry of an adjudication order, the court may, on motion of
+the district attorney or of counsel for the child, suspend further proceedings and place the
+child on supervised or unsupervised probation, with or without any of the conditions
+authorized by Article 897(B)</p>
+          </content>
+          <paragraph eId="CHC-896__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or Article 899(B)(1).</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-896__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The child and his parent must consent to this special type of disposition.  If the
+child has waived counsel, the court must advise the child and his parent concerning the
+consequences of a deferred dispositional agreement and of the child's right to have a
+disposition imposed by the court in accordance with Articles 897 through 900.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-896__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A deferred dispositional agreement order shall comply with all the requirements
+of Article 903.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-896__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A deferred dispositional agreement shall remain in force for six months unless
+the child is discharged sooner by the court.  Upon application of the district attorney or by
+any agency supervising the child made before the expiration of the six-month period, a
+deferred dispositional agreement order may be extended by the court for an additional period
+not to exceed six months, or for such period in which the child is a full-time participant in
+a juvenile drug court program operated by a court of this state, whichever period is longer.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-896__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If prior to the expiration of the order a new petition alleging the commission of
+a delinquent act is filed against the child, or the child otherwise fails to fulfill the express
+terms and conditions of the order, the court may proceed to impose any disposition
+authorized by this Title and the child may be held accountable as if the deferred dispositional
+agreement order had never been entered.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-896__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If the child satisfactorily completes the court ordered period of supervision, the
+court shall discharge the child from any further supervision or conditions, set aside the
+adjudication, and dismiss the petition with prejudice.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-896__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Pursuant to the provisions of this Article, the court has the authority to utilize or
+initiate a teen or youth court program and may assess a fee to a participant in the program to
+offset costs.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-896__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>Notwithstanding any provision of law to the contrary, a child shall not be eligible
+for a deferred dispositional agreement as provided in this Article if the child has been
+convicted of a crime of violence as defined in R.S. 14:2(B).</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73487</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

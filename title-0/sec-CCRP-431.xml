@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-431"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-431"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 431"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-431/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-431/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-431/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-431/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-431">
+        <num>CCRP 431</num>
+        <heading>Section </heading>
+        <content>
+          <p>TITLE XII
+THE GRAND JURY
+Art. 431.  Oath of grand jury
+The grand jurors shall take the following oath when impaneled:
+&quot;As members of the grand jury, do you solemnly swear or affirm that you will diligently inquire into and true presentment make of all indictable offenses triable within this parish which shall be given you in charge, or which shall otherwise come to your knowledge; that you will keep secret your own counsel and that of your fellows and of the state, and will not, except when authorized by law, disclose testimony of any witness examined before you, nor disclose anything which any grand juror may have said, or how any grand juror may have voted on any matter before you; that you will not indict any person through malice, hatred, or ill will, nor fail to indict any person through fear, favor, affection, or hope of reward or gain; but in all of your indictments you will present the truth, according to the best of your skill and understanding?&quot;
+The oath shall be read to the grand jury by the clerk, who shall then ask each juror: &quot;Do you take this oath or affirmation?&quot;
+The oath shall be administered to every grand juror appointed to fill a vacancy in the grand jury and to every grand juror who was not present at the taking of the oath by the grand jury.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112531</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

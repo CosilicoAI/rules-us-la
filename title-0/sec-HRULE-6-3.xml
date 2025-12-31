@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 6.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-6-3">
+        <num>HRULE 6.3</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-6-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The members of the standing committees, except the Committee on Appropriations, shall be appointed by the Speaker.  No member of the House of Representatives shall serve on more than three standing committees and no member shall serve on more than one committee designated as a &quot;Morning Committee&quot; nor on more than one committee designated as a &quot;Afternoon Committee&quot; nor on more than one committee designated as a &quot;Weekly Committee&quot; as is set forth in House Rule 6.7.  No chairman of a standing committee designated as a &quot;Morning&quot; or &quot;Afternoon&quot; committee shall serve on another standing committee.  No chairman of a standing committee designated as a &quot;Weekly Committee&quot; shall serve on more than one other standing committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>No standing committee shall be composed of more than eighteen members, excluding the chairman; provided that the Committee on Appropriations membership shall be as provided in House Rule 6.4.
+C.</p>
+          </content>
+          <paragraph eId="HRULE-6-3__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Speaker and the Speaker Pro Tempore of the House shall be ex officio members of all standing committees.  They shall have the powers and authorities of other committee members as long as their presence is necessary to establish a quorum.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-3__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>During the interim between legislative sessions, the Speaker and the Speaker Pro Tempore each may either serve as an ex officio member of each standing committee or may designate another member of the House to serve in his ex officio position as a member of a standing committee during the interim.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-3__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Speaker and the Speaker Pro Tempore, if serving in an ex officio capacity, shall not be counted in determining the number of members necessary to constitute a quorum, but, if present, shall be counted for purposes of establishing a quorum at any meeting.  However, they shall be counted for all quorum and voting requirements of any statutory committee of which they are members by virtue of membership on a standing committee.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-3__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>During the interim for the consideration of matters, subjects, or problems by a committee in the interim pursuant to House Rule 14.16(A)(1), (2), or (3), designees of the Speaker or the Speaker Pro Tempore, designated pursuant to Paragraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-3__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>above, shall have all powers and authorities of other committee members, including the right to vote except on questions concerning prefiled legislative instruments.  They shall be counted for purposes of determining the number of members necessary to constitute a quorum and for purposes of establishing a quorum.
+Mason's Manual:  Sec. 600</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-3__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>and 601
+HR 3, 1973; HR 5, 1975; HR 4, 1978; HR 14, 1984; HR 5, 1986; HR 19, 1988; HR 14, 1989; HR 13, 1991, eff. Jan. 13, 1992; HR 1, 1992 Org. Sess.; HR 19, 1997, eff. April 11, 1997; HR 45, 1998, eff. May 20, 1998; HR 1, 2005, eff. April 25, 2005, until Jan. 14, 2008.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113336</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

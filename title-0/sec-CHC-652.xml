@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-652"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-652"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 652"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-652/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-652/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-652/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-652/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-652">
+        <num>CHC 652</num>
+        <heading>652.  Discovery</heading>
+        <subsection eId="CHC-652__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At any stage of the proceeding, upon written motion of counsel for the child or his parent, the court may order the district attorney or the department to permit counsel to inspect:</p>
+          </content>
+          <paragraph eId="CHC-652__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Reports of investigation in the possession or control of the district attorney or the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-652__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Reports of evaluations or tests pertaining to the child in the possession or control of the district attorney or the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-652__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The case records maintained by the department pertaining to the child and the parent, except information otherwise protected under R.S. 46:56 or by restrictive order pursuant to Article 653.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-652__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any videotape of a protected person made in compliance with Chapter 8 of Title III which is in the possession or control of the district attorney.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-652__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court shall order the district attorney or the department to permit counsel to inspect and copy any physical evidence, documents, or photographs which the state intends to offer into evidence at the adjudication hearing as provided for in Paragraph A(1), (2), and (4).  However, the court may, in its discretion, permit the inspection of evidence provided for in Paragraph A(3).</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-652__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>At any stage of the proceeding, upon written motion of counsel for the child or his parent, the district attorney, or the department, and after a contradictory hearing and a showing of good cause, unless all parties agree, the court shall order the other party to permit counsel to obtain discovery not provided for in Paragraphs A and B of this Article regarding any matter, not privileged, including but not limited to attorney-client privilege or information not otherwise protected under R.S. 46:56 and 2124.1 or by restrictive order pursuant to Article 653, which is relevant to the subject matter involved in the adjudication hearing including the existence, description, nature, custody, condition, and location of any books, documents, or other tangible things, and the identity and location of a person having knowledge of any discoverable matter.  It is not grounds for objection that the information sought will be inadmissible at the trial if the information sought appears reasonably calculated to lead to the discovery of admissible evidence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-652__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If counsel for the child or the parent is provided discovery, the court may condition that order upon reciprocal discovery by the state.
+E.</p>
+          </content>
+          <paragraph eId="CHC-652__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court shall not order the production or inspection of any part of a writing that reflects the mental impressions, conclusions, or theories of an attorney, nor any other type of discovery except that expressly authorized by this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-652__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court shall not order the production or inspection of any document or information which contains identifying information regarding a victim of domestic abuse or victim of dating violence as defined in R.S. 46:2132 or 2151, including physical or e-mail address, place of employment, telephone number, safety plan, or other protective measure or resource considered, implemented, planned, or accessed by the victim.  The court shall not order the production or inspection of any document or information which discloses the location of a shelter or other facility which provides services to victims of domestic abuse or dating violence.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-652__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The duties imposed by a discovery order are continuing in nature as long as the child is subject to the jurisdiction of the court, unless the order provides to the contrary.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-652__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>The party requesting discovery shall be responsible for reasonable copy costs associated with such discovery.  Fees for copying shall be charged according to the uniform fee schedule adopted by the division of administration, as provided by R.S. 39:241, unless the child or parent is indigent, in which case no charge shall be made for such copies.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73246</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

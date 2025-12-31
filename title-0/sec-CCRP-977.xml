@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-977"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-977"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 977"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-977/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-977/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-977/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-977/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-977">
+        <num>CCRP 977</num>
+        <heading>977.  Motion to expunge a record of arrest and conviction of a misdemeanor offense</heading>
+        <subsection eId="CCRP-977__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A person may file a motion to expunge his record of arrest and conviction of a
+misdemeanor offense if either of the following apply:</p>
+          </content>
+          <paragraph eId="CCRP-977__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The conviction was set aside and the prosecution was dismissed pursuant to
+Article 894(B) of this Code.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-977__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>More than five years have elapsed since the person completed any sentence,
+deferred adjudication, or period of probation or parole, and the person has not been convicted
+of any felony offense during the five-year period, and has no felony charge pending against
+him.  The motion filed pursuant to this Subparagraph shall include a certification obtained
+from the district attorney which verifies that to his knowledge the applicant has no felony
+convictions during the five-year period and no pending felony charges under a bill of
+information or indictment.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-977__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The motion to expunge a record of arrest and conviction of a misdemeanor
+offense shall be served pursuant to the provisions of Article 979 of this Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-977__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>No person shall be entitled to expungement of a record under any of the following
+circumstances:</p>
+          </content>
+          <paragraph eId="CCRP-977__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The misdemeanor conviction arose from circumstances involving or is the result
+of an arrest for a sex offense as defined in R.S. 15:541, except that an interim expungement
+shall be available as authorized by the provisions of Article 985.1 of this Code.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-977__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The misdemeanor conviction was for domestic abuse battery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-977__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The misdemeanor conviction was for stalking (R.S. 14:40.2).</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-977__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Notwithstanding any provision of law to the contrary, a person may file a motion
+to expunge his record of arrest and conviction of a misdemeanor conviction for a first offense
+possession of marijuana, tetrahydrocannabinol, or chemical derivatives thereof after ninety
+days from the date of conviction.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919669</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

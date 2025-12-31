@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-791"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-791"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 791"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-791/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-791/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-791/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-791/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-791">
+        <num>CCRP 791</num>
+        <heading>791.  Sequestration of jurors and jury</heading>
+        <subsection eId="CCRP-791__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A jury is sequestered by being kept together in the charge of an officer of the
+court so as to be secluded from outside communication, except as permitted by R.S.
+18:1307.2.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-791__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In capital cases, after each juror is sworn he shall be sequestered, unless the state
+and the defense have jointly moved that the jury not be sequestered.
+C.</p>
+          </content>
+          <paragraph eId="CCRP-791__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In noncapital cases, the jury shall be sequestered during active deliberations
+and may be sequestered at any time upon order of the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-791__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>At any time after the court's charge, and after notice to the parties and affording
+the parties an opportunity to be heard on the record outside the presence of the jury, the court
+may declare the deliberations to be in recess and may then direct the jury to suspend its
+deliberations, to separate without sequestration, and to return for continued deliberations on
+the next day of operation of the court.  Before each recess, the court shall admonish the jury
+as provided in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-791__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this Paragraph and direct it to not resume its deliberations
+until all twelve jurors have reassembled in the designated place at the termination of the
+declared recess.
+(3)</p>
+            </content>
+            <subparagraph eId="CCRP-791__subsec_B__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon the court's charge to suspend deliberations and to separate without
+sequestration, the court shall admonish the jury as follows:</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-791__subsec_B__subsec_3__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Deliberations shall be conducted only in the jury room when all jurors are present. 
+All deliberations shall cease and shall not resume until all of the jurors have returned to the
+jury room.
+(ii)  During the recess, jurors shall not converse with any person about anything
+related to the case.
+(iii)  Jurors remain under obligation to not request, accept, agree to accept, or discuss
+with any person regarding the receiving or accepting of any payment or benefit in return for
+supplying information concerning the trial.
+(iv)  Jurors shall promptly report directly to the court any incident within their
+knowledge involving an attempt by any person to improperly influence any member of the
+jury.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-791__subsec_B__subsec_3__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>Jurors shall not visit or view the premises or place where the charged crime was
+allegedly committed or any other premises or place involved in the case.
+(vi)  Jurors shall not read, view, or listen to any accounts or discussions of the case
+reported by newspapers, television, radio, the internet, or any other news media outlet.
+(vii)  Jurors shall not attempt to research any fact, issue, or law related to the case,
+whether by discussion with others, by research in a library or on the internet, or by any other
+means or source.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-791__subsec_B__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon the jurors returning from any recess, the court shall verify with each juror
+on the record that he followed the admonition.
+Amended by</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112788</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-319"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-319"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 319"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-319/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-319/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-319/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-319/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-319">
+        <num>CCRP 319</num>
+        <heading>319.  Modifications of bail</heading>
+        <subsection eId="CCRP-319__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court having trial jurisdiction over the offense charged, on its own motion
+or on motion of the prosecuting attorney or defendant, for good cause, may either increase
+or reduce the amount of bail, or require new or additional security.  For purposes of this
+Article, good cause for increase of bail specifically includes but is not limited to the rearrest
+of the defendant on offenses alleged to have been committed while out on a bail undertaking.
+The modification of any bail order wherein a bail undertaking has been posted by a criminal
+defendant and his sureties shall upon the modification terminate the liability of the defendant
+and his sureties under the previously existing bail undertaking.  A new bail undertaking must
+be posted in the amount of the new bail order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-319__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The defendant or his surety may, at any time before a breach of the bail
+undertaking and with approval of the court in which the prosecution is pending, substitute
+another form of security authorized by this Code.  The original security, including a surety,
+shall be released when the substitution of security is made.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112437</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

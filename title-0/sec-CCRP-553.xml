@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-553"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-553"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 553"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-553/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-553/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-553/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-553/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-553">
+        <num>CCRP 553</num>
+        <heading>553.  Method of pleading</heading>
+        <subsection eId="CCRP-553__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except when otherwise provided under Paragraph B of this Article or by local rule
+in accordance with Articles 551 and 562, the defendant in a felony case shall plead in person. 
+In misdemeanor cases, the defendant may plead not guilty through counsel, may plead guilty
+through counsel with consent of the court, may appear and enter his plea of guilty by way of
+simultaneous audio-visual transmission in accordance with local rules of court and Articles
+551 and 562, and may plead and be arraigned in accordance with procedures established
+according to R.S. 32:57(C).  A corporation may plead through counsel in all cases.  The plea
+shall be made in open court and shall be immediately entered in the minutes of the court.  A
+failure to enter a plea in the minutes shall not affect the validity of any proceeding in the
+case.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-553__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>By rule adopted pursuant to R.S. 13:472, the judge of the district court or a
+majority of the judges in a multi-district court may permit the defendant in a noncapital
+felony case to waive formal arraignment and enter a plea of not guilty without pleading in
+person.  The rule shall require that the plea be in writing and shall set forth the filing
+procedure.  Any formal defect shall not affect the validity of the proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-553__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112609</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

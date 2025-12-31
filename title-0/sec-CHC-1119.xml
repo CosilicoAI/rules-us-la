@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1119"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1119"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1119"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1119/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1119/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1119/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1119/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1119">
+        <num>CHC 1119</num>
+        <heading>1119.  Anonymity; limitations upon attorney as representative</heading>
+        <subsection eId="CHC-1119__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>For purposes of insuring anonymity in private adoptions, an attorney at law licensed to practice in this state may be named in the surrender as representative of the accepting person.  The named attorney may facilitate transfer of the child to the accepting person.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1119__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The attorney shall not be deemed the legal custodian of the child for any reason, including the satisfaction of the domiciliary requirement of Article 1117 of this Title or for the determination of jurisdiction or venue in any subsequent adoption proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1119__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The prospective adoptive parent need not be informed of the identity of the surrendering parent nor be shown the petition or other documents connected with the adoption proceeding, including any certification for adoption or court order approving the adoptive placement as required by Chapter 2 of Title XII.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72603</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

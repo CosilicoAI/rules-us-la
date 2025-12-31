@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-881-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-881-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 881.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-881-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-881-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-881-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-881-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-881-1">
+        <num>CHC 881.1</num>
+        <heading>881.1.  Admissibility of a child's confession in juvenile court</heading>
+        <subsection eId="CHC-881-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A confession made by an accused child without a knowing and voluntary waiver shall not be admissible unless the state proves beyond a reasonable doubt that it was freely and voluntarily given and was not made under the influence of fear, duress, intimidation, menaces, threats, inducements, or promises.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-881-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In making this determination, the court shall consider all of the following:</p>
+          </content>
+          <paragraph eId="CHC-881-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The age of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-881-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The education of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-881-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The knowledge of the child as to both the substance of the charge, if any has been filed, and the nature of his rights to consult with an attorney and to remain silent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-881-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Whether the child is held incommunicado or allowed to consult with relatives, friends, or an attorney.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-881-1__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Whether the child was interrogated before or after formal charges had been filed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-881-1__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The methods used in the interrogation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-881-1__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The length of the interrogation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-881-1__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Whether or not the child refused to voluntarily give statements on prior occasions.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-881-1__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Whether the child has repudiated an extra-judicial statement at a later date.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=725510</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

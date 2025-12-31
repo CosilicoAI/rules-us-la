@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-434"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-434"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 434"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-434/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-434/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-434/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-434/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-434">
+        <num>CCRP 434</num>
+        <heading>434.  Secrecy of grand jury meetings; procedures for crimes in other parishes</heading>
+        <subsection eId="CCRP-434__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Members of the grand jury, all other persons present at a grand jury meeting, and all persons having confidential access to information concerning grand jury proceedings, shall keep secret the testimony of witnesses and all other matters occurring at, or directly connected with, a meeting of the grand jury.  However, after the indictment, such persons may reveal statutory irregularities in grand jury proceedings to defense counsel, the attorney general, the district attorney, or the court, and may testify concerning them.  Such persons may disclose testimony given before the grand jury, at any time when permitted by the court, to show that a witness committed perjury in his testimony before the grand jury.  A witness may discuss his testimony given before the grand jury with counsel for a person under investigation or indicted, with the attorney general or the district attorney, or with the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-434__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Whenever a grand jury of one parish discovers that a crime may have been committed in another parish of the state, the foreman of that grand jury, after notifying his district attorney, shall make that discovery known to the attorney general.  The district attorney or the attorney general may direct to the district attorney of another parish any and all evidence, testimony, and transcripts thereof, received or prepared by the grand jury of the former parish, concerning any offense that may have been committed in the latter parish, for use in such latter parish.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-434__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Any person who violates the provisions of this article shall be in constructive contempt of court.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112534</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

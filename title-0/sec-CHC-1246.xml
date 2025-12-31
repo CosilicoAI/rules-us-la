@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1246"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1246"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1246"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1246/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1246/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1246/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1246/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1246">
+        <num>CHC 1246</num>
+        <heading>1246.  Intrafamily adoptions; petition; contents; form</heading>
+        <subsection eId="CHC-1246__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The full name, address, age, occupation, and marital status of each petitioner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1246__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The name by which the child is known to petitioners as well as the name under which the birth of the child is recorded.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1246__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The place and date of the birth of the child if known; if not known, then the approximate age of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1246__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If known, the name of every parent whose consent to the adoption is required pursuant to Article 1193</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1246__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>and</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1246__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>and proof of their consent, or the name of every parent and the reason such consent is not required as authorized by Article 1245.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1246__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The diligent efforts made in accordance with Article 1135(B), if the alleged father of the child is unknown, which establish that his rights should be terminated in accordance with Article 1135(A).</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1246__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The date and circumstances under which the child entered the home of the petitioner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1246__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Any relationship existing between the petitioner and the child.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72721</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1301.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1301-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1301-5">
+        <num>CHC 1301.5</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1301-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A tribunal of this state shall apply Sections 1 through 6 and, as applicable, Section
+7, to a support proceeding involving:</p>
+          </content>
+          <paragraph eId="CHC-1301-5__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A foreign support order;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-5__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A foreign tribunal; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1301-5__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An obligee, obligor, or child residing in a foreign country.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1301-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A tribunal of this state that is requested to recognize and enforce a support order
+on the basis of comity may apply the procedural and substantive provisions of Sections 1
+through 6.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1301-5__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Section 7 applies only to a support proceeding under the Convention.  In such a
+proceeding, if a provision of Section 7 is inconsistent with Sections 1 through 6, Section 7
+controls.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72797</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

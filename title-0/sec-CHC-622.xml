@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-622"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-622"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 622"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-622/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-622/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-622/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-622/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-622">
+        <num>CHC 622</num>
+        <heading>622.  Placement pending a continued custody hearing</heading>
+        <subsection eId="CHC-622__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Prior to the continued custody hearing required in Article 624, a suitable relative
+or other suitable individual may intervene or seek and obtain an ex parte court order to take
+provisional custody of the child pending the continued custody hearing.  The provisions of
+Code of Civil Procedure Article 3945 are inapplicable to an ex parte order rendered pursuant
+to this Paragraph.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-622__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Unless the best interest of the child requires a different placement, a child who
+appears to be a child in need of care and whose immediate removal is necessary shall be
+placed, pending a continued custody hearing, in accordance with the following priorities of
+placement:</p>
+          </content>
+          <paragraph eId="CHC-622__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In the home of a suitable relative who is of the age of majority and with whom
+the child has been living in a stable and safe environment if the relative is willing and able
+to continue to offer such environment for the child pending an adjudication hearing and if
+the relative agrees to the safety plan.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-622__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In the home of a suitable relative who is of the age of majority if the relative is
+willing and able to offer a stable and safe environment for the child pending an adjudication
+hearing and if the relative agrees to the safety plan.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-622__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In the home of a suitable individual who is of the age of majority if the individual
+is willing and able to offer a stable and safe environment for the child pending an
+adjudication hearing and if the individual agrees to the safety plan.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-622__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In foster care under the supervision of the department until further orders of the
+court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-622__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In a shelter care facility if the child, who is not in the custody of the department,
+has been the victim of human trafficking as provided for in R.S. 14:46.2 or trafficking of
+children for sexual purposes as provided for in R.S. 14:46.3.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73215</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

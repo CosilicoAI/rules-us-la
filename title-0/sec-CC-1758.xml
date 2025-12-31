@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1758"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1758"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1758"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1758/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1758/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1758/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1758/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1758">
+        <num>CC 1758</num>
+        <heading>1758.  General effects</heading>
+        <subsection eId="CC-1758__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An obligation may give the obligee the right to:</p>
+          </content>
+          <paragraph eId="CC-1758__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Enforce the performance that the obligor is bound to render;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-1758__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Enforce performance by causing it to be rendered by another at the obligor's expense;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-1758__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Recover damages for the obligor's failure to perform, or his defective or delayed performance.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CC-1758__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An obligation may give the obligor the right to:</p>
+          </content>
+          <paragraph eId="CC-1758__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Obtain the proper discharge when he has performed in full;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-1758__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Contest the obligee's actions when the obligation has been extinguished or modified by a legal cause.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108992</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

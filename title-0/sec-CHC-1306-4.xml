@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-4"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-4"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1306.4"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-4/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-4/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-4/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-4/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1306-4">
+        <num>CHC 1306.4</num>
+        <heading>1306.4.  Choice of law</heading>
+        <subsection eId="CHC-1306-4__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided in Paragraph D, the law of the issuing state or
+foreign country governs:</p>
+          </content>
+          <paragraph eId="CHC-1306-4__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The  nature, extent, amount, and duration of current payments under a registered
+support order;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-4__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The computation and payment of arrearages and accrual of interest on the
+arrearages under the support order; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-4__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The existence and satisfaction of other obligations under the support order.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1306-4__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In a proceeding for arrears under a registered support order, the statute of
+limitation of this state or of the issuing state or foreign country, whichever is longer, applies.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1306-4__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A responding tribunal of this state shall apply the procedures and remedies of this
+state to enforce current support and collect arrears and interest due on a support order of
+another state or a foreign country registered in this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1306-4__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>After a tribunal of this state or another state determines which is the controlling
+order and issues an order consolidating arrears, if any, a tribunal of this state shall
+prospectively apply the law of the state or foreign country issuing the controlling order,
+including its law on interest on arrears, on current and future support, and on consolidated
+arrears.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72847</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

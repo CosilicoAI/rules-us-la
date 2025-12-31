@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-695"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-695"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 695"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-695/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-695/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-695/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-695/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-695">
+        <num>CHC 695</num>
+        <heading>695.  Notice; foster parents, pre-adoptive parents, relatives providing care; right to be heard</heading>
+        <subsection eId="CHC-695__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The department shall give notice of the right to appear at each case review hearing to any foster parent, pre-adoptive parent, or relative providing care for the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-695__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The notice shall state the date, time, and place of the case review hearing and the recipient's right to attend and be heard.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-695__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a foster parent, pre-adoptive parent, or relative providing care for the child fails to appear at a case review hearing, the department shall report to the court whether notice was given or, if not, what diligent efforts were made to locate and notify the absent person.  The court may permit the hearing to be held in the person's absence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-695__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The court shall solicit and consider information regarding the care and treatment of the child from any foster parent, pre-adoptive parent, or relative providing care for the child who appears for the hearing.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73291</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

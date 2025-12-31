@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-646-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-646-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 646.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-646-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-646-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-646-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-646-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-646-1">
+        <num>CHC 646.1</num>
+        <heading>646.1.  Prehearing conference</heading>
+        <subsection eId="CHC-646-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>On its own motion or on motion of counsel, the court may convene a prehearing
+conference attended by the district attorney, the department, counsel for all parties,
+unrepresented parties, and such other persons as the court deems proper.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-646-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The prehearing conference may be conducted either in person or by telephone to
+consider any of the following:</p>
+          </content>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The consideration of alternatives to formal court proceedings when their use is
+appropriate and in the best interests of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Efforts to identify and locate an absent parent, and suitable relatives or other
+suitable individuals willing and able to offer a stable and safe home for the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Whether there is an issue of paternity requiring the issuance of an order for
+immediate blood or tissue sampling in accordance with the provisions of R.S. 9:396 et seq.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The simplification of the issues including the elimination of frivolous claims or
+defenses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The necessity or desirability of amendments to the petition.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>What material facts and issues exist without substantial controversy, and what
+material facts and issues are actually and in good faith controverted.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Proof, stipulations regarding the authenticity of documents, and advance rulings
+from the court on the admissibility of the evidence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Limitations or restrictions on, or regulation of, the use of expert testimony.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The control and scheduling of discovery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>The identification of witnesses, documents, and exhibits.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-646-1__subsec_B__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Such other matters as may aid in the disposition of the action.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-646-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court shall render an order which recites the action taken at the prehearing
+conference, the amendments allowed to the petition, and the agreements made by the parties
+as to any of the matters considered, and which limits the issues for adjudication to those not
+disposed of by admissions or agreements of counsel.  Such order controls the subsequent
+course of the action, unless modified at the adjudication hearing to prevent manifest
+injustice.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-646-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If counsel for any party fails to obey a prehearing order, or to appear at the
+prehearing and scheduling conference, or is substantially unprepared to participate in the
+conference, or fails to participate in good faith, the court, upon its own motion or on the
+motion of a party, after hearing, may make orders as are just, including orders provided in
+Code of Civil Procedure Article 1471(A)(2), (3), and (4).  In lieu of or in addition to any
+other sanction, the court may require the party or counsel for the party, or both, to pay the
+reasonable expenses incurred by noncompliance with this Paragraph, including attorney fees.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73240</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

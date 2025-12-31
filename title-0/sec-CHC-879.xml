@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-879"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-879"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 879"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-879/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-879/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-879/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-879/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-879">
+        <num>CHC 879</num>
+        <heading>879.  Presence at adjudication hearing; exclusion of witnesses</heading>
+        <subsection eId="CHC-879__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The child, his parents, counsel, the district attorney, authorized officials of the
+court, and witnesses called by the parties may be present at the adjudication hearing.
+B.</p>
+          </content>
+          <paragraph eId="CHC-879__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All proceedings in a juvenile delinquency case involving a crime of violence
+as defined in R.S. 14:2(B) or a delinquent act which is a second or subsequent felony-grade
+adjudication shall be open to the public.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-879__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as otherwise provided by law, in all juvenile delinquency proceedings
+involving the violation of first degree murder (R.S. 14:30), second degree murder (R.S.
+14:30.1), aggravated or first degree rape (R.S. 14:42), aggravated kidnapping (R.S. 14:44),
+armed robbery (R.S. 14:64), negligent homicide (R.S. 14:32), or vehicular homicide (R.S.
+14:32.1), the court shall allow the victim, the victim's spouse, children, siblings, parents,
+grandparents, guardians, and legal custodians to be present at the adjudication hearing.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-879__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>On its own motion the court may, and on the request of a party the court shall,
+order that the witnesses, other than parties, be excluded from the courtroom or from a place
+where they can see or hear the proceedings, and refrain from discussing the facts of the case
+with anyone other than counsel in the case.  In the interest of justice, the court may exempt
+any witness from its order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-879__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>This Article does not authorize exclusion of any of the following witnesses:</p>
+          </content>
+          <paragraph eId="CHC-879__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A party who is a natural person.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-879__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A single officer or single employee of a party which is not a natural person
+designated as its representative or case agent by its attorney.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-879__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person whose presence is shown by a party to be essential to the presentation
+of his cause such as an expert.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-879__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The victim of the offense or the family of the victim.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-879__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A court may impose appropriate sanctions for violations of its exclusion order
+including contempt, or when such sanctions are insufficient, disqualification of the witness.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73470</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

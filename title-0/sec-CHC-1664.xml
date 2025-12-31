@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1664"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1664"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1664"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1664/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1664/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1664/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1664/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1664">
+        <num>CHC 1664</num>
+        <heading>1664.  Powers and duties of the Interstate Commission</heading>
+        <subsection eId="CHC-1664__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To provide for dispute resolution among compacting states.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To promulgate rules to effect the purposes and obligations as enumerated in this compact, which shall have the force and effect of statutory law and shall be binding in the compacting states to the extent and in the manner provided in this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To oversee, supervise and coordinate the interstate movement of juveniles subject to the terms of this compact and any bylaws adopted and rules promulgated by the Interstate Commission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To enforce compliance with the compact provisions, the rules promulgated by the Interstate Commission, and the bylaws, using all necessary and proper means, including but not limited to the use of judicial process.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>To establish and maintain offices which shall be located within one or more of the compacting states.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>To purchase and maintain insurance and bonds.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>To borrow, accept, hire or contract for services of personnel.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>To establish and appoint committees and hire staff which it deems necessary for the carrying out of its functions including but not limited to an executive committee as required by Article 1663 which shall have the power to act on behalf of the Interstate Commission in carrying out its powers and duties hereunder.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>To elect or appoint such officers, attorneys, employees, agents, or consultants, and to fix their compensation, define their duties and determine their qualifications; and to establish the Interstate Commission's personnel policies and programs relating to, inter alia, conflicts of interest, rates of compensation, and qualifications of personnel.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>To accept any and all donations and grants of money, equipment, supplies, materials, and services, and to receive, utilize and dispose of it.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>To lease, purchase, accept contributions or donations of, or otherwise to own, hold, improve or use any property, real, personal, or mixed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>To sell, convey, mortgage, pledge, lease, exchange, abandon, or otherwise dispose of any property, real, personal or mixed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>To establish a budget and make expenditures and levy dues as provided in Article 1668 of this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>To sue and be sued.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>To adopt a seal and bylaws governing the management and operation of the Interstate Commission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>To perform such functions as may be necessary or appropriate to achieve the purposes of this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>To report annually to the legislatures, governors, judiciary, and state councils of the compacting states concerning the activities of the Interstate Commission during the preceding year.  Such reports shall also include any recommendations that may have been adopted by the Interstate Commission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>To coordinate education, training and public awareness regarding the interstate movement of juveniles for officials involved in such activity.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>To establish uniform standards of the reporting, collecting and exchanging of data.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1664__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>To maintain its corporate books and records in accordance with the bylaws.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=181157</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2839"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2839"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2839"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2839/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2839/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2839/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2839/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2839">
+        <num>CC 2839</num>
+        <heading>2839.  Name of partner in commendam; use</heading>
+        <subsection eId="CC-2839__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A partner in commendam becomes liable as a general partner if he permits his name to be used in business dealings of the partnership in a manner that implies he is a general partner.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2839__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the name of a partner in commendam is used without his consent, he is liable as a general partner only if he knew or should have known of its use and did not take reasonable steps to prevent the use.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2839__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the name of the partner in commendam is the same as that of a general partner or if it had been included in the name of a predecessor business entity or in the name of the partnership prior to the admission of the partner in commendam, its use does not imply that he is a general partner.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109909</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-11"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-11"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 930.11"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-11/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-11/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-11/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-930-11/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-930-11">
+        <num>CCRP 930.11</num>
+        <heading>930.11.  Time delays applicable to this Title; writ of mandamus</heading>
+        <subsection eId="CCRP-930-11__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court of appropriate jurisdiction shall adhere to the following time periods
+in post conviction proceedings:</p>
+          </content>
+          <paragraph eId="CCRP-930-11__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court shall conduct the preliminary review provided in Article 927 within
+thirty days of the filing of application.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-930-11__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When ruling on procedural objections that have been filed pursuant to Article
+927, the court shall issue its ruling within thirty days of receipt of such objections.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-930-11__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the court determines that no evidentiary hearing is necessary, it shall issue its
+ruling on the merits of any remaining claim alleged in the application within thirty days of
+the state's answer on the merits.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-930-11__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>When the court determines that there are questions of fact which cannot properly
+be resolved pursuant to Article 929, it shall conduct an evidentiary hearing provided in
+Article 930 within one hundred eighty days of such determination and issue a ruling on the
+merits of any remaining claim within thirty days following the conclusion of such hearing.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-930-11__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The district attorney and the attorney general shall adhere to the following time
+periods in post conviction proceedings:</p>
+          </content>
+          <paragraph eId="CCRP-930-11__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The district attorney shall have sixty days to file procedural objections pursuant
+to Article 927.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-930-11__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If an answer is required, the district attorney shall have sixty days from the court's
+ruling on procedural objections to file an answer on the merits pursuant to Article 927.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-930-11__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The attorney general shall have thirty days to file procedural objections pursuant
+to Article 927 if the district attorney waives such objections.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-930-11__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A petitioner who has been sentenced to death shall only seek supervisory review
+directly from the Louisiana Supreme Court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930-11__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If a petitioner invokes the supervisory jurisdiction of the Louisiana Supreme
+Court, the supreme court shall rule on an application for a writ of review within one hundred
+eighty days of receipt.  If there is an active death warrant, the court shall issue a ruling prior
+to the effective date of that warrant.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930-11__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The state or petitioner shall have the right to seek a writ of mandamus to compel
+a court to issue a requested ruling within a specified period not to exceed thirty days if that
+court has not issued a ruling within the deadlines provided in this Title.  The reviewing court
+may order the lower court to submit a per curiam opinion to the reviewing court with an
+explanation regarding why the lower court has not issued a ruling within the deadlines
+provided in this Title.
+F.</p>
+          </content>
+          <paragraph eId="CCRP-930-11__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Upon the motion of either party, any deadline set forth in this Title, except for
+the deadline for filing applications for post-conviction relief set forth in Article 930.8, may
+be extended by the court subject to the requirements of this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-930-11__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any motion for an extension of time filed by either party shall be filed not later
+than seven days prior to the deadline sought to be extended and shall be served on all parties
+and the court by any method allowed by law.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-930-11__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any motion for an extension of time granted by the court pursuant to this Article
+shall not exceed sixty days in length, and in no case shall either party be allowed more than
+three extensions of time.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-930-11__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Each party's first motion for an extension of time may be granted by the court
+without a contradictory hearing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-930-11__subsec_E__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>After a party's first motion for an extension of time has been granted, any
+subsequent motion for an additional extension of time by the same mover shall require a
+contradictory hearing.  Following the contradictory hearing, the court may only grant the
+motion upon a showing by the mover that extraordinary circumstances outside of the control
+of the moving party exist that necessitate the requested extension of time.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1429005</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

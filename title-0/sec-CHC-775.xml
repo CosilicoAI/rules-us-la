@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-775"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-775"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 775"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-775/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-775/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-775/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-775/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-775">
+        <num>CHC 775</num>
+        <heading>775.  Notice of predisposition report and examination</heading>
+        <subsection eId="CHC-775__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Prior to or during the disposition hearing, the court shall advise the child and his caretaker of the factual contents and the conclusions of the predisposition report authorized by Article 773 and any other reports considered by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-775__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the court has ordered a mental examination of the child or his caretaker pursuant to Article 774, the court, prior to the disposition hearing, shall provide the counsel for the child and caretaker with copies of reports submitted in connection with such mental examination.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-775__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court shall afford the child and his caretaker fair opportunity to controvert factual contents and conclusions disclosed pursuant to Paragraphs A and B of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-775__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A copy of any reports relevant to the dispositional plan of services shall also be provided to any agency named in the disposition order as having responsibility to provide services to the child or his caretaker.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73366</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

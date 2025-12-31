@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-13"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-13"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 6.13"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-13/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-13/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-13/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-13/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-6-13">
+        <num>HRULE 6.13</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-6-13__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>No legislative instrument which shall have been referred to a committee shall be acted upon or considered by the House until the committee shall have reported the same; however, a majority of the elected members of the House of Representatives may by motion or resolution direct a committee to report a legislative instrument, in which case the committee so directed shall report the instrument as directed.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-13__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In addition, a majority of the elected members of the House may by motion or resolution recall a legislative instrument from a committee and discharge the committee from further consideration of the same, in which case the instrument shall be recommitted to another committee or heard in the Committee of the Whole.  Such a motion or a motion to adopt such a resolution shall not be in order unless the author of the legislative instrument and the chairman of the committee to which the legislative instrument is referred are present in the chamber at the time the motion is made.
+Mason's Manual:  Sec. 712</p>
+          </content>
+          <paragraph eId="HRULE-6-13__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>HR 3, 1973; HR 45, 1998, eff. May 20, 1998; HR 46, 2005, eff. June 21, 2005.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113321</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

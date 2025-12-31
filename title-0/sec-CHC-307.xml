@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-307"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-307"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 307"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-307/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-307/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-307/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-307/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-307">
+        <num>CHC 307</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-307__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A court exercising juvenile jurisdiction shall have exclusive original jurisdiction over adult parties in the following cases involving the care, custody or control of a child:</p>
+          </content>
+          <paragraph eId="CHC-307__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Child in need of care proceedings pursuant to Title VI.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-307__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Families in need of services proceedings pursuant to Title VII.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-307__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Involuntary termination of parental rights proceedings pursuant to Title X.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-307__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Voluntary termination of parental rights proceedings pursuant to Title XI.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-307__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Adoption proceedings pursuant to Title XII.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-307__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Special proceedings pursuant to Title XV.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-307__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In aid of its jurisdiction over children, a court exercising juvenile jurisdiction shall also have jurisdiction over any natural person who is a parent or caretaker of the child or other adult lawfully before it to secure his full cooperation and assistance in the entire rehabilitative program prescribed by the court for the child, including conditions or incidents of probation, supervision, protection, custody, or release on parole in:</p>
+          </content>
+          <paragraph eId="CHC-307__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Delinquency proceedings pursuant to Title VIII.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-307__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Traffic violation proceedings pursuant to Title IX.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-307__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Mental health proceedings pursuant to Title XIV.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-307__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any special proceeding authorized by Title XV.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-307__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Any proceeding necessary to implement the provisions of interstate compacts affecting children pursuant to Title XVI.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-307__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Nothing in this Article shall be construed to deprive other courts of jurisdiction over domestic abuse assistance proceedings brought pursuant to R.S. 46:2131 et seq.  or over contempt proceedings.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73106</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

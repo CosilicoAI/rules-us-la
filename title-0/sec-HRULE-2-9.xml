@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-9"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-9"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 2.9"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-9/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-9/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-9/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-2-9/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-2-9">
+        <num>HRULE 2.9</num>
+        <heading>Section </heading>
+        <content>
+          <p>Rule 2.9.  Clerk of the House; election
+The Clerk of the House of Representatives shall be elected in the same manner as the Speaker.  He shall be elected every four years immediately after the members of the House take the oath of office at the organizational session of the legislature provided for in Article III, Section 2(D) of the Constitution of Louisiana.  His election shall be the first order of business following such swearing in of the members of the House.  He may be removed from office in the manner provided for removal of the Speaker.  Vacancies in the office of the Clerk shall be filled in the manner of the original selection.
+Mason's Manual:  Sec. 556
+HR 3, 1973; HR 5, 2nd Ex. Sess., 1983; HR 8, 1991, eff. Jan. 13, 1992.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113294</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

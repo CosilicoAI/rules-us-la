@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-605"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-605"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 605"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-605/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-605/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-605/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-605/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-605">
+        <num>CHC 605</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-605__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A proceeding under this Title may be commenced in the parish in which the child is domiciled with his parent or tutor, the parish in which the child was present when an act alleged took place or conditions alleged existed, or the parish in which the child is found.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-605__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a petition is filed in a parish other than that of the child's domicile, the court in which the proceeding is filed, upon motion of a party or upon the court's own motion, may transfer the proceeding to the court for the parish in which the child is domiciled.  A transfer under this Paragraph may be made at any time.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-605__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When a petition is filed in a parish other than that of the child's domicile and the proceeding is not transferred under Paragraph B of this Article, the court in which the proceeding is filed shall immediately notify the appropriate court for the parish in which the child is domiciled, and if the court for the parish in which the child is domiciled requests a transfer within five days after receipt of the notification, the court in which the proceeding was filed may transfer the proceeding.  A transfer under this Paragraph shall be made prior to the adjudication hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-605__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When a petition is filed in a parish other than that of the child's domicile, and the proceeding is not transferred under Paragraph B or C of this Article, the court in which the proceeding was filed may, after the adjudication hearing, transfer the proceeding to the court of the parish where the child is domiciled for the disposition hearing.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73197</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

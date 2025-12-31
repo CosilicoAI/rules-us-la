@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-274"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-274"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 274"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-274/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-274/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-274/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-274/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-274">
+        <num>CCRP 274</num>
+        <heading>274.  Application for issuance of requisition</heading>
+        <content>
+          <p>Art. 274.  Application for issuance of requisition
+When a district attorney desires the return to this state of a person wanted to be tried for a crime, he shall present to the governor a written application for a requisition for the return of the person charged.  The application shall state the name of the person wanted, the crime with which he is charged, and the approximate time, place, and circumstances of its commission.  It shall also specify the state in which he is believed to be and his probable location in that state at the time the application is made.  The application shall recommend a peace officer or other person as agent to receive the accused.  It shall certify that, in the opinion of the district attorney the ends of justice require the arrest and return of the accused to this state for trial and that the proceeding is not instituted to enforce a private claim.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112409</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

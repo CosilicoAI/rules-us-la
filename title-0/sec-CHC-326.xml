@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-326"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-326"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 326"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-326/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-326/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-326/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-326/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-326">
+        <num>CHC 326</num>
+        <heading>326.  Competent evidence; procedures for making videotape</heading>
+        <subsection eId="CHC-326__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A videotape of the statements of a protected person who is alleged to be the
+victim of or witness to a crime may be offered in evidence for or against such crime.  To
+render such a videotape competent evidence, all of the following must be satisfactorily
+proved:</p>
+          </content>
+          <paragraph eId="CHC-326__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Such electronic recording was voluntarily made by the protected person.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-326__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>No relative of the protected person was present in the room in which the
+recording was made.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-326__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>No attorney for either party was present when the statement was made.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-326__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Such recording was not made of answers to questions calculated to lead the
+protected person to make any particular statement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-326__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Such recording is both visual and oral and is recorded on film or videotape or by
+other electronic means.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-326__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Such recording is accurate, has not been altered, and reflects what the protected
+person said.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-326__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The taking of the protected person's statement was supervised by a physician, a
+social worker, a law enforcement officer, a licensed psychologist, a medical psychologist,
+a licensed professional counselor, a civilian investigator, or an authorized representative of
+the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-326__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Every voice on the recording is identified.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-326__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The department shall develop and promulgate regulations regarding training
+requirements and certification for department personnel who are authorized to supervise the
+taking of the protected person's statement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-326__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The provisions of this Article relative to a civilian investigator's ability to render
+a videotape as competent evidence shall only apply to a civilian investigator within a parish
+with a population of not less than three hundred eighty-three thousand and not more than four
+hundred forty thousand as provided in the most recent federal decennial census.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73126</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 8.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-8-2">
+        <num>HRULE 8.2</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-8-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Regular Order of the Day shall be as follows:</p>
+          </content>
+          <paragraph eId="HRULE-8-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>House and House Concurrent Resolutions on Third Reading for Final Consideration</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Senate Concurrent Resolutions on Third Reading for Final Consideration</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-2__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>House Concurrent Resolutions Returned from the Senate with Amendments</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-2__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>House Bills Amended by the Senate to be Concurred in by the House</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-2__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>House Bills on Third Reading and Final Passage</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-2__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Senate Bills on Third Reading and Final Passage</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-2__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Conference Committee Reports for Consideration</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-8-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>On any legislative day on which at the time of adjournment the House is engaged in the consideration of legislative instruments on final passage but has not finally acted upon all instruments listed for consideration in that order of business on that day, the Clerk shall enter on the calendar for the next legislative day under the same order of business each such instrument upon which final action has not been taken, in the same order in which said instruments have advanced.
+Mason's Manual:  Sec. 710
+HR 3, 1973; HR 17, 1976; HR 4, 1977; HR 45, 1998, eff. May 20, 1998.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113375</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

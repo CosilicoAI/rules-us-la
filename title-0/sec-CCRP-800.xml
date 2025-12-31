@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-800"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-800"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 800"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-800/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-800/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-800/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-800/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-800">
+        <num>CCRP 800</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-800__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A defendant may not assign as error a ruling refusing to sustain a
+challenge for cause made by him, unless an objection thereto is made at the
+time of the ruling.  The nature of the objection and grounds therefor shall be
+stated at the time of objection.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-800__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The erroneous allowance to the state of a challenge for cause does
+not afford the defendant a ground for complaint, unless the effect of such
+ruling is the exercise by the state of more peremptory challenges than it is
+entitled to by law.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112798</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

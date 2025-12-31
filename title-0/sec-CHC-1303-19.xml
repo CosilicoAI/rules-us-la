@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-19"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-19"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1303.19"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-19/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-19/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-19/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-19/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1303-19">
+        <num>CHC 1303.19</num>
+        <heading>1303.19.  Receipt and disbursement of payments</heading>
+        <subsection eId="CHC-1303-19__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A support enforcement agency or tribunal of this state shall disburse promptly any
+amounts received pursuant to a support order, as directed by the order.  The agency or
+tribunal shall furnish to a requesting party or tribunal of another state or a foreign country a
+certified statement by the custodian of the record of the amounts and dates of all payments
+received.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-19__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If neither the obligor, nor the obligee who is an individual, nor the child resides
+in this state, upon request from the support enforcement agency of this state or another state,
+the support enforcement agency of this state or a tribunal of this  state shall:</p>
+          </content>
+          <paragraph eId="CHC-1303-19__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Direct that the support payment be made to the support enforcement agency in
+the state in which the obligee is receiving services; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-19__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Issue and send to the obligor's employer a conforming income-withholding order
+or an administrative notice of change of payee, reflecting the redirected payments.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1303-19__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The support enforcement agency of this  state receiving redirected payments from
+another state pursuant to a law similar to Paragraph B of this Article shall furnish to a
+requesting party or tribunal of the other state a certified statement by the custodian of the
+record of the amount and dates of all payments received.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72819</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

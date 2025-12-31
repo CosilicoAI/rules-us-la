@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-887"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-887"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 887"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-887/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-887/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-887/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-887/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-887">
+        <num>CCRP 887</num>
+        <heading>887.  Defendant's liability for costs; suspension of costs; no advance costs</heading>
+        <subsection eId="CCRP-887__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A defendant who is convicted of an offense or is the person owing a duty of
+support in a support proceeding shall be liable for all costs of the prosecution or proceeding,
+whether or not costs are assessed by the court, and such costs are recoverable by the party or
+parties who incurred the expense.  However, such defendant or person shall not be liable for
+costs if acquitted or if the prosecution or proceeding is dismissed.  In addition, any judge of
+a district court, parish court, city court, traffic court, juvenile court, family court, or
+magistrate of a mayor's court within the state shall be authorized to suspend court costs.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-887__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>All processes of the court shall issue without the payment of advance costs.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-887__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In addition to the costs provided in Paragraph A of this Article, a person convicted
+of a violation of R.S. 14:98 or 98.6, or any municipal or parochial ordinance defining the
+offense of operating a motor vehicle, aircraft, watercraft, vessel, or other motorized means
+of conveyance under the influence of alcohol or drugs, who was subjected to a blood, breath,
+or urine analysis for alcohol or any controlled dangerous substance listed in R.S. 40:964,
+Schedule I, II, III, IV, or V, shall be assessed an additional one hundred twenty-five dollars
+as special costs.  Such costs shall be paid in the following manner: seventy-five dollars to the
+governing authority owning the instrument used to perform the analysis, and fifty dollars to
+the governing authority whose agency performed the analysis.  If the office of state police
+performed or participated in a blood, breath, or urine analysis for which these costs are
+assessed, that portion of the costs applicable to the office of state police shall be forwarded
+to the applied technology unit within the office of state police and forwarded for disposition
+in accordance with R.S. 40:1379.7.  In the event the person is unable to pay the fine when
+assessed, the court may allow payment within certain time limits, based on the person's
+ability to pay such costs.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-887__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In addition to the costs provided in Paragraphs A and C, a person convicted of a
+violation of R.S. 14:98, R.S. 14:98.1, or of any municipal or parochial ordinance defining
+the offense of operating a motor vehicle while under the influence of alcohol or drugs, shall
+be assessed an additional fifty dollars as special costs to be used to defray expenses of
+administering conditions of probation or of incarceration.  If the offender is incarcerated,
+such costs shall be paid to the sheriff or other custodian of the facility in which the offender
+is incarcerated.  If the offender is placed on probation as provided in R.S. 14:98(B) or (C)
+or R.S. 14:98.1(D) or (E), the court may order the apportionment and payment of all or a part
+of such costs to the agencies or persons responsible for administering the prescribed
+substance abuse program, driver improvement program, or community service activities.  In
+addition, the person convicted of a violation of R.S. 14:98, R.S. 14:98.1, or of any such
+municipal or parochial ordinance shall be assessed costs of the witness fee provided by R.S.
+15:255.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-887__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112871</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-802"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-802"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 802"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-802/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-802/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-802/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-802/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-802">
+        <num>CCRP 802</num>
+        <heading>802.  General charge; scope</heading>
+        <subsection eId="CCRP-802__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>As to the law applicable to the case;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-802__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>That the jury is the judge of the law and of the facts on the question of guilt or innocence, but that it has the duty to accept and to apply the law as given by the court; and</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-802__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>That the jury alone shall determine the weight and credibility of the evidence.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112800</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

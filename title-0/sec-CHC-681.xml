@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-681"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-681"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 681"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-681/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-681/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-681/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-681/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-681">
+        <num>CHC 681</num>
+        <heading>681.  Dispositional alternatives</heading>
+        <subsection eId="CHC-681__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In a case in which a child has been adjudicated to be in need of care, the health,
+welfare, and safety of the child shall be the paramount concern.  If the child can safely remain
+in or return to the custody of the parent, the court shall place the child in the custody of the
+parent under terms and conditions deemed to be in the best interest of the child, including
+but not limited to the issuance of a protective order pursuant to Article 618 or a safety plan
+order.  If the child cannot safely remain in or return to the custody of the parent, the court
+may do any of the following:</p>
+          </content>
+          <paragraph eId="CHC-681__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Order the child into the legal custody of a suitable relative or other suitable
+individual on terms and conditions deemed to be in the best interest of the child, including
+but not limited to the issuance of a protective order pursuant to Article 618.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-681__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Place the child in the custody of a private or public institution or agency.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-681__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Commit a child found to have a mental illness to a public or private institution
+for persons with mental illness.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-681__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Grant guardianship of the child to a nonparent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-681__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Make such other disposition or combination of the above dispositions as the court
+deems to be in the best interest of the child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-681__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A child in need of care shall not be committed to the Department of Public Safety
+and Corrections, nor shall such department accept a child in need of care.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73277</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

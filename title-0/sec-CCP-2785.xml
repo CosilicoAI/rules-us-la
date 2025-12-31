@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-2785"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-2785"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 2785"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-2785/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-2785/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-2785/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-2785/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-2785">
+        <num>CCP 2785</num>
+        <heading>Section </heading>
+        <subsection eId="CCP-2785__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Confirmed registered support order&quot; means a support order registered pursuant to the provisions of Article 2786 and subsequently confirmed by a registering court or operation of law pursuant to the provisions of Article 2788(A)</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2785__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>or (B) or Article 2793(A)(2), (A)(3), or (B).</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2785__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Rendering court&quot; means the district or, if applicable, family or juvenile court which rendered the support order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2785__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Registering court&quot; means the district or, if applicable, family or juvenile court in which a support obligation rendered by another court of this state has been filed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2785__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Support order&quot; means a judgment, decree, or order, whether temporary, final, or subject to modification, for the benefit of a child, a spouse, or a former spouse, which provides for monetary support, health care, arrearages, or reimbursement, and may include related costs and fees, interest, income withholding, attorney fees, and other relief.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2785__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Party to a support order&quot; means the obligee of a support order, or the state of Louisiana, Department of Children and Family Services, or similar agency of another jurisdiction or state when supplying support services as defined in or substantially similar to R.S. 46:236.1(A)</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-2785__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>1 , or under the Uniform Interstate Family Support Act (UIFSA), or in performance of its official duties under Title IV, Subchapter D of the Social Security Act as stated in 45 C.F.R. 301.1.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111524</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

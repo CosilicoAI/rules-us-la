@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-685"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-685"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 685"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-685/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-685/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-685/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-685/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-685">
+        <num>CHC 685</num>
+        <heading>685.  Parent's contribution to costs of care and treatment</heading>
+        <subsection eId="CHC-685__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>As a part of any judgment of disposition committing a child to the custody of a person other than the parents of the child, the court may, after giving the parent a reasonable opportunity to be heard, order that the parent contribute to the cost of care and treatment of the child after consideration of the following factors:</p>
+          </content>
+          <paragraph eId="CHC-685__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The best interest of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-685__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The recommendation of the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-685__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The ability of the parent to pay.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-685__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The obligation of the parent to support the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-685__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The needs of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-685__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Any other relevant factor.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-685__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When the department has provided or will provide payment for care and treatment of the child, the payments by the parent shall be made directly to the department and shall, immediately upon receipt, be deposited in the state treasury, except when otherwise provided by federal law. In the event of default in the payment of costs of care by the parent, the department may exercise all administrative and legal alternatives provided by law or regulation to enforce the provisions of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-685__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When care and treatment of the child is to be provided by a caretaker other than the department, the payments by the parent shall be made according to the court's order.  In the event of default in the payment of costs of care and treatment by the parent, the caretaker, if receiving the contributions, or the department may proceed against the parent as provided by law for failure to pay.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-685__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>An order for a parental contribution to the cost of care and treatment in accordance with this Article shall not be considered child support pursuant to R.S. 9:315 et seq.  The court shall not order a contribution for the cost of care and treatment in accordance with this Article if the parent is obligated to pay child support pursuant to R.S. 9:315 et seq. If a valid child support order has been signed in accordance with R.S. 9:315 et seq., a previous order for parental contribution to the cost of care and treatment shall terminate by operation of law.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73281</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

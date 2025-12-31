@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-4"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-4"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1307.4"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-4/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-4/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-4/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-4/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1307-4">
+        <num>CHC 1307.4</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1307-4__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In a support proceeding under this Section, the Department of Children and
+Family Services, of this state shall:</p>
+          </content>
+          <paragraph eId="CHC-1307-4__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Transmit and receive applications; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-4__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Initiate or facilitate the institution of a proceeding regarding an application in a
+tribunal of this state.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1307-4__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The following support proceedings are available to an obligee under the
+Convention:</p>
+          </content>
+          <paragraph eId="CHC-1307-4__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Recognition or recognition and enforcement of a foreign support order;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-4__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Enforcement of a support order issued or recognized in this state;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-4__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Establishment of a support order if there is no existing order, including, if
+necessary, determination of parentage of a child;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-4__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Establishment of a support order if recognition of a foreign support order is
+refused under Article 1307.8(B)(2), (4), or (9);</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-4__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Modification of a support order of a tribunal of this state; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-4__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Modification of a support order of a tribunal of another state or a foreign country.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1307-4__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The following support proceedings are available under the Convention to an
+obligor against which there is an existing support order:</p>
+          </content>
+          <paragraph eId="CHC-1307-4__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Recognition of an order suspending or limiting enforcement of an existing
+support order of a tribunal of this state;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-4__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Modification of a support order of a tribunal of this state; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-4__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Modification of a support order of a tribunal of another state or a foreign country.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1307-4__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A tribunal of this state may not require security, bond, or deposit, however
+described, to guarantee the payment of costs and expenses in proceedings under the
+Convention.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=962641</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

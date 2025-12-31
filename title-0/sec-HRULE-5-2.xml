@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-5-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-5-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 5.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-5-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-5-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-5-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-5-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-5-2">
+        <num>HRULE 5.2</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-5-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Should any member violate the Rules of Order of the House, in speech or otherwise, the presiding officer shall, and any member may, call him to order.  Any member so called to order shall immediately take his seat unless the House permits him to explain his actions, upon his motion or that of another member duly adopted.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-5-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a member is called to order by another member, he may appeal to the presiding officer for a ruling concerning the same.  He may also appeal to the House the call to order by a member or the presiding officer, or the ruling by the presiding officer.  The House shall decide such an appeal without debate.  If the decision of the presiding officer or of the House, as the case may be, is in favor of the member, he shall be allowed to proceed.  If the decision is against him he shall immediately take his seat, and if the case is of sufficient seriousness to require it, he shall be liable to censure by the House.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-5-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If after being called to order, a member persists in breach of decorum, it shall be the duty of the presiding officer to reprimand the offending member.  Upon his motion or that of another member duly adopted, the member may be permitted to explain his actions.  He may appeal the reprimand to the House, which appeal shall be decided without debate.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-5-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Should the member continue to be in disorder after reprimand, or refuse to submit to reprimand, the presiding officer may cause him to be ejected from the House for a stated period, or for such other period as may be stated by the House upon motion duly adopted, and he shall not again be admitted to the floor during the specified time, except by a vote of the House, and upon such conditions and terms of apology as it may prescribe.
+Mason's Manual:  Sec. 122, 122(4), 123, and 123(5 and 6)
+HR 3, 1973; HR 4, 1978.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113309</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

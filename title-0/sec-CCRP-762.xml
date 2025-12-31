@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-762"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-762"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 762"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-762/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-762/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-762/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-762/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-762">
+        <num>CCRP 762</num>
+        <heading>762.  Place of sessions of court</heading>
+        <subsection eId="CCRP-762__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To take the testimony of witnesses who are so incapacitated that they cannot attend the trial in the parish courthouse;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-762__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To allow the jury or judge to view the place where the crime or any material part thereof is alleged to have occurred, or to view an object which is admissible in evidence but which is difficult to produce in court.  At this view, the court shall not permit the taking of evidence except in connection with the place or object; or</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-762__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>When the courthouse in which the sessions are usually held is unsuitable for use, or there is no courthouse.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112759</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

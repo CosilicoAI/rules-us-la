@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-410"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-410"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 410"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-410/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-410/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-410/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-410/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-410">
+        <num>CCRP 410</num>
+        <heading>410.  Revising and supplementing the general venire</heading>
+        <subsection eId="CCRP-410__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At each commission meeting to revise and supplement the general venire, the commission shall examine the general venire list prepared at the previous selection of the general venire and shall delete therefrom the names of those persons who:</p>
+          </content>
+          <paragraph eId="CCRP-410__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Have served as civil or criminal jurors since the previous selection of the general venire; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-410__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Are known to have died or who have become disqualified to serve as jurors since their selection on the general venire.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-410__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The slips bearing the names of those persons deleted from the general venire list shall be removed from the general venire box.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-410__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The commission shall then supplement the list prepared at the previous commission meeting and the corresponding slips in the box by selecting a sufficient number of additional persons in compliance with Article 408 or Article 409 of this Code, whichever is applicable.  Where the general venire list is maintained in a form suitable for use by a computer, the general venire shall likewise be deleted and supplemented as provided in this Article.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112518</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

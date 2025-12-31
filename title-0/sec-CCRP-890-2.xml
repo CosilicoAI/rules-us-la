@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 890.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-890-2">
+        <num>CCRP 890.2</num>
+        <heading>890.2.  Fines for individual defendants</heading>
+        <subsection eId="CCRP-890-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a defendant has been convicted of a felony, and upon a determination that a defendant has the ability and resources available to pay an additional fine and that such a fine would not unduly burden the defendant's dependents, the court may impose as an additional fine or as a component of a fine the expected costs to the state of any imprisonment ordered by the court and prescribe the manner in which the fine shall be enforced and paid.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-890-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The additional fine or component of the fine may be imposed contingent upon the defendant's ability to pay the fine while incarcerated from any future sources of income the defendant may receive while incarcerated.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-890-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The Department of Public Safety and Corrections may determine the amount due the state in cases where the defendant is confined in a penal or correctional institution under the supervision of the department and render statements thereof, and such sworn statements shall be considered prima facie evidence of the amount due.  If the defendant is committed to the department and confined in a parish jail or institution as provided for in R.S. 15:824(B), the amount of the additional fine or component of the fine shall be equal to the amount paid by the department to the parish sheriff or governing authority of those parishes in which the governing authority operates the parish jail, for keeping and feeding the individual in the parish jail.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-890-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The amount of reimbursement under this Article shall not be in excess of the per capita cost of care for maintaining inmates in the state correctional facility in which the inmate is housed.  The funds collected from the fines imposed pursuant to this Article shall be distributed to the entity that expended the funds.  However, ten percent of the funds shall go to the Crime Victims' Reparation Fund as provided in R.S. 46:1816.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112876</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

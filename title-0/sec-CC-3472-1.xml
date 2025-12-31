@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3472-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3472-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 3472.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3472-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3472-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3472-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3472-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-3472-1">
+        <num>CC 3472.1</num>
+        <heading>3472.1.  Emergency suspension of prescription and peremption</heading>
+        <content>
+          <p>Art. 3472.1.  Emergency suspension of prescription and peremption
+Notwithstanding any other provision of the law or any provision of an executive order
+or proclamation, in the event the governor, in response to a state of emergency or disaster,
+issues an executive order or proclamation pursuant to R.S. 29:721 through 775 that purports
+to suspend or extend liberative prescriptive or peremptive periods in all or part of the state,
+the executive order or proclamation shall have the effect of suspending only those liberative
+prescriptive or peremptive periods that would have otherwise accrued during the period of
+time specified in the order or proclamation or, if no period of time is specified, during the
+duration of the effectiveness of the executive order or proclamation.  Upon the termination
+of the period of suspension, liberative prescription or peremption commences to run again
+and accrues upon the earlier of thirty days after the expiration of the period of suspension or
+in accordance with the period of time as calculated pursuant to Article 3472.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1188052</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

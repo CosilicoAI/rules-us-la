@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-7"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-7"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1306.7"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-7/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-7/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-7/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-7/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1306-7">
+        <num>CHC 1306.7</num>
+        <heading>1306.7.  Contest of registration or enforcement</heading>
+        <subsection eId="CHC-1306-7__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A party contesting the validity or enforcement of a registered support order or
+seeking to vacate the registration has the burden of proving one or more of the following
+defenses:</p>
+          </content>
+          <paragraph eId="CHC-1306-7__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The issuing tribunal lacked personal jurisdiction over the contesting party.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-7__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The order was obtained by fraud.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-7__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The order has been vacated, suspended, or modified by a later order.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-7__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The issuing tribunal has stayed the order pending appeal.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-7__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>There is a defense under the law of this state to the remedy sought.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-7__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Full or partial payment has been made.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-7__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The statute of limitation under Article 1306.4 precludes enforcement of some or
+all of the arrearages.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-7__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The alleged controlling order is not the controlling order.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1306-7__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a party presents evidence establishing a full or partial defense under Paragraph
+A of this Article a tribunal may stay enforcement of a registered support order, continue the
+proceeding to permit production of additional relevant evidence, and issue other appropriate
+orders.  An uncontested portion of the registered order may be enforced by all remedies
+available under the law of this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1306-7__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the contesting party does not establish a defense under Paragraph A of this
+Article to the validity or enforcement of a registered support order, the registering tribunal
+shall issue an order confirming the order.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72850</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

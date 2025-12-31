@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-252"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-252"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 252"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-252/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-252/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-252/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-252/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-252">
+        <num>CCRP 252</num>
+        <heading>252.  Definitions</heading>
+        <subsection eId="CCRP-252__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Administrator&quot; means the person conducting the photo or live lineup.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-252__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Blind&quot; means conducted in such a way that the administrator does not know the
+identity of the suspect.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-252__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Blinded&quot; means conducted in such a way that the administrator may know who
+the suspect is, but does not know which lineup member is being viewed by the eyewitness.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-252__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Criminal justice entity&quot; means any government agency or subunit thereof, or
+private agency that, through statutory authorization or a legal formal agreement with a
+governmental unit or agency, has the power of investigation, arrest, detention, prosecution,
+adjudication, treatment, supervision, rehabilitation, or release of persons suspected, charged,
+or convicted of a crime.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-252__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Eyewitness&quot; means a person who observes another person at or near the scene
+of an offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-252__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Filler&quot; means either a person or a photograph of a person who is not suspected
+of an offense but is included in an identification procedure.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-252__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Folder shuffle method&quot; means a blinded procedure in which the suspect photos
+and nonsuspect or filler photos are each placed in separate folders for a total of six
+photographs and shuffled together along with four blank folders and handed to the
+eyewitness one at a time so that the administrator cannot see which photograph the
+eyewitness is viewing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-252__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Live lineup&quot; means an identification procedure in which a group of persons,
+including the suspected perpetrator of an offense and other persons not suspected of the
+offense, is displayed to an eyewitness for the purpose of determining whether the eyewitness
+identifies the suspect as the perpetrator.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-252__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Photo lineup&quot; means an identification procedure in which an array of
+photographs, including a photograph of the suspected perpetrator of an offense and additional
+photographs of other persons not suspected of the offense, is displayed to an eyewitness
+either in hard copy form or via computer or similar device for the purpose of determining
+whether the eyewitness identifies the suspect as the perpetrator.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-252__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Suspect&quot; means a person believed by law enforcement to be the possible
+perpetrator of an offense.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1106481</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

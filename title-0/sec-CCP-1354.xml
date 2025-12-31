@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1354"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1354"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 1354"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1354/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1354/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1354/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1354/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-1354">
+        <num>CCP 1354</num>
+        <heading>1354.  Subpoena duces tecum</heading>
+        <subsection eId="CCP-1354__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A subpoena may order a person to appear and produce at the trial, deposition, or hearing, books, papers, documents, any other tangible things, or electronically stored information, in his possession or under his control, if a reasonably accurate description thereof is given.  A subpoena may specify the form or forms in which electronically stored information is to be produced.  A party or an attorney requesting the issuance and service of a subpoena shall take reasonable steps to avoid imposing undue burden or cost on a person subject to that subpoena.  The court in which the action is pending in its discretion may vacate or modify the subpoena if it is unreasonable or oppressive.  Except when otherwise required by order of the court, certified copies, extracts, or copies of books, papers, and documents may be produced in obedience to the subpoena duces tecum instead of the originals thereof.  If the party or attorney requesting the subpoena does not specify that the named person shall be ordered to appear, the person may designate another person having knowledge of the contents of the books, papers, documents, other things, or electronically stored information, to appear as his representative.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1354__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A person commanded to respond to a subpoena duces tecum may within fifteen days after service of the subpoena or before the time specified for compliance, if such time is less than fifteen days after service, send to the party or attorney designated in the subpoena written objections, with supporting reasons, to any or all of the requests, including objection to the production of electronically stored information in the form or forms requested.  If objection is so made, the party serving the subpoena may file a motion to compel compliance with the subpoena and may move for sanctions for failure to reasonably comply.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1354__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A person responding to a subpoena to produce books, papers, or documents shall produce them as they are kept in the usual course of business or may organize and label them to correspond with the categories in the demand.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1354__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If a subpoena does not specify the form or forms for producing electronically stored information, a person responding to a subpoena may produce the information in a form or forms in which the person ordinarily maintains it or in a form or forms that are reasonably useable.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1354__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A person responding to a subpoena need not produce the same electronically stored information in more than one form.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1354__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A person responding to a subpoena need not produce books, papers, documents, or electronically stored information from sources that the person identifies as not reasonably accessible because of undue burden or cost.  On motion to compel production or to quash, the person from whom production is sought shall show that the information sought is not reasonably accessible because of undue burden or cost.  If that showing is made, the court may nonetheless order production from such sources if the requesting party shows good cause.  The court may specify conditions, including an allocation of the costs, for the production.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1354__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>When the person subpoenaed is an adverse party, the party requesting the subpoena duces tecum may accompany his request with a written request under oath as to what facts he believes the books, papers, documents, electronically stored information, or tangible things will prove, and a copy of such statement shall be attached to the subpoena.  If the party subpoenaed fails to comply with the subpoena, the facts set forth in the written statement shall be taken as confessed, and in addition the party subpoenaed shall be subject to the penalties set forth in Article 1357.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1354__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>Subpoenas duces tecum shall reproduce in full the provisions of this Article.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111179</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

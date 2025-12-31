@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-326"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-326"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 326"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-326/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-326/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-326/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-326/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-326">
+        <num>CCRP 326</num>
+        <heading>326.  Cash deposits</heading>
+        <subsection eId="CCRP-326__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon final disposition of all cases in which a deposit of money, checks, bonds,
+or money orders has been made pursuant to this Article, and the deposits have remained
+unclaimed for a period of one year from the date of the final disposition, the officer
+authorized to accept the bail shall apply and use one-half of such funds for the operation and
+maintenance of the office of the clerk of court, or the office of the clerk of the criminal
+district court, or the office of the clerk of the criminal district court in Orleans Parish, and
+one-half to the local governing authority after advertising his intention to so utilize the funds
+by publication in the official parish journal of a notice to the public containing an itemized
+list of all of such funds on deposit, containing the names and last known addresses of
+defendants and the docket numbers of the cases involved.  The publication shall be made
+once within thirty days after the final disposition of the case as aforesaid.  The clerk shall
+also send a notice by certified mail to each of such defendants at the last known address of
+the defendant.  Any interest earned on the funds deposited for bail shall be disbursed as
+provided in Paragraph E of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-326__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>After the publication and mailing of the notice by certified mail, the clerk of court,
+or the clerk of the criminal district court in Orleans Parish shall petition the court of proper
+jurisdiction for permission to utilize the funds for the use, operation, and maintenance of the
+office of the clerk of court or the clerk of criminal district court in Orleans Parish.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-326__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When bail has been given in conformity with this Article, the money, check,
+bond, or money order shall not be subject to garnishment, attachment, or seizure under any
+legal process. An assignment or sale thereof by the owner, to be valid, must be in the form
+of an authentic act and filed in the proceedings in the court having jurisdiction to discharge
+the bail. The property shall remain on deposit and the assignment or sale shall be contingent
+upon the nonforfeiture of the bail.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-326__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>When money, checks, or money orders have been given for bail in conformity
+with this Article, those funds may be deposited by the officer authorized to accept bail into
+an interest-bearing account established exclusively for the deposit of such funds. Interest
+earned on the deposits in the account shall be used solely for the operation and maintenance
+of the office of the clerk of court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112446</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-215"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-215"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 215"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-215/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-215/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-215/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-215/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-215">
+        <num>CCRP 215</num>
+        <heading>215.  Detention and arrest of shoplifters</heading>
+        <subsection eId="CCRP-215__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a merchant utilizes electronic devices which are designed to detect the
+unauthorized removal of marked merchandise from the store, and if sufficient notice has
+been posted to advise the patrons that such a device is being utilized, a signal from the device
+to the merchant or his employee or agent indicating the removal of specially marked
+merchandise shall constitute a sufficient basis for reasonable cause to detain the person.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-215__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>As used in this Article, the following definitions apply:</p>
+          </content>
+          <paragraph eId="CCRP-215__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Reasonable under the circumstances&quot; shall be construed in such a manner so as
+to include the value of the merchandise in question, the location of the store, the length of
+time taken for law enforcement personnel to respond, the cooperation of the person detained,
+and any other relevant circumstances to be considered with respect to the length of time a
+person is detained.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-215__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Theft prevention program&quot;  is a pre-arrest program designed to address the
+underlying causes of theft, reduce the occurrences of theft, and promote accountability and
+reconciliation between the person suspected of theft and the merchant, and may be provided
+by the merchant or an independent third-party provider.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112363</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

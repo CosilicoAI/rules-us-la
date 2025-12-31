@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-5187"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-5187"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 5187"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-5187/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-5187/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-5187/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-5187/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-5187">
+        <num>CCP 5187</num>
+        <heading>5187.  Compromise; dismissal of proceedings prior to judgment</heading>
+        <content>
+          <p>Art. 5187.  Compromise; dismissal of proceedings prior to judgment
+No compromise shall be effected unless all costs due these officers have been paid.  Should any compromise agreement be entered into in violation of this article, each party thereto is liable to these officers for all costs due them at the time.
+No judicial proceeding in which a party has been permitted to litigate without the payment of costs shall be dismissed prior to judgment, unless all costs due these public officers have been paid, or there is annexed to the written motion to dismiss the certificates of all counsel of record that no compromise has been effected or is contemplated.
+No release of a claim or satisfaction of a judgment shall be effective between the parties to a judicial proceeding in which one of the parties has been permitted to litigate without the payment of costs unless all costs due the clerk of court have been paid.  The clerk of court shall have a lien for the payment of such costs superior to that of any other party on any monies or other assets transferred in settlement of such claim or satisfaction of such judgment and shall be entitled to collect reasonable attorney's fees in any action to enforce this lien for the payment of such costs.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112178</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

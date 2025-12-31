@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-231"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-231"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 231"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-231/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-231/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-231/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-231/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-231">
+        <num>CCRP 231</num>
+        <heading>231.  Close pursuit of person from another state; authority to arrest</heading>
+        <subsection eId="CCRP-231__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A state, county, or city peace officer of another state of the United States
+who enters this state in close pursuit of a person and continues within this state in
+close pursuit to arrest him on the ground that he is reasonably believed to have
+committed a felony in the other state, shall have the same authority to arrest and hold
+the person in custody as has a peace officer of this state to arrest and hold a person
+in custody on the ground that he is reasonably believed to have committed a felony
+in this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-231__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>This Article shall not be construed so as to make unlawful any arrest in
+this state that would otherwise be lawful.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112390</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

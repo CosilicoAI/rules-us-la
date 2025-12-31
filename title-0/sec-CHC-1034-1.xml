@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1034-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1034-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1034.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1034-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1034-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1034-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1034-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1034-1">
+        <num>CHC 1034.1</num>
+        <heading>1034.1.  Federal Indian Child Welfare Act inquiry</heading>
+        <subsection eId="CHC-1034-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At the commencement of the hearing, the court shall inquire as to whether the
+petitioner or any person before the court knows or has reason to know that the child is an
+Indian child.  If no person before the court responds affirmatively, the court may proceed,
+although it shall instruct each person before the court to inform the court if he subsequently
+discovers information indicating that the child is an Indian child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1034-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In accordance with Article 1034.2, if the court finds that there is reason to know
+that the child is an Indian child, the court shall immediately proceed pursuant to the federal
+Indian Child Welfare Act and the regulations promulgated thereunder.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1034-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a tribe fails to respond to multiple requests for verification that the child is an
+Indian child and the court or department has sought the assistance of the Bureau of Indian
+Affairs in contacting the tribe, the court may make the determination that the child is not an
+Indian child based on the information it has available and proceed to termination in
+accordance with this Title.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1106781</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

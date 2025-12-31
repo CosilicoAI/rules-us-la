@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2315-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2315-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2315.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2315-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2315-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2315-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2315-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2315-2">
+        <num>CC 2315.2</num>
+        <heading>2315.2.  Wrongful death action</heading>
+        <subsection eId="CC-2315-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If a person dies due to the fault of another, suit may be brought by the following
+persons to recover damages which they sustained as a result of the death:</p>
+          </content>
+          <paragraph eId="CC-2315-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The surviving spouse and child or children of the deceased, or either the spouse
+or the child or children.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2315-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The surviving father and mother of the deceased, or either of them if he left no
+spouse or child surviving.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2315-2__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The surviving brothers and sisters of the deceased, or any of them, if he left no
+spouse, child, or parent surviving.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2315-2__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The surviving grandfathers and grandmothers of the deceased, or any of them,
+if he left no spouse, child, parent, or sibling surviving.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CC-2315-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The right of action granted by this Article prescribes one year from the death of
+the deceased or two years from the day that injury or damage is sustained, whichever is
+longer.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2315-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The right of action granted under this Article is heritable, but the inheritance of
+it neither interrupts nor prolongs the prescriptive period defined in this Article.
+D.</p>
+          </content>
+          <paragraph eId="CC-2315-2__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this Article, the words &quot;child&quot;, &quot;brother&quot;, &quot;sister&quot;, &quot;father&quot;,
+&quot;mother&quot;, &quot;grandfather&quot;, and &quot;grandmother&quot; include a child, brother, sister, father, mother,
+grandfather, and grandmother by adoption, respectively.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2315-2__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>As used in this Article, the words &quot;child&quot;, &quot;brother&quot;, and &quot;sister&quot; include a child,
+brother, or sister given in adoption, respectively.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CC-2315-2__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>For purposes of this Article, a father or mother who has abandoned the deceased
+during his minority is deemed not to have survived him.  Abandonment is presumed when
+the father or mother has left his child for a period of at least twelve months and the father or
+mother has failed to provide for the child's care and support, without just cause, thus
+demonstrating an intention to permanently avoid parental responsibility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2315-2__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The right of action granted by this Article for medical malpractice actions
+prescribes one year from the death of the deceased.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109371</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

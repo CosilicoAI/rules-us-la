@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1244-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1244-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1244.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1244-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1244-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1244-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1244-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1244-1">
+        <num>CHC 1244.1</num>
+        <heading>1244.1.  Opposition to intrafamily adoption; time limitations; appointment of counsel; attorney fees</heading>
+        <subsection eId="CHC-1244-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A parent, whose rights have not been terminated in accordance with Title X or XI or who has not previously consented to the adoption in accordance with Article 1244, may oppose the adoption of his child by filing a clear and written answer and opposition to the adoption.  The answer and opposition shall be filed with the court within fifteen days from the time of service of the filing of an intrafamily adoption petition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1244-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon receipt of the opposition, the court shall appoint an attorney to represent the child, subject to the limitations in Article 1121.  Neither the child nor anyone purporting to act on his behalf may be permitted to waive this right.  The costs of the representation of the child shall be taxed as costs of court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1244-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When the opposition provides that the parent cannot afford to hire an attorney, the court shall determine whether due process requires the appointment of counsel within twenty-one days of the filing of the opposition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1244-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Notice shall be served in accordance with Articles 1133 and 1134 on the opposing parent, the legal custodian, the petitioner, counsel appointed for the child, counsel appointed for the parent, and the other parent not consenting to the adoption pursuant to Article 1144 or whose rights have not previously been terminated.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=725563</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3506"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3506"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 3506"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3506/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3506/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3506/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3506/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-3506">
+        <num>CC 3506</num>
+        <heading>OF THE SIGNIFICATION OF SUNDRY TERMS</heading>
+        <subsection eId="CC-3506__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Assignment.  An assignment is a transfer of rights by particular title, such as by
+sale, donation, or particular legacy.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-3506__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Juridical act.  A juridical act is a manifestation of will intended to produce legal
+consequences.  Juridical acts may be unilateral, such as donations mortis causa, or bilateral,
+such as contracts.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-3506__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Successor. A successor is a person who takes the place of another.  There are two
+kinds of successors:  the universal successor, such as the heir, universal legatee, and general
+legatee; and the particular successor, such as the buyer, donee, or particular legatee.  The
+universal successor represents the person of the deceased and succeeds to his rights and
+charges.  The particular successor succeeds only to the rights appertaining to the thing that
+is sold, donated, or bequeathed, or otherwise transferred to him.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-3506__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Third person.  A third person is a person who is not a party to a ceremony, an
+instrument, a juridical act, a judgment, or a legal relationship.  Examples of third persons
+include officiants to ceremonies, witnesses to instruments or juridical acts, and all those other
+than obligor and obligee to the legal relationship between the former and the latter.  With
+respect to an obligation, a third person does not include a person such as a universal
+successor or a person who assumes the obligation or is bound by contract to recognize it.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110533</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

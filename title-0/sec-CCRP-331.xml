@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-331"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-331"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 331"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-331/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-331/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-331/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-331/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-331">
+        <num>CCRP 331</num>
+        <heading>331.  Discharge of bail obligation</heading>
+        <subsection eId="CCRP-331__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Upon conviction in any case, the bail undertaking shall cease and the surety
+shall be relieved of all obligations under the bail undertaking by operation of law without the
+need to file a motion or other pleading. The provisions of this Subparagraph shall not
+prejudice the state's right to obtain a judgment of bond forfeiture after the elapse of one
+hundred eighty days following the execution of the certificate that notice of warrant for arrest
+was sent pursuant to Article 334.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-331__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>In all cases, if necessary to assure the presence of the defendant at all future
+stages of the proceedings, the court may in its discretion, in accordance with Article 312
+require the defendant to post another bail undertaking or other acceptable security, or may
+release the defendant on bail without surety as provided for in Article 325.  The court may
+continue the existing bail undertaking with the written approval of the surety on the bail
+undertaking.  Such approval must be obtained from the surety after conviction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-331__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112454</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

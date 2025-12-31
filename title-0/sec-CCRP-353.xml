@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-353"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-353"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 353"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-353/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-353/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-353/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-353/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-353">
+        <num>CCRP 353</num>
+        <heading>353.  Application for writ; form and contents</heading>
+        <subsection eId="CCRP-353__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The name of the person in custody and the place of custody if known, or if not known, a statement to that effect;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-353__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The name of the custodian, if known, or if not known, a designation or description of him as far as possible; and</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-353__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A statement of facts upon which the petition is based, which statement may be supported by affidavits filed with the petition.
+The application shall conclude with a prayer for the issuance of the writ.  It shall be signed by the applicant and be accompanied by an affidavit that the allegations contained in the petition are true to the best of the affiant's information and belief.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112475</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

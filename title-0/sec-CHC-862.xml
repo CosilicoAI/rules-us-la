@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-862"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-862"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 862"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-862/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-862/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-862/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-862/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-862">
+        <num>CHC 862</num>
+        <heading>862.  Transfer hearing; required findings</heading>
+        <subsection eId="CHC-862__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In order for a motion to transfer a child to be granted, the burden shall be upon the state to prove all of the following:</p>
+          </content>
+          <paragraph eId="CHC-862__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Probable cause exists that the child meets the requirements of Article 857.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-862__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>By clear and convincing proof, there is no substantial opportunity for the child's rehabilitation through facilities available to the court, based upon the following criteria:</p>
+            </content>
+            <subparagraph eId="CHC-862__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The age, maturity, both mental and physical, and sophistication of the child.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-862__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The nature and seriousness of the alleged offense to the community and whether the protection of the community requires transfer.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-862__subsec_A__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The child's prior acts of delinquency, if any, and their nature and seriousness.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-862__subsec_A__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Past efforts at rehabilitation and treatment, if any, and the child's response.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-862__subsec_A__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Whether the child's behavior might be related to physical or mental problems.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-862__subsec_A__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Techniques, programs, personnel, and facilities available to the juvenile court which might be competent to deal with the child's particular problems.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-862__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court shall state for the record its reasons for judgment.
+C.</p>
+          </content>
+          <paragraph eId="CHC-862__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court shall transmit the order rendered after the hearing or a certified copy thereof, without delay, to the clerk of court having jurisdiction of the offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-862__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any party may request the court to provide a complete or partial transcript of the testimony of the witnesses; however, neither the record of the hearing nor the reasons for the transfer shall be admissible in evidence in any subsequent criminal proceedings, except for the purpose of impeachment of a witness.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73453</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1668"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1668"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1668"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1668/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1668/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1668/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1668/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1668">
+        <num>CHC 1668</num>
+        <heading>1668.  Finance</heading>
+        <subsection eId="CHC-1668__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Interstate Commission shall pay or provide for the payment of the reasonable expenses of its establishment, organization and ongoing activities.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1668__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The Interstate Commission shall levy on and collect an annual assessment from each compacting state to cover the cost of the internal operations and activities of the Interstate Commission and its staff which must be in a total amount sufficient to cover the Interstate Commission's annual budget as approved each year.  The aggregate annual assessment amount shall be allocated based upon a formula to be determined by the Interstate Commission, taking into consideration the population of each compacting state and the volume of interstate movement of juveniles in each compacting state and shall promulgate a rule binding upon all compacting states which governs said assessment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1668__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The Interstate Commission shall not incur any obligations of any kind prior to securing the funds adequate to meet the same; nor shall the Interstate Commission pledge the credit of any of the compacting states, except by and with the authority of the compacting state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1668__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The Interstate Commission shall keep accurate accounts of all receipts and disbursements.  The receipts and disbursements of the Interstate Commission shall be subject to the audit and accounting procedures established under its bylaws.  However, all receipts and disbursements of funds handled by the Interstate Commission shall be audited yearly by a certified or licensed public accountant and the report of the audit shall be included in and become part of the annual report of the Interstate Commission.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=181161</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

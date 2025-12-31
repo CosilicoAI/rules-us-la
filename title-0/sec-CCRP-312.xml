@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-312"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-312"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 312"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-312/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-312/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-312/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-312/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-312">
+        <num>CCRP 312</num>
+        <heading>312.  Right to bail before and after conviction</heading>
+        <subsection eId="CCRP-312__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in this Article and Article 313, a person in custody who is
+charged with the commission of an offense is entitled to bail before conviction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-312__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A person released on a previously posted bail undertaking for</p>
+          </content>
+          <paragraph eId="CCRP-312__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>a crime of
+violence as defined by R.S. 14:2(B) which carries a minimum mandatory sentence of
+imprisonment upon conviction or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-312__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>the production, manufacture, distribution, or dispensing
+or possession with intent to produce, manufacture, distribute, or dispense a controlled
+dangerous substance as defined by the Louisiana Uniform Controlled Dangerous Substances
+Law, shall not be readmitted to bail when the person previously failed to appear and a
+warrant for arrest was issued and not recalled or the previous bail undertaking has been
+revoked or forfeited.  If a person voluntarily appears without confinement by a law
+enforcement officer or bail recovery agent following a motion to revoke bail or issuance of
+an arrest warrant for failure to appear but prior to revocation or forfeiture, then he may be
+released only under one of the following circumstances:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-312__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>After a contradictory hearing, a person may be released on the previously posted
+bail undertaking if the motion to revoke bail is rescinded or the arrest warrant is recalled and
+the surety is present or represented at the hearing and gives written consent.  Previous
+instances of revocation and forfeiture in unrelated cases are admissible at the hearing.  This
+relief is available only once.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-312__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A person may be released on a new bail undertaking without a contradictory
+hearing only on bail with a commercial surety and in an amount higher than the original bail.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-312__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A defendant who has been surrendered under the provisions of Article 331, or has
+been rearrested under the provisions of Article 332, is entitled to bail in accordance with this
+Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-312__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A convicted person shall be remanded to jail to await sentence unless any of the
+following occur:</p>
+          </content>
+          <paragraph eId="CCRP-312__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>He is allowed to remain free on a bail undertaking posted prior to conviction by
+operation of Article 331(A), and the bail previously fixed is in accordance with all of the
+applicable provisions of this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-312__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>He is released by virtue of a bail undertaking posted after conviction, and the bail
+was fixed in accordance with this Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-312__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>After conviction and before sentence, bail shall be allowed if the maximum
+sentence which may be imposed is imprisonment for five years or less.  Bail may be allowed
+pending sentence if the maximum sentence which may be imposed is imprisonment
+exceeding five years, except when the court has reason to believe, based on competent
+evidence, that the release of the person convicted will pose a danger to any other person or
+the community, or that there is a substantial risk that the person convicted might flee.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-312__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>After sentence and until final judgment, bail shall be allowed if a sentence of five
+years or less is actually imposed.  Bail may be allowed after sentence and until final
+judgment if the sentence actually imposed exceeds imprisonment for five years, except when
+the court has reason to believe, based on competent evidence, that the release of the person
+convicted will pose a danger to any other person or the community, or that there is a
+substantial risk that the person convicted might flee.
+G.</p>
+          </content>
+          <paragraph eId="CCRP-312__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>After conviction of a capital offense, a defendant shall not be allowed bail.
+(2)</p>
+            </content>
+            <subparagraph eId="CCRP-312__subsec_F__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>After conviction of any crime punishable by imprisonment for twenty-five
+years or more that is both a sex offense and a crime of violence, there shall be a rebuttable
+presumption that the release of the person convicted will pose a danger to another person or
+the community and that there is a substantial risk that the person convicted might flee.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-312__subsec_F__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this Paragraph:</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-312__subsec_F__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>&quot;Crime of violence&quot; means any offense defined or enumerated as a crime of
+violence in R.S. 14:2(B).
+(ii)  &quot;Sex offense&quot; means any offense that requires registration and notification
+pursuant to R.S. 15:540 et seq.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-312__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>A person held without bail or unable to post bail may invoke the supervisory
+jurisdiction of the court of appeal on a claim that the trial court has improperly refused bail
+or a reduction of bail in a bailable case.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112430</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

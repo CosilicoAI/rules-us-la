@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-335"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-335"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 335"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-335/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-335/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-335/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-335/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-335">
+        <num>CHC 335</num>
+        <heading>335.  Preparation of record; costs</heading>
+        <subsection eId="CHC-335__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The clerk of the trial court shall cause the record on appeal to be prepared and
+lodged with the appellate court on or before the return day or extension thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-335__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>All records and supplemental records prepared for filing in any appellate court
+shall be certified and dated by the clerk upon completion.  The certification shall include the
+date any transcript was received for inclusion in the record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-335__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>All transcripts or parts thereof completed for inclusion in the record shall be dated
+and certified by the court reporter who prepares them.  The date of certification by the court
+reporter shall be the date on which the transcript was concluded and furnished to the clerk
+for inclusion in the record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-335__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If a child desires a transcript for appeal or for supervisory writ, the child or the
+parents of the child shall not be assessed the cost of transcription of the record or any other
+costs associated with the preparation of the record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-335__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If a parent, in a proceeding brought pursuant to Title V, VI, VII, X, or XI of this
+Code, desires a transcript for appeal or for supervisory writ, the parent shall pay the cost of
+transcription of the record unless the court determines that the parent is unable to pay due to
+poverty or lack of means.  The appointment of counsel for the parent in a proceeding shall
+create a rebuttable presumption that the parent is unable to pay the costs associated with the
+preparation of the appellate record or the costs for the transcription of the contested
+proceedings for inclusion in the appeal or supervisory writ.  If the court finds that the
+presumption has been rebutted, the court shall provide written reasons for its finding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-335__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If the court finds that the interests of justice so require, the court may waive the
+costs of transcription of the record or for supervisory writ for any other party with a right to
+an appeal who is unable to pay due to poverty or lack of means.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-335__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Failure of the clerk to prepare and lodge the record on appeal either timely or
+correctly shall not prejudice the appeal.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73135</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

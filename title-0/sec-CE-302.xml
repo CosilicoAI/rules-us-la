@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-302"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-302"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 302"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-302/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-302/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-302/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-302/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-302">
+        <num>CE 302</num>
+        <heading>302.  Definitions</heading>
+        <subsection eId="CE-302__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The &quot;burden of persuasion&quot; is the burden of a party to establish a requisite degree of belief in the mind of the trier of fact as to the existence or nonexistence of a fact.  Depending on the circumstances, the degree of belief may be by a preponderance of the evidence, by clear and convincing evidence, or as otherwise required by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-302__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A &quot;predicate fact&quot; is a fact or group of facts which must be established for a party to be entitled to the benefits of a presumption.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-302__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A &quot;presumption&quot; is an inference created by legislation that the trier of fact must draw if it finds the existence of the predicate fact unless the trier of fact is persuaded by evidence of the nonexistence of the fact to be inferred.  As used herein, it does not include a particular usage of the term &quot;presumption&quot; where the content, context, or history of the statute indicates an intention merely to authorize but not to require the trier of fact to draw an inference.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-302__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>An &quot;inference&quot; is a conclusion that an evidentiary fact exists based on the establishment of a predicate fact.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72448</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1436"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1436"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1436"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1436/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1436/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1436/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1436/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1436">
+        <num>CHC 1436</num>
+        <heading>1436.  Hearing; notice</heading>
+        <subsection eId="CHC-1436__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon the filing of the petition, the court shall assign a time, not later than
+eighteen calendar days thereafter, and a place for a hearing upon the petition and shall cause
+reasonable notice thereof to be delivered at least ten days prior to the hearing to the minor,
+the minor's attorney, the petitioner, and the Louisiana Department of Health, bureau of legal
+services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1436__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The notice shall inform the minor of the right to be present at the hearing; the
+right to counsel and, if indigent or otherwise qualified, the right to have counsel appointed
+from the MHAS; and the right to call and cross-examine witnesses testifying at any hearing
+on the petition.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72932</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

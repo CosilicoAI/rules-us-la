@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-694"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-694"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 694"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-694/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-694/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-694/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-694/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-694">
+        <num>CC 694</num>
+        <heading>694.  Enclosed estate; voluntary alienation or judicial partition</heading>
+        <subsection eId="CC-694__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When in the case of judicial partition, or a voluntary alienation of an estate or of
+a part thereof, property alienated or partitioned becomes enclosed, passage shall be furnished
+gratuitously to the owner and the owner's successors even if the location of the passage is not
+the shortest route to the public road, and even if the act of alienation or partition does not
+mention a right of passage.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-694__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In the case of judicial partition, passage shall be furnished by the owner of the
+land on which the passage was previously exercised. In the case of a voluntary alienation,
+passage shall be furnished on the estate whose owner caused the enclosure.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110888</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1522"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1522"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1522"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1522/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1522/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1522/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1522/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1522">
+        <num>CHC 1522</num>
+        <heading>1522.  Modification</heading>
+        <subsection eId="CHC-1522__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except when the parties jointly desire to dismiss the proceedings and return custody of the child to the parents, modification or enforcement of a judgment transferring custody shall be upon motion of any party and by order of the court according to the provisions of this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1522__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the parties jointly desire to dismiss the proceedings and return the custody of the child to the parents, the court shall be notified.  The court may render an ex parte dismissal of the proceedings, or it may order a hearing to be set for review of the proposed modification.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72990</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

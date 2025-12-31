@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-608"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-608"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 608"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-608/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-608/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-608/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-608/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-608">
+        <num>CHC 608</num>
+        <heading>608.  Parents' right to counsel; payment</heading>
+        <subsection eId="CHC-608__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The parents of a child who is the subject of a child in need of care proceeding
+shall be entitled to qualified, independent counsel after the court issues any order in
+accordance with Article 619(C) or 620 or at the filing of a petition and at all stages of the
+proceedings thereafter.  If the court does not issue an order in accordance with Article 619(C)
+or 620, the right to counsel shall attach upon the filing of a petition.  At all proceedings
+governed by Chapter 6 of this Title, the parents shall be presumed to be indigent.  Thereafter,
+indigence shall be determined in accordance with Article 320.  The right to counsel may be
+waived by a parent if the court determines that the parent choosing to waive the right to
+representation has been instructed by the court about the rights and the possible
+consequences of waiver.  Before accepting a waiver of counsel, the court shall ensure each
+of the following:</p>
+          </content>
+          <paragraph eId="CHC-608__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The parent has been informed by the court that the Department of Children and
+Family Services cannot provide legal advice to the parent or represent the parent's interest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-608__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The parent has been informed by the court that the child's attorney cannot provide
+legal advice to the parent and does not represent the parent's interest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-608__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The parent has been informed by the court that a proceeding brought in
+accordance with this Title may ultimately result in a termination of parental rights and a
+complete and permanent separation of the parent from the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-608__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The parent has been informed by the court that if the parent is unable to afford
+an attorney, one will be provided by the Indigent Parents' Representation Program.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-608__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>That the parent is eighteen years of age or older.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-608__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a parent of a child is financially unable to afford counsel or is presumed
+indigent in accordance with Paragraph A of this Article, the district public defender office
+shall provide for representation, unless the Louisiana Public Defender Board has contracted
+to provide for representation in accordance with R.S. 15:185.3(B)</p>
+          </content>
+          <paragraph eId="CHC-608__subsec_B__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>or any other provision
+of law.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-608__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The unavailability of counsel to represent the parent shall be good cause for a
+continuance of the continued custody hearing for up to three days, and the hearing shall not
+proceed until a qualified, independent attorney is provided to the parent.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73200</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

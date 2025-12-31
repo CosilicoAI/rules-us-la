@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1177"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1177"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1177"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1177/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1177/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1177/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1177/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1177">
+        <num>CHC 1177</num>
+        <heading>1177.  Hearing</heading>
+        <subsection eId="CHC-1177__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The application for court approval of adoptive placement shall be set for hearing in chambers, confidentially, and in a summary manner within forty-eight hours of its filing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1177__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>At the hearing, the prospective adoptive parents shall testify under oath concerning their fitness to receive the child into their care and custody, including but not limited to:</p>
+          </content>
+          <paragraph eId="CHC-1177__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Their moral fitness, previous criminal records or validated complaints of child abuse or neglect, if any.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1177__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Their mental and physical health.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1177__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Their financial capacity and disposition to provide the child with food, clothing, medical care, and other material needs.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1177__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Their capacity and disposition to give the child love, affection, and guidance and to undertake the responsibilities of becoming the child's parents.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1177__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The adequacy of the physical environment of their home and neighborhood for the placement of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1177__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The names and ages of other family members who would reside with the child in the prospective adoptive home and their attitude toward the proposed adoption.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1177__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The stability and permanence, as a family unit, of the proposed adoptive home.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72649</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

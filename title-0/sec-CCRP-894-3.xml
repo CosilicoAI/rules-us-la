@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 894.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-894-3">
+        <num>CCRP 894.3</num>
+        <heading>894.3.  Notice to victim for sentencing</heading>
+        <subsection eId="CCRP-894-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Before sentencing a defendant who has been convicted of a
+violation of a sex offense as defined in R.S. 15:541, the office of the district
+attorney shall notify the clerk of court of the name and the address of the
+victim, and the clerk of court shall give written notice of the date and time of
+sentencing at least three days prior to the hearing, when the sentencing is not
+immediately following the finding of guilt, to the victim or the victim's parent
+or guardian, unless the victim, parent, or guardian has advised the office of the
+district attorney in writing that such notification is not desired.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-894-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The victim or the victim's parent or guardian who desires to do so
+shall be given a reasonable opportunity to attend the hearing and to be heard.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112891</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

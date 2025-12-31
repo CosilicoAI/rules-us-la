@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-508"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-508"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 508"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-508/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-508/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-508/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-508/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-508">
+        <num>CHC 508</num>
+        <heading>508.  Multidisciplinary investigative team; scope of responsibility</heading>
+        <subsection eId="CHC-508__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Not later than February 15, 2004, a multidisciplinary investigative team shall be established for the investigation of child abuse within each judicial district.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-508__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The team shall be responsible for the investigation of all child sexual abuse cases, abuse and neglect cases involving allegations of the commission of a felony-grade crime against a child, and any other case involving trauma to a child, in accordance with their agency scope of services, which is referred to the team by any member and accepted by the team for investigation in compliance with the interagency protocols developed and instituted in accordance with Articles 509 and 510 of this Part.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-508__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Each team shall develop and institute interagency protocols in accordance with Articles 509 and 510 of this Part.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113440</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

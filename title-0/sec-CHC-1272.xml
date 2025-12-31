@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1272"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1272"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1272"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1272/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1272/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1272/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1272/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1272">
+        <num>CHC 1272</num>
+        <heading>1272.  Matching; verification by original documents; mandatory counseling</heading>
+        <subsection eId="CHC-1272__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The office of community services shall regularly monitor registrant affidavits, utilizing computer services if necessary, to determine whether affidavits have been filed by a registrant as enumerated in Article 1270.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1272__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If there appears to be a match between current registrants, the office of community services shall notify the registrants of the match and of the counseling requirements of Paragraph D of this Article.  Upon verification that each registered person has met the requirements the office of community services shall provide the details of the match to the licensed clinical social worker, social worker acting in the employ of a licensed adoption agency, licensed professional counselor, licensed psychologist, licensed psychiatrist, or licensed marriage and family therapist that provided counseling for the registrant, who shall then contact the registered and matched parties in a careful and confidential manner and give them the information necessary to contact each other.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1272__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If doubt exists that any registrants are biologically related, the office of community services shall advise them to file a motion with the court having jurisdiction and request permission to open the sealed adoption record for verification.  Such verification shall be a compelling reason, within the meaning of Article 1189, to open the adoption records for the limited purpose of verification.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1272__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Each registrant shall participate in not less than one hour of counseling with a licensed clinical social worker, a social worker acting in the employ of a licensed adoption agency, a licensed professional counselor, a licensed psychologist, medical psychologist, a licensed psychiatrist, or a licensed marriage and family therapist before they will be put in contact with one another.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72754</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

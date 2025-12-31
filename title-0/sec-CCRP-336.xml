@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-336"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-336"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 336"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-336/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-336/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-336/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-336/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-336">
+        <num>CCRP 336</num>
+        <heading>336.  Proof necessary at bond forfeiture hearing</heading>
+        <subsection eId="CCRP-336__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court at a contradictory hearing shall forfeit the bail undertaking and sign a
+judgment of bond forfeiture upon proof of all of the following:</p>
+          </content>
+          <paragraph eId="CCRP-336__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The bail undertaking.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-336__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The power of attorney, if any.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-336__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notice to the defendant and the surety as required by Article 334.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-336__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Proof that more than one hundred eighty days have elapsed since the notice of
+warrant for arrest was sent.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-336__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The judgment of bond forfeiture shall be issued against the defendant and his
+sureties in solido for the full amount of the bail.  A bail agent who represents the surety as
+an insurance agent shall not be solidarily liable for the judgment of bond forfeiture against
+the defendant and his sureties.  In the event that a bail agent who represents the surety as an
+insurance agent is held solidarily liable, then that bail agent may request to be released from
+the judgment.  However, the release of the bail agent shall have no effect on the judgment
+decreeing the forfeiture of the bail undertaking against the defendant and his sureties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-336__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The judgment shall include the address and the last four digits of the social
+security number for the defendant and the personal sureties.  A judgment of bond forfeiture
+shall not be set aside because of the invalidity of the information required by the provisions
+of this Article or for the failure to include the information required by this Article.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112460</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-439"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-439"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 439"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-439/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-439/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-439/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-439/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-439">
+        <num>CHC 439</num>
+        <heading>439.  Qualifications of mediator</heading>
+        <subsection eId="CHC-439__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In order to serve as a qualified mediator in any dispute arising under the provisions of this Code, in a court of original juvenile jurisdiction, a person shall meet all of the following criteria:</p>
+          </content>
+          <paragraph eId="CHC-439__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Complete a minimum of eight hours of juvenile co-mediation training under a course that has been approved by the Louisiana State Bar Association, Alternative Dispute Resolution Section, or under the direct supervision of a juvenile mediator who is qualified under the provisions of Subparagraph (B)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article, or a mediator who is qualified under the provisions of R.S. 9:334 and who has served as a dispute mediator for a minimum of fifty hours.
+B.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Mediators who prior to August 15, 1999, satisfied the provisions of Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article and served a minimum of fifty hours as a juvenile court dispute mediator are not required to complete eight hours of co-mediation training in order to serve as a qualified mediator and are qualified to supervise co-mediation training as provided in Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who has served as a Louisiana city, parish, family, juvenile, district, appellate, or supreme court judge for at least ten years and who is no longer serving as a judge shall be deemed qualified to serve as a mediator in juvenile court disputes if the co-mediation requirements of Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Article are completed and:</p>
+            </content>
+            <subparagraph eId="CHC-439__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The former judge has actually served as a judge in juvenile cases at the trial court level for at least three years and completes a minimum of twelve hours of general mediation training; or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-439__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The former judge completes at least twenty hours of specialized mediation training in juvenile court disputes.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-439__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Specialized training in the mediation of juvenile court disputes shall include clinical training in the development and practice of negotiation and mediation skills and instruction concerning these subjects:</p>
+          </content>
+          <paragraph eId="CHC-439__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Judicial procedure in juvenile cases.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Ethical standards, including confidentiality and conflicts of interest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Child development.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Family systems theory, including family conflict.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Mediation process and required document execution.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_C__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The dynamics of child abuse and neglect, delinquency, and rehabilitation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-439__subsec_C__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Substantive state and federal law, including but not limited to Adoption and Safe Families Act of 1997 (Public Law 105-89).</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-439__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In order to remain qualified, a mediator shall complete a minimum of twenty hours of clinical education in dispute mediation every two years.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-439__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A mediator shall furnish satisfactory evidence of his qualifications upon request.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-439__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The Louisiana State Bar Association, Alternative Dispute Resolution Section, may promulgate rules and regulations governing dispute mediator registration and qualifications and may establish a fee not to exceed one hundred dollars for registration sufficient to cover associated costs.  A person denied listing in the approved register may request a review of that decision by a panel of three members of the Louisiana State Bar Association, Alternative Dispute Resolution Section.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-439__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>For purposes of this Article, an &quot;hour&quot; means a period of at least sixty minutes of actual instruction.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73180</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

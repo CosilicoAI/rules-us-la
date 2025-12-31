@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-312"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-312"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 312"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-312/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-312/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-312/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-312/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-312">
+        <num>CHC 312</num>
+        <heading>312.  Juvenile jurisdiction over adults; criminal proceedings</heading>
+        <subsection eId="CHC-312__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A court exercising juvenile jurisdiction shall have exclusive original jurisdiction,
+in conformity with any special rules prescribed by law, to try an adult for the following
+offenses:</p>
+          </content>
+          <paragraph eId="CHC-312__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The crime of contributing to the delinquency or dependency of children as
+authorized by R.S. 14:92.1.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-312__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Criminal neglect of family.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-312__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The crime of improper supervision of a minor by parent or legal custodian as
+authorized by R.S. 14:92.2.
+B.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-312__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-312__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Paragraph, a district court shall
+have exclusive original jurisdiction, in conformity with any special rules prescribed by law,
+to try an adult for the following offenses:</p>
+            </content>
+            <subparagraph eId="CHC-312__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The crime of contributing to the delinquency of children as authorized by R.S.
+14:92.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-312__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other misdemeanor enacted for the protection of the physical, moral, or
+mental well-being of children.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-312__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In Orleans Parish, jurisdiction pursuant to Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-312__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph 
+is vested in the criminal district court for that parish or the Municipal and Traffic Court of
+New Orleans.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-312__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the defendant in any case within this Article is entitled to trial by jury and does
+not waive that right, the court shall transfer the case to its criminal docket or to the
+appropriate court having criminal jurisdiction.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73111</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

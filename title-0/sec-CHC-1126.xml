@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1126"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1126"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1126"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1126/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1126/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1126/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1126/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1126">
+        <num>CHC 1126</num>
+        <heading>1126.  Fiduciary duty; breach; good faith exception</heading>
+        <subsection eId="CHC-1126__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The agency or person to whom a surrender is made shall have the duty to make a good faith effort to obtain the Statement of Family History required by Articles 1124 and 1125, to deliver it to prospective adoptive parents upon placement, and to make it available, upon request, to the adopted person at the age of eighteen years or older.  If the Statement of Family History is subsequently transferred to another agency or person, the new custodian of the information assumes responsibility to the adopted person.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1126__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Failure to comply with the provisions of this Chapter or the intentional or willful falsification of information shall constitute a breach of fiduciary duty, punishable by a fine of not less than one hundred nor more than five hundred dollars.  Should the agency or person to whom a surrender is made fail to obtain all information required for the Statement of Family History, the agency or person shall document by affidavit the good faith efforts made to obtain such information and that such efforts were unproductive.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72611</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

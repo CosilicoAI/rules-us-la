@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-412"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-412"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 412"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-412/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-412/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-412/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-412/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-412">
+        <num>CHC 412</num>
+        <heading>412.  Confidentiality of records; disclosure exceptions; sanctions</heading>
+        <subsection eId="CHC-412__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Records and reports concerning all matters or proceedings before the juvenile
+court, except traffic violations, are confidential and shall not be disclosed except as expressly
+authorized by this Code.  Any person authorized to review or receive confidential
+information shall preserve its confidentiality unless a court order authorizes them to share
+with others.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Nonidentifying information of a general nature, including statistics, is not
+confidential and may be released without a court order.  By court order, an individual may
+be authorized to review confidential records and reports, including case file samples, for the
+purpose of collecting nonidentifying general information, including statistics.  The court
+order shall specify the type of information authorized for review and bind the reviewer to
+preserving the confidentiality of any identifying information reviewed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Records and reports in individual cases may be released to parties, their counsel
+or other legal representatives, and court-appointed special advocates (CASAs) in accordance
+with discovery and disclosure provisions of this Code. Notwithstanding any other provision
+of law to the contrary, access to review all records and reports concerning a child in the
+custody of the office of juvenile justice, including but not limited to records relating to
+condition, housing, supervision, treatment, rehabilitation program, education, health,
+discipline, transition planning, risk assessments, and status reports shall be promptly
+provided to counsel enrolled for the child or engaged by the child, or to the child's legal
+guardian, upon written request to the office of juvenile justice. If the child is indigent, copies
+of all records and reports relevant to post-dispositional defense and reentry advocacy shall
+be furnished at no cost to the child, the child's family, legal guardian, or counsel.
+Representation by a public defender shall create an irrebuttable presumption of indigence for
+the purposes of this Paragraph.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When such information is relevant and necessary to the performance of their
+respective duties and enhances services to the child or his family, the court may authorize the
+release of records, reports, or certain information contained therein, limited to the specific
+purpose for which the court authorizes release, to appropriate individuals who represent any
+of the following when they are providing services to the child whose records are disclosed
+during the pendency of the matter about which the records are disclosed:</p>
+          </content>
+          <paragraph eId="CHC-412__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Other courts and court-affiliated programs.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Department of Children and Family Services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The office of juvenile justice of the Department of Public Safety and Corrections.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The Louisiana Department of Health.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The Department of Education or the local school in which the child is a student.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The local district attorney's office.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A multidisciplinary investigative child abuse team.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>A child advocacy center.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The attorney general's office.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>A district public defender or the district public defender's representative, or the
+representative of a public defender program established pursuant to the Louisiana Public
+Defender Act of 2007.
+E.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For good cause when the information is material and necessary to a specific
+investigation or proceeding, the court may order the release of individual records and reports,
+or certain information contained therein, to a petitioner, limited to the specific purpose for
+which the court authorizes release.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The petition must:</p>
+            </content>
+            <subparagraph eId="CHC-412__subsec_D__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Be filed with the juvenile court and served on the juvenile and his attorney.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-412__subsec_D__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>State the reason for the request and the intended use of the information, including
+any intended redisclosure.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-412__subsec_D__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>State the names of all persons that will have access to the information.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In ruling on the petition, the juvenile court shall consider the privacy of the
+juvenile, risk of harm to the juvenile, whether a compelling reason exists for releasing the
+information, and whether the release is necessary for the protection of a legitimate interest.
+The court shall ensure the juvenile is afforded notice of the hearing and an opportunity to be
+heard at a contradictory hearing on the petition.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-412__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The court may release records and reports concerning any proceeding, except
+adoption, to an adult who, as a child, was the subject of the proceeding.  For good cause, the
+court may also order release of records and reports to the counsel or other appropriate legal
+representative of a child, still a minor, who was the subject of any proceedings, except
+adoption.
+G.</p>
+          </content>
+          <paragraph eId="CHC-412__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In accordance with Articles 811.1 and 811.3, the district attorney or court shall,
+upon request, release to the victim of a delinquent act constituting a crime of violence as
+defined in R.S. 14:2(B), or to the victim's legal representative or designated family member:</p>
+            </content>
+            <subparagraph eId="CHC-412__subsec_F__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The results of adjudication and disposition hearings.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-412__subsec_F__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notice of the taking into custody, release pursuant to Chapter 6 of Title VIII of
+this Code, release due to a rejection of charges by the district attorney, escape, or re-apprehension of the child accused of the crime of violence against the victim.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-412__subsec_F__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Advance notice of court proceedings relating to the delinquent act.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-412__subsec_F__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Certain information contained in the predisposition report to the court pursuant
+to Article 890, limited to those items described in Subparagraph (A)</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of that Article.</p>
+            </content>
+            <subparagraph eId="CHC-412__subsec_F__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The name of the judge presiding over the adjudication and disposition hearings.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-412__subsec_F__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The offense which forms the basis for adjudication.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-412__subsec_F__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The name of the accused.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In a juvenile delinquency case involving a crime of violence as defined in R.S.
+14:2(B), the court shall, upon written request, release to the public the following:</p>
+            </content>
+            <subparagraph eId="CHC-412__subsec_F__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The nonidentifying results of adjudication and disposition hearings.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-412__subsec_F__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name of the judge presiding over the adjudication and disposition hearings.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-412__subsec_F__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The offense which forms the basis for adjudication.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-412__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>In order to assist in finding and taking into custody a child wanted for a felony-grade delinquent act involving an offense against the person or involving a dangerous
+weapon, law enforcement agencies may release to the public identifying information
+regarding the child if a court has issued an order for taking the child into custody pursuant
+to Article 813, or if probable cause that the child committed the alleged delinquent act has
+already been established pursuant to Article 820. Identifying information may include the
+child's name, age, alleged delinquent act, physical description, and photograph.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>Any violation of the confidentiality provisions of this Article shall be punishable
+as a constructive contempt of court pursuant to Articles 1507 through 1509.1.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>Whenever a child escapes from a juvenile detention center, law enforcement
+agencies are hereby authorized to release to the public the child's name, age, physical
+description, and photograph.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412__subsec_K">
+          <num>K.</num>
+          <content>
+            <p>Every person, other than the juvenile, parents of the juvenile, and attorney for the
+juvenile, to whom a juvenile record or information from a juvenile is disclosed pursuant to
+this Article shall execute a non-disclosure agreement that certifies the person is familiar with
+the applicable disclosure provisions and agrees not to disclose any information to
+unauthorized persons.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412__subsec_L">
+          <num>L.</num>
+          <content>
+            <p>Juvenile records or information from juvenile records disclosed pursuant to this
+Article shall be marked &quot;UNLAWFUL DISSEMINATION OF THIS INFORMATION IS
+PUNISHABLE AS A CONSTRUCTIVE CONTEMPT OF COURT PURSUANT TO
+LOUISIANA CHILDREN'S CODE ARTICLE 1509(E)&quot;.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412__subsec_M">
+          <num>M.</num>
+          <content>
+            <p>Records of juvenile criminal conduct shall not be disseminated as a criminal
+background check to anyone outside of the criminal justice system as defined in R.S. 15:576.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-412__subsec_N">
+          <num>N.</num>
+          <content>
+            <p>This Article shall not apply to records relative to any matters identified in Article
+879(B)</p>
+          </content>
+          <paragraph eId="CHC-412__subsec_N__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding any other law to the contrary, the state child ombudsman shall
+have access to judgments and court minute entries concerning matters or proceedings before
+the juvenile court as needed in furtherance of the ombudsman's statutory duties.  Any
+judgments and court minute entries provided to the state child ombudsman shall remain
+confidential and shall not be subject to any further disclosure, absent an order of the juvenile
+court for that purpose.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-412__subsec_N__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The office of juvenile justice shall provide to the state child ombudsman, upon
+written request of the state child ombudsman, any record or report concerning a child in the
+custody of or under the supervision of the office of juvenile justice needed in furtherance of
+the ombudsman's statutory duties, including but not limited to records related to condition,
+housing, supervision, treatment, rehabilitation program, education, health, discipline,
+transition planning, risk assessments, and status reports.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-412__subsec_P">
+          <num>P.</num>
+          <content>
+            <p>This Article shall not prohibit the creation of an interoperable set of criminal
+justice information systems at the state and local levels pursuant to R.S. 15:575 et seq., or
+preclude the dissemination of criminal history record information as defined in R.S. 15:576
+in and to the criminal justice system as defined in R.S. 15:576.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73150</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-1-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-1-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 1.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-1-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-1-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-1-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-1-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-1-2">
+        <num>HRULE 1.2</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-1-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Only the members of the House and the Clerk of the House; officers and
+employees of the House or of members of the House; the Secretary of the Senate, members
+of the Senate and the officers and employees of the Senate, or of senators; the director of the
+Legislative Council, the Legislative Auditor, the Legislative Fiscal Officer and their
+employees shall be admitted on the floor while the House is in session.  The House floor, for
+purposes of these rules, is defined as that area so designated in the diagram of the House
+Chamber and House floor included in this rule.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-1-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>One chair shall be permanently affixed to the floor at the desk of each House
+member, and no other chairs shall be permitted on the floor of the House.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-1-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Special permission to sit on the House floor may be granted by the presiding
+officer of the House to visiting officials of other states or of the United States or of foreign
+countries.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-1-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A designated place in the House Chamber shall be provided for the news media,
+who shall have free access thereto.  Accreditation of members of the press and of members
+of any news media for admission shall be administered by the Speaker of the House or he
+may delegate this function to the House and Governmental Affairs Committee.  No member
+of the press or of any news media shall conduct any formal interview with a House member
+on the House floor while the House is in session.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-1-2__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Section A of the attached diagram shall be designated for use of employees of the
+House and others designated in Paragraph A of this Rule and, upon permission of the
+presiding officer of the House, it shall be for the use of family members and special guests
+of House members.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-1-2__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Section B of the attached diagram shall be provided with seating facilities for the
+public and House members on a first-come, first-served basis.  No person shall be allowed
+into this section unless there is an available seat.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-1-2__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>One or more sergeants at arms shall be designated to supervise Section B, and one
+or more employees shall be designated to carry messages from the public in this area to any
+House member with whom a consultation is desired.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-1-2__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>Seating facilities shall be provided for the public in the House gallery. 
+Admittance shall be under such conditions as determined by the presiding officer of the
+House.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-1-2__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>Only members of the House and of the Senate and legislative staff shall be
+admitted to the legislative lounges.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-1-2__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>An interpreter designated and authorized by the presiding officer of the House to
+provide speech translation services for the House of Representatives shall be admitted to the
+floor while the House is in session in order to provide such services.
+Mason's Manual:  Sec. 705(3 and 6)
+HR 3, 1973; HR 7, 1975; HR 4, 1978; HR 14, 1985; HR 4, 1st Ex. Sess., 1988; HR
+13, 1988; HR 8, 1991, eff. Jan. 13, 1991; HR 45, 1998, eff. May 20, 1998; HR 3, 2018.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113192</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

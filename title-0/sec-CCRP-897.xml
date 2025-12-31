@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-897"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-897"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 897"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-897/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-897/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-897/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-897/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-897">
+        <num>CCRP 897</num>
+        <heading>897.  Termination of probation or suspended sentence; discharge of defendant</heading>
+        <subsection eId="CCRP-897__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In a felony case, other than for a conviction of operating a vehicle while
+intoxicated, vehicular homicide, or first degree vehicular negligent injuring, the court may
+terminate the defendant's probation, early or as unsatisfactory, and discharge him at any time
+after the expiration of one year of probation when either of the following occur:</p>
+          </content>
+          <paragraph eId="CCRP-897__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The state has previously provided written verification that it has no opposition
+to the termination of the probation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-897__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A contradictory hearing with the state, set by the court, has been held.  The court
+shall provide notice of the hearing to the state at least fifteen days prior to the hearing date.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-897__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In a misdemeanor case, other than for a conviction of vehicular negligent injuring,
+the court may terminate the defendant's suspended sentence or probation and discharge him
+at any time when all of the following conditions are met:</p>
+          </content>
+          <paragraph eId="CCRP-897__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The termination or discharge is ordered in open court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-897__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The state is present at the time the termination or discharge is ordered and has
+been afforded an opportunity to participate in a contradictory hearing on the matter.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112898</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

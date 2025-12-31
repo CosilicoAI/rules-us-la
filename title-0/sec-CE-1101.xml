@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-1101"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-1101"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 1101"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-1101/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-1101/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-1101/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-1101/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-1101">
+        <num>CE 1101</num>
+        <heading>Section </heading>
+        <subsection eId="CE-1101__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Proceedings generally; rule of privilege.</p>
+          </content>
+          <paragraph eId="CE-1101__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as otherwise provided by legislation, the provisions of this Code shall be applicable to the determination of questions of fact in all contradictory judicial proceedings and in proceedings to confirm a default judgment.  Juvenile adjudication hearings in delinquency proceedings shall be governed by the provisions of this Code applicable to civil cases.  Juvenile adjudication hearings in delinquency proceedings shall be governed by the provisions of this Code applicable to criminal cases.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Furthermore, except as otherwise provided by legislation, Chapter 5 of this Code with respect to testimonial privileges applies to all stages of all actions, cases, and proceedings where there is power to subpoena witnesses, including administrative, juvenile, legislative, military courts-martial, grand jury, arbitration, medical review panel, and judicial proceedings, and the proceedings enumerated in Paragraphs B and C of this Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-1101__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Limited applicability.  Except as otherwise provided by Article 1101(A)</p>
+          </content>
+          <paragraph eId="CE-1101__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>and other legislation, in the following proceedings, the principles underlying this Code shall serve as guides to the admissibility of evidence.  The specific exclusionary rules and other provisions, however, shall be applied only to the extent that they tend to promote the purposes of the proceeding.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Worker's compensation cases.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Child custody cases.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Revocation of probation hearings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Preliminary examinations in criminal cases, and the court may consider evidence that would otherwise be barred by the hearsay rule.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>All proceedings before mayors' courts and justice of the peace courts.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Peace bond hearings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Extradition hearings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Hearings on motions and other summary proceedings involving questions of fact not dispositive of or central to the disposition of the case on the merits, or to the dismissal of the case, excluding in criminal cases hearings on motions to suppress evidence and hearings to determine mental capacity to proceed.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-1101__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Rules inapplicable.  Except as otherwise provided by Article 1101(A)</p>
+          </content>
+          <paragraph eId="CE-1101__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>and other legislation, the provisions of this Code shall not apply to the following:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The determination of questions of fact preliminary to admissibility of evidence when the issue is to be determined by the court under Article 104.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Proceedings with respect to release on bail.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Disposition hearings in juvenile cases.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Sentencing hearings except as provided in Code of Criminal Procedure Article 905.2 in capital cases.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Small claims court proceedings except as provided in R.S. 13:5203 and 13:5207.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-1101__subsec_C__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Proceedings before grand juries except as provided by Code of Criminal Procedure Article 442.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-1101__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Discretionary applicability.  Notwithstanding the limitations on the applicability of this Code stated in Paragraphs A, B, and C of this Article, in all judicial proceedings a court may rely upon the provisions of this Code with respect to judicial notice, authentication and identification, and proof of contents of writings, recordings, and photographs as a basis for admitting evidence or making a finding of fact.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72441</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

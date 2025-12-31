@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-543"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-543"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 543"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-543/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-543/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-543/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-543/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-543">
+        <num>CHC 543</num>
+        <heading>543.  Interagency information sharing; interagency agreements</heading>
+        <subsection eId="CHC-543__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Through the Children's Cabinet, the agencies specified in Article 543(F) shall
+develop policies to facilitate interagency information sharing in the most effective and
+expeditious manner.  However, the adoption of formal policies shall not be prerequisite to
+the implementation of the provisions of this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-543__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The Children's Cabinet shall facilitate the development of interagency agreements
+and cooperation regarding the sharing of data concerning children and families involved in
+the juvenile justice system.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-543__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Interagency agreements shall include provisions regarding the specific data to be
+shared among agencies, the person or persons allowed by each party to have access to the
+other party's data, and the security arrangements between parties to ensure the protection of
+the data from unauthorized access that may threaten the privacy of persons and the
+confidentiality of the data.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-543__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Interagency agreements shall be in writing and a copy shall be furnished to the
+court exercising juvenile jurisdiction, the Children's Cabinet, and to each agency involved
+in the treatment, care, and rehabilitation of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-543__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The Children's Cabinet shall provide procedures, which may include a forum, for
+the presentation of interagency recommendations and the resolution of disagreements relating
+to the contents of interagency agreements or the performance by the parties of their
+respective obligations under such agreements.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-543__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Agencies involved in facilitating agreements regarding the sharing of information
+regarding children and families shall include:</p>
+          </content>
+          <paragraph eId="CHC-543__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Children and Family Services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-543__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Louisiana Department of Health.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-543__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Department of Education.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-543__subsec_F__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Youth services of the Department of Public Safety and Corrections.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-543__subsec_F__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Louisiana Works.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-543__subsec_F__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Courts exercising juvenile jurisdiction.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-543__subsec_F__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Offices of district attorneys.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-543__subsec_F__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Law enforcement agencies.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-543__subsec_F__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>City, parish, and other local public school boards.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-543__subsec_F__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Truancy assessment service centers.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-543__subsec_F__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Families in Need of Services offices.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=321979</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

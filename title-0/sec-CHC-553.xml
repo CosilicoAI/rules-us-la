@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-553"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-553"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 553"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-553/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-553/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-553/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-553/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-553">
+        <num>CHC 553</num>
+        <heading>553.  Access to child; records; communication</heading>
+        <subsection eId="CHC-553__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Any attorney representing a child in a child abuse and neglect case as defined herein shall have reasonable access to and the opportunity to consult with the child whenever and wherever necessary in the performance of his duties and shall have ready access to view and copy all medical, mental health, developmental disability, and education records pertaining to his client whether such records are in hard copy or electronic form.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-553__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The person with whom or facility in which the child is placed shall provide reasonable access and privacy for the purpose of attorney-client consultation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-553__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A child shall have the right to communicate in any manner in private with counsel at all times.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=408230</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

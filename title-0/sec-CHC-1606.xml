@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1606"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1606"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1606"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1606/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1606/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1606/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1606/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1606">
+        <num>CHC 1606</num>
+        <heading>1606.  Medical assistance</heading>
+        <subsection eId="CHC-1606__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Children for whom a party state is committed in accordance with the terms of an adoption assistance agreement to make adoption assistance payments are eligible for medical assistance during the entire period for which such payments are to be provided.  Upon application therefor, the adoptive parents of a child on whose behalf a party state's duly constituted authorities have entered into an adoption assistance agreement shall receive a medical assistance identification made out in the child's name.  The identification shall be issued by the medical assistance program of the residence state and shall entitle the child to the same benefits, pursuant to the same procedures, as any other child who is a resident of the state and covered by medical assistance, whether or not the adoptive parents are eligible for medical assistance.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1606__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The identification shall bear no indication that an adoption assistance agreement with another state is the basis for issuance.  However, if the identification is issued on account of an outstanding adoption assistance agreement to which another state is a signatory, the records of the issuing state and the adoption assistance state shall show the fact and shall contain a copy of the adoption assistance agreement and any amendment or replacement therefor, and all other pertinent information.  The adoption assistance and medical assistance programs of the adoption assistance state shall be notified of the identification issuance.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1606__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A state which has issued a medical assistance identification pursuant to this compact, which identification is valid and currently in force, shall accept, process, and pay medical assistance claims thereon as on any other medical assistance eligibilities of residents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1606__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>An adoption assistance state which provides medical services or benefits to children covered by its adoption assistance agreements, which services or benefits are not provided for those children under the medical assistance program of the residence state, may enter into cooperative arrangements with the residence state to facilitate the delivery and administration of such services and benefits.  However, any such arrangements shall not be inconsistent with this compact nor shall they relieve the residence state of any obligation to provide medical assistance in accordance with its laws and this compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1606__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A child whose residence is changed from one party state to another party state shall be eligible for medical assistance under the medical assistance program of the new state of residence.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73040</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

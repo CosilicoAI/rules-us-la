@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-517"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-517"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 517"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-517/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-517/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-517/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-517/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-517">
+        <num>CE 517</num>
+        <heading>517.  Subpoena of accountant; civil, juvenile, administrative proceedings</heading>
+        <subsection eId="CE-517__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>General rule.  Neither a subpoena nor a court order shall be issued to an accountant or his representative to appear or testify in any civil or juvenile proceeding, including pretrial discovery, or in an administrative investigation or hearing, except proceedings by the State Board of Accountancy as provided in the Louisiana Accountancy Act, where the purpose of the subpoena or order is to ask the accountant or his representative to reveal information about a client or former client obtained in the course of representing the client unless the court determines, after a contradictory hearing held after service of actual notice to the accountant and the client at least ten days prior to the contradictory hearing, that the information sought is not protected from disclosure by any applicable privilege or work product rule and all of the following apply:</p>
+          </content>
+          <paragraph eId="CE-517__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The information sought is essential to the successful completion of an ongoing investigation, is essential to the case of the party seeking the information, and is not merely peripheral, cumulative, or speculative.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-517__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The purpose of seeking the information is not to harass the accountant or his client.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-517__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>With respect to a subpoena, the subpoena lists the information sought with particularity, is reasonably limited as to subject matter and period of time, and gives timely notice.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-517__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>There is no practicable alternative means of obtaining the information.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-517__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Waiver.  Failure to object timely to noncompliance with the terms of this Article constitutes a waiver of the procedural protections of this Article, but does not constitute a waiver of any privilege.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-517__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Binding effect of determination;  notice to client.  The determination that an accountant-client privilege is not applicable to the testimony shall not bind the client or former client unless the client or former client was given notice within the time period set forth in Subsection A of this Section, of the time, place, and substance of the hearing and had an opportunity fully to participate in that hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-517__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Scope.  Nothing in this Article is intended to affect the absolute privileges against disclosure in R.S. 37:86(B) through (E).</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72488</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-192-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-192-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 192.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-192-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-192-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-192-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-192-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-192-1">
+        <num>CCP 192.1</num>
+        <heading>192.1.  Interpreters for deaf and severely hearing-impaired persons</heading>
+        <subsection eId="CCP-192-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In all civil cases and in the taking of any deposition where a party or a witness is a deaf or severely hearing-impaired person, the proceedings of the trial shall be interpreted to him in a language that he can understand by a qualified interpreter appointed by the court.  The qualification of an interpreter as an expert is governed by the Louisiana Code of Evidence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-192-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In any case in which an interpreter is required to be appointed by the court under the provisions of this Article, the court shall not commence proceedings until the appointed interpreter is in court.  The interpreter so appointed shall take an oath or affirmation that he will make a true interpretation to the deaf or severely hearing-impaired person of all the proceedings of the case in a language that he understands, and that he will repeat the deaf or severely hearing-impaired person's answer to questions to counsel, court or jury to the best of his skill and judgment.
+C.</p>
+          </content>
+          <paragraph eId="CCP-192-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Interpreters appointed in accordance with the provisions of this Article shall be paid an amount determined by the judge presiding.  In the event travel of the interpreter is necessary, all of the actual expenses of travel, lodging, and meals incurred by the interpreter in connection with the case at which the interpreter is appointed to serve shall be paid at the same rate applicable to state employees.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-192-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The costs of such interpreter shall be borne by the court.
+Added by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111347</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3609"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3609"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 3609"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3609/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3609/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3609/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3609/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-3609">
+        <num>CCP 3609</num>
+        <heading>3609.  Proof at hearings; affidavits</heading>
+        <content>
+          <p>Art. 3609.  Proof at hearings; affidavits
+The court may hear an application for a preliminary injunction or for the dissolution or modification of a temporary restraining order or a preliminary injunction upon the verified pleadings or supporting affidavits, or may take proof as in ordinary cases.  If the application is to be heard upon affidavits, the court shall so order in writing, and a copy of the order shall be served upon the defendant at the time the notice of hearing is served.
+At least twenty-four hours before the hearing, or such shorter time as the court may order, the applicant shall deliver copies of his supporting affidavits to the adverse party, who shall deliver to the applicant prior to the hearing copies of affidavits intended to be used by such adverse party.  The court, in its discretion, and upon such conditions as it may prescribe, may permit additional affidavits to be filed at or after the hearing, and may further regulate the proceeding as justice may require.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111812</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

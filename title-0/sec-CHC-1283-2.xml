@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1283-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1283-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1283.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1283-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1283-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1283-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1283-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1283-2">
+        <num>CHC 1283.2</num>
+        <heading>1283.2.  Permissible reimbursement of expenses</heading>
+        <subsection eId="CHC-1283-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The petitioner shall file with the petition a preliminary estimate and accounting
+of fees and charges in accordance with Article 1283.3.  The petitioner also shall file a final
+Adoption Disclosure Affidavit with the court not later than ten days prior to the date
+scheduled for the final hearing on the adoption.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1283-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Payments made by or on behalf of the adoptive parents or their representative to
+the department or to a child-placing agency or its agent or any broker for reimbursement of
+the following expenses are permissible and not a violation of R.S. 14:286:</p>
+          </content>
+          <paragraph eId="CHC-1283-2__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Reasonable medical expenses, including hospital, testing, nursing,
+pharmaceutical, travel, or other similar expenses incurred by the biological mother for
+prenatal care and those medical and hospital expenses incurred by the biological mother and
+child incident to birth.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1283-2__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Reasonable medical expenses, including hospital, testing, nursing,
+pharmaceutical, travel, or other similar expenses and foster care expenses incurred on behalf
+of the child prior to the decree of adoption.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1283-2__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Reasonable expenses incurred by the department or the agency for adjustment
+counseling and training services provided to the adoptive parents and for home studies or
+investigations.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1283-2__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Reasonable administrative expenses incurred by the department or the agency,
+including overhead, court costs, travel costs, donations required by an orphanage, notarial
+and interpreter fees, emigration permit costs, and attorney fees.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1283-2__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Any other specific service or fee the court finds is reasonable and necessary.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1283-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The payment of expenses permitted by Paragraph B may not be made contingent
+on the placement of a child for adoption, relinquishment of the child, or consent to the
+adoption.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1283-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Adoptive parents shall pay to the department any of the expenses listed in
+Paragraph A of this Article which may be imposed by the department.  Such payments shall
+be imposed solely at the discretion of the department.  The department shall not include
+payment of the expenses listed in Paragraph A of this Article as a requirement for adoption.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1283-2__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If a court determines from an accounting that an amount that is going to be or has
+been disbursed for expenses permitted by Paragraph B is unreasonable, it shall order a
+reduction in the amount  disbursed, or to be disbursed, and order the person who received the
+disbursement to refund that portion.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1283-2__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If a court determines from an accounting that an amount is going to be or has been
+disbursed for expenses not permitted by Paragraph B, it may:</p>
+          </content>
+          <paragraph eId="CHC-1283-2__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Issue an injunction prohibiting the disbursement or order the person who received
+the disbursement to refund it.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1283-2__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Inform the district attorney for the consideration of criminal charges pursuant to
+R.S. 14:286.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1283-2__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If in the best interest of the child, the court may also refuse to approve the
+adoption.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1283-2__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>The court shall not issue a final decree of adoption until it has reviewed and
+approved the final accounting.
+NOTE: Subsection H eff. until October 1, 2027. See</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72784</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

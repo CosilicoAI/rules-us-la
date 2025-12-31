@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-611"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-611"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 611"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-611/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-611/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-611/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-611/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-611">
+        <num>CCRP 611</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-611__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>All trials shall take place in the parish where the offense has been committed,
+unless the venue is changed.  If acts constituting an offense or if the elements of an offense
+occurred in more than one place, in or out of the parish or state, the offense is deemed to
+have been committed in any parish in this state in which any such act or element occurred.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-611__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the offender is charged with any criminal homicide enumerated in R.S. 14:29
+or any other crime involving the death of a human being and it cannot be determined where
+the offense or the elements of the offense occurred, the offense is deemed to have been
+committed in the parish where the body of the victim was found.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-611__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the offender is charged with any of the following offenses, the offense is
+deemed to have been committed either in the parish where the offense occurred or where the
+victim resides:</p>
+          </content>
+          <paragraph eId="CCRP-611__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>R.S. 14:67.16, identity theft.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-611__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>R.S. 14:70.4, access device fraud.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-611__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>R.S. 14:70.8, illegal transmission of monetary funds.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-611__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>R.S. 14:71.1, bank fraud.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-611__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>R.S. 14:72, forgery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-611__subsec_C__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>R.S. 14:72.2, monetary instrument abuse.
+D.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-611__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the offender is charged with the crime of accessory after the fact, the offense
+is deemed to have been committed either in the parish where the principal felony was
+committed or in the parish where any act or element constituting the basis for the accessory
+after the fact prosecution occurred.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-611__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the offender is charged with the crime of obstruction of justice, the offense is
+deemed to have been committed either in the parish of the underlying actual or potential
+present, past, or future criminal proceeding or investigation or in the parish where any act or
+element constituting the basis for the obstruction of justice prosecution occurred.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-611__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the offender is charged with a violation of R.S. 14:110, the offense is deemed
+to have been committed in either of the following:</p>
+          </content>
+          <paragraph eId="CCRP-611__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The parish of the court that ordered or sentenced home incarceration,
+confinement, or any other legal restraint.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-611__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The parish where any act or element occurs in violation of R.S. 14:110.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112644</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

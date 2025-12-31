@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 890.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-890-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-890-1">
+        <num>CCRP 890.1</num>
+        <heading>890.1.  Waiver of minimum mandatory sentences; procedure; exceptions</heading>
+        <subsection eId="CCRP-890-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any other provision of law to the contrary, if a felony or
+misdemeanor offense specifies a sentence with a minimum term of confinement or a
+minimum fine, or that the sentence shall be served without benefit of parole, probation, or
+suspension of sentence, the court, upon conviction, in sentencing the offender shall impose
+the sentence as provided in the penalty provisions for that offense, unless one of the
+following occurs:</p>
+          </content>
+          <paragraph eId="CCRP-890-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The defendant pled guilty pursuant to a negotiated plea agreement with the
+prosecution and the court, which specifies that the sentence shall be served with benefit of
+parole, probation, or suspension of sentence or specifies a reduced fine or term of
+confinement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In cases resulting in trial, the prosecution, the defendant, and the court  entered
+into a post-conviction agreement, which specifies that the sentence shall be served with
+benefit of parole, probation, or suspension of sentence or specifies a reduced fine or term of
+confinement.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-890-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If such agreements are entered into between the prosecution and the defendant,
+the court, at sentencing, shall not impose a lesser term of imprisonment, lesser fine, or lesser
+period of sentence served without benefit of parole, probation, or suspension of sentence than
+that expressly provided for under the terms of the plea or post-conviction agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-890-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>No plea or post-conviction agreement shall provide parole eligibility at a time
+earlier than that provided in R.S. 15:574.4.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-890-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The provisions of this Article shall not apply to a sex offense as defined in R.S.
+15:541 or to any of the following crimes of violence:</p>
+          </content>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>R.S. 14:28.1 (Solicitation for murder).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>R.S. 14:30 (First degree murder).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>R.S. 14:30.1 (Second degree murder).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>R.S. 14:31 (Manslaughter).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>R.S. 14:34.6 (Disarming of a peace officer).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>R.S. 14:34.7 (Aggravated second degree battery).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>R.S. 14:37.1 (Assault by drive-by shooting).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>R.S. 14:37.4 (Aggravated assault with a firearm).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>R.S. 14:42 (Aggravated or first degree rape).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>R.S. 14:42.1 (Forcible or second degree rape).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>R.S. 14:43 (Simple or third degree rape).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>R.S. 14:43.1 (Sexual battery).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>R.S.14:43.2 (Second degree sexual battery).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>R.S. 14:43.5 (Intentional exposure to AIDS virus).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>R.S. 14:44 (Aggravated kidnapping).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>R.S. 14:44.1 (Second degree kidnapping).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>R.S. 14:46.2 (Human trafficking).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>R.S.14:46.3 (Trafficking of children for sexual purposes).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>R.S.14:51 (Aggravated arson).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>R.S. 14:62.8 (Home invasion).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>R.S. 14:64 (Armed robbery).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_22">
+            <num>(22)</num>
+            <content>
+              <p>R.S. 14:64.4 (Second degree robbery).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_23">
+            <num>(23)</num>
+            <content>
+              <p>R.S. 14:64.3 (Armed robbery; use of firearm).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_24">
+            <num>(24)</num>
+            <content>
+              <p>R.S. 14:64.2 (Carjacking).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_25">
+            <num>(25)</num>
+            <content>
+              <p>R.S. 14:78.1 (Aggravated incest).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_26">
+            <num>(26)</num>
+            <content>
+              <p>R.S. 14:93.2.3 (Second degree cruelty to juveniles).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_27">
+            <num>(27)</num>
+            <content>
+              <p>R.S.14:128.1 (Terrorism).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_28">
+            <num>(28)</num>
+            <content>
+              <p>R.S. 14:34 (Aggravated battery).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_29">
+            <num>(29)</num>
+            <content>
+              <p>R.S. 14:37 (Aggravated assault).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_30">
+            <num>(30)</num>
+            <content>
+              <p>R.S. 14:34.1 (Second Degree Battery)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_31">
+            <num>(31)</num>
+            <content>
+              <p>R.S. 14:35.3 (Domestic Abuse Battery)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_32">
+            <num>(32)</num>
+            <content>
+              <p>R.S. 14:40.2 (Stalking)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_33">
+            <num>(33)</num>
+            <content>
+              <p>R.S. 14:64.1 (First Degree Robbery)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-890-1__subsec_D__subsec_34">
+            <num>(34)</num>
+            <content>
+              <p>R.S. 14:32.5 (Feticide)</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-890-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>At the time the sentence is imposed pursuant to this Article, the Uniform
+Commitment Sentencing Order shall specify that the sentence is imposed pursuant to the
+provisions of this Article.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112875</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

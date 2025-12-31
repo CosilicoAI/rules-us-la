@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2329"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2329"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2329"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2329/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2329/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2329/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2329/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2329">
+        <num>CC 2329</num>
+        <heading>2329.  Exclusion or modification of matrimonial regime</heading>
+        <content>
+          <p>Art. 2329.  Exclusion or modification of matrimonial regime.
+Spouses may enter into a matrimonial agreement before or during marriage as to all matters that are not prohibited by public policy.
+Spouses may enter into a matrimonial agreement that modifies or terminates a matrimonial regime during marriage only upon joint petition and a finding by the court that this serves their best interests and that they understand the governing principles and rules.  They may, however, subject themselves to the legal regime by a matrimonial agreement at any time without court approval.
+During the first year after moving into and acquiring a domicile in this state, spouses may enter into a matrimonial agreement without court approval.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109395</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

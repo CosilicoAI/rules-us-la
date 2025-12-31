@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-871"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-871"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 871"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-871/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-871/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-871/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-871/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-871">
+        <num>CCRP 871</num>
+        <heading>SENTENCE</heading>
+        <subsection eId="CCRP-871__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A sentence is the penalty imposed by the court on a defendant upon a plea of guilty, upon a verdict of guilty, or upon a judgment of guilt.  Sentence shall be pronounced orally in open court and recorded in the minutes of the court.
+B.</p>
+          </content>
+          <paragraph eId="CCRP-871__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Paragraph, the sheriff shall cause to be attached to the bill of information or indictment the fingerprints of the defendant against whom such judgment is rendered.</p>
+            </content>
+            <subparagraph eId="CCRP-871__subsec_A__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Beneath such fingerprints shall be appended a certificate to the following effect:
+&quot;I hereby certify that the above and foregoing fingerprints on this bill are the fingerprints of the defendant, and that they were placed thereon by said defendant this ______ day of ______, ______.&quot;
+(ii)  The certificate shall be signed by the sheriff or other law enforcement officer who has custody of the defendant.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-871__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In addition to judgments of guilty of a felony, the sheriff shall cause the fingerprints of the defendant to be so attached for every judgment of guilty of the following misdemeanors:</p>
+            </content>
+            <subparagraph eId="CCRP-871__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>First or second offense operating a vehicle while intoxicated in violation of R.S. 14:98.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-871__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>First offense possession of marijuana, tetrahydrocannabinol, or chemical derivatives thereof, pursuant to a sentence imposed under R.S. 40:966(D)</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-871__subsec_A__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A first or second offense involving drug paraphernalia pursuant to a sentence imposed under R.S. 40:1035(A) and (B).</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-871__subsec_A__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>First or second offense theft pursuant to a sentence imposed under R.S. 14:67(B)</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-871__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>and first or second offense theft of goods pursuant to a sentence imposed under R.S. 14:67.10(B)(3).</p>
+            </content>
+            <subparagraph eId="CCRP-871__subsec_A__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>First offense prostitution pursuant to a sentence imposed under R.S. 14:82(B)</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-871__subsec_A__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>First or second offense of domestic abuse battery in violation of R.S. 14:35.3.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-871__subsec_A__subsec_3__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>First offense of failure to pay a child support obligation in violation of R.S. 14:75.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-871__subsec_A__subsec_3__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A conviction for violation of protective orders (R.S. 14:79).</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-871__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The certificate required by Paragraph B of this Article shall be admissible in evidence in the courts of this state as prima facie evidence that the fingerprints appearing thereon are the fingerprints of the defendant against whom the judgment of guilty of a felony or one of the enumerated misdemeanors was rendered.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112844</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-785"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-785"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 785"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-785/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-785/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-785/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-785/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-785">
+        <num>CCRP 785</num>
+        <heading>785.  Tales jurors</heading>
+        <subsection eId="CCRP-785__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In a parish other than Orleans having more than one division of court, holding petit jury terms simultaneously, when a petit jury venire of one division is or is about to be exhausted before a trial jury is impaneled, the judge of that division, with the consent of the judge of a division that has not exhausted its petit jury venire, may order the petit jury venire of the latter division or such portion thereof not being used by the latter division, to report to his division to serve as tales jurors.  The names of the petit jury veniremen so ordered to report shall be drawn as provided by Article 784 for examination as prospective trial jurors.  Those who are impaneled as trial jurors shall serve as though regularly selected as tales jurors.  Those who are not selected as trial jurors shall be ordered to report back to the division of court in which they were previously serving as petit jury veniremen.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-785__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In all other instances, except as provided in Article 409.1 of this code, when the petit jury venire is or is about to be exhausted before a trial jury is impaneled, the judge may order the secretary of the jury commission or the clerk of court to draw indiscriminately and by lot such number of tales jurors from the general venire box as in the opinion of the court may be necessary to complete the impaneling of the trial jury.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-785__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Immediately after the drawing of tales jurors, they shall be summoned to attend court at such time as the court may direct, and shall be subject to the same duties as petit jurors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-785__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In parishes other than Orleans, the judge may order the summoning of tales jurors from among the bystanders or persons in or about the courthouse, in place of the drawing of tales jurors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-785__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>When called, tales jurors shall be selected for completion of the panel in accordance with Article 784.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112782</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

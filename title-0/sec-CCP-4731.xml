@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4731"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4731"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 4731"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4731/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4731/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4731/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4731/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-4731">
+        <num>CCP 4731</num>
+        <heading>Section </heading>
+        <subsection eId="CCP-4731__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If the lessee or occupant fails to comply with the notice to vacate required under
+this Title, or if the lessee has waived his right to notice to vacate by written waiver contained
+in the lease, and has lost his right of occupancy for any reason, the lessor or owner, or agent
+thereof, may cause the lessee or occupant to be cited summarily by a court of competent
+jurisdiction to show cause why he should not be ordered to deliver possession of the premises
+to the lessor or owner.  The rule to show cause shall state the grounds upon which eviction
+is sought.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4731__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>After the required notice has been given, the lessor or owner, or agent thereof,
+may lawfully take possession of the premises without further judicial process, upon a
+reasonable belief that the lessee or occupant has abandoned the premises.  Indicia of
+abandonment include a cessation of business activity or residential occupancy, returning keys
+to the premises, and removal of equipment, furnishings, or other movables from the
+premises.
+C.</p>
+          </content>
+          <paragraph eId="CCP-4731__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In parishes subject to a federal disaster declaration, cessation of residential
+occupancy shall not be deemed evidence of abandonment pursuant to Paragraph B of this
+Article for thirty days following the initial declaration of a federally declared disaster.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4731__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Failure of the lessor to comply with this Article shall give a residential lessee the
+right to recover five hundred dollars or twice the amount of the monthly rent, whichever is
+greater, from the lessor or owner, or from the lessor's successor in interest.  A residential
+lessee may obtain a restraining order or a preliminary injunction to enforce the provisions of
+this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4731__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The court may award costs and attorney fees to the prevailing party for actions
+brought pursuant to this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4731__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In parishes subject to a federally declared disaster, a court shall not require a
+residential lessee bringing an action for a temporary restraining order or preliminary
+injunction under this Article to furnish security as required by Article 3610 for the thirty days
+following the initial declaration of a federally declared disaster.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4731__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Nothing in this Paragraph shall preempt the rights afforded to a lessor in Civil
+Code Article 2693.
+Amended by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112078</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

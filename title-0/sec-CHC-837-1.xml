@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-837-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-837-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 837.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-837-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-837-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-837-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-837-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-837-1">
+        <num>CHC 837.1</num>
+        <heading>837.1.  Standards for restoration service providers</heading>
+        <subsection eId="CHC-837-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A restoration service provider shall meet the following qualifications:</p>
+          </content>
+          <paragraph eId="CHC-837-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Shall not have served on the competency commission.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-837-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Shall be a psychiatrist, psychologist, medical psychologist, certified special
+education teacher, social worker, or counselor, if the court determines the child lacks the
+mental capacity to proceed solely because of ignorance of court procedure or legal rights.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-837-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Shall be a psychiatrist, licensed psychologist, medical psychologist, licensed
+clinical social worker, qualified intellectual disability professional, or licensed professional
+counselor all of whom have been engaged in the practice of clinical psychology or counseling
+for not less than three consecutive years immediately preceding the appointment and who
+have expertise in child development specific to severe chronic disability of children
+attributable to intellectual impairment, if the court determines the child lacks the mental
+capacity to proceed because of mental illness or developmental disorder.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-837-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>May be a combination of persons meeting the qualifications in Subparagraphs</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-837-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-837-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this Paragraph, if the court determines the child lacks the mental capacity to
+proceed both because of ignorance of court procedure or legal rights and because of mental
+illness or developmental disorder.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-837-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>All restoration service providers shall:</p>
+          </content>
+          <paragraph eId="CHC-837-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Possess at least two years experience working with children or adolescents.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-837-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Be knowledgeable of the state's competency standards and statutes and with the
+treatment, training, and restoration courses approved by the Louisiana Department of Health.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-837-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Have undergone child capacity to proceed restoration training, reviewed the
+training materials provided, and have certified in writing that the materials have been
+reviewed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-837-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Be certified by the Louisiana Department of Health as having completed a
+restoration service provider training course.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-837-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The Louisiana Department of Health shall promulgate rules and regulations for
+certifying restoration providers and develop a training module within one year from August
+15, 2006.  The department shall set reasonable fees for the training and certification of
+restoration service providers.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-837-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>To remain certified, a restoration provider shall complete additional training every
+two years.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=408269</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

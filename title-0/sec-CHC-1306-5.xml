@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1306.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1306-5">
+        <num>CHC 1306.5</num>
+        <heading>Contest of Validity or Enforcement</heading>
+        <subsection eId="CHC-1306-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a support order or income-withholding order issued in another state or a
+foreign support order is registered, the registering tribunal of this state shall notify the
+nonregistering party.  The notice must be accompanied by a copy of the registered order and
+the documents and relevant information accompanying the order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1306-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The notice must inform the nonregistering party:</p>
+          </content>
+          <paragraph eId="CHC-1306-5__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>That a registered support order is enforceable as of the date of registration in the
+same manner as an order issued by a tribunal of this state;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-5__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>That a hearing to contest the validity or enforcement of the registered order must
+be requested within twenty days after notice unless the registered order is under Article
+1307.7;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-5__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>That failure to contest the validity or enforcement of the registered order in a
+timely manner will result in confirmation of the order and enforcement of the order and the
+alleged arrearages; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-5__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Of the amount of any alleged arrearages.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1306-5__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the registering party asserts that two or more orders are in effect, a notice must
+also:</p>
+          </content>
+          <paragraph eId="CHC-1306-5__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Identify the two or more orders and the order alleged by the registering party to
+be the controlling order and the consolidated arrears, if any;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-5__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notify the nonregistering party of the right to a determination of which is the
+controlling order;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-5__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>State that the procedures provided in Paragraph B of this Article apply to the
+determination of which is the controlling order; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-5__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>State that failure to contest the validity or enforcement of the order alleged to be
+the controlling order in a timely manner may result in confirmation that the order is the
+controlling order.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1306-5__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Upon registration of an income-withholding order for enforcement, the support
+enforcement agency or the registering tribunal shall notify the obligor's employer pursuant
+to the income-withholding law of this state.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72848</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

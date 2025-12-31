@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-519"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-519"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 519"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-519/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-519/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-519/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-519/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-519">
+        <num>CE 519</num>
+        <heading>519.  Subpoena of judge or his representative in civil and criminal cases</heading>
+        <subsection eId="CE-519__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>General rule.  Neither a subpoena nor a court order shall be issued to a judge or his representative to appear or testify in any civil, criminal, or juvenile proceeding, including pretrial discovery or an administrative hearing, unless, after a contradictory hearing, it has been determined that the information sought is not protected from disclosure by the judicial deliberative process privilege, and all of the following:</p>
+          </content>
+          <paragraph eId="CE-519__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The information sought is essential to the case of the party seeking the information and is not merely peripheral, cumulative, or speculative.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-519__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The purpose of seeking the information is not to harass the judge, nor for the mere purpose of seeking recusal of the judge.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-519__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>With respect to a subpoena, the subpoena lists the information sought with particularity, is reasonably limited as to subject matter and period of time, and gives timely notice.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-519__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>There is no practical alternative means of obtaining the information.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-519__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Waiver.  Failure to object timely to a party's non-compliance with the provisions of this Article constitutes a waiver of the procedural protections of this Article, but does not constitute a waiver of any privilege.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-519__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The procedural provisions of and the protections afforded by Paragraph A of this Article shall extend to any judge of any court provided for by Article V of the Constitution of Louisiana and to any commissioner or special master of such court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=815628</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-22"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-22"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 8.22"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-22/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-22/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-22/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-22/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-8-22">
+        <num>HRULE 8.22</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-8-22__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A veto message from the governor shall be a privileged message and shall
+be read by the Clerk on the legislative day of its receipt at the first opportunity without
+interrupting pending business.  The question of reconsideration of a vetoed bill shall
+lie over until the appropriate order of business during the Morning Hour of the next
+legislative day.  The Clerk shall place each vetoed bill on the order of the day in
+numerical order by day of receipt.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-8-22__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The question upon reconsideration, unless a substitute or other main motion
+be made, shall be the question of the passage of the bill subsequent to the governor's
+veto.  Upon reconsideration, the motion to sustain the governor's veto, as well as any
+subsidiary or main motion which is in order during the consideration of the final
+passage of a bill, shall be in order.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-8-22__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>On the last calendar or legislative day of a session, after the Clerk shall
+have read a veto message, the House shall reconsider the bill upon motion, duly
+adopted, of any member.  The motion to take up the reconsideration of a vetoed bill
+shall be deemed a privileged incidental motion, shall be in order during any order of
+business unless another motion or instrument then be pending, and shall be adopted
+by a majority of those present and voting.
+Mason's Manual:  Sec. 458
+HR 3, 1973; HR 7, 1978.
+NOTE: 8.28 renumbered 8.22 by authority of House Rule 2.10(D)(4).  See HR 6, eff. May
+30, 2013, for repeal of prior 8.22.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113378</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

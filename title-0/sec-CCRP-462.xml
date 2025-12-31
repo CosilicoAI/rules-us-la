@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-462"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-462"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 462"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-462/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-462/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-462/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-462/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-462">
+        <num>CCRP 462</num>
+        <heading>462.  Form of grand jury indictment</heading>
+        <content>
+          <p>Art. 462.  Form of grand jury indictment
+The indictment by a grand jury may be in substantially the following
+form:
+In the (Here state the name of the court.) on the ______ day of ______,
+20__.  State of Louisiana v. A.B. (Here state the name or description of the
+accused.).
+The grand jury of the Parish of ______, charges that A.B. (Here state
+the name or description of the accused.) committed the offense of ______, in
+that (Here set forth the offense and transaction according to the rules stated in
+this Title.  The particulars of the offense may be added with a view to avoiding
+the necessity for a bill of particulars.) contrary to the law of the State of
+Louisiana and against the peace and dignity of the same.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112547</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

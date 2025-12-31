@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-542"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-542"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 542"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-542/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-542/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-542/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-542/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-542">
+        <num>CHC 542</num>
+        <heading>542.  Definitions</heading>
+        <content>
+          <p>Art. 542.  Definitions
+For the purposes of this Chapter, &quot;juvenile justice system&quot; means the system of public and private services in Louisiana that includes prevention, early identification, early intervention, child protection, law enforcement, prosecution, defense, adjudication, diversion and informal processing, probation, corrections, aftercare, transitional living, and other services provided to children and families who either are or are likely to be brought into a court with juvenile jurisdiction because of problems such as abuse, neglect or abandonment, mental illness, substance abuse, aspects of a divorce and breakup of families, pre-delinquency, social irresponsibility or delinquent behavior, or spousal abuse involving children.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=321976</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

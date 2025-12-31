@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-556"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-556"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 556"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-556/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-556/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-556/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-556/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-556">
+        <num>CCRP 556</num>
+        <heading>556.  Plea of guilty or nolo contendere in misdemeanor cases; duty of court</heading>
+        <subsection eId="CCRP-556__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided in Paragraph B of this Article or in R.S. 32:57 or
+in any other applicable law, in a misdemeanor case, if the defendant is not represented by
+counsel of record, the court shall not accept a plea of guilty or nolo contendere without first
+determining that the plea is voluntary and is made with an understanding of the nature of the
+charge and of his right to be represented by counsel.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-556__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In a misdemeanor case in which the court determines that a sentence of
+imprisonment will actually be imposed or in which the conviction can be used to enhance
+the grade or statutory penalty for a subsequent offense, the court shall not accept a plea of
+guilty or nolo contendere without first addressing the defendant personally in open court and
+informing him of, and determining that he understands, all of the following:</p>
+          </content>
+          <paragraph eId="CCRP-556__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The nature of the charge to which the plea is offered, the mandatory minimum
+penalty provided by law, if any, and the maximum possible penalty provided by law.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-556__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the defendant is not represented by an attorney, that he has the right to be
+represented by an attorney at every stage of the proceeding against him and, if financially
+unable to employ counsel, one will be appointed to represent him.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-556__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>That he has the right to have a trial, and if the maximum penalty provided for the
+offense exceeds imprisonment for six months or a fine of one thousand dollars, a right to trial
+by a jury or by the court, at his option.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-556__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>At that trial he has the right to confront and cross-examine witnesses against him
+and the right not to be compelled to incriminate himself.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-556__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>That if he pleads guilty or nolo contendere there will not be a further trial of any
+kind, so that by pleading guilty or nolo contendere he waives the right to a trial.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-556__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court shall require either:</p>
+          </content>
+          <paragraph eId="CCRP-556__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>That a verbatim record of the proceedings at which the defendant enters a plea
+be made.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-556__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>That a form reflecting the court's advice to the defendant and the court's inquiry
+into the voluntariness of the plea be signed by the court and the defendant and filed in the
+record at the time of the plea.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-556__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Any variance from the procedures required by this Article which does not affect
+substantial rights of the defendant shall not invalidate the plea.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-556__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Nothing in this Article prohibits the court, by local rule, from providing for a
+defendant's appearance at the entry of his plea of guilty or nolo contendere by simultaneous
+audio-visual transmission.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112612</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

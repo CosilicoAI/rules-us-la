@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-30"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 30"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-30">
+        <num>CCRP 30</num>
+        <heading>30.  The peace bond</heading>
+        <subsection eId="CCRP-30__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The peace bond shall be for a specified period, not to exceed six months, and its condition shall be that the defendant will not commit the threatened or any related breach of the peace.  The bond shall be for a sum fixed by the magistrate.  When fixed by a justice of the peace, the maximum amount of the bond shall not exceed one thousand dollars.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-30__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the peace bond is for the purpose of preventing domestic abuse or dating violence, the magistrate shall cause to have prepared a Uniform Abuse Prevention Order, as provided in R.S. 46:2136.2(C), shall sign such order, and shall immediately forward it to the clerk of court for filing on the day that the order is issued.  The clerk of the issuing court shall transmit the Uniform Abuse Prevention Order to the Judicial Administrator's Office, Louisiana Supreme Court, for entry into the Louisiana Protective Order Registry, as provided in R.S. 46:2136.2(A), by facsimile transmission or direct electronic input as expeditiously as possible, but no later than the end of the next business day after the order is filed with the clerk of court.  The clerk of the issuing court shall also send a copy of the Uniform Abuse Prevention Order, as provided in R.S. 46:2136.2(C), or any modification thereof, to the chief law enforcement officer of the parish where the person or persons protected by the order reside by facsimile transmission or direct electronic input as expeditiously as possible, but no later than the end of the next business day after the order is filed with the clerk of court.  A copy of the Uniform Abuse Prevention Order shall be retained on file in the office of the chief law enforcement officer until otherwise directed by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-30__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The peace bond obligation shall run in favor of the clerk or judge of the court ordering the bond, in favor of the city when ordered by the mayor of a mayor's court, or in favor of the police jury when the bond is ordered by a justice of the peace.  The proceeds shall be disposed of in the manner provided by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-30__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The types of security for a peace bond shall be governed by the bail bond rules set forth in Title VIII, as far as applicable.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112427</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1051"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1051"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1051"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1051/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1051/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1051/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1051/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1051">
+        <num>CHC 1051</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1051__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If a child is in foster care and is over the age of fifteen, counsel appointed for the child or the department may file a motion to restore the parental rights or parental contact with a parent whose rights have been terminated.  The motion shall be filed in the court in which permanency hearings for the child are being conducted.  When the counsel for the child files the motion, it shall be served on the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1051__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court shall sign an order setting the time and place of the hearing on the motion not less than forty-five nor more than sixty days after the date of the filing of the motion.  The court may continue the hearing for up to thirty additional days for good cause, which may include a showing by the department that it, despite its diligent effort, has been unable to complete the confidential report required by Article 1052 within the prescribed time.  Upon joint motion of the department and the child, the court may set the date of the hearing within fifteen days after the filing of the motion.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1051__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The moving party shall mail a copy of the motion and order to the parents, foster parents, and CASA volunteer of the child.  The parents, foster parents, and CASA volunteer shall have a right to be heard at the hearing but are not parties and the hearing may be conducted in their absence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1051__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The motion shall be dismissed if the parent cannot be located.  The court may not grant the relief requested in the motion without the consent of the parent.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=509583</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-215-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-215-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 215.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-215-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-215-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-215-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-215-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-215-1">
+        <num>CCRP 215.1</num>
+        <heading>215.1.  Temporary questioning of persons in public places; frisk and search for weapons</heading>
+        <subsection eId="CCRP-215-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A law enforcement officer may stop a person in a public place whom he reasonably suspects is committing, has committed, or is about to commit an offense and may demand of him his name, address, and an explanation of his actions.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-215-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a law enforcement officer has stopped a person for questioning pursuant to this Article and reasonably suspects that he is in danger, he may frisk the outer clothing of such person for a dangerous weapon.  If the law enforcement officer reasonably suspects the person possesses a dangerous weapon, he may search the person.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-215-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the law enforcement officer finds a dangerous weapon, he may take and keep it until the completion of the questioning, at which time he shall either return it, if lawfully possessed, or arrest such person.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-215-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>During detention of an alleged violator of any provision of the motor vehicle laws of this state, an officer may not detain a motorist for a period of time longer than reasonably necessary to complete the investigation of the violation and issuance of a citation for the violation, absent reasonable suspicion of additional criminal activity.  However, nothing herein shall prohibit a peace officer from compelling or instructing the motorist to comply with administrative or other legal requirements of Title 32 or Title 47 of the Louisiana Revised Statutes of 1950.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112364</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

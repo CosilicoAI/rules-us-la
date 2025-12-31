@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-507"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-507"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 507"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-507/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-507/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-507/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-507/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-507">
+        <num>CHC 507</num>
+        <heading>MULTIDISCIPLINARY INVESTIGATIONS OF</heading>
+        <content>
+          <p>PART II.  MULTIDISCIPLINARY INVESTIGATIONS OF
+ALLEGATIONS OF CHILD ABUSE AND NEGLECT
+Art. 507.  Purpose
+The purpose of this Part is to protect children whose physical or mental health and welfare is substantially at risk of harm by sexual abuse, other physical abuse, neglect, or exploitation and who may be further threatened by the conduct of others, by providing a formal, comprehensive, integrated, multidisciplinary response to the investigation and disposition of cases of child abuse; by expediting and improving the validation or invalidation of such allegations for the benefit of the child, his family and any accused perpetrator; by encouraging the use of collaborative decisionmaking and case management thereby reducing to a minimum the number of times a child victim is questioned and examined, thus preventing further trauma to the child; by coordinating a therapeutic services program thereby providing safety and treatment for a child victim and his family; by developing communication and case coordination among community professionals and agencies who are involved in child protection; by collecting data needed to continually improve cooperative interagency investigations; and, by maintaining the confidentiality of agency records, to ensure the protection of the privacy of the child, his family and any accused perpetrator.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113434</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-267"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-267"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 267"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-267/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-267/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-267/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-267/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-267">
+        <num>CCRP 267</num>
+        <heading>267.  Rights of accused; extradition hearing</heading>
+        <content>
+          <p>Art. 267.  Rights of accused; extradition hearing
+A person arrested upon the governor's warrant shall not be delivered over to the agent appointed by the executive authority to receive him unless he shall first be taken before a judge, or in Orleans Parish, before a judge, a magistrate judge, or a commissioner of the magistrate section of the criminal district court, who shall inform him of the demand made for his surrender, of the crime with which he is charged, of his right to procure legal counsel, and of his right to an extradition hearing.  If the prisoner or his counsel states that he desires an extradition hearing, the court shall assign as early a day as practicable for the hearing, to be held in open court.  At least one full day shall intervene between the assignment and the day fixed for the hearing.  Notice of the time and place of the hearing shall be given to the district attorney of the parish in which the hearing is to be held.  If an extradition hearing is not requested, the prisoner shall be delivered promptly to the agent of the demanding state.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112401</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1292"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1292"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 1292"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1292/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1292/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1292/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1292/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-1292">
+        <num>CCP 1292</num>
+        <heading>1292.  Sheriff's return</heading>
+        <subsection eId="CCP-1292__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The sheriff shall endorse on a copy of the citation or other process the date, place,
+and method of service and sufficient other data to show service in compliance with law.  He
+shall sign and return the copy promptly after the service to the clerk of court who issued it. 
+The return, when received by the clerk, shall form part of the record, and shall be considered
+prima facie correct.  The court, at any time and upon such terms as are just, may allow any
+process or proof of service thereof to be amended, unless it clearly appears that material
+prejudice would result to the substantial rights of the party against whom the process issued.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1292__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In addition to the provisions of Paragraph A of this Article, when the citation or
+other process is a temporary restraining order, protective order, preliminary injunction,
+permanent injunction, or court-approved consent agreement as referenced in R.S.
+46:2136.2(B), the person making the service, or his designee, shall transmit proof of service
+to the judicial administrator's office, Louisiana Supreme Court, for entry into the Louisiana
+Protective Order Registry, as provided in R.S. 46:2136.2(A), by facsimile transmission or
+direct electronic input as expeditiously as possible, but no later than the end of the next
+business day after making service, exclusive of weekends and holidays.  This proof shall
+include, at a minimum, the case caption, docket number, type of order, serving agency and
+officer, and the date and time service was made.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111170</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

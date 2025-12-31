@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-254"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-254"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 254"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-254/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-254/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-254/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-254/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-254">
+        <num>CCP 254</num>
+        <heading>254.  Docket and minute books</heading>
+        <subsection eId="CCP-254__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In addition to other record books required by law, each court shall keep docket and minute books.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-254__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The clerk of the court shall enter in the docket book the number and title of each action or proceeding filed in the court, the date of filing of the petition, exceptions, answers, and other pleadings, and the court costs paid by and the names of counsel of record for each of the parties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-254__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>All orders and judgments rendered, all motions made, all proceedings conducted, and all judicial acts of the court during each day it is in session shall be entered in the minute book.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-254__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>An electronic record of the minutes which is not capable of alteration without indication that a change has been made may be maintained in lieu of a written entry.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111477</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

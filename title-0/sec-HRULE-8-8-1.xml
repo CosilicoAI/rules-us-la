@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-8-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-8-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 8.8.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-8-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-8-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-8-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-8-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-8-8-1">
+        <num>HRULE 8.8.1</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-8-8-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding House Rule 8.8, at the discretion of the Speaker on the
+last legislative day of the week for the House of Representatives, the House may
+consider legislative instruments on third reading and final consideration or final
+passage that are noncontroversial in preferential order.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-8-8-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the Speaker determines the necessity for the House to proceed under the
+provisions of this rule, which shall be referred to as the &quot;Berthelot Rule&quot;, the Speaker
+shall announce his intention to the House no later than the legislative day prior to the
+last legislative day of the week. If a member raises an objection to proceeding under
+the Berthelot Rule, then proceeding under the Berthelot Rule shall require a motion
+adopted by a favorable vote of a majority of the members present and voting, and such
+motion shall not be debatable.
+C.</p>
+          </content>
+          <paragraph eId="HRULE-8-8-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any legislative instrument which is not considered in the order of its
+maturing in the manner provided by House Rule 8.8 due to the House proceeding
+under this rule shall remain on the calendar in the same numerical order for
+consideration on the next legislative day.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-8-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For the purposes of this Paragraph, if a member objects to a legislative
+instrument being considered in preferential order pursuant to this Rule, the legislative
+instrument shall remain on the calendar in the same numerical order for consideration
+on the next legislative day.
+Mason's Manual:  Sec. 261 and 263
+HR 142, 2018, eff. May 9, 2018.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1111443</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-16"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-16"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 13.16"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-16/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-16/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-16/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-16/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-13-16">
+        <num>SRULE 13.16</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-13-16__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The members of each standing committee of the Senate shall receive the same
+per diem and travel allowance as are provided for members of the legislature in session
+for attendance during the interim between sessions at meetings of the committee or
+meetings of any subcommittee thereof or of any joint committee established by combining
+such committee with a House committee of similar subject matter jurisdiction as provided
+in Subparagraph (A)</p>
+          </content>
+          <paragraph eId="SRULE-13-16__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of Senate Rule 13.12.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-13-16__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The President may authorize the payment of per diem and travel allowance to
+members for performance of duties related to the work of committees other than
+attendance at committee meetings.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-16__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The per diem and travel allowance herein authorized and all other expenses
+incurred by Senate committees shall be paid for out of the funds available to the President
+for the expenses of the legislature and committees. The expenses of joint committees,
+other than per diem and travel allowances, shall be paid out of funds available to the
+President and funds available to the Speaker of the House, respectively.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-16__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When the expenses incurred in the interim between sessions by any standing
+committee, including in the aggregate the expenses of the committee and subcommittees
+thereof for per diem, travel, and other incidental expenses, exceed the sum of two
+thousand five hundred dollars, no further expenses of said standing committee or its
+subcommittees shall be incurred without the approval of the President.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180406</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

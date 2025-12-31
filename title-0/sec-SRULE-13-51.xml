@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-51"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-51"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 13.51"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-51/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-51/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-51/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-51/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-13-51">
+        <num>SRULE 13.51</num>
+        <heading>UNIFORM RULES OF COMMITTEE PROCEDURE</heading>
+        <subsection eId="SRULE-13-51__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The standing committees of the Senate, and insofar as is practicable
+subcommittees and joint committees, shall be governed in the conduct of their meetings
+by the provisions of this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-51__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>These Uniform Rules of Committee Procedure shall be deemed to be
+supplemental to other specific Rules of Order of the Senate applicable to standing
+committees, and such specific rules shall apply in all cases. On any question of order or
+parliamentary practice, where the rules contained in this Chapter are silent or inexplicit,
+the applicable rules contained in other Chapters of the Rules of Order of the Senate shall
+govern.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-51__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In addition to the provisions of Paragraphs A and B above, each standing
+committee and joint committee may adopt rules to govern its procedure not inconsistent
+with this Chapter or any other provision of the Rules of Order of the Senate.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180418</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

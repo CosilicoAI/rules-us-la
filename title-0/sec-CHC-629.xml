@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-629"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-629"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 629"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-629/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-629/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-629/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-629/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-629">
+        <num>CHC 629</num>
+        <heading>629.  Form of agreement; duration</heading>
+        <subsection eId="CHC-629__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An informal adjustment agreement shall set forth in writing its terms and conditions and shall be signed by the district attorney, the department, if a child is in the custody of the department, the child's parents, the child if twelve years of age or older, and all counsel of record.  When a child is in the custody of the department and a petition has been filed, the agreement must be submitted to the court for its consideration.  If approved, the court shall sign the agreement and file it in the record.  This agreement shall constitute the case plan for services required by this Title.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-629__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When the child is not in the custody of the department, the period of informal adjustment shall not exceed six months; however, the court may extend the agreement for one additional period not to exceed six months with consent of all signatories to the original agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-629__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When a child is in the custody of the department, the period of an informal adjustment agreement shall not exceed three months from the date of the child's entry into foster care; however, the court may extend the agreement for one additional period not to exceed three months with consent of all signatories to the original agreement.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73222</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-884-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-884-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 884.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-884-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-884-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-884-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-884-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-884-1">
+        <num>CHC 884.1</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-884-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When the child has admitted the allegations of the petition or when adjudicated
+delinquent for any of the following offenses, the court shall provide him with written notice
+of the requirements for registration as a sex offender:</p>
+          </content>
+          <paragraph eId="CHC-884-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Aggravated or first degree rape as defined in R.S. 14:42.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Forcible or second degree rape as defined in R.S. 14:42.1.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Second degree sexual battery as defined in R.S. 14:43.2.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Aggravated kidnapping of a child who has not attained the age of thirteen years
+pursuant to either R.S. 14:44 or 44.2.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Second degree kidnapping of a child who has not attained the age of thirteen
+years as defined in R.S. 14:44.1.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Aggravated crime against nature defined by R.S. 14:89.1(A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>involving
+circumstances defined by R.S. 15:541 as an aggravated offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Aggravated crime against nature as defined in R.S. 14:89.1(A)(1).</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-884-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court shall use this form for the notice:
+STATE IN THE INTEREST OF _________
+_________ JUDICIAL DISTRICT COURT
+DOCKET # __________                    PARISH OF _________________________
+DIVISION  __________                    STATE OF LOUISIANA
+Notification to Sex Offender in accordance with Children's Code Article 884.1, this Court
+has the duty to provide _______________________ (name of juvenile) with the information
+necessary for awareness of sex offender and child predator registration requirements. 
+_______________________ (name of juvenile) has admitted the allegations of the petition
+or has been adjudicated of a violation of R.S. ________.  Based on the provisions of Chapter
+3-B of Title 15 of the Louisiana Revised Statutes of 1950 and the substance of the statute
+violated, IT IS ORDERED that ___________________ shall register for the period of
+___________ from the date of his release from confinement being placed on aftercare,
+supervised release or probation, or from the date of his adjudication, if the disposition does
+not involve a term of confinement.</p>
+          </content>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>You shall initially register with the sheriff and chief of police, if any, of the parish
+of the juvenile court in which you were adjudicated.  Additionally, you shall update your
+registration, in person, every ninety days from the date of initial registration, with the sheriff
+and chief of police, if any, of the parish of your residence and the parish where you attend
+school or are employed.
+Within three business days of establishing residence in Louisiana or if a current
+resident, within three business days after adjudication if not immediately committed to
+confinement or taken into custody, or within three business days after release from
+confinement, you shall obtain and provide all of the following information to each sheriff or
+police department (except in Orleans Parish where registration shall take place with the New
+Orleans Police Department):</p>
+            </content>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Name and any aliases.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Physical address or addresses of residence.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Name and physical address of place of employment.  If you do not have a fixed
+place of employment, you shall provide information with as much specificity as possible
+regarding the places where you work, including but not limited to travel routes.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Name and physical address of the school in which you are a student.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Two forms of proof of residence for each residential address provided, including
+but not limited to a driver's license, bill for utility service, and bill for telephone service.  If
+those forms of proof are not available, you may provide an affidavit of an adult resident
+living at the same address.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The offense for which you were adjudicated and the date and place of the
+adjudication, and if known, the court in which the adjudication was obtained, the docket
+number of the case, the specific statute violated, and the disposition imposed.  Note that this
+information is all contained at the beginning of this form.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>A current photograph, fingerprints, palm prints, and a DNA sample.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Your telephone numbers, including fixed location phone, mobile phone numbers,
+or telephone number associated with any residence address.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A description of every vehicle registered to or operated by you, including license
+plate number and a copy of your driver's license or identification card.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Your social security number and date of birth.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>A description of your physical characteristics, including but not limited to sex,
+race, hair color, eye color, height, age, weight, scars, tattoos, or other identifying marks.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Every e-mail address, online screen name, or other online identity you use or have
+used to communicate on the Internet.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>Temporary lodging information regarding any place where you plan to stay for
+seven or more days and the length of the planned stay.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-884-1__subsec_B__subsec_1__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>Travel and immigration documents, including but not limited to passports and
+documents establishing immigration status.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If you are committed to the office of juvenile justice, you shall provide this
+information to that office within ten days prior to release from confinement.  You shall still
+appear in person at the sheriff's office within three business days of release from
+confinement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>During the declaration of an emergency if you enter an emergency shelter, you
+shall, within the first twenty-four hours of admittance, notify the management of the shelter,
+the chief of police of the municipality, and the sheriff of the parish in which the shelter is
+located of your sex offender status.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>You have a duty to provide notice of change of address or other registration
+information to the sheriff of the parish of residence within three business days.  If the new
+or additional residence is located in a different parish, then you shall register with the sheriff
+of the parish in which the new or additional residence is located.  You shall also send written
+notice within three business days of re-registering in the new parish to the sheriff of the
+parish of former registration.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If you provide recreational instruction to persons under the age of seventeen, you
+shall post a notice in the building or facility where such instruction is being given.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Within ten days prior to release from confinement in a correctional facility, you
+shall provide a photograph and other relevant information noted in this Article to the office
+of juvenile justice for purposes of the State Sex Offender and Child Predator Registry.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>If you change your place of residence or establish a new or additional residence,
+you shall appear in person at the office of the sheriff of your parish of residence where you
+are currently registered within three business days of the change to register the new address. 
+If the new address is located in a different parish, then you shall also appear in person at the
+office of the sheriff of your new parish of residence within the same time period.  If your
+parish of residence is in Orleans Parish, then the registration shall take place at the New
+Orleans Police Department and not with the Orleans Parish Sheriff's Office.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>If you are absent from your current address of registration for more than thirty
+consecutive days or an aggregate of thirty days or more in a calendar year, and are physically
+present at another address during that same period of time, you shall register the new address
+in person as one of your addresses of residence.  If the new address is in a parish different
+from your current address, you shall also register in person with the sheriff of the new parish
+within three business days of the tolling of the time periods listed.  This requirement
+notwithstanding, you shall still notify the sheriff of one of your parishes of residence in
+person if you are to take up temporary lodging for seven or more days.  It is only after the
+thirty-day limit is exceeded that the new registration shall occur.  If your address of residence
+is in Orleans Parish, this registration update shall take place at the New Orleans Police
+Department and not with the Orleans Parish Sheriff's Office.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>You shall also appear in person at the office of the sheriff of any of your parishes
+of residence when there is a change in your name, place of employment, or enrollment.  This
+appearance shall occur within three business days of the change.  If your address of residence
+is in Orleans Parish, this registration update shall take place at the New Orleans Police
+Department and not with the Orleans Parish Sheriff's Office.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>You shall also timely sign and return the periodic address verification form sent
+to you by the Louisiana Bureau of Criminal Identification and Information according to the
+instructions on the verification form.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>You shall update your registration annually on the anniversary of the initial
+registration by appearing in person at the office of each law enforcement agency with which
+you are required to register and shall pay an annual registration fee of sixty dollars ($60.00).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Failure to comply with any of these registration and notification requirements
+is a felony for which you may be punished by a fine of up to one thousand dollars
+($1,000.00) and imprisonment at hard labor for not less than two years nor more than ten
+years without benefit of parole, probation, or suspension of sentence.  Upon a second or
+subsequent conviction, you may be punished by a fine of up to three thousand dollars
+($3,000.00) and imprisonment at hard labor for not less than five years, nor more than twenty
+years without benefit of parole, probation, or suspension of sentence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-884-1__subsec_B__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>If you have been adjudicated of a sex offense as defined in R.S. 15:541
+involving a victim who was under the age of thirteen at the time of the offense, you are
+prohibited from residing or being present in certain locations.  A copy of this statute is
+provided to you with this notification, if applicable.
+THUS DONE AND SIGNED this ____ day of _____________, 20___ in open court,
+in _____________, Louisiana.
+______________________________________
+Judge, _____ Juvenile Court
+I hereby certify that the above requirements have been explained to me, that I have
+received a copy of the above notice of sex offender registration and notification
+requirements, and a copy of the statutes providing for such requirements.  I also understand
+that I will be subject to any changes made by the legislature to the registration laws from this
+day forward.
+___________________________________________
+Signature of Juvenile
+____________________________________________
+Defense Counsel Signature</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=725513</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

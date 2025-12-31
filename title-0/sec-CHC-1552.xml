@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1552"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1552"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1552"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1552/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1552/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1552/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1552/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1552">
+        <num>CHC 1552</num>
+        <heading>1552.  Definitions</heading>
+        <subsection eId="CHC-1552__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Attending physician&quot; means the physician who has primary responsibility for the treatment and care of the child patient.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1552__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Child&quot; means a person under eighteen years of age who has not been judicially emancipated under Civil Code Article 385 or emancipated by marriage under Civil Code Articles 379 through 384.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1552__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Continual profound comatose state&quot; means that there is no reasonable medical possibility of ever achieving a cognitive state of conscious perception.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1552__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Death&quot; means that in the announced opinion of a physician, based on ordinary standards of approved medical practice, the child has experienced an irreversible cessation of spontaneous respiratory and circulatory functions.  In the event that artificial means of support preclude a determination that these functions have ceased, a child will be considered dead if, in the announced opinion of a physician based on ordinary standards of approved medical practice, the child has experienced an irreversible total cessation of brain function.  Death will have occurred at the time when the relevant functions ceased.  In any case when organs are to be used in a transplant, then an additional physician who is not a member of the transplant team must make the pronouncement of death.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1552__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Declaration&quot; means a written and witnessed document voluntarily made by the declarant, authorizing the withholding or withdrawal of life-sustaining procedures for a child, in accordance with the requirements of this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1552__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Life-sustaining procedure&quot; means any medical procedure or intervention which, within reasonable medical judgment, would serve only to prolong the dying process.  It does not include any measure deemed necessary to provide comfort care.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1552__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Terminal and irreversible condition&quot; means a condition, injury, disease, or illness which, within reasonable medical judgment, would produce death and for which the application of a life-support system would serve only to postpone the moment of death.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73010</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

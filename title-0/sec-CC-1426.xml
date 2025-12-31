@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1426"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1426"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1426"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1426/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1426/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1426/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1426/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1426">
+        <num>CC 1426</num>
+        <heading>1426.  Classification of receipts and expenditures in absence  of controlling dispositions</heading>
+        <content>
+          <p>Art. 1426.  Classification of receipts and expenditures in absence  of controlling dispositions
+In the absence of an express testamentary provision or applicable provision of law, receipts and expenditures are allocated in accordance with what is reasonable and equitable in view of the interests of the successors who are entitled to the fruits and products as well as the interests of the successors who are entitled to ownership of the property, and in view of the manner in which persons of ordinary prudence, discretion, and intelligence would act in the management of their own affairs.
+The compensation of the succession representative and professional fees incurred after death, such as legal, accounting and appraisal fees, shall be allocated between debts of the decedent and administration expenses in accordance with the provisions of this Article.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108783</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

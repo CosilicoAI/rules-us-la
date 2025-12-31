@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-465"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-465"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 465"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-465/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-465/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-465/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-465/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-465">
+        <num>CCRP 465</num>
+        <heading>465.  Specific indictment forms</heading>
+        <subsection eId="CCRP-465__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The following forms of charging offenses may be used, but any other forms
+authorized by this title may also be used:
+1.  Abortion--A.B. committed abortion on C.D.
+2.  Aggravated Arson--A.B. committed aggravated arson of a dwelling (or structure,
+watercraft, or movable, as the case may be).  If the words &quot;belonging to another and with the
+damage amounting to __________ dollars&quot; are added, simple arson will be included in the
+charge.
+3.  Simple Arson--A.B. committed simple arson of __________ (state the property
+burned or damaged) with the damage amounting to __________ dollars.
+4.  Arson with Intent to Defraud--A.B. committed arson of __________ (state the
+property burned or damaged) with intent to defraud C.D.
+5.  Aggravated Assault--A.B. assaulted C.D. with a dangerous weapon.
+6.  Simple Assault--A.B. assaulted C.D.
+7.  Attempt--A.B. attempted to __________ (commit theft of one rifle--state property
+subject of the theft; rob C.D.; or murder C.D.; as the case may be).
+8.  Aggravated Battery--A.B. committed a battery with a dangerous weapon upon
+C.D.
+9.  Simple Battery--A.B. committed a battery upon C.D.
+10.  Bigamy--A.B. committed bigamy with C.D.
+11.  Public Bribery--A.B. committed public bribery by giving (or offering to give)
+__________ dollars (or describe property) to C.D., __________, (state official status of
+person bribed); or, A.B., __________, (state official status of A.B.) committed public bribery
+by receiving (or offering to receive) __________ dollars (or describe property) from C.D.
+12.  Bribery of Voters--A.B. bribed C.D., a voter, by giving him (or offering him)
+__________ dollars (or describe property); or A.B., a voter, committed bribery of voters by
+receiving (or offering to receive) __________ dollars (or describe property) from C.D.
+13.  Aggravated Burglary--A.B. committed aggravated burglary of the dwelling of
+C.D.; or A.B. committed aggravated burglary of a warehouse (or other structure, watercraft,
+or movable, as the case may </p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-465__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The indictment, in addition to the necessary averments of the appropriate specific
+form hereinbefore set forth, may also include a statement of additional facts pertaining to the
+offense charged.  If this is done it shall not affect the sufficiency of the specific indictment
+form authorized by this article.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112550</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

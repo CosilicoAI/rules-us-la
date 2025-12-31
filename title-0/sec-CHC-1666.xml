@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1666"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1666"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1666"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1666/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1666/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1666/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1666/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1666">
+        <num>CHC 1666</num>
+        <heading>1666.  Rulemaking functions of the Interstate Commission</heading>
+        <subsection eId="CHC-1666__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Interstate Commission shall promulgate and publish rules in order to effectively and efficiently achieve the purposes of the compact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1666__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Rulemaking shall occur pursuant to the criteria set forth in this Article and the bylaws and rules adopted pursuant thereto.  Such rulemaking shall substantially conform to the principles of the &quot;Model State Administrative Procedure Act&quot;, 1981 Act, Uniform Laws Annotated, Vol. 15, p. 1 (2000), or such other administrative procedure act, as the Interstate Commission deems appropriate consistent with due process requirements under the United States Constitution as now or hereafter interpreted by the United States Supreme Court.  All rules and amendments shall become binding as of the date specified, as published with the final version of the rule as approved by the commission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1666__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When promulgating a rule, the Interstate Commission shall, at a minimum do all of the following:</p>
+          </content>
+          <paragraph eId="CHC-1666__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Publish the proposed rule's entire text stating the reason or reasons for that proposed rule.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1666__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Allow and invite any and all persons to submit written data, facts, opinions and arguments, which information shall be added to the record, and be made publicly available.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1666__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Provide an opportunity for an informal hearing if petitioned by ten or more persons.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1666__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Promulgate a final rule and its effective date, if appropriate, based on input from state or local officials, or interested parties.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1666__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Allow, not later than sixty days after a rule is promulgated, any interested person to file a petition in the United States District Court for the District of Columbia or in the federal district court where the Interstate Commission's principal office is located for judicial review of such rule.  If the court finds that the Interstate Commission's action is not supported by substantial evidence in the rulemaking record, the court shall hold the rule unlawful and set it aside.  For purposes of this Paragraph, evidence is substantial if it would be considered substantial evidence under the Model State Administrative Procedure Act.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1666__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If a majority of the legislatures of the compacting states rejects a rule, those states may, by enactment of a statute or resolution in the same manner used to adopt the compact, cause that such rule shall have no further force and effect in any compacting state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1666__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The existing rules governing the operation of the Interstate Compact on Juveniles superseded by the enactment of this Chapter shall be null and void twelve months after the first meeting of the Interstate Commission created hereunder.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1666__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Upon determination by the Interstate Commission that a state of emergency exists, it may promulgate an emergency rule which shall become effective immediately upon adoption, provided that the usual rulemaking procedures provided hereunder shall be retroactively applied to said rule as soon as reasonably possible, but no later than ninety days after the effective date of the emergency rule.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=181159</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

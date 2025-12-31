@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-793-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-793-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 793.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-793-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-793-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-793-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-793-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-793-1">
+        <num>CHC 793.1</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-793-1__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Research indicates that early identification and intervention of aggressive, antisocial, or delinquent behaviors are critical to the prevention of juvenile delinquency in later years.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-793-1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Research also indicates that school-based preventive tactics for violent or aggressive behaviors are beneficial to the overall academic success of children, especially when such programs include parental involvement in prevention and intervention strategies.
+(3)</p>
+          </content>
+          <paragraph eId="CHC-793-1__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The district attorney of Iberia, St. Mary, and St. Martin parishes, in conjunction with the local school boards in such parishes, has demonstrated a willingness to address behavioral problems or school performance problems related to behavior by providing physical locations in each parish where personnel can work together in a coordinated effort.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-793-1__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The district attorney of East Baton Rouge Parish, in conjunction with the local school boards in such parish, has demonstrated a willingness to address behavioral problems or school performance problems related to behavior by providing physical locations in the parish where personnel can work together in a coordinated effort.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-793-1__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Early intervention has been demonstrated as the key to providing the greatest chance for correcting the actions of youth who demonstrate a propensity for destructive or criminal behavior.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-793-1__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The earliest possible venue for addressing the problem begins in the elementary grades.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-793-1__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>By intervening at this phase, it is possible to correct potential delinquent behavior before the changes for correction become insurmountable.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=285468</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

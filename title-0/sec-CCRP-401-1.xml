@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-401-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-401-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 401.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-401-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-401-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-401-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-401-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-401-1">
+        <num>CCRP 401.1</num>
+        <heading>401.1.  Court instructions for interpreter</heading>
+        <subsection eId="CCRP-401-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a person with a hearing loss is among the petit jury venire, the court shall:</p>
+          </content>
+          <paragraph eId="CCRP-401-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Provide an interpreter for the deaf prospective juror.  The interpreter shall be
+sworn in as an officer of the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-401-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Permit the interpreter to be present and assist a deaf prospective juror during voir
+dire.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-401-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a deaf or hard of hearing person is summoned for jury duty, the court shall:</p>
+          </content>
+          <paragraph eId="CCRP-401-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Provide an interpreter for the deaf juror.  The interpreter shall be sworn in as an
+officer of the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-401-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Instruct the interpreter, in the presence of the jury, to:</p>
+            </content>
+            <subparagraph eId="CCRP-401-1__subsec_B__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Make true, literal, and complete translations of all testimony and other relevant
+colloquy to the deaf juror during the deliberations of the jury.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-401-1__subsec_B__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Refrain from participating in any manner in the deliberations of the jury.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-401-1__subsec_B__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Refrain from having any communications, oral or visual, with any member of the
+jury regarding the deliberations of the jury except for literal translations of jurors' remarks
+made during deliberations.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-401-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Permit the interpreter to be present and assist a deaf juror during the deliberations
+of the jury.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-401-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Give a special instruction to the interpreter not to disclose any portion of the
+deliberations with any person following a verdict.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-401-1__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Direct all costs relating to the interpreting services provided, including
+summoning, voir dire process, and empaneling of a juror in all trials, to be paid by the clerk
+of court's office through the juror and witness fee account.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-401-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The verdict of the jury shall be valid notwithstanding the presence of the
+interpreter during deliberations.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-401-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>All costs relating to the interpreting services provided in this Article shall be paid
+by the clerk of court's office through the juror and witness fee account.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112501</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

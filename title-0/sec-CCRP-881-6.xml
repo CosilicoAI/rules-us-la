@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-6"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-6"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 881.6"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-6/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-6/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-6/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-6/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-881-6">
+        <num>CCRP 881.6</num>
+        <heading>881.6.  Reducing a sentence for substantial assistance</heading>
+        <subsection eId="CCRP-881-6__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon  motion of the state, the sentencing court may reduce the defendant's sentence if, after sentencing, the defendant provided substantial assistance in furtherance of the investigation or prosecution of another person.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-881-6__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In evaluating whether the defendant has provided substantial assistance pursuant to the provisions of this Article, the sentencing court may consider the defendant's presentence or postsentence assistance in furtherance of the investigation or prosecution.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-881-6__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the sentencing court makes a determination to reduce the sentence to a time period which is less than the minimum sentence provided by law, that sentence shall not be imposed without the consent of the district attorney.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-881-6__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>For purposes of this Article, &quot;sentencing&quot; means the oral announcement of the sentence.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112862</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

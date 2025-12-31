@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-103"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-103"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 103"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-103/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-103/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-103/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-103/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-103">
+        <num>CE 103</num>
+        <heading>103.  Rulings on evidence</heading>
+        <subsection eId="CE-103__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Effect of erroneous ruling.  Error may not be predicated upon a ruling which admits or excludes evidence unless a substantial right of the party is affected, and</p>
+          </content>
+          <paragraph eId="CE-103__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Ruling admitting evidence.  When the ruling is one admitting evidence, a timely objection or motion to admonish the jury to limit or disregard appears of record, stating the specific ground of objection; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-103__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Ruling excluding evidence.  When the ruling is one excluding evidence, the substance of the evidence was made known to the court by counsel.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-103__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Record of ruling.  The court may add any other or further statement which shows the character of the evidence, the form in which it was offered, the objection made, and the ruling thereon.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-103__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Hearing of jury.  In jury cases, proceedings shall be conducted, to the extent practicable, so as to prevent inadmissible evidence from being suggested to the jury by any means, such as making statements or asking questions in the hearing of the jury.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72438</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

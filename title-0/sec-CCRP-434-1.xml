@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-434-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-434-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 434.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-434-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-434-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-434-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-434-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-434-1">
+        <num>CCRP 434.1</num>
+        <heading>434.1.  Exceptions to grand jury secrecy</heading>
+        <subsection eId="CCRP-434-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding the provisions of Article 434, the state may disclose to state or federal prosecutors or law enforcement officers, or to investigators on the staff of the district attorney or attorney general, or to expert witnesses, information and documents provided to a grand jury.  Any person to whom such disclosure is made shall not engage in further disclosure of the material and shall use the disclosed material solely for purposes of investigation of criminal offenses and enforcement of criminal laws.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-434-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The district attorney shall also disclose to the defendant material evidence favorable to the defendant that was presented to the grand jury.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-434-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The district attorney may also disclose to a witness at trial, including the defendant if the defendant testifies, any statement of the witness before the grand jury that is inconsistent with the testimony of that witness.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=813868</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

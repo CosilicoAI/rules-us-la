@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1407"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1407"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1407"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1407/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1407/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1407/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1407/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1407">
+        <num>CHC 1407</num>
+        <heading>1407.  Facilities prohibited; emergency certificate for mental health treatment</heading>
+        <subsection eId="CHC-1407__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Minor patients involuntarily hospitalized by emergency certificate for mental health treatment shall not be admitted to the following facilities:</p>
+          </content>
+          <paragraph eId="CHC-1407__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Private clinics.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1407__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Public or private halfway houses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1407__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Public or private group homes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1407__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Substance abuse clinics.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1407__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Forensic facilities.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1407__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Residential facilities for children.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1407__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Minor patients in the custody of the Department of Public Safety and Corrections may be admitted to forensic facilities by emergency certificate provided that judicial commitment proceedings are initiated during the period of treatment at the forensic facility authorized by emergency certificate.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72903</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

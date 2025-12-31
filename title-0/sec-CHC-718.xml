@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-718"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-718"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 718"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-718/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-718/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-718/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-718/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-718">
+        <num>CHC 718</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-718__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The purpose of guardianship is to provide a permanent placement for children
+when the court has found that adoption is not in the children's best interest and the children
+cannot be safely reunified with their parents within a reasonable time; to encourage stability
+and permanence in the lives of children who have been adjudicated to be in need of care and
+have been removed from the custody of their parent; and to increase the opportunities for the
+prompt permanent placement of children, especially with relatives, without ongoing
+supervision by the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-718__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>This Chapter is intended to ensure that the fundamental needs of children are met
+and the constitutional rights of all parties are recognized and enforced.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=762587</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

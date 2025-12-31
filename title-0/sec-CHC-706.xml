@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-706"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-706"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 706"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-706/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-706/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-706/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-706/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-706">
+        <num>CHC 706</num>
+        <heading>706.  Rights of parties</heading>
+        <subsection eId="CHC-706__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>All parties have the right to testify, the right to confront and cross-examine adverse witnesses, the right to present evidence and witnesses, and the right to counsel.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-706__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A child twelve years of age or older shall be present in court unless his presence is waived by the court upon motion of the child's counsel.  A child below the age of twelve years shall be present in court upon the request of counsel for the child or the court.  If the child is present in court, he may choose to testify as to his wishes, and the court shall consider his testimony in the matter.  Any testimony given by a child may be taken by a videotaped interview or by closed-circuit television, as authorized by Chapter 8 of Title III of this Code, or by an in-chambers conference attended only by the judge and court reporter and by counsel for the child, for the petitioner, and for the parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-706__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Any party who has received notice of the dispositional review hearing and does not appear shall be deemed to have waived his right to be present.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73302</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-17"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-17"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 7.17"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-17/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-17/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-17/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-17/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-7-17">
+        <num>HRULE 7.17</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-7-17__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If the actuarial note required by R.S. 24:521 is not attached to a measure reported by any committee of the House of Representatives, any member, on third reading of such measure, may offer a motion that the measure be returned to the calendar.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-7-17__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>At any time a floor amendment is offered to a measure to which an actuarial note was required by R.S. 24:521, which amendment would substantially affect the cost to or the revenues of any retirement system as stated in the most recent actuarial note, and the member proposing such amendment does not present to the House an actuarial note prepared by the legislative auditor as to the fiscal and actuarial effect of his proposed amendment, any member may offer a motion that the proposed amendment be withdrawn.  If the motion is adopted by the favorable vote of a majority of the quorum present, the amendment shall be deemed to be withdrawn; however, the amendment may be proposed again at any time it would otherwise be in order, provided that the required actuarial note is presented at that time.
+HR 24, 1995.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113351</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

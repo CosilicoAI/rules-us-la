@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1229"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1229"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1229"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1229/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1229/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1229/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1229/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1229">
+        <num>CHC 1229</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1229__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Prior to the final decree of the adoption, the attorney arranging the private
+adoption shall ensure that all of the prerequisites for adoption that are listed in this Paragraph
+are completed.  The attorney arranging the private adoption shall complete the list of
+prerequisites by utilizing a social worker in the employ of a licensed private adoption agency,
+licensed social worker, licensed professional counselor, licensed psychologist, medical
+psychologist, licensed psychiatrist, or licensed marriage and family therapist; or, if the child
+is in the custody of the department, by a department employee or designee.  All of the
+following prerequisites shall be completed:</p>
+          </content>
+          <paragraph eId="CHC-1229__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Conduct an initial in-home, in-person visit with the child and one adoptive parent
+within seven calendar days of the child's placement.  The next in-home, in-person visit shall
+occur within thirty days of the initial in-home, in-person visit.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Conduct an in-home visit with one adoptive parent at least once every month
+after the visits provided in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph are completed.  The child shall
+be observed in the home during the monthly visit.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Conduct a private visit without the presence of the adoptive parents with each
+child age one year and above every other month with at least a segment of the visit occurring
+in the adoptive home.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Conduct an in-home visit with both adoptive parents and child within thirty days
+prior to the final decree.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Prepare a report that documents information obtained from the visits conducted
+pursuant to Subparagraphs</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this Paragraph which shall contain all of the
+following:</p>
+            </content>
+            <subparagraph eId="CHC-1229__subsec_A__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The date and time of the visit.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1229__subsec_A__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The individuals present at the time of the visit.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1229__subsec_A__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The location of the visit.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1229__subsec_A__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The duration of the visit.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1229__subsec_A__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An assessment of adjustment of both the child and the adoptive parent.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1229__subsec_A__subsec_4__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>An assessment of the attachment and bonding between the child and the adoptive
+parent.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1229__subsec_A__subsec_4__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>An assessment of the child's health.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1229__subsec_A__subsec_4__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>A description of changes since last contact.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1229__subsec_A__subsec_4__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>A summary of the visit.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1229__subsec_A__subsec_4__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>The signature of a person conducting the visit or phone contact.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Conduct at least three of the visits prior to adoption finalization including the
+visit prior to the final decree which shall include both adoptive parents and all other members
+of the household.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Report observations made during the visits which shall be used in making
+recommendations for the finalization of the adoption.  If problems are identified, the family
+shall be assisted directly and referred to a resource to address the concerns.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The child and adoptive parent shall be provided assistance, consultation, and
+emotional support with situations and problems encountered in permanent placement through
+finalization.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The adoptive family shall be provided with access to twenty-four-hour crisis
+intervention services through finalization.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>A confidential report concerning requirements set forth in Subparagraphs</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>through</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>of this Paragraph shall be presented to the department upon completion and to
+the court prior to the hearing on the final decree of agency adoption.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1229__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The department shall investigate the proposed private adoption and submit a
+confidential report of its findings to the court.  The findings shall include:</p>
+          </content>
+          <paragraph eId="CHC-1229__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The conditions with respect to the availability of the child for adoption.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The physical and mental condition of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Other factors regarding the suitability of the child for adoption in petitioner's
+home.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The moral and financial fitness of the petitioner.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1229__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The conditions of the proposed adoptive home with respect to health, adjustment,
+and other advantages or disadvantages to the child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1229__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The department may delegate the performance of this investigation to a licensed
+private adoption agency, but the department remains responsible for ensuring the accuracy
+and thoroughness of the resulting report and for the safety and welfare of the child.  The
+department shall adopt, promulgate, and enforce such rules and regulations as are necessary
+and appropriate to implement this authorization in accordance with the Administrative
+Procedure Act.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1229__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The department shall make every effort to locate any living parent whose consent
+is required under Article 1193 to determine the parent's attitude toward the proposed
+adoption.  If a curator ad hoc has been appointed by the court pursuant to Article 1227, the
+department shall supply him with all information pertinent to the location of an absentee
+parent within fifteen days of its receipt of a copy of the order appointing the curator ad hoc.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72702</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

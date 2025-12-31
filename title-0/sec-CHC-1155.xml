@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1155"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1155"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1155"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1155/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1155/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1155/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1155/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1155">
+        <num>CHC 1155</num>
+        <heading>1155.  Non-relinquishing parent; procedures</heading>
+        <subsection eId="CHC-1155__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If a non-relinquishing parent cannot be identified, the court, upon finding that a diligent effort has been made by the department to identify the parent, shall terminate the parental rights of the unidentified non-relinquishing parent.  In proving that a diligent but unsuccessful effort was made, the department shall introduce:</p>
+          </content>
+          <paragraph eId="CHC-1155__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A certified copy of the child's birth certificate, if one has been issued.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1155__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A certificate indicating the name and address of any person listed with the putative father registry or a certificate that no registration or listing has occurred concerning this child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1155__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a non-relinquishing parent of the infant is identified, notice of the relinquishment, including an explanation of the rights of the non-relinquishing parent, shall be served upon that parent prior to the entry of an order terminating parental rights.  The notice shall contain the following information in substantially the following form:
+&quot;NOTICE OF SAFE HAVEN RELINQUISHMENT
+Be advised that on the _____ day of ______. _____, (NAME OF PARENT), the parent of an infant (FEMALE/MALE), born on the _____ day of ____________,_____, relinquished the infant for adoption by leaving (HIM/HER) at an emergency care facility.
+You are alleged to be the other parent of the infant.  You may oppose the adoption of this child only by filing a motion of opposition with this court within fifteen days after you are served with this notice.
+If you file a motion of opposition timely, the court will then hold a hearing within twenty days of the filing of your objection, to determine whether you have established or forfeited your parental rights.
+To establish your parental right to oppose the adoption, you must acknowledge that you are the parent of the child or be found to be the parent by court order as a result of blood or tissue tests.  Thereafter, you must also demonstrate to the court that you are a fit parent who is willing and able to assume the legal and physical care of your child.  You must also demonstrate that you have made a substantial commitment to your parental responsibilities by providing or attempting to provide substantial and consistent support during pregnancy or after the infant's birth and by frequently and consistently visiting or attempting to visit the child after birth.  If you fail to file a motion of opposition, or if, after a hearing on a motion timely filed, the court finds that you have failed to establish your parental right to oppose the adoption, the court will order the termination of any and all parental rights you may have and the child may be subjec</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1155__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a non-relinquishing parent is identified but his whereabouts are unknown or he cannot be served, the court shall appoint a curator, and notice of the relinquishment shall be served upon him.  The curator shall make a diligent effort to locate the parent and notify him of the pendency and nature of the proceedings.  Within thirty days after the appointment, the curator shall submit to the court a written report indicating the efforts made to locate the parent.  If the non-relinquishing parent has not been located, the court, upon finding that a diligent effort has been made to locate the parent, shall terminate the parental rights of that parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1155__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If an identified non-relinquishing parent is recognized as having parental rights under Article 1193, an involuntary termination of parental rights judgment under Title X of this Code, consent to adoption, or relinquishment of parental rights shall be required prior to adoption.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1155__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the identified non-relinquishing parent is an alleged or adjudicated father, then his rights shall be determined in accordance with Articles 1137 through 1143.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180653</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

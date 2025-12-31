@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1508"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1508"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1508"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1508/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1508/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1508/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1508/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1508">
+        <num>CHC 1508</num>
+        <heading>1508.  Procedure for punishing constructive contempt</heading>
+        <subsection eId="CHC-1508__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a person is charged with committing a constructive contempt, he shall be tried by the judge on a rule to show cause alleging the facts constituting the contempt.  The rule may be issued by the court on its own motion or on motion of any party.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1508__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A certified copy of the motion and of the rule shall be served on the person charged, in the manner of a subpoena, not less than forty-eight hours prior to the time assigned for trial of the rule.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1508__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the person charged with contempt is found guilty, the court shall render an order reciting the facts constituting the contempt, adjudging the person charged with the contempt guilty thereof, and specifying the punishment imposed.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72975</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-615-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-615-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 615.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-615-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-615-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-615-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-615-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-615-1">
+        <num>CHC 615.1</num>
+        <heading>615.1.  Reports; review by district attorney</heading>
+        <subsection eId="CHC-615-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a law enforcement agency receives a report of a crime involving sexual abuse of a child, including but not limited to those received pursuant to Louisiana Children's Code Article 610(E)</p>
+          </content>
+          <paragraph eId="CHC-615-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Maintain a report containing all information listed in Louisiana Children's Code Article 610(B) and (C), if known, and conduct a full investigation of the allegations.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Maintain the confidentiality of the identity of the reporter in accordance with R.S. 46:56.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>After investigation of the report of child sexual abuse by the law enforcement agency having jurisdiction over the reported incident, send the investigative file to the district attorney for review whether or not an arrest is made.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-615-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In cases involving allegations of sexual abuse of a child:</p>
+          </content>
+          <paragraph eId="CHC-615-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the district attorney determines that the report has been fully investigated and there is insufficient evidence to establish probable cause for arrest, the district attorney shall upload the information contained in the report pursuant to Louisiana Children's Code Article 610(B) and (C) to the central registry for children in need of care maintained by the Bureau of Criminal Identification and Information in the office of state police if an alleged perpetrator has been identified.  The information uploaded to the registry shall also include the name of the law enforcement agency that handled the investigation of the complaint.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the district attorney determines that the report needs further investigation, he shall refer the report to the multidisciplinary team established pursuant to Louisiana Children's Code Article 507 et seq.  If, after a multidisciplinary team investigation, there is still insufficient evidence to establish probable cause for an arrest, the pertinent information in the report shall be uploaded to the bureau as provided in Subparagraph (B)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-615-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In no case shall the district attorney forward information to the Bureau of Criminal Identification and Information in the office of state police when the district attorney finds, based on the investigation, that the allegations are false.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=408242</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

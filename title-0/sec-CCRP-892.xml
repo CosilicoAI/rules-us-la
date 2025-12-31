@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-892"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-892"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 892"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-892/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-892/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-892/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-892/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-892">
+        <num>CCRP 892</num>
+        <heading>892.  Post-sentence statement by sheriff; accompanying documents</heading>
+        <subsection eId="CCRP-892__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The sheriff shall prepare a statement indicating the amount of time a defendant
+has spent in custody prior to conviction when the defendant has been convicted of a felony
+and is committed to the Department of Public Safety and Corrections, has been convicted of
+a misdemeanor and sentenced for a term of one year or more to any penal institution, or has
+been ordered committed to any mental institution or mental hospital.  The sheriff shall retain
+a copy of the statement and submit the original to the sheriff of the parish to which the
+defendant is sentenced.
+B.</p>
+          </content>
+          <paragraph eId="CCRP-892__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>When a sheriff's statement is required pursuant to Paragraph A of this Article,
+the clerk of court shall also prepare the following documents:</p>
+            </content>
+            <subparagraph eId="CCRP-892__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A copy of the indictment under which the defendant was convicted.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-892__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A copy of the Uniform Sentencing Commitment Order in the format authorized
+by the Louisiana Supreme Court which shall include the name and address of the judge, the
+district attorney, and the defense attorney who participated in the sentencing trial.  If the
+department needs information relating to the sentence not provided in the Uniform
+Sentencing Commitment Order, it may request that information from the court.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-892__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The clerk shall retain a copy of the statement and documents and send the
+original to the sheriff of the parish to which the defendant has been sentenced, where they
+shall be preserved.  The documents, or copies thereof, shall be made available to the
+governor, the pardon board, and the parole committee.
+C.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-892__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All statements and documents required by this Article shall physically
+accompany any defendant when said defendant is transferred to a penal institution or a
+mental institution or mental hospital.  Said documents and statements shall be tendered to
+the officer in charge of the institution at the time that the defendant is presented for
+admittance thereto.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-892__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For defendants who have been convicted of a felony and committed to the
+Department of Public Safety and Corrections, all statements and documents required by this
+Article shall be submitted electronically in accordance with R.S. 15:1228.10.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-892__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Failure to comply with the provisions of this Article shall not affect the validity
+of a prosecution, conviction, or sentence.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112878</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

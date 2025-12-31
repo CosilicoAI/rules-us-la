@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-815-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-815-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 815.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-815-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-815-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-815-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-815-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-815-1">
+        <num>CHC 815.1</num>
+        <heading>815.1.  Alternative to detention programs</heading>
+        <subsection eId="CHC-815-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Each judicial district or parish may develop a program or programs to serve as
+alternatives to secure detention of a child.  Such program shall be used only for a child taken
+into custody for the commission of a delinquent act who is not released pursuant to Article
+814.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-815-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An alternative to detention program may be operated either by a nonprofit or
+government entity.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-815-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>There shall be no fees associated with participation in an alternative to detention
+program.  Funding may be provided by any source, including through a contract with the
+office of juvenile justice.  Any program funded by the office of juvenile justice shall comply
+with any requirements established by the office of juvenile justice for the purpose of
+receiving and retaining such funding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-815-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>An alternative to detention program shall be considered a form of detention and
+the time periods set forth in Articles 854 and 877 shall apply unless waived by the child.  No
+child shall remain enrolled in an alternative to detention program following a disposition
+hearing, except as an alternative to placement in detention or other out-of-home placement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-815-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>An alternative to detention program is intended to serve the same limited purpose
+as secure detention as set forth in R.S. 15:1110.  The child's participation in an alternative
+to detention program shall not be considered an adjudication nor shall it suspend delinquency
+proceedings.  An alternative to detention program may include rehabilitative components,
+but continued participation in the program shall not be required post-adjudication, except as
+an alternative to detention of the child or other out-of-home placement.  Placement of a child
+in an alternative to detention program does not preclude the child from being referred to
+treatment programs that are not required as a condition of the child's release from detention.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1147220</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

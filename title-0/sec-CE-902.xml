@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-902"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-902"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 902"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-902/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-902/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-902/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-902/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-902">
+        <num>CE 902</num>
+        <heading>902.  Self-authentication</heading>
+        <subsection eId="CE-902__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Domestic public documents under seal.  A document bearing a seal, including
+electronically generated documents logically associated with electronically generated seals,
+purporting to be that of the United States, or of any state, district, commonwealth, territory,
+or insular possession thereof, or the Panama Canal Zone, or the Trust Territory of the Pacific
+Islands, or of a political subdivision, department, officer, or agency thereof, and a signature
+purporting to be an attestation or execution.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-902__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Domestic public documents not under seal.</p>
+          </content>
+          <paragraph eId="CE-902__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Domestic public documents
+generally.  A document purporting to bear the signature in his official capacity of an officer
+or employee of any entity included in Paragraph</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-902__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>of this Article, having no seal, if a public
+officer having a seal and having official duties in the district or political subdivision of the
+officer or employee certifies under seal that the signer has the official capacity and that the
+signature is genuine.</p>
+          </content>
+          <paragraph eId="CE-902__subsec_1__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Certified Louisiana public documents.  A purported record, book, paper, or other
+document of the State of Louisiana, or of a department, board, or agency thereof or of a
+political subdivision of the state or a department, board, or agency of such a subdivision
+when certified as being the original by an officer or employee who identifies his official
+position and who either has custody of the document or who is otherwise authorized to make
+such a certification.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-902__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Foreign public documents.  A document purporting to be executed or attested in
+his official capacity by a person authorized by the laws of a foreign country to make the
+execution or attestation, and accompanied by a final certification as to the genuineness of the
+signature and official position</p>
+          </content>
+          <paragraph eId="CE-902__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>of the executing or attesting person, or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-902__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>of any foreign
+official whose certificate of genuineness of signature and official position relates to the
+execution or attestation or is in a chain of certificates of genuineness of signature and official
+position relating to the execution or attestation.  A final certification may be made by a
+secretary of embassy or legation, consul general, consul, vice consul, or consular agent of the
+United States, or a diplomatic or consular official of the foreign country assigned or
+accredited to the United States.  If reasonable opportunity has been given to all parties to
+investigate the authenticity and accuracy of official documents, the court may, for good cause
+shown, order that they be treated as presumptively authentic without final certification or
+permit them to be evidenced by an attested summary with or without final certification.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-902__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Presumptions under Acts of Congress and the Louisiana Legislature.  Any
+signature, document, or other matter declared by Act of Congress or by Act of the Louisiana
+Legislature to be presumptively or prima facie genuine or authentic.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-902__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Official publications.  Books, pamphlets, or other publications purporting to be
+issued by public authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-902__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Newspapers and periodicals.  Printed materials purporting to be newspapers or
+periodicals.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-902__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Trade inscriptions and the like.  Inscriptions, signs, tags, or labels purporting to
+have been affixed in the course of business and indicating ownership, control, or origin.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-902__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Authentic acts, acknowledged acts, and other instruments attested by witnesses.</p>
+          </content>
+          <paragraph eId="CE-902__subsec_8__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Authentic acts, acts under private signature duly acknowledged, and instruments attested
+by witnesses and accompanied by affidavits, as provided by Louisiana law, whether executed
+in Louisiana or elsewhere.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-902__subsec_8__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Documents executed in a jurisdiction other than Louisiana
+accompanied by a certificate of acknowledgment executed in the manner provided by the
+laws of that jurisdiction by a notary public or other officer authorized by law to take
+acknowledgments.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-902__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Commercial paper and related documents.  Commercial paper, signatures
+thereon, and documents relating thereto to the extent provided by general commercial law.
+NOTE:  Paragraph 10 eff. until October 1, 2027.  See</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72518</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-423"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-423"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 423"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-423/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-423/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-423/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-423/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-423">
+        <num>CHC 423</num>
+        <heading>423.  Hearing officers</heading>
+        <subsection eId="CHC-423__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The hearing officer shall be a full-time or part-time employee of the court and shall be an attorney who has practiced for five or more years before the juvenile court and is a member in good standing of the Louisiana State Bar Association.  If a part-time employee, the limitations upon the hearing officer's practice of law shall be resolved by local rules.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-423__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The hearing officer shall perform such duties as are assigned in accordance with local rules not inconsistent with this Article or with the constitution and laws of the state, including:</p>
+          </content>
+          <paragraph eId="CHC-423__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Administering oaths.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-423__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Compelling the attendance of witnesses and issuing subpoenas.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-423__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Taking testimony.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-423__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Making a record of the hearings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-423__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Summarizing testimony, making findings of fact, and submitting a written recommendation to the court concerning the disposition of the assigned matter.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-423__subsec_C__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Hearing and making recommendations on all restraining orders and protective orders filed in accordance with Articles 1569 and 1570.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-423__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In the performance of any judicial assignment, the hearing officer shall be bound by the provisions of this Code governing the authority and responsibility of a juvenile court judge.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-423__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The hearing officer shall file his report and recommendations with the court, and a copy shall be promptly provided to all parties or their counsel of record either at the hearing or by mail.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-423__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Within ten days after transmittal of the hearing officer's report and recommendation, any aggrieved party may serve and file objections in writing to findings or recommendations.  The court will then hear the case de novo and enter judgment.  For hearings utilizing the expedited process for establishment of paternity and establishment or enforcement of support, the delay for serving and filing objections shall be established pursuant to local rule as provided in R.S. 46:236.5.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-423__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>If no objection has been timely filed and if the court approves the hearing officer's findings and recommendations, the court shall enter the proposed order as the judgment of the court which thereafter may be appealed in the same manner as any other appeal from any other judgment of the court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73161</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

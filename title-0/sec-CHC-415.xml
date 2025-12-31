@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-415"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-415"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 415"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-415/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-415/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-415/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-415/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-415">
+        <num>CHC 415</num>
+        <heading>415.  Destruction of inactive and closed files</heading>
+        <subsection eId="CHC-415__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>On its own motion, after a contradictory hearing with the district attorney, the court may order the destruction of:</p>
+          </content>
+          <paragraph eId="CHC-415__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any reports or records of criminal neglect of family proceedings brought pursuant to Chapter 2 of Title XIII of this Code, which have been inactive or closed for five years.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-415__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any other reports or records concerning matters or proceedings under its juvenile jurisdiction which have been inactive or closed for ten years.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-415__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Domestic relations and adoption reports and records provided that the clerk of court has reproduced such records by any method of photorecording, photocopying, microfilming, or other photographic method of reproduction and such reproduction shall be retained permanently by the clerk of court.  The film stock used in making photographic or microphotographic copies and the processing of the copies shall comply with the standards of the American National Standard Institute for permanent record photographic microcopying film, and any electronic media used shall comply with the standards of the International Standards Organization for electronic storage of records.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-415__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Any microfilmed or electronically digitized report or record, when certified by the clerk of court and satisfactorily identified, shall be deemed to be an original itself, and shall be admissible in evidence in all courts or administrative proceedings in any agency, whether the preexisting hard copy of the report or record is in existence or not, and an enlargement or facsimile of such a report or record is likewise admissible in evidence, if the microfilm or electronically digitized report or record is in existence and available for inspection under direction of the court or the administrative agency.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108422</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

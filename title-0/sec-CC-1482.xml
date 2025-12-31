@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1482"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1482"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1482"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1482/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1482/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1482/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1482/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1482">
+        <num>CC 1482</num>
+        <heading>1482.  Proof of incapacity to donate</heading>
+        <subsection eId="CC-1482__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A person who challenges the capacity of a donor must prove by clear and convincing evidence that the donor lacked capacity at the time the donor made the donation inter vivos or executed the testament.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1482__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A full interdict lacks capacity to make or revoke a donation inter vivos or disposition mortis causa .</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1482__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A limited interdict, with respect to property under the authority of the curator, lacks capacity to make or revoke a donation inter vivos and is presumed to lack capacity to make or revoke a disposition mortis causa .  With respect to his other property, the limited interdict is presumed to have capacity to make or revoke a donation inter vivos or disposition mortis causa .  These presumptions may be rebutted by a preponderance of the evidence.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108802</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

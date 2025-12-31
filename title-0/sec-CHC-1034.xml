@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1034"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1034"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1034"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1034/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1034/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1034/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1034/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1034">
+        <num>CHC 1034</num>
+        <heading>1034.  Right to present evidence and examine witnesses</heading>
+        <subsection eId="CHC-1034__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Among other rights expressly guaranteed by this Title or by due process of law, at the hearing the parent may introduce evidence, call witnesses, be heard on his own behalf, and cross-examine witnesses called by the petitioner or the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1034__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Among other rights expressly guaranteed by this Title or by due process of law, at the hearing the child may introduce evidence, call witnesses, and cross-examine witnesses called by the petitioner or by the parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1034__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If competent, the child may be heard on his own behalf.  Any testimony given by a child may be taken by a videotaped interview or by closed circuit television, as authorized by Title 3, Chapter 8 of this Code, or by an in-chambers conference attended only by the judge and court reporter and by counsel for the child, for the petitioner, and for the parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1034__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Testimony or other evidence relevant to the abuse or neglect of a child or the cause of such condition may not be excluded on any ground of privilege, except in the case of communications between an attorney and his client or communications between a priest, rabbi, duly ordained minister, or Christian Science practitioner and his communicant.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72565</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-894"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-894"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 894"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-894/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-894/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-894/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-894/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-894">
+        <num>CCRP 894</num>
+        <heading>894.  Suspension and deferral of sentence; probation in misdemeanor cases</heading>
+        <subsection eId="CCRP-894__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Nothing contained herein shall be construed as being a basis for destruction of
+records of the arrest and prosecution of any person convicted of a misdemeanor.
+D.</p>
+          </content>
+          <paragraph eId="CCRP-894__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Public Safety and Corrections, office of motor vehicles,
+shall serve as a repository for the records referred to in Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-894__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>of this Article
+for any plea for operating a vehicle while intoxicated entered pursuant to the provisions of
+this Article.  The department shall maintain records for a period of ten years.  The department
+shall respond by certified mail to a request by any court, prosecuting agency, or defendant
+seeking certified copies of the records or verification that the records are in the possession
+of the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-894__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The records maintained by the department pursuant to this Article shall be
+confidential, except as otherwise provided in this Article.  Certified copies of the records
+maintained by the department shall be admissible only in a subsequent prosecution for
+operating a vehicle while intoxicated and shall not be used for any other purpose.
+(3)</p>
+            </content>
+            <subparagraph eId="CCRP-894__subsec_C__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Insurance is hereby authorized to expend from any surplus
+it derives from a fiscal year an amount not to exceed three hundred thousand dollars to the
+office of motor vehicles to fully implement and maintain the electronic database established
+in this Paragraph.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-894__subsec_C__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department of Insurance is further authorized to enter into cooperative
+endeavor agreements with the Louisiana State Supreme Court, any district attorney's office,
+or any clerk of court's office for training and usage of the database created by this Paragraph.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112888</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

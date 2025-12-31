@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-674"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-674"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 674"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-674/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-674/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-674/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-674/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-674">
+        <num>CCRP 674</num>
+        <heading>674.  Procedure for recusal of trial judge</heading>
+        <subsection eId="CCRP-674__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A party desiring to recuse a trial judge shall file a written motion therefor
+assigning the ground for recusal under Article 671.  The motion shall be filed not later than
+thirty days after discovery of the facts constituting the ground upon which the motion is
+based, but in all cases at least thirty days prior to commencement of the trial.  In the event
+that the facts constituting the ground for recusal occur thereafter or the party moving for
+recusal could not, in the exercise of due diligence, have discovered such facts, the motion to
+recuse shall be filed immediately after the facts occur or are discovered, but prior to verdict
+or judgment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-674__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the motion to recuse sets forth facts constituting a ground for recusal under
+Article 671, not later than seven days after the judge's receipt of the motion from the clerk
+of court, the judge shall either recuse himself or refer the motion for hearing to another judge
+or to an ad hoc judge as provided in Article 675.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-674__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the motion to recuse is not timely filed in accordance with Paragraph A of this
+Article or fails to set forth facts constituting a ground for recusal under Article 671, the judge
+may deny the motion without referring the motion to another judge or to an ad hoc judge for
+hearing but shall provide written reasons for the denial.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112692</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

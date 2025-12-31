@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1571"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1571"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1571"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1571/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1571/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1571/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1571/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1571">
+        <num>CHC 1571</num>
+        <heading>1571.  Penalties; notice of penalty in order</heading>
+        <subsection eId="CHC-1571__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon violation of a temporary restraining order, a protective order, or a court-approved consent agreement, the court may hold the defendant in contempt of court and punish the defendant by imprisonment in the parish jail for not more than six months or a fine of not more than five hundred dollars, or both, and may order that all or a part of any fine be forwarded for the support of petitioner and dependents, in the discretion of the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1571__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Such sentence shall be imposed only after trial by the judge of a rule against the defendant to show cause why he should not be adjudged guilty of contempt and punished accordingly.  The rule to show cause may issue on the court's own motion or on motion of a party to the action or proceeding, and shall state the facts alleged to constitute the contempt.  A certified copy of the motion and of the rule to show cause shall be served upon the person charged with contempt in the same manner as a subpoena, at least forty-eight hours before the time assigned for the trial of the rule, which shall be scheduled within twenty days of the filing of the motion for contempt.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1571__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Each protective order issued under this Chapter, including a temporary ex parte order, shall have the following statement printed in bold-faced type or in capital letters: &quot;A PERSON WHO VIOLATES THIS ORDER MAY BE PUNISHED FOR CONTEMPT OF COURT BY A FINE OF NOT MORE THAN $500 OR BY CONFINEMENT IN JAIL FOR AS LONG AS SIX MONTHS, OR BOTH, AND MAY BE FURTHER PUNISHED UNDER THE CRIMINAL LAWS OF THE STATE OF LOUISIANA.  THIS ORDER SHALL BE ENFORCED BY ALL LAW ENFORCEMENT OFFICERS AND COURTS OF THE STATE OF LOUISIANA.&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1571__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Nothing contained herein shall be construed as a limitation on any applicable provisions of Title 14 of the Louisiana Revised Statutes of 1950.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73030</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

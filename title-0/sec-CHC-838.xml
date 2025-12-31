@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-838"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-838"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 838"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-838/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-838/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-838/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-838/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-838">
+        <num>CHC 838</num>
+        <heading>838.  Procedure when capacity regained</heading>
+        <subsection eId="CHC-838__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The district attorney or the child may apply to the court to have the proceedings
+resumed on the ground that the child presently has the mental capacity to proceed.  Upon
+receipt of such application the court shall order a mental examination by a competency
+commission appointed on the issue of whether the child presently has the mental capacity to
+proceed.  The court may order the Louisiana Department of Health or superintendent of the
+mental institution where the child is committed to make a report as to the child's course of
+treatment and current mental status.  The court shall hold a contradictory hearing within ten
+days to determine, for good cause shown and in accordance with the best interests of the
+child, if the child presently has the mental capacity to proceed.  The court may continue the
+hearing for up to three additional days.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-838__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Reports as to present mental capacity to proceed shall be filed in conformity with
+Article 835, and the court's determination of present mental capacity to proceed shall be
+made in conformity with the provisions of Article 836.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-838__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the court determines that the child has the mental capacity to proceed, the
+proceedings shall be promptly resumed.  If the court determines that the child does not have
+the mental capacity to proceed, the court shall proceed in accordance with Article 837.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73429</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

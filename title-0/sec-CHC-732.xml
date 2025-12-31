@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-732"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-732"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 732"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-732/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-732/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-732/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-732/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-732">
+        <num>CHC 732</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-732__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall designate any individual, except a person authorized to file a petition, who will serve as the intake officer for the court in families in need of services cases.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-732__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Unless otherwise specified by the court, the duties of the intake officer shall include:</p>
+          </content>
+          <paragraph eId="CHC-732__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Responsibility for receiving all complaints alleging that a family is in need of services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-732__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Responsibility for conducting a preliminary investigation into the merits of the allegations.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-732__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Responsibility for identifying any public institutions or agencies having the legal responsibility and ability to supply any needed services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-732__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Scheduling the conference authorized by Article 743 and notifying all parties of the time and place of the conference.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-732__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Conducting the Informal Family Services Plan conference and writing the resulting agreement, if any.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-732__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Coordinating the implementation of the resulting agreement, if any.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-732__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Referring the case for petition and an adjudication hearing, if necessary.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73321</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

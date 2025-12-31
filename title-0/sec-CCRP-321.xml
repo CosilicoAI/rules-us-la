@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-321"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-321"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 321"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-321/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-321/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-321/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-321/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-321">
+        <num>CCRP 321</num>
+        <heading>321.  Types of bail; restrictions</heading>
+        <subsection eId="CCRP-321__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The types of bail are:</p>
+          </content>
+          <paragraph eId="CCRP-321__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Bail with a commercial surety.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Bail with a secured personal surety.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Bail with an unsecured personal surety.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Bail without surety.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Bail with a cash deposit.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-321__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>All bail must be posted in the full amount fixed by the court.  When the court
+fixes the amount of bail, a secured bail undertaking may be satisfied by a commercial surety,
+a cash deposit, or with the court's approval, by a secured personal surety or a bail undertaking
+secured by the property of the defendant, or by any combination thereof.  When the court
+elects to release the defendant on an unsecured personal surety or a bail without surety, that
+election shall be expressed in the bail order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-321__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Any defendant who has been arrested for any of the following offenses shall not
+be released on his personal undertaking or with an unsecured personal surety:</p>
+          </content>
+          <paragraph eId="CCRP-321__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A crime of violence as defined by R.S. 14:2(B).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A felony offense, an element of which is the discharge, use, or possession of a
+firearm.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A sex offense as defined by R.S. 15:541 when the victim is under the age of
+thirteen at the time of commission of the offense and less than ten years have elapsed
+between the date of the commission of the current offense and the expiration of the
+maximum sentence of the previous conviction.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>R.S. 14:32.1 (vehicular homicide).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>R.S. 14:35.3 (domestic abuse battery) or R.S. 14:34.9 (battery of a dating
+partner).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>R.S. 14:37.7 (domestic abuse aggravated assault) or R.S. 14:34.9.1 (aggravated
+assault upon a dating partner).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>R.S. 14:40.3 (cyberstalking), if the person has two prior convictions for the same
+offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>R.S. 14:44.2 (aggravated kidnapping of a child).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>R.S. 14:46 (false imprisonment).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>R.S. 14:46.1 (false imprisonment while the offender is armed with a dangerous
+weapon).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>R.S. 14:87.1.1 (killing a child during delivery).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>R.S. 14:87.2 (human experimentation on an infant born alive).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>R.S. 14:93.3 (cruelty to persons with infirmities), if the person has a prior
+conviction for the same offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>R.S. 14:98 (operating a vehicle while intoxicated), if the person has a prior
+conviction for the same offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>R.S. 14:102.1(B) (aggravated cruelty to animals).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>R.S. 14:102.8 (injuring or killing of a police animal).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>R.S. 14:110.1 (jumping bail).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>R.S. 14:110.1.1 (out-of-state bail jumping).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>Violation of an order issued pursuant to R.S. 9:361 et seq., R.S. 9:372, R.S.
+46:2131 et seq., R.S. 46:2151, Children's Code Article 1564 et seq., Code of Civil Procedure
+Articles 3604 and 3607.1, or Code of Criminal Procedure Articles 30, 320, and 871.1.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-321__subsec_C__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>The production, manufacturing, distribution, or dispensing or the possession
+with the intent to produce, manufacture, distribute or dispense a controlled dangerous
+substance in violation of R.S. 40:966(B), 967(B), 968(B), 969(B), or 970(B) of the Uniform
+Controlled Dangerous Substances Law.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-321__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>There shall be a presumption that any defendant who has either been arrested for
+a new felony offense or has at any time failed to appear in court on the underlying felony
+offense after having been notified in open court shall not be released on his own
+recognizance or on the signature of any other person.  This presumption may be overcome
+after contradictory hearing in open court only if the judge determines by clear and convincing
+evidence that the relevant factors warrant this type of release.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112440</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-627"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-627"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 627"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-627/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-627/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-627/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-627/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-627">
+        <num>CHC 627</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-627__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Following a hearing, the court may return the child to the parents or, in
+accordance with Article 622, may place the child in the custody of a suitable relative, other
+suitable individual, or  the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-627__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a child is not returned to the parents, the court shall place the child in the
+custody of a suitable relative unless the court has made a specific finding that such placement
+is not in the best interest of the child.  The court shall give specific oral and written reasons
+for its findings, which shall be made a part of the record of the proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-627__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the court finds that the child can be safely returned home under a protective
+order pending adjudication, the court may order return of the child and issue protective
+orders as are deemed necessary for the health, welfare, and safety of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-627__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If a protective order is issued or modified, the judge shall cause to have prepared
+a Uniform Abuse Prevention Order, as provided in R.S. 46:2136.2(C), shall sign such order,
+and shall forward it to the clerk of court for filing, all without delay, and the clerk of the
+issuing court shall transmit the Uniform Abuse Prevention Order to the Louisiana Protective
+Order Registry, R.S. 46:2136.2(A), by facsimile transmission, mail, or direct electronic input,
+where available, as expeditiously as possible, but no later than the end of the next business
+day after the order is filed with the clerk of court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-627__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the court finds that the child can safely remain in or return to the home with the
+implementation of a safety plan developed and agreed upon by the state pending
+adjudication, the court may order compliance with the conditions of the safety plan.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-627__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If the court orders that the child be placed in the custody of a suitable relative or
+other suitable individual, it shall make a safety plan part of its order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-627__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>The court shall order the appointment of a curator for any parent who is an
+absentee.  The court may order the appointment of a court-appointed special advocate.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73220</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

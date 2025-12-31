@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1702"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1702"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 1702"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1702/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1702/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1702/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1702/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-1702">
+        <num>CCP 1702</num>
+        <heading>1702.  Default judgment</heading>
+        <subsection eId="CCP-1702__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In those proceedings in which the sum due is on an open account or a promissory
+note, other negotiable instrument, or other conventional obligation, or a deficiency judgment
+derived therefrom, including those proceedings in which one or more mortgages, pledges,
+or other security for the open account, promissory note, negotiable instrument, conventional
+obligation, or deficiency judgment derived therefrom is sought to be enforced, maintained,
+or recognized, or in which the amount sought is that authorized by R.S. 9:2782 for a check
+dishonored for nonsufficient funds, a hearing in open court shall not be required unless the
+judge, in his discretion, directs that such a hearing be held.  The plaintiff shall submit to the
+court the proof required by law and the original and not less than one copy of the proposed
+default judgment.  The judge shall, within seventy-two hours of receipt of such submission
+from the clerk of court, sign the proposed default judgment or direct that a hearing be held. 
+The clerk of court shall certify that no answer or other pleading has been filed by the
+defendant.  The minute clerk shall make an entry showing the dates of receipt of proof,
+review of the record, and rendition of the default judgment.  A certified copy of the signed
+default judgment shall be sent to the plaintiff by the clerk of court, and notice of the signing
+of the default judgment shall be given as provided in Article 1913.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1702__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When the demand is based upon a right acquired by assignment in an open
+account, promissory note, or other negotiable instrument, the court may raise an objection
+of prescription before entering a default judgment if the grounds for the objection appear
+from the pleadings or from the evidence submitted by the plaintiff. If the court raises an
+objection of prescription, it shall not enter the default judgment unless the plaintiff presents
+prima facie proof that the action is not barred by prescription.  Upon the plaintiff's request,
+the court shall hold a hearing for the submission of such proof.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1702__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>When the demand is based upon a claim for a personal injury, a sworn narrative
+report of the treating physician or dentist may be offered in lieu of his testimony.
+F.</p>
+          </content>
+          <paragraph eId="CCP-1702__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding any other provisions of law to the contrary, when the demand
+is for divorce under Civil Code Article 103</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1702__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or (5), whether or not the demand contains a
+claim for relief incidental or ancillary thereto, a hearing in open court shall not be required
+unless the judge, in his discretion, directs that a hearing be held.  The plaintiff shall submit
+to the court an affidavit specifically attesting to and testifying as to the truth of all of the
+factual allegations contained in the petition, the original and not less than one copy of the
+proposed default judgment, a certification indicating the type of service made on the
+defendant and the date of service, and a certification by the clerk that the record was
+examined by the clerk, including the date of the examination, and a statement that no answer
+or other pleading has been filed.  If the demand is for divorce under Civil Code Article
+103(5), a certified copy of the protective order or injunction rendered after a contradictory
+hearing or consent decree shall also be submitted to the court.  If no answer or other pleading
+has been filed by the defendant, the judge shall review the submitted affidavit, proposed
+default judgment, and certification and render and sign the proposed default judgment or
+direct that a hearing be held.  The minutes shall reflect rendition and signing of the default
+judgment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1702__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the demand is for divorce under Civil Code Article 103</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1702__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>and the defendant,
+by sworn affidavit, acknowledges receipt of a certified copy of the petition and waives formal
+citation, service of process, all legal delays, notice of trial, and appearance at trial, a default
+judgment of divorce may be entered against the defendant two days, exclusive of legal
+holidays, after the affidavit is filed.  The affidavit of the defendant may be prepared or
+notarized by any notary public.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1702__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The notice requirements contained in Paragraph A of this Article shall not apply
+when the plaintiff intends to obtain a default judgment for a demand for divorce as provided
+by this Paragraph.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111285</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

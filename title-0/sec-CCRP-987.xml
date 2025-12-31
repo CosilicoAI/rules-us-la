@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-987"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-987"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 987"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-987/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-987/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-987/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-987/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-987">
+        <num>CCRP 987</num>
+        <heading>987.  Motion to set aside conviction and dismiss prosecution; rule to show cause; order of dismissal forms to be used</heading>
+        <content>
+          <p>Art. 987.  Motion to set aside conviction and dismiss prosecution; rule to show cause; order of dismissal forms to be used
+&quot;
+STATE OF LOUISIANA
+JUDICIAL DISTRICT FOR THE PARISH OF
+______________________________
+No.: _____________
+Division: &quot;_______&quot;
+State of Louisiana
+vs.
+_______________________________________________________
+MOTION TO SET ASIDE CONVICTION AND
+DISMISS PROSECUTION
+NOW INTO HONORABLE COURT, comes
+*
+Defendant, OR
+*
+Defendant through undersigned Counsel,
+who moves that the conviction pursuant to Louisiana Code of Criminal Procedure
+*
+Article 894(B) Misdemeanors, OR
+*
+Article 893(E) Felonies
+in the above numbered case be set aside and that the prosecution dismissed in accordance with the Code of Criminal Procedure in that the period of the deferred sentence has run and petitioner has successfully completed the terms of his probation.
+The mover is further identified below:
+DOCKET NUMBER:
+_______________________
+CHARGE:
+_______________________
+DATE OF ARREST:
+_______________________
+ARRESTING AGENCY:
+_______________________
+CITY/PARISH OF ARREST:
+_______________________
+The Mover prays that, after a contradictory hearing with the District Attorney's Office, the Court order the above numbered case be set aside and that the prosecution dismissed in accordance with the Code of Criminal Procedure.
+Respectfully submitted,
+____________________________________
+Signature of Attorney for Mover/Defendant
+____________________________________
+Attorney for Mover/Defendant Name
+____________________________________
+Attorney's Bar Roll No.
+____________________________________
+Address
+____________________________________
+City, State, ZIP Code
+____________________________________
+Telephone Number
+If not represented by counsel:
+____________________________________
+Signature of Mover/Defendant
+____________________________________
+Mover/Defendant Name
+____________________________________
+Address
+____________________________________
+City, State, ZIP Code
+____________________________________
+Telephone Number
+STATE OF LOUISIANA
+JUDICIAL DISTRICT FOR THE PARISH OF
+______________________________
+No.: ______________
+Division: &quot;_______&quot;
+State of Louisiana
+vs.
+_______________________________________________________
+RULE TO SHOW CAUSE
+IT IS HEREBY ORDERED , that the District Attorney show cause on the _______ day of ______________________, 20 _____, at ______o'clock __m why the foregoing motion should not be granted.
+THUS ORDERED AND SIGNED this ____ day of _________________, 20 ____ at ______________, Louisiana, ___________________________.
+___________________________
+JUDGE
+PLEASE SERVE:
+1.
+District Attorney: _____________________________________________
+2.
+Attorney for Defendant and/or Defendant ____________________________
+STATE OF LOUISIANA
+JUDICIAL DISTRICT FOR THE PARISH OF
+______________________________
+No.: _________
+Division: &quot;_______&quot;
+State of Louisiana
+vs.
+_______________________________________________________
+ORDER OF DISMISSAL
+Considering the Motion to Set Aside Conviction and Dismiss Prosecution, the hearing conducted on the representation of the State of Louisiana of its consent hereto, and that there is no opposition for any good cause appearing herein;
+IT IS ORDERED, ADJUDGED AND DECREED that this conviction is set aside and the prosecution dismissed for purposes of expungement.
+THUS ORDERED AND SIGNED this _____ day of _______________, 20 ____at ________________, Louisiana.
+___________________________________
+JUDGE
+PLEASE SERVE:
+1.
+District Attorney:________________________________________________
+2.
+Attorney for Defendant and/or Defendant ___________________________&quot;</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919680</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

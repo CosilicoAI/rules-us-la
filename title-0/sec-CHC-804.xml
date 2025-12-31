@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-804"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-804"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 804"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-804/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-804/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-804/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-804/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-804">
+        <num>CHC 804</num>
+        <heading>804.  Definitions</heading>
+        <subsection eId="CHC-804__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Child care institution&quot; means a nonprofit, licensed private or public institution
+which accommodates no more than twenty-five children and which is not a detention facility,
+a forestry camp, a training school, or any other facility operated primarily for the detention
+of children who are determined to be delinquent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-804__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Delinquent act&quot; means an act committed by a child of ten years of age or older
+which if committed by an adult is designated an offense under the statutes or ordinances of
+this state, or of another state if the offense occurred there, or under federal law, except traffic
+violations.  It includes an act constituting an offense under R.S. 14:95.8, an act constituting
+an offense under R.S. 14:81.1.1(A)(2), and a direct contempt of court committed by a child. 
+&quot;Delinquent act&quot; shall not include a violation of R.S. 14:82, 83.3, 83.4, 89, or 89.2 for a child
+who, during the time of the alleged commission of the offense, was a victim of trafficking
+of children for sexual purposes pursuant to R.S. 14:46.3(E).</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-804__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Delinquent child&quot; means a child who has committed a delinquent act.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-804__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Felony-grade delinquent act&quot; means an offense that if committed by an adult,
+may be punished by death or by imprisonment at hard labor.  &quot;Felony-grade delinquent act&quot;
+shall not include a violation of R.S. 14:82, 83.3, 83.4, 89, or 89.2 for a child who, during the
+time of the alleged commission of the offense, was a victim of trafficking of children for
+sexual purposes pursuant to R.S. 14:46.3(E).</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-804__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Insanity&quot; means a mental disease or mental illness which renders the child
+incapable of distinguishing between right and wrong with reference to the conduct in
+question, as a result of which the child is exempt from criminal responsibility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-804__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Mental incapacity to proceed&quot; means that, as a result of mental illness or
+developmental disability, a child presently lacks the capacity to understand the nature of the
+proceedings against him or to assist in his defense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-804__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Misdemeanor-grade delinquent act&quot; means any offense which if committed by
+an adult is other than a felony and includes the violation of an ordinance providing a penal
+sanction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-804__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Sexually exploited child&quot; means any person under the age of eighteen who has
+been subject to sexual exploitation because the person:</p>
+          </content>
+          <paragraph eId="CHC-804__subsec_9__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Is a victim of trafficking of children for sexual purposes under R.S. 14:46.3.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-804__subsec_9__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Is a victim of child sex trafficking under 18 U.S.C. 1591.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73392</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

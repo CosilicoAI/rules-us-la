@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2814"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2814"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2814"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2814/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2814/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2814/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2814/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2814">
+        <num>CC 2814</num>
+        <heading>Section </heading>
+        <content>
+          <p>CHAPTER 3--RELATIONS OF THE PARTNERSHIP AND THE
+PARTNERS WITH THIRD PERSONS
+Art. 2814.  Partner as mandatary of the partnership
+A partner is a mandatary of the partnership for all matters in the ordinary course of its business other than the alienation, lease, or encumbrance of its immovables.  A provision that a partner is not a mandatary does not affect third persons who in good faith transact business with the partner.  Except as provided in the articles of partnership, any person authorized to execute a mortgage or security agreement on behalf of a partnership shall, for purposes of executory process, have authority to execute a confession of judgment in the act of mortgage or security agreement without execution of the articles of partnership by authentic act.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109884</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

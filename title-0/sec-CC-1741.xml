@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1741"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1741"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1741"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1741/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1741/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1741/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1741/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1741">
+        <num>CC 1741</num>
+        <heading>1741.  Caducity; causes and effects</heading>
+        <content>
+          <p>Art. 1741.  Caducity; causes and effects
+If every one of the donees, including the substitutes, predeceases the donor or, once the donor's succession is opened, renounces the donation or is declared unworthy to receive it, the donation becomes of no effect at all.  The object of the donation falls to the donor's heirs or legatees, as the case may be.
+If the donation has been made to both spouses and to their common descendants, and if one of the spouses predeceases the donor or, once the donor's succession is opened, renounces the donation or is declared unworthy to receive it, the donation becomes of no effect only with respect to that spouse.  To that extent, accretion takes place in favor of the surviving spouse, if the donation has been made to the spouses jointly, or substitution takes place in favor of their common descendants, if the donation has been made to the spouses separately.
+If the donation has been made to both spouses, but not to their common descendants, and if one of the spouses predeceases the donor or, once the donor's succession is opened, renounces the donation or is declared unworthy to receive it, the donation becomes of no effect only with respect to that spouse.  To that extent, the object of the donation accretes to the surviving spouse, if the donation has been made to the spouses jointly, or falls to the donor's heirs or legatees, as the case may be, if the donation has been made to the spouses separately.
+If the donation has been made to one spouse only and to the spouses' common descendants, and if the donee spouse predeceases the donor or, once the donor's succession is opened, renounces the donation or is declared unworthy to receive it, the donation becomes of no effect with respect to the donee spouse.  Substitution takes place in favor of the spouses' common descendants.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108975</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

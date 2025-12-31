@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-311"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-311"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 311"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-311/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-311/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-311/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-311/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-311">
+        <num>CCRP 311</num>
+        <heading>BAIL</heading>
+        <subsection eId="CCRP-311__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Bail is the security given by a person to assure a defendant's appearance before
+the proper court whenever required.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-311__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>An appearance is a personal appearance before the court or the court's designee,
+where the charges are pending.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-311__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A surrender is the detention of the defendant at the request of the surety by the
+officer originally charged with his detention on the original commitment.  When the surety
+has requested the surrender of the defendant, the officer shall acknowledge the surrender by
+a certificate of surrender signed by him and delivered to the surety.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-311__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>A constructive surrender is the detention of the defendant in another parish of the
+state of Louisiana or a foreign jurisdiction under the following circumstances:</p>
+          </content>
+          <paragraph eId="CCRP-311__subsec_4__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>A warrant for arrest has been issued for the defendant in the jurisdiction in which
+the bail obligation is in place.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-311__subsec_4__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The surety has provided proof of the defendant's current incarceration to the court
+in which the bail obligation is in place, to the prosecuting attorney, and to the officer
+originally charged with the defendant's detention.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-311__subsec_4__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The surety agrees to pay reasonable or actual costs of returning the defendant to
+the jurisdiction where the warrant for arrest was issued.  If the surety fails to pay a set amount
+of the reasonable or actual costs, the recovery shall be through a summary proceeding against
+both the principal and the surety, as provided in Code of Civil Procedure Article 2592</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-311__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A surety's motion and affidavit for issuance of warrant may be filed when the
+defendant is found incarcerated in another parish of the state of Louisiana or a foreign
+jurisdiction and a warrant has not been issued by the court or in which the bail obligation is
+in place.  In such instances, the surety may file a motion with the court requesting a warrant
+be issued when the following conditions have been met:</p>
+          </content>
+          <paragraph eId="CCRP-311__subsec_5__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>There has been a breach of the bail undertaking.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-311__subsec_5__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The surety provides proof of the defendant's current incarceration outside of the
+state of Louisiana. The defendant's incarceration may be used as evidence of a breach of the
+bail undertaking.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-311__subsec_5__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The defendant did not have written permission from the court to leave the state
+of Louisiana.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-311__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Upon presentation of evidence of the breach of the bail undertaking, the court
+may issue a warrant for the defendant's violation of the conditions of the bail undertaking.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-311__subsec_5__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>The surety may then file the constructive surrender in accordance with this
+Article and Article 331.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-311__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>A personal surety is a natural person domiciled in the state of Louisiana who
+owns property in this state that is subject to seizure and is of sufficient value to satisfy,
+considering all his property, the amount specified in the bail undertaking.  The value of the
+property shall exclude the amount exempt from execution, and shall be over and above all
+other liabilities including the amount of any other bail undertaking on which he may be
+principal or surety.  If there is more than one personal surety, then the requirements shall
+apply to the aggregate value of their property.  A personal surety shall not charge a fee or
+receive any compensation for posting a bail undertaking.  A bail undertaking of a personal
+surety may be unsecured or secured.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-311__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Bail enforcement is the apprehension or surrender by a natural person of a
+principal who is released on bail or who has failed to appear at any stage of the proceedings
+to answer the charge before the court in which the principal may be prosecuted.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-311__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>A bail enforcement agent is a licensed bail agent who engages in the
+apprehension or surrender by a natural person of a principal who is released on bail or who
+has failed to appear at any stage of the proceedings to answer the charge before the court in
+which the principal  may be prosecuted.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-311__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The originating jurisdiction is the jurisdiction where the warrant for the arrest
+was issued and where the charges are pending.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-311__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>The executing jurisdiction is the jurisdiction where the defendant is arrested and
+incarcerated on a warrant for arrest.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-311__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Electronic bond is a commercial bail bond contract executed digitally as
+security given by a surety to assure a defendant's appearance before the proper court
+whenever required.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112429</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

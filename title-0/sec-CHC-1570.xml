@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1570"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1570"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1570"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1570/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1570/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1570/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1570/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1570">
+        <num>CHC 1570</num>
+        <heading>1570.  Protective orders; content; modification; service</heading>
+        <subsection eId="CHC-1570__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court may grant any protective order or approve any consent agreement to bring about a cessation of abuse of a party, any children, or any person alleged to be incompetent, which relief may include but is not limited to:</p>
+          </content>
+          <paragraph eId="CHC-1570__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Granting the relief enumerated in Article 1569.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1570__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When there is a duty to support a party, any minor children, or any person alleged to be incompetent living in the residence or household, ordering payment of temporary support or provision of suitable housing for them.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1570__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Awarding temporary custody of or establishing temporary visitation rights and conditions with regard to any children or person alleged to be incompetent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1570__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Ordering counseling or professional medical treatment for the defendant or the abused person, or both.
+(5)</p>
+            </content>
+            <subparagraph eId="CHC-1570__subsec_A__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Ordering a medical evaluation of the defendant or the abused person, or both, to be conducted by an independent court-appointed evaluator who qualifies as an expert in the field of domestic abuse. The evaluation shall be conducted by a person who has no family, financial, or prior medical relationship with the defendant or abused person, or their attorneys of record.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1570__subsec_A__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If the medical evaluation is ordered for both the defendant and abused person, two separate evaluators shall be appointed.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1570__subsec_A__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>After an independent medical evaluation has been completed and a report issued, the court may order counseling or other medical treatment as deemed appropriate.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1570__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A protective order may be rendered pursuant to this Chapter if the court has jurisdiction over the parties and subject matter and either of the following occurs:</p>
+          </content>
+          <paragraph eId="CHC-1570__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The parties enter into a consent agreement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1570__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person's right to due process.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1570__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Any protective order issued within this state or outside this state that is consistent with Paragraph B shall be accorded full faith and credit by the courts of this state and enforced as if it were the order of the enforcing court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1570__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>On the motion of any party, the court, after notice to the other parties and a hearing, may modify a prior order to exclude any item included in the prior order or to include any item that could have been included in the prior order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1570__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A protective order made under this Chapter shall be served on the person to whom the order applied in open court at the close of the hearing, or in the same manner as a writ of injunction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1570__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Any final protective order or approved consent agreement shall be for a fixed period of time, not to exceed six months, and may be extended by the court, after a contradictory hearing, in its discretion.  When such order or agreement is for the protection of a child under the age of eighteen who has been sexually molested, the period shall last at least until the child attains the age of eighteen years, unless otherwise modified or terminated following a contradictory hearing.  Such protective order or extension thereof shall be subject to a devolutive appeal only.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1570__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Immediately upon rendering a decision granting the relief requested by the petitioner, the judge shall cause to have prepared a Uniform Abuse Prevention Order, as provided in R.S. 46:2136.2(C), shall sign such order, and shall immediately forward it to the clerk of court for filing on the day that the order is issued.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1570__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>If a protective order is issued or modified, or a consent agreement is agreed to or modified, the clerk of the issuing court shall transmit the Uniform Abuse Prevention Order to the Judicial Administrator's Office, Louisiana Supreme Court, for entry into the Louisiana Protective Order Registry, as provided in R.S. 46:2136.2(A), by facsimile transmission or direct electronic input as expeditiously as possible, but no later than the end of the next business day after the order is filed with the clerk of court.  The clerk of the issuing court shall also send a copy of the Uniform Abuse Prevention Order, as provided in R.S. 46:2136.2(C), or any modification thereof, to the chief law enforcement officer of the parish where the person or persons protected by the order reside by facsimile transmission or direct electronic input as expeditiously as possible, but no later than the end of the next business day after the order is filed with the clerk of court.  A copy of the Uniform Abuse Prevention Order shall be retained on file in the office of the chief law enforcement officer until otherwise directed by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1570__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>A court shall not grant a mutual order for protection to opposing parties. However, nothing contained in this Paragraph shall be construed to prohibit the court from granting a protective order to a party in a subsequently filed Petition for Domestic Abuse Assistance provided that the provisions contained in R.S. 46:2136(B) have been met.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73028</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

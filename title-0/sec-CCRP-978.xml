@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-978"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-978"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 978"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-978/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-978/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-978/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-978/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-978">
+        <num>CCRP 978</num>
+        <heading>978.  Motion to expunge record of arrest and conviction of a felony offense</heading>
+        <subsection eId="CCRP-978__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in Paragraph B of this Article, a person may file a motion to
+expunge his record of arrest and conviction of a felony offense if any of the following apply:</p>
+          </content>
+          <paragraph eId="CCRP-978__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The conviction was set aside and the prosecution was dismissed pursuant to
+Article 893(E).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-978__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>More than ten years have elapsed since the person completed any sentence,
+deferred adjudication, or period of probation or parole based on the felony conviction, and
+the person has not been convicted of any other criminal offense for a period of at least ten
+years preceding the motion and has no criminal charge pending against him. The motion filed
+pursuant to this Subparagraph shall include a certification obtained from the district attorney
+which verifies that, to his knowledge, the applicant has no convictions during the ten-year
+period immediately preceding the motion, and no pending charges under a bill of information
+or indictment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-978__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The person is entitled to a first offender pardon for the offense pursuant to Article
+IV, Section 5(E)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-978__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of the Constitution of Louisiana, provided that the offense is not defined
+as a crime of violence pursuant to R.S. 14:2(B) or a sex offense pursuant to R.S. 15:541.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-978__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>No expungement shall be granted nor shall a person be permitted to file a motion
+to expunge the record of arrest and conviction of a felony offense if the person was convicted
+of the commission or attempted commission of any of the following offenses:</p>
+          </content>
+          <paragraph eId="CCRP-978__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A crime of violence as defined by or enumerated in R.S. 14:2(B), unless
+otherwise authorized in Paragraph E of this Article.
+(2)</p>
+            </content>
+            <subparagraph eId="CCRP-978__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding any provision of Article 893, a sex offense or a criminal
+offense against a victim who is a minor as each term is defined by R.S. 15:541, or any
+offense which occurred prior to June 18, 1992, that would be defined as a sex offense or a
+criminal offense against a victim who is a minor had it occurred on or after June 18, 1992.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-978__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any person who was convicted of carnal knowledge of a juvenile (R.S. 14:80)
+prior to August 15, 2001, is eligible for an expungement pursuant to the provisions of this
+Title if the offense for which the offender was convicted would be defined as misdemeanor
+carnal knowledge of a juvenile (R.S. 14:80.1) had the offender been convicted on or after
+August 15, 2001.  The burden is on the mover to establish that the elements of the offense
+of conviction are equivalent to the current definition of misdemeanor carnal knowledge of
+a juvenile as defined by R.S. 14:80.1.  A copy of the order waiving the sex offender
+registration and notification requirements issued pursuant to the provisions of R.S. 15:542(F)
+shall be sufficient to meet this burden.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-978__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A violation of the Uniform Controlled Dangerous Substances Law, except for any
+of the following which may be expunged pursuant to the provisions of this Title:</p>
+            </content>
+            <subparagraph eId="CCRP-978__subsec_B__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A conviction for possession of a controlled dangerous substance as provided for
+in R.S. 40:966(C), 967(C), 968(C), or 969(C), or 970(C).</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-978__subsec_B__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A conviction for possession of a controlled dangerous substance with the intent
+to distribute.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-978__subsec_B__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A conviction for a violation of the Uniform Controlled Dangerous Substances
+Law which is punishable by a term of imprisonment of not more than five years.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-978__subsec_B__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A conviction for a violation of the Uniform Controlled Dangerous Substances
+Law which may be expunged pursuant to Article 893(E).</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-978__subsec_B__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A conviction for a violation of the Uniform Controlled Dangerous Substances
+Law for which the person is entitled to a first offender pardon pursuant to Article IV, Section
+5(E)</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-978__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of the Constitution of Louisiana.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-978__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The conviction was for domestic abuse battery.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-978__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The motion to expunge a record of arrest and conviction of a felony offense shall
+be served pursuant to the provisions of Article 979.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-978__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919670</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

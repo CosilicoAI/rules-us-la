@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-14"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-14"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 13.14"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-14/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-14/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-14/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-14/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-13-14">
+        <num>SRULE 13.14</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-13-14__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Each standing committee established in Rule 13.1 and each joint committee established as provided in Rule 13.12, with the approval of the President, may appoint subcommittees and authorize them to meet and to take action, subject to approval of the full committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-14__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The chairman and vice chairman and the members of each subcommittee shall be appointed by the chairman of the full committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-14__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A subcommittee is authorized to undertake studies on matters within the scope of its jurisdiction only when directed to do so by the full committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-14__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Subcommittee reports shall be submitted to the full committee for approval, rather than to the Senate directly. No report or recommendation of a subcommittee shall be binding on the full committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-14__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A subcommittee shall have no authority to establish subcommittees.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180404</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

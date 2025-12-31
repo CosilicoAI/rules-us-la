@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4850"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4850"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 4850"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4850/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4850/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4850/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4850/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-4850">
+        <num>CCP 4850</num>
+        <heading>4850.  Jurisdiction in rem or quasi in rem; executory proceedings</heading>
+        <subsection eId="CCP-4850__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A parish court or a city court may exercise jurisdiction quasi in rem over movable or immovable property, or jurisdiction in rem over movable property, in the manner provided by law, if the property is situated within the territorial jurisdiction of the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4850__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A parish court or a city court may issue a writ of seizure and sale in an executory proceeding to enforce a privilege or mortgage on movable or immovable property.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112094</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

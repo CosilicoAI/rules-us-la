@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-93"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-93"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 13.93"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-93/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-93/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-93/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-93/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-13-93">
+        <num>SRULE 13.93</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-13-93__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The time and place of the meeting of the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-93__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The members present and absent.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-93__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The names and addresses of each person appearing before the committee, with
+the name and address of any person, firm, corporation, association, or organization on
+whose behalf the appearance is made.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-93__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The instruments or other matters considered, by number where appropriate.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-93__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The important points made by each witness at a public hearing and by each
+member of the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-93__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Action of the committee, including final action with respect to each instrument
+on which the committee makes a report to the Senate.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-93__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The vote of each member on each instrument, matter, or motion considered by
+the committee on which a record vote is taken.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180464</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

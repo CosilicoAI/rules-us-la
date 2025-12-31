@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1447"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1447"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1447"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1447/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1447/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1447/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1447/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1447">
+        <num>CHC 1447</num>
+        <heading>1447.  Burden of proof; order</heading>
+        <subsection eId="CHC-1447__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If the court finds by clear and convincing evidence that the minor respondent is dangerous to himself or others or is gravely disabled as a result of substance abuse or mental illness, it shall render a judgment for his commitment to a designated treatment facility which is medically suitable and least restrictive of his liberty.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1447__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court order shall order a suitable person to convey the minor to the treatment facility and deliver respondent, together with a copy of the judgment and certificates, to the director.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1447__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In appointing a person to execute the order, the court should give preference to a near relative or friend of the minor.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72943</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

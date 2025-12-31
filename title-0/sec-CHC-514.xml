@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-514"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-514"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 514"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-514/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-514/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-514/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-514/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-514">
+        <num>CHC 514</num>
+        <heading>514.  Immunity from civil or criminal liability</heading>
+        <subsection eId="CHC-514__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In the consideration of any child abuse case, a member of a multidisciplinary team shall not be liable for civil damages while acting in the official scope of his duties if the member, in good faith, refers a report of alleged child abuse for investigation, conducts an investigation, makes an investigative judgment or disposition, or releases or uses information for the purpose of protecting a child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-514__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The limitation of civil liability in Paragraph A of this Article does not apply if a multidisciplinary team member acts with gross negligence or in bad faith.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113448</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

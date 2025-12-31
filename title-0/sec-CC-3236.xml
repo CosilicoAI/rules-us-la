@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3236"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3236"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 3236"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3236/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3236/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3236/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3236/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-3236">
+        <num>CC 3236</num>
+        <heading>3236.  Sale or donation of unclaimed and unredeemed property, procedure</heading>
+        <content>
+          <p>Art. 3236.  Sale or donation of unclaimed and unredeemed property, procedure.
+Whenever any trunk, carpetbag, valise, box, bundle or other baggage which shall hereafter come into the possession of the keeper of any hotel, motel, inn, boarding or lodging house, as such, and shall remain unclaimed or unredeemed for the period of six months, such keeper may proceed to sell the same at public auction, and without judicial proceedings, and out of the proceeds of such sale may retain the amount due him for board, lodging and extras, and the charges for storage, if any, and the expense of advertising and sale thereof, but no such sale shall be made until the expiration of four weeks from the publication of notice of such sale in a newspaper published in or nearest the city, town, village or place in which said hotel, motel, inn, boarding or lodging house is situated.  Said notice shall be published once, in some newspaper, daily or weekly, of general circulation, and shall contain a description of each trunk, carpetbag, valise, box, bundle or other baggage as near as may be; the name of the owner, if known; the name of the keeper, and the time and place of sale.  The expense incurred for advertising shall be a lien upon such trunk, carpetbag, valise, box, bundle or other baggage in a ratable proportion according to the value of such property, or thing or article sold.  In case any balance arising upon such sale shall not be claimed by the rightful owner within one week from the day of said sale the same shall be paid to any authorized charity or state institution.
+Alternatively, the hotel, motel, inn, boarding house, or lodging house at its discretion may store the unclaimed or unredeemed possessions for six months and at the expiration of this period donate, give or turn them over to an authorized charity, or state institution.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110286</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

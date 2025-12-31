@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1308-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1308-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1308.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1308-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1308-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1308-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1308-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1308-2">
+        <num>CHC 1308.2</num>
+        <heading>1308.2.  Conditions of rendition</heading>
+        <subsection eId="CHC-1308-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Before making demand that the governor of another state surrender an individual
+charged criminally in this state with having failed to provide for the support of an obligee,
+the governor of this state may require a prosecutor of this state to demonstrate that at least
+sixty days previously the obligee had initiated proceedings for support pursuant to this
+Chapter or that the proceeding would be of no avail.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1308-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If, under this Chapter or a law substantially similar to this Chapter, the governor
+of another state makes a demand that the governor of this state surrender an individual
+charged criminally in that state with having failed to provide for the support of a child or
+other individual to whom a duty of support is owed, the governor may require a prosecutor
+to investigate the demand and report whether a proceeding for support has been initiated or
+would be effective.  If it appears that a proceeding would be effective but has not been
+initiated, the governor may delay honoring the demand for a reasonable time to permit the
+initiation of a proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1308-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a proceeding for support has been initiated and the individual whose rendition
+is demanded prevails, the governor may decline to honor the demand.  If the petitioner
+prevails and the individual whose rendition is demanded is subject to a support order, the
+governor may decline to honor the demand if the individual is complying with the support
+order.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72857</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-893"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-893"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 893"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-893/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-893/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-893/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-893/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-893">
+        <num>CHC 893</num>
+        <heading>893.  Disposition hearing; evidence</heading>
+        <subsection eId="CHC-893__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At the disposition hearing, unless the child waives the presentation, the court shall hear evidence as to whether the child is in need of treatment or rehabilitation and shall make and file its findings.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-893__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>All evidence helpful in determining the proper disposition, including oral and written reports, the report of the predisposition investigation, any reports of mental evaluation, and all other evidence offered by the child or the state shall be received by the court and may be relied upon to the extent of its probative value even though not admissible at the adjudication hearing.  Upon motion of the district attorney or the child, the court may hear testimony from the victim of the offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-893__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Counsel for the state and for the child shall be afforded an opportunity to present evidence and to examine and controvert written reports so received and to cross-examine individuals preparing the reports or other witnesses who give testimony at the hearing.  Sources of confidential information need not be disclosed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-893__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the court finds that the child is in need of treatment or rehabilitation as a delinquent child, the court shall proceed immediately to make any appropriate disposition authorized by Articles 895 through 899.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73484</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

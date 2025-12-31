@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-103"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-103"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 103"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-103/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-103/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-103/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-103/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-103">
+        <num>CCRP 103</num>
+        <heading>103.  Subpoena of witnesses; testimony; subpoena duces tecum; issuance</heading>
+        <subsection eId="CCRP-103__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The coroner may issue a subpoena or a subpoena duces tecum in the course of an investigation, directing a witness to appear and testify at an open hearing to be held at a time and place designated in the subpoena or directing the production of medical records and other documents relating to a deceased person which are necessary to classify the cause and manner of death.  The subpoena shall be served in the same manner and with the same effect as a subpoena for a witness at a trial.
+B.</p>
+          </content>
+          <paragraph eId="CCRP-103__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The subpoena duces tecum shall be filed in and issued by the district court in the domicile of the coroner, and may be served by a coroner investigator.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-103__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Production of the records, or a copy thereof, shall be made at the office of the coroner within five days of service of the subpoena duces tecum.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-103__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>All records produced pursuant to a subpoena duces tecum issued in accordance with this Paragraph are confidential unless otherwise ordered by the court.  However, a subpoena duces tecum for the production of a public record does not alter the public nature of that record.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-103__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any person acting pursuant to and in accordance with the provisions hereof shall be immune from liability for production or disclosure to the coroner of the records identified in the subpoena duces tecum.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-103__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Failure to comply with a subpoena duces tecum issued under this Article is punishable as contempt of court.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-103__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The witness shall be sworn, in accordance with Article 14, by the coroner or another person authorized to administer oaths, and the testimony may be reduced to writing.  If the testimony is reduced to writing, the transcript shall be available for inspection by a person requesting it.  Failure of a witness to appear is punishable as a constructive contempt of court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-103__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>No provision of this Article shall be deemed to amend, supersede, or repeal the provisions of R.S. 45:1455 et seq.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112319</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

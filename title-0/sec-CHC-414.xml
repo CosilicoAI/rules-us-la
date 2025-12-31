@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-414"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-414"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 414"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-414/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-414/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-414/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-414/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-414">
+        <num>CHC 414</num>
+        <heading>414.  Disclosure of records for sentencing</heading>
+        <subsection eId="CHC-414__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any provision of law to the contrary, upon written request,
+reports and records concerning juvenile court proceedings shall be released to the sentencing
+judge when necessary for sentencing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-414__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The request shall be complied with promptly; however, not more than ten days,
+exclusive of legal holidays, shall lapse after receipt of the request before the requested
+information is deposited in the mail, addressed to the requesting court.  The court may
+postpone imposition of sentence until the report is received.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-414__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Except as provided for in Articles 412(G) and 891(D), the sentencing court shall
+not copy, duplicate, or otherwise reproduce such juvenile records, and the records shall be
+deposited in the mail, addressed to the issuing court, within three days after sentencing.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108421</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

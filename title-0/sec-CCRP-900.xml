@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-900"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-900"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 900"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-900/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-900/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-900/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-900/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-900">
+        <num>CCRP 900</num>
+        <heading>900.  Violation hearing; sanctions</heading>
+        <subsection eId="CCRP-900__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>After an arrest pursuant to Article 899, the court shall cause a defendant who
+continues to be held in custody to be brought before it within thirty days for a hearing.  If a
+summons is issued pursuant to Article 899, or if the defendant has been admitted to bail, the
+court shall set the matter for a violation hearing within a reasonable time.  The hearing may
+be informal or summary.  The defendant may choose, with the court's consent, to appear at
+the violation hearing and stipulate the revocation by simultaneous audio-visual transmission
+in accordance with the provisions of Article 562.  If the court decides that the defendant has
+violated, or was about to violate, a condition of his probation, it may:</p>
+          </content>
+          <paragraph eId="CCRP-900__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Reprimand and warn the defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-900__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Order that supervision be intensified.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-900__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Add additional conditions to the probation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-900__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Order the defendant, as an additional condition of probation, to be committed to
+a community rehabilitation center operated by, or under contract with, the Department of
+Public Safety and Corrections for a period of time not to exceed six months, without benefit
+of parole or good time, if:</p>
+            </content>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is bed space available.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The offender has been sentenced to the department, and the sentence has been
+suspended pursuant to Article 893.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Such commitment does not extend the period of probation beyond the maximum
+period of probation provided by law.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The violation of probation did not involve the commission of another felony.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The placement in a community rehabilitation center is recommended by the
+division of probation and parole.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-900__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Order that the probation be revoked. In the event of revocation the defendant
+shall serve the sentence suspended, with or without credit for the time served on probation
+at the discretion of the court. If the imposition of sentence was suspended, the defendant shall
+serve the sentence imposed by the court at the revocation hearing.
+(6)</p>
+            </content>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding the provisions of Subparagraph</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-900__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>of this Paragraph, any
+defendant who has been placed on probation by the drug division probation program
+pursuant to R.S. 13:5304, and who has had his probation revoked under the provisions of this
+Article for a technical violation of drug division probation as determined by the court, may
+be ordered to be committed to the custody of the Department of Public Safety and
+Corrections and be required to serve a sentence of not more than twelve months without
+diminution of sentence in the intensive incarceration program pursuant to the provisions of
+R.S. 15:574.4.4.  Upon successful completion of the program, the defendant shall return to
+active, supervised probation with the drug division probation program for a period of time
+as ordered by the court, subject to any additional conditions imposed by the court and under
+the same provisions of law under which the defendant was originally sentenced.  If an
+offender is denied entry into the intensive incarceration program for physical or mental health
+reasons or for failure to meet the department's suitability criteria, the department shall notify
+the sentencing court for resentencing in accordance with the provisions of Article 881.1.</p>
+            </content>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding the provisions of Subparagraph</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-900__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>of this Paragraph, any
+defendant who has been placed on probation by the court for the conviction of an offense
+other than a crime of violence as defined in R.S. 14:2(B) or of a sex offense as defined by
+R.S. 15:541, and who has been determined by the court to have committed a technical
+violation of his probation, may be required to serve a sentence of not more than ninety days
+without diminution of sentence.</p>
+            </content>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The defendant shall be given credit for time served prior to the revocation hearing
+for time served in actual custody while being held for a technical violation in a local
+detention facility, state institution, or out-of-state institution pursuant to Article 880.  The
+term of the revocation for a technical violation shall begin on the date the court orders the
+revocation.  Upon completion of the imposed sentence for the technical revocation, the
+defendant shall return to active and supervised probation for a period equal to the remainder
+of the original period of probation subject to any additional conditions imposed by the court. 
+The provisions of this Subparagraph shall apply only to the defendant's first revocation for
+a technical violation.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A &quot;technical violation&quot;, as used in this Paragraph, means any violation of a
+condition of probation that may be addressed by an administrative sanction authorized by the
+court pursuant to Article 899.1.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>None of the following, unless deemed a technical violation by the court when its
+discretion is permitted, shall be considered a technical violation nor addressed by
+administrative sanctions:</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Being arrested for, charged with, or convicted of any of the following:
+(aa)  A felony.
+(bb)  A violation of any provision of Title 40 of the Louisiana Revised Statutes of
+1950, except for misdemeanor possession of marijuana, tetrahydrocannabinol, or chemical
+derivatives thereof as provided in R.S. 40:966(C)</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-900__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>or any prohibited act involving drug
+paraphernalia as provided in R.S. 40:1023, which shall be considered a &quot;technical violation&quot;.
+(cc)  Any intentional misdemeanor directly affecting the person.
+(dd)  Any criminal act that is a violation of a protective order, pursuant to R.S. 14:79,
+issued against the offender to protect a family member or household member as defined by
+R.S. 14:35.3 or dating partner as defined by R.S. 46:2151.
+(ee)  At the discretion of the court, any attempt to commit any intentional
+misdemeanor directly affecting the person.
+(ff)  At the discretion of the court, any attempt to commit any other misdemeanor.
+(ii)  Being in possession of a firearm or other prohibited weapon.
+(iii)  At the discretion of the court, failing to appear at any court hearing.
+(iv)  Absconding from the jurisdiction of the court.</p>
+            </content>
+            <subparagraph eId="CCRP-900__subsec_A__subsec_2__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>At the discretion of the court, failing to satisfactorily complete a drug court
+program if ordered to do so as a special condition of probation.
+(vi)  At the discretion of the court, failing to report to the probation officer for more
+than one hundred twenty consecutive days.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-900__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Extend the period of probation, provided the total amount of time served by the
+defendant on probation for any one offense shall not exceed the maximum period of
+probation provided by law.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-900__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a defendant has been committed to a community rehabilitation center
+pursuant to Subparagraph (A)</p>
+          </content>
+          <paragraph eId="CCRP-900__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this Article, upon written request of the department that
+an offender be removed for violating the rules or regulations of the community rehabilitation
+center, the court shall cause the defendant to be brought before it and order that probation be
+revoked with credit for the time served in the community rehabilitation center.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-900__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The department may pay a per diem for offenders placed in a community
+rehabilitation center pursuant to the provisions of Subparagraph (A)</p>
+          </content>
+          <paragraph eId="CCRP-900__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>of this Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-900__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When a court considers the revocation of probation, the court shall consider
+aggravating and mitigating circumstances in the case, including but not limited to the
+circumstances stated in Article 894.1.  If the court revokes the probation of the defendant,
+the court shall issue oral or written reasons for revocation which shall be entered into the
+record.  The oral or written reasons for revocation shall state the allegations made by the
+probation officer concerning a violation or threatened violation of the conditions of
+probation, the findings of the court concerning those allegations, the factual basis or bases
+for those findings, and the aggravating circumstances, or mitigating circumstances, or both,
+considered by the court.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112902</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

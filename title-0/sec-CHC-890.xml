@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-890"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-890"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 890"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-890/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-890/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-890/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-890/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-890">
+        <num>CHC 890</num>
+        <heading>890.  Predisposition report; contents</heading>
+        <subsection eId="CHC-890__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In making the investigation, the probation officer shall investigate and report to the court regarding:</p>
+          </content>
+          <paragraph eId="CHC-890__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The circumstances attending the commission of the offense; the attitudes of the child and his parents toward the offense; the prior offenses committed by the child, including other referrals or contacts not resulting in juvenile court petitions; and, when applicable, the disposition of companion cases arising out of this offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-890__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The impact on the victim, if a child is adjudicated of or admits to a delinquent act involving a victim.  The court shall require that a victim impact statement be included in the predisposition report.  The victim impact statement shall include factual information as to whether the victim or his family has suffered, as a result of the offense, any monetary loss, medical expense, or physical impairment, and shall include any other information deemed relevant.  The district attorney may also file a victim impact statement with the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-890__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The child's home environment including his family's composition and dynamics, stability, economic status, participation in community or religious activities, and any physical, mental, or emotional handicaps, substance abuse, or criminal history of any of its members.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-890__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The child's current physical description, developmental and medical history, social adjustment in the community, school record, including the name and address of the school where the child is registered and enrolled, employment or vocational interest, significant behavior patterns, or other personality traits relevant to his rehabilitation.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-890__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The report shall contain a list of all persons contacted in completing the investigation and their relationship to the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-890__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The report shall contain a brief statement of the child's identified behavioral problems and the probation officer's assessment of cause and potential for rehabilitation, indicating specifically those resources available in the community or within the child's extended family which could provide needed assistance to the child and his family.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-890__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The report shall contain recommendations for suggested disposition, including, if applicable, special conditions of supervision.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73481</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

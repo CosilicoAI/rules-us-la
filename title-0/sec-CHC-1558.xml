@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1558"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1558"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1558"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1558/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1558/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1558/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1558/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1558">
+        <num>CHC 1558</num>
+        <heading>1558.  Revocation of declaration</heading>
+        <subsection eId="CHC-1558__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A declaration by a parent or guardian pursuant to Article 1557 may be revoked at any time by the declarant without regard to his or her mental state or competency by any of the following methods:</p>
+          </content>
+          <paragraph eId="CHC-1558__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>By being cancelled, defaced, obliterated, burned, torn, or otherwise destroyed by the declarant or by some person in the presence of and at the direction of the declarant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1558__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>By a written revocation of the declarant expressing the intent to revoke, signed and dated by the declarant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1558__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>By an oral or nonverbal expression by the declarant of the intent to revoke the declaration.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1558__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Such revocation by any method enumerated in Paragraph A of this Article shall become effective upon communication to the attending physician.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1558__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The attending physician shall record in the child's medical records the time and date when notification of the revocation was received.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73016</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

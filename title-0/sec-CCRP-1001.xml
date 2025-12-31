@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1001"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1001"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 1001"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1001/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1001/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1001/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1001/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-1001">
+        <num>CCRP 1001</num>
+        <heading>DOMESTIC VIOLENCE PREVENTION FIREARM</heading>
+        <subsection eId="CCRP-1001__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Dating partner&quot; shall have the same meaning as provided in R.S. 46:2151 or
+R.S. 14:34.9.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1001__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Family member&quot; shall have the same meaning as provided in R.S. 46:2132 or
+R.S. 14:35.3.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1001__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Firearm&quot; means any pistol, revolver, rifle, shotgun, machine gun, submachine
+gun, black powder weapon, or assault rifle which is designed to fire or is capable of firing
+fixed cartridge ammunition or from which a shot or projectile is discharged by an explosive.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1001__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Household member&quot; shall have the same meaning as provided in R.S. 46:2132
+or R.S. 14:35.3.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1001__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Other law enforcement agency&quot; shall include any local or municipal police
+force, the constable, and state police.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1001__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Sheriff&quot; means the sheriff of the jurisdiction in which the order was issued,
+unless the person resides outside of the jurisdiction in which the order is issued.  If the person
+resides outside of the jurisdiction in which the order is issued, &quot;sheriff&quot; means the sheriff of
+the parish in which the person resides.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1106498</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

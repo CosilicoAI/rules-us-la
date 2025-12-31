@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-323"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-323"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 323"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-323/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-323/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-323/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-323/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-323">
+        <num>CCRP 323</num>
+        <heading>323.  Secured personal surety</heading>
+        <subsection eId="CCRP-323__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A secured personal surety is a personal surety who satisfies all the requirements
+of Article 311</p>
+          </content>
+          <paragraph eId="CCRP-323__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>and specifically mortgages immovable property located in the state of
+Louisiana.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-323__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Bail without surety may be secured by a mortgage on the immovable property of
+the defendant pursuant to this Article or unsecured. A secured personal surety may establish
+a mortgage over immovable property in favor of the state of Louisiana or the proper political
+subdivision to secure a bail undertaking. The security shall apply only to and be limited to
+that immovable property specifically described in the mortgage.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-323__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The mortgage is established upon the recordation of a written mortgage, in
+authentic form satisfactory to the officer authorized to receive the bail, in the mortgage
+records of the parish where the immovable is located that:</p>
+          </content>
+          <paragraph eId="CCRP-323__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Contains the name and signature of the person making the mortgage.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-323__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Describes the immovable and declares that a mortgage is given over it as security
+for the performance of the bail obligation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-323__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Certifies that the person making the mortgage owns the immovable and states its
+value, in excess of the amount of all encumbrances against it.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-323__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Attaches to it a copy of the order fixing bail.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-323__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The person providing the security shall deliver a certified copy of the recorded
+statement establishing the mortgage and a mortgage certificate to the officer authorized to
+receive the bail.  The officer may require additional evidence of ownership and value of the
+mortgaged property including a copy of the current tax assessment.
+E.</p>
+          </content>
+          <paragraph eId="CCRP-323__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The recorder shall cancel the mortgage from his records upon the order of the
+court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-323__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In all other cases, the effect of its recordation shall cease ten years after its
+recordation unless it is reinscribed in the manner otherwise provided by law.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-323__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Any materially false or incorrect statements made by a person who intentionally
+and knowingly gives a mortgage or security interest pursuant to this Article shall be prima
+facie proof of a violation of the provisions of R.S. 14:125, false swearing.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112442</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

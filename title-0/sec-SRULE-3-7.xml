@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-7"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-7"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 3.7"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-7/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-7/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-7/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-7/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-3-7">
+        <num>SRULE 3.7</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-3-7__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Secretary shall exercise the following general duties:</p>
+          </content>
+          <paragraph eId="SRULE-3-7__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Advise the officers and members of the Senate on parliamentary procedure and
+the Senate rules when called upon to do so.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Be responsible for the keeping of all bills, resolutions, joint resolutions, papers,
+and records of the Senate and records of the proceedings and actions of the Senate.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Insure compliance with Chapter 1, relative to use of Senate facilities.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Arrange, number, and correct cross references in the Rules of Order of the
+Senate following any amendment thereto; effect a consistent and orderly arrangement of
+the rules; index the rules; exercise the same authorities, concurrently with the Clerk of the
+House, with respect to the Joint Rules.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Supervise and direct all Senate employees and report to the President the
+failure of any employee or the Sergeant at Arms to perform his duties.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Authenticate the Journal or any part thereof.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Attest to the signature of the President on legislative instruments, writs,
+warrants, and subpoenas, as provided in Senate Rule 7.11.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Perform all other duties prescribed by law, by these rules, or by the Senate.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Faithfully and promptly execute all orders of the Senate, the President, and the
+legislature.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_A__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>In the engrossment or reengrossment of Senate legislative instruments:</p>
+            </content>
+            <subparagraph eId="SRULE-3-7__subsec_A__subsec_10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To renumber or redesignate numerical or alphabetical listings to create a
+numerical or alphabetical sequence.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="SRULE-3-7__subsec_A__subsec_10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To change reference numbers to agree with numbered Chapters and Sections.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="SRULE-3-7__subsec_A__subsec_10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To substitute the proper chapter, section or other subdivision term for the terms
+&quot;this act&quot;, &quot;the preceding Section&quot;, and the like.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="SRULE-3-7__subsec_A__subsec_10__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>To delete figures where they are merely a repetition of written words and vice
+versa.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="SRULE-3-7__subsec_A__subsec_10__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>To change capitalization for the purpose of uniformity.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="SRULE-3-7__subsec_A__subsec_10__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>To correct manifest punctuation and other typographical errors.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-3-7__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The Secretary shall exercise the following duties while the legislature is in
+session:</p>
+          </content>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Maintain a Journal of the proceedings of the Senate and be responsible for its
+accuracy and, for this purpose, he may make necessary corrections in the Journal.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Record in the Journal daily the members present and those absent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Be responsible for all legislative instruments and documents in the custody of
+the Senate, in passage from the Senate to the House, and in passage from the Senate to the
+governor, and keep them in proper order.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Maintain the calendars of bills, resolutions, and joint resolutions to be taken up
+and acted upon by the Senate, as provided in Senate Rule 14.6.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Cause legislative instruments to be printed and distributed, as required in
+Senate Rule 7.6.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Have enrolled all bills, joint resolutions, and concurrent resolutions originating
+in the Senate which have passed both houses, the enrollment to incorporate into the
+instrument all changes agreed upon by both houses, and he may have enrolled all Senate
+Resolutions adopted by the Senate, including all amendments adopted thereto.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Endorse all legislative instruments which are enrolled, attesting to the accuracy
+of the enrollment thereof and to the signature of the President.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Present legislative instruments of the Senate which have been signed by the
+President, except Senate Resolutions, to the Speaker of the House for signature.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Present legislative instruments of the Senate, signed by the President and the
+Speaker of the House, to the governor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Keep a record, in the form of a receipt book, of all legislative instruments
+presented to the governor and the time of delivery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Publish legislative or Senate calendars, as required by Senate Rule 14.6.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Place on the desk of each member, prior to convening each day, an order of
+the day for the Senate, consisting of a listing of the regular and special orders of business
+for that day and an enumeration of each legislative instrument to be acted upon that day
+within each order of business, including an enumeration of all legislative instruments
+which are subject to call.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Receive all reports of standing committees, as provided in Senate Rule 13.9,
+including those to be recommitted as provided in Senate Rule 10.14.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>Place in the chamber, for the use of the membership, two copies of each bill
+as introduced.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>Cause all legislative instruments which the Senate orders to be engrossed or
+reengrossed to be typed so as to include all amendments which have been adopted at the
+time of such order, as provided in Senate Rules 7.8 and 7.9, and technical corrections
+authorized by Senate Rule 3.7(A)(10).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_B__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>Provide for the preparation and issuance of commendatory and congratulatory
+instruments, as provided in Joint Rule 9.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-3-7__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The Secretary shall exercise the following additional duties while the Senate is
+convened:</p>
+          </content>
+          <paragraph eId="SRULE-3-7__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>State motions offered in the Senate, at the direction of the President, and read
+motions presented in writing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Read the Journal daily, unless the reading is dispensed with by a majority of the
+members present or the Journal is unavailable, as required by Senate Rule 14.5. The
+Journal shall be made available only electronically to the members. No paper copies of
+the Journal shall be distributed to a member unless the member specifically requests a
+paper copy.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Inform the Senate, whenever the motion for the previous question or the
+motion for the previous question on the entire subject matter is offered, whether he has on
+his desk amendments which members have handed him for the purpose of proposing
+amendments to the instrument under debate, and name the authors of any such
+amendments.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Read petitions, memorials, communications, and other papers addressed to the
+Senate during the appropriate order of business of the Morning Hour, as required in
+Senate Rule 10.1.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Number every legislative instrument in its regular order upon first reading, as
+provided by Senate Rule 7.2.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_C__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Endorse each legislative instrument with the action taken thereon, as provided 
+by Senate Rule 7.7.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_C__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Refer to the Legislative Bureau all legislative matter intended to have the effect
+of law, originating in the House, prior to third reading in the Senate, as provided in Senate
+Rule 10.15 and Joint Rule No. 3.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_C__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Announce the receipt of each veto message, as received from the governor, as
+provided in Senate Rule 10.18.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_C__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Call a member to preside in the absence of the President and President Pro
+Tempore.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-3-7__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The Secretary shall exercise the following additional duties during the interim
+between legislative sessions:</p>
+          </content>
+          <paragraph eId="SRULE-3-7__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Make available to the news media, to the public, and to registered lobbyists
+notices of interim meetings of committees, as provided in Senate Rule 13.74.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Prefile legislative instruments, and distribute copies thereof as provided in
+Senate Rule 9.3.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Upon petition of ten members of the Senate, transmit to each member a mail
+ballot relative to the certification of disability or absence of the President, as provided in
+Senate Rule 3.2.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Retain the original and introduction copies of prefiled instruments, transmit
+copies to the committee of reference, and reclaim copies therefrom, as provided in Senate
+Rule 9.5.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-3-7__subsec_D__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Repealed by SR 168 of 2014 RS, eff. August 1, 2014.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-3-7__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The Secretary shall only serve, whether in an official or unofficial capacity, on
+the staff of any Senate standing committee when requested to do so by the President of
+the Senate, the chairman, or a majority of the members of the committee. He shall assist
+any senator individually requesting such assistance, whether on the floor or in committee
+and shall carry out all of his duties required of him by the Rules of Order.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-7__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Any duty and any authority inherent in any such duty as provided in this Rule
+may be suspended by the President of the Senate as provided in Senate Rule 3.3</p>
+          </content>
+          <paragraph eId="SRULE-3-7__subsec_F__subsec_33">
+            <num>(33)</num>
+            <content>
+              <p>and
+the Secretary may be suspended from his duties, with or without pay, for a specified
+period by the Senate by adoption of a resolution.
+SR 18 of 1988 RS; SR 8 of 2004 1 st EX; SR 168 of 2014 RS, eff. August 1, 2014.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180511</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

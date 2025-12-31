@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1661"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1661"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1661"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1661/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1661/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1661/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1661/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1661">
+        <num>CHC 1661</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1661__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The compacting states to this Interstate Compact recognize that each state is responsible for the proper supervision or return of juveniles, delinquents and status offenders who are on probation or parole and who have absconded, escaped, or run away from supervision and control and in so doing have endangered their own safety and the safety of others.  The compacting states also recognize that each state is responsible for the safe return of juveniles who have run away from home and in doing so have left their state of residence.  The compacting states also recognize that Congress, by enacting the Crime Control Act, 4 U.S.C. Section 112 (1965), has authorized and encouraged compacts for cooperative efforts and mutual assistance in the prevention of crime.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1661__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>It is the purpose of this compact, through means of joint and cooperative action among the compacting states to:</p>
+          </content>
+          <paragraph eId="CHC-1661__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Ensure that the adjudicated juveniles and status offenders subject to this compact are provided adequate supervision and services in the receiving state as ordered by the adjudicating judge or parole authority in the sending state.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Ensure that the public safety interests of the citizens, including the victims of juvenile offenders, in both the sending and receiving states are adequately protected.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Return juveniles who have run away, absconded, or escaped from supervision or control or have been accused of an offense to the state requesting their return.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Make contracts for the cooperative institutionalization in public facilities in member states for delinquent youth needing special services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Provide for the effective tracking and supervision of juveniles.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Equitably allocate the costs, benefits and obligations of the compacting states.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Establish procedures to manage the movement between states of juvenile offenders released to the community under the jurisdiction of courts, juvenile departments, or any other criminal or juvenile justice agency which has jurisdiction over juvenile offenders.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Ensure immediate notice to jurisdictions where defined offenders are authorized to travel or to relocate across state lines.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Establish procedures to resolve pending charges (detainers) against juvenile offenders prior to transfer or release to the community under the terms of this compact.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Establish a system of uniform data collection on information pertaining to juveniles subject to this compact that allows access by authorized juvenile justice and criminal justice officials, and regular reporting of compact activities to heads of state executive, judicial, and legislative branches and juvenile and criminal justice administrators.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Monitor compliance with rules governing interstate movement of juveniles and initiate interventions to address and correct noncompliance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Coordinate training and education regarding the regulation of interstate movement of juveniles for officials involved in such activity.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1661__subsec_B__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Coordinate the implementation and operation of the compact with the Interstate Compact for the Placement of Children, the Interstate Compact for Adult Offender Supervision and other compacts affecting juveniles particularly in those cases where concurrent or overlapping supervision issues arise.  It is the policy of the compacting states that the activities conducted by the Interstate Commission created herein are the formation of public policies and therefore are public business.  Furthermore, the compacting states shall cooperate and observe their individual and collective duties and responsibilities for the prompt return and acceptance of juveniles subject to the provisions of this compact.  The provisions of this compact shall be reasonably and liberally construed to accomplish the purposes and policies of the compact.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=181154</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

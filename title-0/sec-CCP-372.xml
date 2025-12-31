@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-372"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-372"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 372"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-372/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-372/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-372/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-372/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-372">
+        <num>CCP 372</num>
+        <heading>372.  Court reporter</heading>
+        <subsection eId="CCP-372__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court reporter of a trial court, when directed by the court, shall report verbatim in shorthand by stenography or stenotype, or by voice recording or any other recognized manner when the equipment therefor has been approved by the court, the testimony of all witnesses, the other evidence introduced or offered, the objections thereto, and the rulings of the court thereon, on the trial of any appealable civil case or matter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-372__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When the court so directs, or the fees therefor have been paid or secured, or when an appeal has been granted in cases in which a party has been permitted to litigate without the payment of costs, he shall transcribe verbatim in a manner approved by the supreme court, all of his notes taken at the trial, or such portion thereof as is designated.  He shall file one copy of the transcript in the trial court; shall deliver a copy thereof to each of the parties who has paid therefor; and, when an appeal has been granted, he shall furnish to the clerk of the trial court the number of copies of the transcript required by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-372__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court reporter shall retain all notes and tape recordings in civil cases for a period of not less than five years after the end of the trial.  However, if the record of the trial is fully transcribed, the court reporter shall retain all notes and tape recordings which have been fully transcribed for a period of not less than two years after transcription is completed.  The court reporter shall destroy any notes and tape recordings of any matter upon order of a court of competent jurisdiction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-372__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The notes and tape recordings of any civil case which are retained by a court reporter pursuant to the provisions of this Article shall be the property of the court in which the case was heard.  The court reporter shall have the duty to retain and maintain all such notes and tape recordings pursuant to the provisions of this Article, although the notes and tape recordings shall remain the property of the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-372__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>He shall perform such other duties as are assigned to him by law or by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-372__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>When a party to a proceeding requests a transcript and has paid for the transcript, the court reporter shall provide that party with an electronic copy of the transcript along with a paper copy of the transcript at no additional charge or cost to the requesting party.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111842</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

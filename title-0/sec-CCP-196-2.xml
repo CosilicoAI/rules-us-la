@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-196-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-196-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 196.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-196-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-196-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-196-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-196-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-196-2">
+        <num>CCP 196.2</num>
+        <heading>196.2.  Power of supreme court to extend deadlines during emergencies</heading>
+        <content>
+          <p>Art. 196.2.  Power of supreme court to extend deadlines during emergencies
+In the event that the governor declares a state of emergency or disaster pursuant to
+R.S. 29:721 through 775, the Supreme Court of Louisiana, rather than the governor, may
+issue orders suspending or extending deadlines applicable to legal proceedings in courts,
+including periods of time applicable for abandonment of actions, in all or part of the state of
+Louisiana.  A court order suspending or extending deadlines applicable to legal proceedings
+in courts shall have the effect of extending only those deadlines that would have otherwise
+accrued during the period of time specified in the order.  After the period of suspension or
+extension has expired, a party shall have an amount of time as specified in the court order
+to file any pleading affected by the suspension or extension.  If no amount of time is
+specified, a party shall have thirty days after the period of suspension or extension has
+expired.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1293533</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

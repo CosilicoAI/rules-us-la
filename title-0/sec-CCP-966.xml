@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-966"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-966"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 966"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-966/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-966/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-966/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-966/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-966">
+        <num>CCP 966</num>
+        <heading>966.  Motion for summary judgment; procedure</heading>
+        <subsection eId="CCP-966__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Unless extended by the court and agreed to by all of the parties, a motion for
+summary judgment shall be filed, opposed, or replied to in accordance with the following
+provisions:</p>
+          </content>
+          <paragraph eId="CCP-966__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except for any document provided for under Subsubparagraph (A)(4)</p>
+            </content>
+            <subparagraph eId="CCP-966__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this
+Article, a motion for summary judgment and all documents in support of the motion shall be
+filed and served on all parties in accordance with Article 1313(A)</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>not less than sixty-five
+days prior to the trial.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except for any document provided for under Subsubparagraph (A)(4)</p>
+            </content>
+            <subparagraph eId="CCP-966__subsec_B__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this
+Article, any opposition to the motion and all documents in support of the opposition shall be
+filed and served in accordance with Article 1313(A)</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>not less than fifteen days prior to the
+hearing on the motion.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any reply memorandum shall be filed and served in accordance with Article
+1313(A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>not less than five days inclusive of legal holidays notwithstanding Article
+5059(B)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>prior to the hearing on the motion.  No additional documents may be filed with
+the reply memorandum.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the deadline for filing and serving a motion, an opposition, or a reply
+memorandum falls on a legal holiday, the motion, opposition, or reply is timely if it is filed
+and served no later than the next day that is not a legal holiday.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The court shall not reconsider or revise the granting of a motion for partial
+summary judgment on motion of a party who failed to meet the deadlines imposed by this
+Paragraph, nor shall the court consider any documents filed after those deadlines.
+C.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Unless otherwise agreed to by all of the parties and the court:</p>
+            </content>
+            <subparagraph eId="CCP-966__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A contradictory hearing on the motion for summary judgment shall be set not less
+than thirty days after the filing and not less than thirty days prior to the trial date.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-966__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notice of the hearing date shall be served on all parties in accordance with Article
+1313(C) or 1314 not less than thirty days prior to the hearing.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For good cause shown, the court may order a continuance of the hearing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The court shall render a judgment on the motion not less than twenty days prior
+to the trial.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In all cases, the court shall state on the record or in writing the reasons for
+granting or denying the motion.  If an appealable judgment is rendered, a party may request
+written reasons for judgment as provided in Article 1917.
+D.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The burden of proof rests with the mover.  Nevertheless, if the mover will not
+bear the burden of proof at trial on the issue that is before the court on the motion for
+summary judgment, the mover's burden on the motion does not require him to negate all
+essential elements of the adverse party's claim, action, or defense, but rather to point out to
+the court the absence of factual support for one or more elements essential to the adverse
+party's claim, action, or defense.  The burden is on the adverse party to produce factual
+support sufficient to establish the existence of a genuine issue of material fact or that the
+mover is not entitled to judgment as a matter of law.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court shall consider only those documents filed or referenced in support of
+or in opposition to the motion for summary judgment but shall not consider any document
+that is excluded pursuant to a timely filed objection.  Any objection to a document shall be
+raised in a timely filed opposition or reply memorandum.  The court shall consider all
+objections prior to rendering judgment.  The court shall specifically state on the record or in
+writing whether the court sustains or overrules the objections raised.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-966__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a timely objection is made to an expert's qualifications or methodologies in
+support of or in opposition to a motion for summary judgment, any motion in accordance
+with Article 1425(F) to determine whether the expert is qualified or the expert's
+methodologies are reliable shall be filed, heard, and decided prior to the hearing on the
+motion for summary judgment.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-966__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A summary judgment may be rendered dispositive of a particular issue, theory of
+recovery, cause of action, or defense, in favor of one or more parties, even though the
+granting of the summary judgment does not dispose of the entire case as to that party or
+parties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-966__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A summary judgment may be rendered or affirmed only as to those issues set forth
+in the motion under consideration by the court at that time.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-966__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>When the court renders judgment in accordance with the provisions of this Article
+that a party or nonparty is not negligent, is not at fault, or did not cause in whole or in part
+the injury or harm alleged, that party or nonparty shall not be considered in any subsequent
+allocation of fault.  Evidence shall not be admitted at trial to establish the fault of that party
+or nonparty, except that evidence may be admitted to establish the fault of a principal when
+the party or nonparty acted pursuant to a mandate or procuration.  During the course of the
+trial, no party or person shall refer directly or indirectly to any such fault, nor shall that party
+or nonparty's fault be submitted to the jury or included on the jury verdict form except where
+evidence is admitted of the acts of the party or nonparty for purposes of establishing the fault
+of the party or nonparty's principal.  This Paragraph does not apply if the trial or appellate
+court's judgment rendered in accordance with this Article is reversed.  If the judgment is
+reversed by an appellate court, the reversal is applicable to all parties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-966__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>On review, an appellate court shall not reverse a trial court's denial of a motion
+for summary judgment and grant a summary judgment dismissing a case or a party without
+assigning the case for briefing and permitting the parties an opportunity to request oral
+argument.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112309</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

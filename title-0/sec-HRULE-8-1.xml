@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 8.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-8-1">
+        <num>HRULE 8.1</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-8-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Immediately after following the call to order by the Speaker upon the convening of the House on each legislative day, the House shall proceed with the Morning Hour.  The order of business during the Morning Hour shall be as follows:</p>
+          </content>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Roll Call</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Prayer</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Pledge of Allegiance</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Reading of the Journal</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Petitions, Memorials and Communications</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Introduction of Resolutions</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Introduction of Bills</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Senate Bills on First Reading</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Reports of Committees</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>House and House Concurrent Resolutions Lying Over</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Senate Concurrent Resolutions Lying Over</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>House Bills on Second Reading to be Referred to Committee</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Senate Bills on Second Reading to be Referred to Committee</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>House and House Concurrent Resolutions Reported by Committee</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>Senate Concurrent Resolutions Reported by Committee</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>House Bills on Second Reading Reported by Committee</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>Senate Instruments on Second Reading Returned from the Legislative Bureau</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>Senate Bills on Second Reading Reported by Committee</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>Reconsideration</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>Special Order</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-8-1__subsec_A__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>Reconsideration of Vetoed Bills</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-8-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon completion of the business of the Morning Hour the House shall proceed to the Regular Order of the Day.
+Mason's Manual:  Sec. 710
+HR 3, 1973; HR 4, 1977; HR 7, 1978; HR 17, 1982.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113364</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

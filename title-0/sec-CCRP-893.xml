@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-893"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-893"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 893"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-893/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-893/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-893/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-893/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-893">
+        <num>CCRP 893</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-893__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the sentence consists of both a fine and imprisonment, the court may impose
+the fine and suspend the sentence or place the defendant on probation as to the imprisonment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-893__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Except as otherwise provided by law, the court shall not suspend a felony
+sentence after the defendant has begun to serve the sentence.
+E.</p>
+          </content>
+          <paragraph eId="CCRP-893__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Upon motion of the defendant, if the court finds at the conclusion of the
+probationary period that the probation of the defendant has been satisfactory, the court may
+set the conviction aside and dismiss the prosecution.  The dismissal of the prosecution shall
+have the same effect as acquittal, except that the conviction may be considered as a first
+offense and provide the basis for subsequent prosecution of the party as a habitual offender
+except as provided in R.S. 15:529.1(C)(3). The conviction may be considered as a prior
+offense for purposes of any other law or laws relating to cumulation of offenses.  Dismissal
+under this Paragraph shall occur only twice with respect to any person.
+(3)</p>
+            </content>
+            <subparagraph eId="CCRP-893__subsec_D__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When a case is accepted into a drug court division probation program pursuant
+to the provisions of R.S. 13:5304 and at the conclusion of the probationary period the court
+finds that the defendant has successfully completed all conditions of probation, the court with
+the concurrence of the district attorney may set aside the conviction and dismiss prosecution,
+whether the defendant's sentence was suspended under Paragraph A of this Article or
+deferred under Subparagraph</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph.  The dismissal of prosecution shall have
+the same effect as an acquittal, except that the conviction may be considered as a first offense
+and provide the basis for subsequent prosecution of the party as a habitual offender except
+as provided in R.S. 15:529.1(C)(3).  The conviction may be considered as a prior offense for
+purposes of any other law or laws relating to cumulation of offenses.</p>
+            </content>
+            <subparagraph eId="CCRP-893__subsec_D__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The court may extend the provisions of this Paragraph to any person who has
+previously successfully completed a drug court program and satisfactorily completed all
+other conditions of probation.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-893__subsec_D__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Dismissal under this Paragraph shall have the same effect as an acquittal for
+purposes of expungement under the provisions of Title XXXIV of this Code and may occur
+only twice with respect to any person.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>When a defendant, who has been committed to the custody of the Department of
+Public Safety and Corrections to serve a sentence in the intensive incarceration program
+pursuant to the provisions of Article 895(B)(3), has successfully completed the intensive
+incarceration program as well as successfully completed all other conditions of parole or
+probation, and if the defendant is otherwise eligible, the court with the concurrence of the
+district attorney may set aside the conviction and dismiss prosecution, whether the
+defendant's sentence was suspended under Paragraph A of this Article or deferred under
+Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph.  The dismissal of prosecution shall have the same effect
+as an acquittal, except that the conviction may be considered as a first offense and provide
+the basis for subsequent prosecution of the party as a habitual offender except as provided
+in R.S. 15:529.1(C)(3).  The conviction may be considered as a prior offense for purposes
+of any other law or laws relating to cumulation of offenses.  Dismissal under this
+Subparagraph shall have the same effect as an acquittal  for  purposes  of  expungement 
+under  the provisions of  Title XXXIV of this Code and may occur only twice with respect
+to any person.
+F.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding any other provision of law to the contrary, when it appears
+that the best interest of the public and of the defendant will be served, after the conviction
+of a defendant considered suitable for a drug or specialty court program pursuant to Article
+904, the court may suspend, in whole or in part, the imposition or execution of the sentence
+when all of the following conditions are met:</p>
+            </content>
+            <subparagraph eId="CCRP-893__subsec_D__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The district attorney consents to the suspension of sentence.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-893__subsec_D__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>There is an available drug or specialty court program recognized by the Louisiana
+Supreme Court.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-893__subsec_D__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The court orders the defendant to enter and complete any drug or specialty court
+program recognized by the Louisiana Supreme Court.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the district attorney does not consent to the suspension of the sentence, the
+district attorney shall file his objection with written reasons into the record.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the district attorney files an objection into the record, or if the court determines
+that a specialty court program is not available for the defendant, the court may sentence the
+defendant to any sentence provided for the offense by law.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>When suspension of sentence is allowed pursuant to this Paragraph, the defendant
+may be placed on probation under the supervision of the division of probation and parole,
+or under the supervision of a probation office, agency, or officer designated by the court. 
+The period of probation shall be specified and shall not exceed three years, except as
+provided in Paragraph H of this Article.  The suspended sentence shall be regarded as a
+sentence for the purpose of granting or denying a motion for new trial or appeal.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_D__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Upon motion of the defendant, if the court finds at the conclusion of the
+probationary period that the probation of the defendant has been satisfactory, the court may
+set the conviction aside and dismiss the prosecution.  The dismissal of the prosecution shall
+have the same effect as an acquittal, except that the conviction may be considered as a first
+offense and provide the basis for a subsequent prosecution of the party as a habitual offender,
+except as provided in R.S. 15:529.1(C)(3).  The conviction also may be considered as a prior
+offense for purposes of any other provision of law relating to cumulation of offenses. 
+Dismissal pursuant to this Paragraph shall occur only once with respect to any person.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-893__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Nothing contained in this Section shall be construed as being a basis for
+destruction of records of the arrest and prosecution of any person convicted of a felony.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-893__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>If the court, with the consent of the district attorney, orders a defendant to enter
+and complete a program provided by the drug division of the district court pursuant to R.S.
+13:5301, an established driving while intoxicated court or sobriety court program, a mental
+health court program established pursuant to R.S. 13:5351 et seq., a Veterans Court program
+established pursuant to R.S. 13:5361 et seq., a reentry court established pursuant to R.S.
+13:5401, or the Swift and Certain Probation Pilot Program established pursuant to R.S.
+13:5371, the court may place the defendant on probation for a period of not more than eight
+years if the court determines that successful completion of the program may require that
+period of probation to exceed the five-year limit.  The period of probation as initially fixed
+or as extended shall not exceed eight years.
+I.</p>
+          </content>
+          <paragraph eId="CCRP-893__subsec_H__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If a defendant is placed on supervised probation, the division of probation and
+parole shall submit to the court a compliance report when requested by the court, or when
+the division of probation and parole considers it necessary to have the court make a
+determination with respect to modification of terms or conditions of probation, termination
+of probation, revocation of probation, or other purpose proper under any provision of law.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_H__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For purposes of this Paragraph:</p>
+            </content>
+            <subparagraph eId="CCRP-893__subsec_H__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Compliance&quot; means the full completion of the terms and conditions of probation
+as imposed by the sentencing judge.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-893__subsec_H__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Compliance report&quot; means a report generated and signed by the division of
+probation and parole that contains clear and concise information relating to the defendant's
+performance and may contain a recommendation as to early termination.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_H__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>After a review of the compliance report, if it is the recommendation of the
+division of probation and parole that the defendant is in compliance with the conditions of
+probation, in accordance with the compliance report, the court may terminate probation at
+such time as &quot;satisfactorily completed&quot;, absent a showing of cause for a denial.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_H__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding the provisions of Article 897(A), the court may terminate
+probation at any time as &quot;satisfactorily completed&quot; upon the final determination that the
+defendant is in compliance with the terms and conditions of probation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_H__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If the court determines that the defendant has failed to successfully complete the
+terms and conditions of probation, the court may extend the probation for a period not to
+exceed two years for the purpose of allowing the defendant additional time to complete the
+terms of probation, additional conditions, the extension of probation, or the revocation of
+probation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-893__subsec_H__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Absent extenuating circumstances, the court shall, within ten days of receipt of
+the compliance report, make an initial determination as to the issues presented and shall
+transmit the decision to the probation officer.  The court shall disseminate the decision to the
+defendant, the division of probation and parole, and the prosecuting agency within ten days
+of receipt.  The parties shall have ten days from receipt of the initial determination of the
+court to seek an expedited contradictory hearing for the purpose of challenging the court's
+determination.  If no challenge is made within ten days, the court's initial determination shall
+become final and shall constitute a valid order of the court.
+Amended by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112882</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

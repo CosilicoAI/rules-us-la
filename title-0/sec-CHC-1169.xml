@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1169"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1169"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1169"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1169/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1169/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1169/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1169/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1169">
+        <num>CHC 1169</num>
+        <heading>1169.  Definitions</heading>
+        <subsection eId="CHC-1169__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Agency&quot; or &quot;child placing agency&quot; includes the Department of Children and Family Services, the corresponding department of any other state, and those private agencies and institutions licensed for the placement of children for adoption by the Department of Children and Family Services or by the corresponding department of any other state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1169__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Birth certificate&quot; means the child's official birth certificate or a true copy of a prefiled version of the birth certificate in the event the official birth certificate has not been issued.
+(2.1)  &quot;Broker&quot; means any person who, for compensation or the expectation of compensation, obtains or offers to obtain a child for adoption from a third party.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1169__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Child&quot; means a person under eighteen years of age and not emancipated by marriage.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1169__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Department&quot; means the Louisiana Department of Children and Family Services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1169__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Putative father registry&quot; means the Louisiana putative father registry established in R.S. 9:400.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72641</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

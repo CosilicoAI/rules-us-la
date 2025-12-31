@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-739"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-739"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 739"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-739/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-739/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-739/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-739/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-739">
+        <num>CHC 739</num>
+        <heading>739.  Continued custody hearing; time limitations</heading>
+        <subsection eId="CHC-739__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If the child is not released to the care of his parents, a hearing shall be held by the court within three days after the child's entry into custody.  The hearing may be continued for up to three additional days upon motion and with good cause shown.  If the hearing is not timely held, the child shall be released unless the hearing is continued at the request of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-739__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If pursuant to Article 737(A) the child is being held in a secure detention facility, a hearing shall be held within twenty-four hours, excluding weekends and holidays, after the child's entry into custody.  If the hearing is not timely held, the child shall be released unless the hearing is continued at the request of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-739__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>At this hearing, the state has the burden of proving the existence of a ground for continued custody pursuant to Article 741.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-739__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Hearsay evidence shall be admissible at this hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-739__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Notwithstanding any other provisions of this Code to the contrary, and due to the expedited nature of these hearings, in a judicial district comprised of more than one parish, a continued custody hearing may be conducted in any parish in the judicial district.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73330</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

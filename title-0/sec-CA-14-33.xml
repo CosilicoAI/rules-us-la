@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-33"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-33"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CA 14 33"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-33/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-33/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-33/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-33/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CA-14-33">
+        <num>CA 14 33</num>
+        <heading>Industrial plant erection; agricultural industrial boards</heading>
+        <content>
+          <p>§33.  Industrial plant erection; agricultural industrial boards
+Section 33.  In order to provide funds for the erection and maintenance
+of industrial plants for the conversion or processing of raw farm or agricultural
+products, the Police Jury of any Parish may, as the governing authority of the
+Parish or any Police Jury Ward thereof, when authorized by a majority vote of
+the property taxpayers of the entire Parish or any Police Jury Ward, who are
+qualified to vote under the Constitution and laws of this State, incur debt and
+issue negotiable bonds for the payment thereof.
+Bonds issued under this Section shall not exceed Three Hundred
+Thousand ($300,000) Dollars in amount, nor shall any tax levied hereunder
+exceed four mills on the dollar of assessed property for any one year.  This
+four mill limitation, however, shall be in excess of all other limitations on the
+amount of Parish or Ward tax levied.
+The election referred to hereinabove, and, except as herein otherwise
+provided, the issuance of bonds as herein authorized, shall be as nearly as
+possible in accordance with the provisions of Act 46 of the Extra Session of
+1921 and Acts amendatory thereto.
+Whenever an election provided for herein shall have carried, the Police
+Jury shall create an Agricultural Industrial Board consisting of five members,
+to be appointed by the Police Jury for a period of four years.  The members,
+when so appointed, shall continue to serve until their successors are appointed. 
+There shall be no prohibition against the County Agent of any Parish or Ward
+serving as a member of a Parish Agricultural Industrial Board or as Secretary
+for the same.  The members of the Board shall receive no salary, but they shall
+be reimbursed for any expenses actually incurred by them in the performance
+of their duties under this Section.
+The Board herein provided for shall be a body politic, with authority to
+sue under the name of &quot;(Parish name) 'Parish Agricultural Industrial Board',
+or '(Parish name) Parish (Ward name) Ward Agricultural Industrial Board', as
+the case may be,&quot; and to be sued under its own name.  A majority of the
+members of the Board shall constitute a quorum for the transaction of
+business.  The Board shall have all the powers and authority necessary or
+incidental to the establishment and maintenance of the plants contemplated by
+this Section, including the power and authority to buy, sell or lease real
+property, but it shall not have the authority to operate such plants.
+Whenever any plant contemplated by this Act shall have been
+established, the Parish or Ward Agricultural Board shall have the authority to
+lease such plant upon such terms as it deems most advantageous to the
+property taxpayers of the Parish.  It shall, also, have the authority to sell any
+such plant with the approval of a two-thirds vote of the elected members of the
+Police Jury; provided, that no plant shall be sold for less than the total cost of
+its erection, including the cost of all real estate and improvements thereon, and
+expenses incurred in connection therewith, less a reasonable deduction for
+depreciation.
+In the event of such sale, the amount received shall be applied to the
+retirement of the principal and interest of any outstanding bonds which were
+issued by the Parish or Ward for the purpose of establishing and maintaining
+the plant.  Any surplus over and above the amount of any such bonds or other
+expenses, shall be deposited in the Parish Treasury to the credit of the General
+Fund.
+All revenues derived from the leasing of any plant established under
+this Section, shall be used for the maintenance and improvement thereof, and
+for other expenses incurred in connection therewith; and any surplus shall be
+deposited in a reserve fund for the retirement of any bonds issued hereunder.
+Provided that no Police Jury shall exercise the authority herein granted
+with respect to the establishment and maintenance of any industrial conversion
+or processing plant when the exercise of such authority will result in
+competition between the Parish or Ward plant to be established and a plant
+which is already operating in the Parish.
+All bonds issued under the provisions of this Section shall be exempt
+from taxation.
+This amendment shall be self-operative.
+(Added by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=67979</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

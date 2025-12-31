@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1513"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1513"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1513"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1513/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1513/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1513/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1513/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1513">
+        <num>CC 1513</num>
+        <heading>1513.  Reduction in kind when property is owned by the donee or successors by gratuitous title; effects of alienation by donee</heading>
+        <content>
+          <p>Art. 1513.  Reduction in kind when property is owned by the donee or successors by gratuitous title; effects of alienation by donee
+The action for reduction of excessive donations may be brought only against the donee or his successors by gratuitous title in accordance with the order of their  donations, beginning with the most recent donation.  When the donated property is still owned by the donee or the successors, reduction takes place in kind or by contribution to the payment of the legitime, at the election of the donee or the successors, who are accountable for any diminution in the value of the property attributable to their fault or neglect and for any charges or encumbrances imposed upon the property after the donation.
+When the property given is no longer owned by the donee or his successors by gratuitous title, the donee and the successors must contribute to the payment of the legitime.  A donee or his successor who contributes to payment of the legitime is required to do so only to the extent of the value of the donated property at the time the donee received it.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108833</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

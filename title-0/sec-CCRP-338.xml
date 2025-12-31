@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-338"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-338"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 338"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-338/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-338/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-338/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-338/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-338">
+        <num>CCRP 338</num>
+        <heading>338.  Cases of nonforfeiture</heading>
+        <subsection eId="CCRP-338__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A judgment decreeing the forfeiture of a bail undertaking shall not be rendered
+if it is proven, at or prior to the hearing on a rule to show cause, that the defendant, principal
+on the bail undertaking, failed to appear in court because of any of the following:</p>
+          </content>
+          <paragraph eId="CCRP-338__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The defendant was serving in the armed forces of the United States.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-338__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The defendant was a member of the Louisiana National Guard called to duty
+pursuant to R.S. 29:7.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-338__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The defendant was prevented from appearing due to a state of emergency
+declared by the governor.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-338__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>There shall be a rebuttable presumption that the calling of the defendant to duty
+pursuant to R.S. 29:7 prevented the defendant, principal on the bail undertaking, from
+attending court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112462</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

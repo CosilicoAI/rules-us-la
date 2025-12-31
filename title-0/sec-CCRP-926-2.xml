@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 926.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-926-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-926-2">
+        <num>CCRP 926.2</num>
+        <heading>926.2.  Factual innocence</heading>
+        <subsection eId="CCRP-926-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A petitioner who has been convicted of an offense may seek post conviction relief
+on the grounds that he is factually innocent of the offense for which he was convicted. A
+petitioner's first claim of factual innocence pursuant to this Article that would otherwise be
+barred from review on the merits by the time limitation provided in Article 930.8 or the
+procedural objections provided in Article 930.4 shall not be barred if the claim is contained
+in an application for post conviction relief filed on or before December 31, 2022, and if the
+petitioner was convicted after a trial completed to verdict.  This exception to Articles 930.4
+and 930.8 shall apply only to the claim of factual innocence brought under this Article and
+shall not apply to any other claims raised by the petitioner.  An application for post
+conviction relief filed pursuant to this Article by a petitioner who pled guilty before August
+1, 2025, or nolo contendere to the offense of conviction or filed by any petitioner after
+December 31, 2022, shall be subject to Articles 930.4 and 930.8.  A petitioner who pled
+guilty to the offense of conviction on or after August 1, 2025, shall not be entitled to assert
+a claim of factual innocence.
+B.</p>
+          </content>
+          <paragraph eId="CCRP-926-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A recantation of prior sworn testimony may be considered if corroborated by the
+evidence required by Subsubparagraph (1)</p>
+            </content>
+            <subparagraph eId="CCRP-926-2__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Paragraph. However, a recantation of
+prior sworn testimony cannot form the sole basis for relief pursuant to this Article and shall
+not be sufficient to overcome the presumption of a valid conviction.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-926-2__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the petitioner pled guilty before August 1, 2025, or nolo contendere to the
+offense of conviction, in addition to satisfying all of the criteria in this Paragraph and in any
+other applicable provision of law, the petitioner shall show both of the following to prove
+entitlement to relief:</p>
+            </content>
+            <subparagraph eId="CCRP-926-2__subsec_A__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>That, by reliable evidence, he consistently maintained his innocence until his plea
+of guilty or nolo contendere.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-926-2__subsec_A__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>That he could not have known of or discovered his evidence of factual innocence
+prior to pleading guilty or nolo contendere.
+C.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-926-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A grant of post conviction relief pursuant to this Article shall not prevent the
+petitioner from being retried for the offense of conviction, for a lesser offense based on the
+same facts, or for any other offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the petitioner waives his right to a jury trial and elects to be tried by a judge,
+the district judge who granted post conviction relief pursuant to this Article shall be recused
+and the case shall be allotted to a different judge in accordance with applicable law and rules
+of court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-926-2__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the district judge denied post conviction relief pursuant to this Article and an
+appellate court later reversed the ruling of the district judge and granted post conviction relief
+pursuant to this Article, and if the petitioner waives his right to a jury trial and elects to be
+tried by a judge, upon the petitioner's motion the district judge who denied post conviction
+relief shall be recused and the case shall be allotted to a different judge in accordance with
+applicable law and rules of court.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1239817</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

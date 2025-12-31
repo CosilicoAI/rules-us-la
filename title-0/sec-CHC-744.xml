@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-744"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-744"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 744"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-744/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-744/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-744/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-744/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-744">
+        <num>CHC 744</num>
+        <heading>744.  Informal family services plan agreement</heading>
+        <subsection eId="CHC-744__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>After any preadjudication conference, the child, his caretakers, and any service provider may effect an informal family services plan agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-744__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An informal family services plan agreement shall include:</p>
+          </content>
+          <paragraph eId="CHC-744__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The identification of the conduct of the child, caretaker, or any family member which is causing serious harm to the child and the services needed by that individual to mitigate or eliminate the problems within the family unit.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-744__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A description of the services which are needed for the child, his caretakers, or other family members, the availability of such services within the community, and a plan for ensuring that any such services that are available will be secured and delivered.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-744__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A description of all expected action to be taken by the child, his caretakers, or other family members.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-744__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The name of the person within the affected public service agency who is directly responsible for assuring that the informal family services plan agreement is implemented.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-744__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>An estimate of the time anticipated to be necessary in order to accomplish the goals set out in the agreement.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-744__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>An informal family services plan agreement shall set forth in writing the terms and conditions agreed to by the parties.  It shall be signed by the convenor of the informal adjustment conference and all parties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-744__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The informal family services plan agreement must demonstrate that the child and his caretakers understand their right to an adjudication hearing on their need for services.  It must also demonstrate that they consent to its terms with knowledge that their consent is not obligatory and with knowledge of the effect of the agreement as set out hereinafter in Article 745.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-744__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The duration of the informal family services plan agreement shall not exceed six months; however, the court may extend the agreement for one additional period not to exceed six months.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-744__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If a petition has been filed, the informal family services plan agreement shall be filed in the record.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73335</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

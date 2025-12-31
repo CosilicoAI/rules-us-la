@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1306.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1306-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1306-2">
+        <num>CHC 1306.2</num>
+        <heading>1306.2.  Procedure to register order for enforcement</heading>
+        <subsection eId="CHC-1306-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided in Article 1307.6, a support order or income-withholding order of another state or a foreign support order may be registered in this state
+by sending the following records to the appropriate tribunal in this state:</p>
+          </content>
+          <paragraph eId="CHC-1306-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A letter of transmittal to the tribunal requesting registration and enforcement;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Two copies, including one certified copy, of the order to be registered, including
+any modification of the order;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-2__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A sworn statement by the person requesting registration or a certified statement
+by the custodian of the records showing the amount of any arrearage;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-2__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The name of the obligor and, if known:</p>
+            </content>
+            <subparagraph eId="CHC-1306-2__subsec_A__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The obligor's address and social security number;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1306-2__subsec_A__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The name and address of the obligor's employer and any other source of income
+of the obligor; and</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1306-2__subsec_A__subsec_4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A description and the location of property of the obligor in this state not exempt
+from execution; and</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1306-2__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Except as otherwise provided in Article 1303.12, the name and address of the
+obligee and, if applicable, the person to whom support payments are to be remitted.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1306-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>On receipt of a request for registration, the registering tribunal shall cause the
+order to be filed as an order of a tribunal of another state or a foreign support order, together
+with one copy of the documents and information, regardless of their form.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1306-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A petition or comparable pleading seeking a remedy that must be affirmatively
+sought under other law of this state may be filed at the same time as the request for
+registration or later.  The pleading must specify the grounds for the remedy sought.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1306-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If two or more orders are in effect, the person requesting registration shall:</p>
+          </content>
+          <paragraph eId="CHC-1306-2__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Furnish to the tribunal a copy of every support order asserted to be in effect in
+addition to the documents specified in this Section;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-2__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Specify the order alleged to be the controlling order, if any; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1306-2__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Specify the amount of consolidated arrears, if any.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1306-2__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A request for a determination of which is the controlling order may be filed
+separately or with a request for registration and enforcement or for registration and
+modification. The person requesting registration shall give notice of the request to each party
+whose rights may be affected by the determination.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72845</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

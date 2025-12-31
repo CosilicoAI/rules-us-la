@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1466"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1466"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1466"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1466/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1466/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1466/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1466/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1466">
+        <num>CHC 1466</num>
+        <heading>1466.  Advice of rights</heading>
+        <subsection eId="CHC-1466__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Each minor admitted on a voluntary basis shall be informed of any other medically appropriate alternative treatment programs and treatment facilities known to the admitting physician and be given an opportunity to seek admission to alternative treatment programs or facilities.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1466__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Every minor patient admitted on a voluntary admission status shall be informed in writing at the time of admission of the procedures for requesting release from the treatment facility, the availability of counsel, information about the mental health advocacy service, the rights enumerated in Article 1409, and rules and regulations applicable to or concerning his conduct while a patient in the treatment facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1466__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the minor is illiterate or does not read or understand English, appropriate provisions should be made to supply him this information.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1466__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In addition, a copy of the information listed in this Article must be posted in any area where minor patients are confined and treated.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72962</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

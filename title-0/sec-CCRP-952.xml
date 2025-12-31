@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-952"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-952"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 952"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-952/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-952/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-952/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-952/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-952">
+        <num>CCRP 952</num>
+        <heading>952.  Clerk of affected court</heading>
+        <subsection eId="CCRP-952__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>During the period in which the supreme court has ordered emergency sessions of court pursuant to Article 944, the clerk of court of the affected court is authorized to establish an ancillary office in the host jurisdiction in which the emergency sessions of the court are held.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-952__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The clerk of court of the affected court shall continue to exercise all necessary powers, duties, and authority of his office in order to maintain the effective operation and integrity of the criminal justice system of the affected court in the host jurisdiction, including but not limited to the assessment of fees to which the clerk is entitled.  This authority shall be limited to all matters and proceedings within the jurisdiction of the affected court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-952__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the affected court is located in Orleans Parish, the provisions of this Article shall apply to the recorder of mortgages and register of conveyances for the parish of Orleans.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-952__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The provisions of this Article are included in the other duties of the clerk provided by law as authorized by Article V, Section 28(A) of the Constitution of Louisiana.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=330437</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

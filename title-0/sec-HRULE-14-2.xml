@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 14.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-14-2">
+        <num>HRULE 14.2</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-14-2__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>To call all meetings of the committee, including those requested by the membership as provided in House Rule 14.15.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>To preside at all meetings of the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>To call the meeting to order at the time and place designated by the meeting notice.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>To be responsible for maintaining a record of attendance at committee meetings.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>To cause a committee to proceed with its business, after ascertaining the presence of a quorum, in the proper order according to the agenda and to announce the business before the committee as it proceeds with such business.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>To preserve order and decorum and to speak on points of order, in which case he shall have preference over other members.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>To decide all points of order, subject to appeal to the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>To explain or clarify any rule of procedure upon request.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>To state, or to direct the secretary to state, each motion as it is made.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>To recognize members.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>To state and put to a vote all questions requiring a vote after the order of the question on the same and to thereafter announce the vote.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>To establish subcommittees and to appoint the membership of all subcommittees.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>To sign all documents which require his signature.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>To arrange for the posting and filing of committee notices as otherwise provided in the Rules of Order of the House of Representatives, particularly as provided in this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>To prepare or supervise the preparation of the agenda for each committee meeting as required by these rules.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>To supervise and be responsible for the preparation of committee reports, particularly as provided in House Rule 6.11 and to submit them to the House.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>To submit requests to the Speaker for interim studies or meetings as provided in House Rule 14.16.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>To have custody of and insure the security of all legislative instruments and other papers or documents referred or submitted to the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>To transmit to the Clerk each legislative instrument or other document which the committee has:</p>
+          </content>
+          <paragraph eId="HRULE-14-2__subsec_19__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>reported, or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-14-2__subsec_19__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>been discharged from considering, or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-14-2__subsec_19__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>been ordered to report.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-14-2__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>To discharge all other duties required by rule or by law.
+Mason's Manual:  Sec. 611
+HR 8, 1974; HR 4, 1978; HR 45, 1998, eff. May 20, 1998; HR 4, 2006 2 nd Ex. Sess., eff. Dec. 13, 2006.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113229</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

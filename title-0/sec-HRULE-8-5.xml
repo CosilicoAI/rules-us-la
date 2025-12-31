@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 8.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-8-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-8-5">
+        <num>HRULE 8.5</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-8-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When two or more legislative instruments have been fixed as Special Orders for the same day, they shall take precedence according to the order established for their consideration by the House; however, if no order for consideration of such instruments has been established, the instrument first assigned for that day shall take precedence and the other instruments fixed for the same day shall be called and acted upon in the order in which they were fixed as Special Order until disposition has been made of all instruments in Special Order for that day.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-8-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The House, by a favorable vote of two-thirds of the members present, may change the order of precedence of legislative instruments placed in Special Order.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-8-5__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Any instrument fixed as Special Order, which is returned to the calendar subject to call, may be called from the calendar on the same day, while the House is in the order of business of Special Order, after disposition has been made of all other instruments fixed as Special Order for that day.  If it is not called from the calendar on the same day while the House is in Special Order, it shall be returned to the calendar subject to call under the order of business to which it was otherwise last advanced.
+Mason's Manual:  Sec. 265
+HR 3, 1973.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113387</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

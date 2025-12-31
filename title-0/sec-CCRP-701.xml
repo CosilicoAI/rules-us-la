@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-701"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-701"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 701"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-701/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-701/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-701/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-701/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-701">
+        <num>CCRP 701</num>
+        <heading>PROCEDURES PRIOR TO TRIAL</heading>
+        <subsection eId="CCRP-701__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The state and the defendant have the right to a speedy trial.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-701__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The time period for filing a bill of information or indictment after arrest shall be
+as follows:</p>
+          </content>
+          <paragraph eId="CCRP-701__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph
+shall result in release of the defendant if, after contradictory hearing with the district attorney,
+just cause for the failure is not shown.  If just cause is shown, the court shall reconsider bail
+for the defendant.  Failure to institute prosecution as provided in this Subparagraph shall
+result in the release of the bail obligation if, after contradictory hearing with the district
+attorney, just cause for the delay is not shown.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-701__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon filing of a bill of information or indictment, the district attorney shall set
+the matter for arraignment within thirty days unless just cause for a longer delay is shown.
+D.</p>
+          </content>
+          <paragraph eId="CCRP-701__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A motion by the defendant for a speedy trial, in order to be valid, must be
+accompanied by an affidavit by defendant's counsel certifying that the defendant and his
+counsel are prepared to proceed to trial within the delays set forth in this Article.  Except as
+provided in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-701__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this Paragraph, after the filing of a motion for a speedy trial
+by the defendant and his counsel, the time period for commencement of trial shall be as
+follows:</p>
+            </content>
+            <subparagraph eId="CCRP-701__subsec_C__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The trial of a defendant charged with a felony shall commence within one
+hundred twenty days if he is continued in custody and within one hundred eighty days if he
+is not continued in custody.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-701__subsec_C__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The trial of a defendant charged with a misdemeanor shall commence within
+thirty days if he is continued in custody and within sixty days if he is not continued in
+custody.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-701__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Failure to commence trial within the time periods provided above shall result in
+the release of the defendant without bail or in the discharge of the bail obligation, if after
+contradictory hearing with the district attorney, just cause for the delay is not shown.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-701__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>After a motion for a speedy trial has been filed by the defendant, if the defendant
+files any subsequent motion which requires a contradictory hearing, the court may suspend,
+in accordance with Article 580, or dismiss upon a finding of bad faith the pending speedy
+trial motion.  In addition, the period of time within which the trial is required to commence,
+as set forth by Article 578, may be suspended, in accordance with Article 580, from the time
+that the subsequent motion is filed by the defendant until the court rules upon such motion.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-701__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>&quot;Just cause&quot; as used in this Article shall include any grounds beyond the control
+of the State or the Court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-701__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A motion for a speedy trial filed by the defendant, but not verified by the affidavit
+of his counsel, shall be set for contradictory hearing within thirty days.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112708</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

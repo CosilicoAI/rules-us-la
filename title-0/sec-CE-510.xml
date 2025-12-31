@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-510"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-510"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 510"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-510/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-510/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-510/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-510/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-510">
+        <num>CE 510</num>
+        <heading>510.  Health care provider-patient privilege</heading>
+        <subsection eId="CE-510__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Definitions. The definitions of health care provider, physician, psychotherapist,
+and their representatives as provided in this Article include persons reasonably believed to
+be such by the patient or his representative. As used in this Article:</p>
+          </content>
+          <paragraph eId="CE-510__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Health care provider&quot; is a person or entity defined as such in R.S. 13:3734(A),
+and includes a physician and psychotherapist as defined below, and also includes a person
+who is engaged in any office, center, or institution referred to as a rape crisis center, who has
+undergone at least forty hours of sexual assault training and who is engaged in rendering
+advice, counseling, or assistance to victims of sexual assault.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Health condition&quot; is a physical, mental, or emotional condition, including a
+condition induced by alcohol, drugs, or other substance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Patient&quot; is a person who consults or is examined or interviewed by another for
+the purpose of receiving advice, diagnosis, or treatment in regard to that person's health.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Physician&quot; is a person licensed to practice medicine in any state or nation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>&quot;Psychotherapist&quot; is:</p>
+            </content>
+            <subparagraph eId="CE-510__subsec_A__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A physician engaged in the diagnosis or treatment of a mental or emotional
+condition, including a condition induced by alcohol, drugs, or other substance.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person licensed or certified as a psychologist under the laws of any state or
+nation.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A person licensed as a licensed professional  counselor or social worker under
+the laws of any state or nation.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>&quot;Representative&quot; of a physician, psychotherapist, or other health care provider
+is:</p>
+            </content>
+            <subparagraph eId="CE-510__subsec_A__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person acting under the supervision, direction, control, or request of a
+physician, psychotherapist, or health care provider engaged in the diagnosis or treatment of
+the patient.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Personnel of a &quot;hospital&quot;, as defined in R.S. 13:3734(A)</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Representative of a patient&quot; is any person who makes or receives a confidential
+communication for the purpose of effectuating diagnosis or treatment of a patient.
+B.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>General rule of privilege in civil proceedings.  In a non-criminal proceeding,
+a patient has a privilege to refuse to disclose and to prevent another person from disclosing
+a confidential communication made for the purpose of advice, diagnosis or treatment of his
+health condition between or among himself or his representative, his health care provider,
+or their representatives.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Exceptions.  There is no privilege under this Article in a noncriminal proceeding
+as to a communication:</p>
+            </content>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the communication relates to the health condition of a patient who brings
+or asserts a personal injury claim in a judicial or worker's compensation proceeding.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When the communication relates to the health condition of a deceased patient in
+a wrongful death, survivorship, or worker's compensation proceeding brought or asserted as
+a consequence of the death or injury of the deceased patient.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When the communication is relevant to an issue of the health condition of the
+patient in any proceeding in which the patient is a party and relies upon the condition as an
+element of his claim or defense or, after the patient's death, in any proceeding in which a
+party deriving his right from the patient relies on the patient's health condition as an element
+of his claim or defense.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>When the communication relates to the health condition of a patient when the
+patient is a party to a proceeding for custody or visitation of a child and the condition has a
+substantial bearing on the fitness of the person claiming custody or visitation, or when the
+patient is a child who is the subject of a custody or visitation proceeding.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>When the communication made to the health care provider was intended to assist
+the patient or another person to commit or plan to commit what the patient knew or
+reasonably should have known to be a crime or fraud.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>When the communication is made in the course of an examination ordered by the
+court with respect to the health condition of a patient, the fact that the examination was so
+ordered was made known to the patient prior to the communication, and the communication
+concerns the particular purpose for which the examination was made, unless the court in its
+order directing the examination has stated otherwise.
+(g)</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>When the communication is made by a patient who is the subject of an
+interdiction or commitment proceeding to his current health care provider when such patient
+has failed or refused to submit to an examination by a health care provider appointed by the
+court regarding issues relating to the interdiction or commitment proceeding, provided that
+the patient has been advised of such appointment and the consequences of not submitting to
+the examination.
+(ii)  Notwithstanding the provisions of Subitem</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>of this Item, in any commitment
+proceeding, the court-appointed physician may review the medical records of the patient or
+respondent and testify as to communications therein, but only those which are essential to
+determine whether the patient is dangerous to himself, dangerous to others, or unable to
+survive safely in freedom or protect himself from serious harm.  However, such
+communications shall not be disclosed unless the patient was informed prior to the
+communication that such communications are not privileged in any subsequent commitment
+proceedings.  The court-appointed examination shall be governed by Item B</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>When the communication is relevant in proceedings held by peer review
+committees and other disciplinary bodies to determine whether a particular health care
+provider has deviated from applicable professional standards.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>When the communication is one regarding the blood alcohol level or other test
+for the presence of drugs of a patient and an action for damages for injury, death, or loss has
+been brought against the patient.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>When disclosure of the communication is necessary for the defense of the health
+care provider in a malpractice action brought by the patient.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>When the communication is relevant to proceedings concerning issues of child
+abuse, elder abuse, or the abuse of persons with disabilities or persons who are incompetent.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>When the communication is relevant after the death of a patient, concerning the
+capacity of the patient to enter into the contract which is the subject matter of the litigation.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>When the communication is relevant in an action contesting any testament
+executed or claimed to have been executed by the patient now deceased.
+C.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>General rule of privilege in criminal proceedings.  In a criminal proceeding,
+a patient has a privilege to refuse to disclose and to prevent another person from disclosing
+a confidential communication made for the purpose of advice, diagnosis or treatment of his
+health condition between or among himself, his representative, and his physician or
+psychotherapist, and their representatives.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Exceptions.  There is no privilege under this Article in a criminal case as to a
+communication:</p>
+            </content>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the communication is relevant to an issue of the health condition of the
+accused in any proceeding in which the accused relies upon the condition as an element of
+his defense.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When the communication was intended to assist the patient or another person to
+commit or plan to commit what the patient knew or reasonably should have known to be a
+crime or fraud.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When the communication was made in the course of an examination ordered by
+the court in a criminal case to determine the health condition of a patient, provided that a
+copy of the order was served on the patient prior to the communication.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>When the communication is a record of the results of a test for blood alcohol
+level or drugs taken from a patient who is under arrest, or who was subsequently arrested for
+an offense related to the test.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>When the communication is in the form of a tangible object, including a bullet,
+that is removed from the body of a patient and which was in the body as a result of the crime
+charged.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-510__subsec_A__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>When the communication is relevant to an investigation of or prosecution for
+child abuse, elder abuse, or the abuse of persons with disabilities or persons who are
+incompetent.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-510__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Who may claim the privilege.  In both civil and criminal proceedings, the
+privilege may be claimed by the patient or by his legal representative.  The person who was
+the physician, psychotherapist, or health care provider or their representatives, at the time of
+the communication is presumed to have authority to claim the privilege on behalf of the
+patient or deceased patient.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-510__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Waiver.  The exceptions to the privilege set forth in Paragraph B</p>
+          </content>
+          <paragraph eId="CE-510__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>shall
+constitute a waiver of the privilege only as to testimony at trial or to discovery of the
+privileged communication by one of the discovery methods authorized by Code of Civil
+Procedure Article 1421 et seq.,  or pursuant to R.S. 40:1165.1 or R.S. 13:3715.1.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-510__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Medical malpractice.</p>
+          </content>
+          <paragraph eId="CE-510__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There shall be no health care provider-patient privilege
+in medical malpractice claims as defined in R.S. 40:1231.1 et seq. as to information directly
+and specifically related to the factual issues pertaining to the liability of a health care
+provider who is a named party in a pending lawsuit or medical review panel proceeding.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-510__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In medical malpractice claims information about a patient's current treatment or
+physical condition may only be disclosed pursuant to testimony at trial, pursuant to one of
+the discovery methods authorized by Code of Civil Procedure Article 1421 et seq., pursuant
+to R.S. 40:1165.1 or R.S. 13:3715.1.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-510__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Sanctions.  Any attorney who violates a provision of this Article shall be subject
+to sanctions by the court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72481</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

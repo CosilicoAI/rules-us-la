@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-3-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-3-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 3.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-3-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-3-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-3-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-3-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-3-5">
+        <num>HRULE 3.5</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-3-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>House Legislative Services shall be under the general supervision and control of
+the Subcommittee on Personnel of the House Executive Committee, which shall employ an
+executive director who shall be the administrative officer of House Legislative Services. 
+With respect to the operations of the standing committees of the House, supervision of the
+House Legislative Services staff personnel assigned to those committees shall be exercised
+by the executive director in coordination with the respective committee chairmen.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-3-5__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The executive director, with the approval of the Subcommittee on Personnel of
+the House Executive Committee, shall have the authority to employ, terminate, and fix the
+salaries of such staff as shall be necessary to carry out the purposes of House Legislative
+Services pursuant to policies adopted by the subcommittee.
+HR 14, 1981; HR 4, 1982; HR 8, 1991, eff. Jan. 13, 1992; HR 45, 1998, eff. May 20,
+1998; HR 1, 2008 Org. Sess., eff. Jan. 15, 2008; HR 13, 2020, eff. May 31, 2020.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113299</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

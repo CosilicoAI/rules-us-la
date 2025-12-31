@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-955"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-955"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 955"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-955/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-955/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-955/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-955/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-955">
+        <num>CCRP 955</num>
+        <heading>955.  Suspension of time limitations in affected courts; ninety days; recision; extensions; exceptions</heading>
+        <subsection eId="CCRP-955__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The time periods, limitations, and delays established by the provisions of the Code of Criminal Procedure, Children's Code, Title 15, and Chapter 26 of Title 40 of the Louisiana Revised Statutes of 1950 shall be suspended in the jurisdiction of the affected court for a period of ninety days following the issuance of an order authorizing emergency sessions of court as provided for in Article 944.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-955__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The ninety-day suspension provided for by this Article shall commence to run from the date the supreme court issued its order authorizing the emergency sessions of court or from the date specified therein, whichever is earlier.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-955__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The ninety-day suspension may be extended upon a determination by the supreme court that the continuation of the suspension is necessary.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-955__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The supreme court may rescind the suspension at any time and for any jurisdiction within the state upon a determination by the supreme court that the suspension is no longer necessary.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-955__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The provisions of this Article shall not apply to Code of Criminal Procedure Articles 230.1, 230.2, 351, 354, and 362.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-955__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>When the supreme court makes the determination and orders an emergency session of court at a location which are both feasible and practical outside the parish or territorial jurisdiction of the affected court, pursuant to Article 944, in addition to the provisions of Paragraph A of this Article, the supreme court may order an extension of time not to exceed four hundred fifty days for the surrender of the defendant as provided for in Code of Criminal Procedure Article 349.8.  This extension of time is in addition to the one hundred eighty days provided for in Article 349.8 and the ninety days provided for in Paragraph A of this Article, and also applies to the deadlines for filing motions to set aside judgments of bond forfeiture.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=330440</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-18"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-18"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 14.18"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-18/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-18/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-18/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-18/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-14-18">
+        <num>HRULE 14.18</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-14-18__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>As soon as the chairman and the members of a committee have been appointed at the beginning of a term an organizational meeting of the committee shall be called.  Such a meeting shall be called by the chairman, or in his absence by the vice chairman, in accordance with the schedule for committee meetings established in accordance with the rules.  The chairman shall cause notice of such meeting to be posted, filed, and/or transmitted as otherwise provided by the rules.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-14-18__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>At the organizational meeting the committee shall review the subject matter under the jurisdiction of the committee, any matters which the committee proposes to study or which have been referred to the committee for study and the legislative instruments which have been referred to it at the time, and any other pending business before the committee.  In addition, the committee shall prepare a tentative schedule for proceeding with the work of the committee.
+Mason's Manual:  Sec. 625
+HR 8, 1974; HR 45, 1998, eff. May 20, 1998.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113227</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

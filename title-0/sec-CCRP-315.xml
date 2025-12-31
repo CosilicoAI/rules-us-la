@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-315"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-315"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 315"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-315/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-315/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-315/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-315/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-315">
+        <num>CCRP 315</num>
+        <heading>315.  Schedules of bail</heading>
+        <subsection eId="CCRP-315__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Unless the bail is fixed by a schedule in accordance with this Article, the amount
+of bail shall be specifically fixed in each case. In noncapital felony cases, a bail schedule
+according to the offense charged may be fixed by a district court. In misdemeanor cases, a
+bail schedule according to the offense charged may be fixed by a district, parish or city court
+for offenses committed within its trial jurisdiction. When more than one court has trial
+jurisdiction, the applicable bail schedule shall be that of the court in which the case is to be
+tried.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-315__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court order setting the bail schedule shall fix the amount of bail for each
+offense listed, designate the officer or officers authorized to accept the bail, and order that
+bail be taken in conformity with the schedule. It may also contain a general provision
+designating the amount of bail for any noncapital felony and misdemeanor not listed in the
+schedule.  A copy of the schedule shall be sent to all jails, sheriff's offices, and police stations
+within the judicial district, parish, or city.  A bail schedule may be revised or rescinded at any
+time.  The type or form of bail shall not be sent in a bail schedule.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-315__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A person charged with the commission of an offense for which bail is fixed by
+a schedule may give bail according to the schedule or demand a special order fixing bail. 
+The bail amount fixed by schedule may be modified by the court in accordance with Article
+319.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112433</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1307.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1307-1">
+        <num>CHC 1307.1</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1307-1__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Application&quot; means a request under the Convention by an obligee or obligor,
+or on behalf of a child, made through a central authority for assistance from another central
+authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1307-1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Central authority&quot; means the entity designated by the United States or a foreign
+country described in Article 1301.2(5)</p>
+          </content>
+          <paragraph eId="CHC-1307-1__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>to perform the functions specified in the
+Convention.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1307-1__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Convention support order&quot; means a support order of a tribunal of a foreign
+country described in Article 1301.2(5)(d).</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1307-1__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Direct request&quot; means a petition filed by an individual in a tribunal of this state
+in a proceeding involving an obligee, obligor, or child residing outside the United States.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1307-1__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Foreign central authority&quot; means the entity designated by a foreign country
+described in Article 1301.2(5)</p>
+          </content>
+          <paragraph eId="CHC-1307-1__subsec_5__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>to perform the functions specified in the Convention.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1307-1__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Foreign support agreement&quot;:</p>
+          </content>
+          <paragraph eId="CHC-1307-1__subsec_6__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Means an agreement for support in a record that:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-1__subsec_6__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Is enforceable as a support order in the country of origin;
+(ii)  Has been:
+(aa)  Formally drawn up or registered as an authentic instrument by a foreign tribunal;
+or
+(bb)  Authenticated by, or concluded, registered, or filed with a foreign tribunal; and
+(iii)  May be reviewed and modified by a foreign tribunal; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-1__subsec_6__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Includes a maintenance arrangement or authentic instrument under the
+Convention.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1307-1__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;United States central authority&quot; means the Secretary of the United States
+Department of Health and Human Services.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72854</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

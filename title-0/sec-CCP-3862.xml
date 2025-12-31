@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3862"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3862"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 3862"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3862/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3862/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3862/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3862/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-3862">
+        <num>CCP 3862</num>
+        <heading>3862.  Mandamus; issuance of</heading>
+        <content>
+          <p>Art. 3862.  Mandamus; issuance of
+A writ of mandamus may be issued in all cases where the law provides no relief by ordinary means or where the delay involved in obtaining ordinary relief may cause injustice; provided, however, that no court shall issue or cause to be issued a writ of mandamus to compel the expenditure of state funds by any state department, board or agency, or any officer, administrator or head thereof, or any officer of the state of Louisiana, in any suit or action involving the expenditure of public funds under any statute or law of this state, when the director of such department, board or agency, or the governor shall certify that the expenditure of such funds would have the effect of creating a deficit in the funds of said agency or be in violation of the requirements placed upon the expenditure of such funds by the legislature.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111873</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

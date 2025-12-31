@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-18"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-18"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 7.18"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-18/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-18/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-18/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-18/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-7-18">
+        <num>HRULE 7.18</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-7-18__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In addition to the requirements of Joint Rule No. 4, a fiscal report shall accompany any legislation or administrative rule seeking an increase of an existing licensing or certification fee on a profession or occupation, or the imposition of a new fee, by an executive branch regulatory agency.  No standing committee of the House shall consider any such bill or rule unless the committee otherwise decides.  Such report shall be submitted to the respective standing committee prior to the hearing on such legislation or rule, and the report shall contain the following data in this order:</p>
+          </content>
+          <paragraph eId="HRULE-7-18__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A statement showing income for the past two fiscal years and an estimate of the current year's income by fee category.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-18__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A breakdown for the same period of time showing personnel costs, travel costs, operating expenses, and costs of any contractual services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-18__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A breakdown of the fee increase requested indicating the category in which the increase falls, how many people will be affected by the increase, and the income to be gained in each category.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-18__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>An explanation of the need for the increase, how the amount of increase was determined by categories, and the reason for those categories being selected over other categories within the agency.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-18__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Proof showing that the requested increase in dues or fees has been sent to the membership, and, to the extent possible, a favorable reply received.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-18__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A statement by category, showing when fees were last increased and the legislative act number.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-18__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A financial statement indicating assets and deficits, including the amount of any surplus and the manner of its investment, or of any deficit.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-7-18__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Each committee staff shall inform all agencies subject to this Rule within the subject matter jurisdiction of the committee of the provisions of this Rule.  The committee staff shall specifically inform any agency or board affected by a bill or rule subject to the provisions of this Rule and the author of the bill upon its referral to the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-7-18__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Whenever a bill subject to the provisions of this Rule has been reported by a committee without the information required by Paragraph A, any member may, on third reading of the bill, offer a motion that the bill be returned to the calendar until the information is obtained.
+HR 12, 1982.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113352</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

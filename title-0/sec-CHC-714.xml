@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-714"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-714"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 714"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-714/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-714/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-714/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-714/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-714">
+        <num>CHC 714</num>
+        <heading>714.  Motion to modify judgment of disposition</heading>
+        <subsection eId="CHC-714__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court may modify a judgment of disposition on its own motion or on the motion of the district attorney, the department, the child, or his parents.  When a child has been committed to a mental hospital, psychiatric unit, or substance abuse facility, the court may modify the judgment of disposition, for good cause shown, on the filing of a proper motion by the director of the mental hospital, psychiatric unit, or substance abuse facility.
+B.</p>
+          </content>
+          <paragraph eId="CHC-714__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A motion to modify a judgment of disposition may be denied without a contradictory hearing, except when made by the director of a mental hospital, psychiatric unit, or substance abuse facility to which a child has been committed.  In such instances, the director shall be permitted to show that the continued commitment would not be in the child's best interest because the facility cannot provide proper treatment or that the child has received the maximum benefit from the treatment available at the facility.  The director shall make specific written recommendations regarding proper treatment or placement of the child, or both, in the motion filed with the court.  The court shall hold a hearing on the motion for modification of a disposition filed by the director of a mental health hospital, psychiatric unit, or substance abuse facility within ten days of the filing of the motion unless continued for cause shown.  An attorney from the Mental Health Advocacy Service shall be appointed to represent the child's interest at such a hearing unless attorneys from such agency are unavailable or the child has retained private counsel who shall represent only the interest of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-714__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A motion to modify to impose more restrictive conditions may not be granted without a contradictory hearing unless the parties consent.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-714__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>On its own motion or on oral or written motion of the department, the court may modify a judgment of disposition without a contradictory hearing when the conditions of the disposition are sought to be made less restrictive.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-714__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Except as provided in Paragraph C of this Article, the motion shall be in writing and set forth in plain and concise terms the facts supporting the modification.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73310</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

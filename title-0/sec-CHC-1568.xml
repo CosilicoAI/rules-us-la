@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1568"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1568"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1568"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1568/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1568/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1568/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1568/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1568">
+        <num>CHC 1568</num>
+        <heading>1568.  Petition</heading>
+        <subsection eId="CHC-1568__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A petition filed under the provisions of this Chapter shall contain the following:</p>
+          </content>
+          <paragraph eId="CHC-1568__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name of each petitioner and each person on whose behalf the petition is filed
+and the name, address, and parish of residence of each individual alleged to have committed
+abuse, if known.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1568__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the petition is being filed on behalf of a child or person alleged to be
+incompetent, the relationship between that person and the petitioner.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1568__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The facts and circumstances concerning the alleged abuse.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1568__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The relationship between each petitioner and each individual alleged to have
+committed abuse.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1568__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A request for one or more protective orders or a temporary restraining order.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1568__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The address and parish of residence of each petitioner and each person on whose
+behalf the petition is filed may remain confidential with the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1568__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the petition requests a protective order for a spouse and alleges that the other
+spouse has committed abuse, the petition shall state whether a suit for divorce is pending.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1568__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the petition requests the issuance of an ex parte temporary restraining order, the
+petition shall contain a written affirmation signed and dated by each petitioner that the facts
+and circumstances contained in the petition are true and correct to the best knowledge,
+information, and belief of the petitioner, under penalty of perjury pursuant to R.S. 14:123. 
+The affirmation shall be made before a witness who shall sign and print his name.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1568__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If a suit for divorce is pending, any application for a protective order shall be filed
+in that proceeding and shall be heard within the delays provided by this Chapter.  Any decree
+issued in a divorce proceeding filed subsequent to the filing of a petition or an order issued
+pursuant to this Chapter may, in the discretion of the court hearing the divorce proceeding,
+supersede in whole or in part the orders issued pursuant to this Chapter. Such subsequent
+decree shall be forwarded by the rendering court to the court having jurisdiction of the
+petition for a protective order and shall be made a part of the record thereof.  The findings
+and rulings made in connection with such protective orders shall not be res judicata in any
+subsequent proceeding.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73026</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

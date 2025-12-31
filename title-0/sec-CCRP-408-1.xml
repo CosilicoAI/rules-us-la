@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-408-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-408-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 408.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-408-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-408-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-408-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-408-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-408-1">
+        <num>CCRP 408.1</num>
+        <heading>408.1.  Initial selection of general venire; source</heading>
+        <subsection eId="CCRP-408-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In developing a list of all persons who may be called for grand or petit jury duty:</p>
+          </content>
+          <paragraph eId="CCRP-408-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It shall be determined by each judicial district whether the names of prospective jurors shall be drawn exclusively from voter registration lists or also drawn from other sources or lists.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-408-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the district judges of the judicial district, in their discretion, authorize the use of sources other than voter registration lists in developing grand and petit jury lists, a jury commission shall not draw the names of prospective jurors exclusively from voter registration lists, but shall use other sources or lists of prospective jurors as may be legally available.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-408-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the district judges authorize the use of a list of persons issued drivers' licenses as a source from which to choose prospective jurors, such list of drivers shall be provided annually at no cost by the Department of Public Safety and Corrections to the respective clerks of court or jury commissions responsible for preparing the list of prospective jurors.  However, such a list shall only be provided to parishes that make written request through the parish clerk of court or jury commission.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112511</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

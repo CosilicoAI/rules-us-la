@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2322-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2322-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2322.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2322-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2322-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2322-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2322-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2322-1">
+        <num>CC 2322.1</num>
+        <heading>2322.1.  Users of blood or tissue; a medical service</heading>
+        <subsection eId="CC-2322-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The screening, procurement, processing, distribution, transfusion,
+or medical use of human blood and blood components of any kind and the
+transplantation or medical use of any human organ, human tissue, or approved
+animal tissue by physicians, dentists, hospitals, hospital blood banks, and
+nonprofit community blood banks is declared to be, for all purposes
+whatsoever, the rendition of a medical service by each and every physician,
+dentist, hospital, hospital blood bank, and nonprofit community blood bank
+participating therein, and shall not be construed to be and is declared not to be
+a sale.  Strict liability and warranties of any kind without negligence shall not
+be applicable to the aforementioned who provide these medical services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2322-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In any action based in whole or in part on the use of blood or tissue
+by a healthcare provider, to which the provisions of Paragraph A do not apply,
+the plaintiff shall have the burden of proving all elements of his claim,
+including a defect in the thing sold and causation of his injuries by the defect,
+by a preponderance of the evidence, unaided by any presumption.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2322-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The provisions of Paragraphs A and B are procedural and shall
+apply to all alleged causes of action or other act, omission, or neglect without
+regard to the date when the alleged cause of action or other act, omission, or
+neglect occurred.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2322-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>As used in this Article:</p>
+          </content>
+          <paragraph eId="CC-2322-1__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Healthcare provider&quot; includes all individuals and entities listed in
+R.S. 9:2797, this Article, R.S. 40:1237.1 and R.S. 40:1231.1 whether or not
+enrolled with the Patient's Compensation Fund.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2322-1__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;The use of blood or tissue&quot; means the screening, procurement,
+processing, distribution, transfusion, or any medical use of human blood, blood
+products, and blood components of any kind and the transplantation or medical
+use of any human organ, human or approved animal tissue, and tissue products
+or tissue components by any healthcare provider.
+Added by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109386</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

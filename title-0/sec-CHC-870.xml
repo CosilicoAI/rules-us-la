@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-870"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-870"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 870"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-870/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-870/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-870/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-870/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-870">
+        <num>CHC 870</num>
+        <heading>870.  Motion for a bill of particulars</heading>
+        <subsection eId="CHC-870__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>On motion of the child or on its own motion, the court may require the district attorney to furnish a bill of particulars setting forth more specifically the nature and cause of the allegations charging that the child committed a delinquent act.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-870__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a bill of particulars is furnished, it shall be filed with the clerk of court and a copy shall be given to the child or his counsel.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-870__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Supplemental bills of particulars may be ordered by the court at any time before the adjudication hearing.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73461</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

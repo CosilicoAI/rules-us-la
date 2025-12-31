@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-8"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-8"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1107.8"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-8/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-8/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-8/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-8/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1107-8">
+        <num>CHC 1107.8</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1107-8__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The notice of filing of a mother's intent to surrender for adoption shall contain the
+following information in substantially the following form:
+&quot;NOTICE OF FILING OF ACT OF INTENT TO SURRENDER
+FOR ADOPTION
+Be advised that on the _________ day of ______________, 20__, ____________
+(MOTHER'S NAME) voluntarily filed an act of intent to surrender for adoption of her child,
+namely ____________, born on the ______ day of ____________, 20__, in the
+Parish/County of _____________, State of _____________.
+OR
+[Be advised that on the ___________ day of ____________, 20___,
+________________(MOTHER'S NAME) voluntarily filed an act of intent to surrender for
+adoption of her expected child to be born on or about _______________, 20__.]
+The act of intent to surrender for adoption names you as the father of this child.  The
+act of intent to surrender for adoption does not bind the mother to follow through with plans
+to surrender her child for adoption.  She may change her mind. Its only purpose is to
+determine whether you will oppose plans for surrendering this child for adoption.
+You may attempt to oppose the proposed adoption of this child only by filing a
+written objection with this court within fifteen days after you receive this notice. In your
+objection, you must provide the court with an address where you can be contacted about
+further proceedings, if any, regarding the child's adoption.
+A form for your use is attached.
+Note that this objection must be signed under oath before a notary public after you
+have proved your identity. If the objection does not have the notary's signature, it is not
+effective.
+If you do file such a written objection:</p>
+          </content>
+          <paragraph eId="CHC-1107-8__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>You will have the right to receive notice of any surrender for adoption that the
+mother may hereafter sign giving up her parental rights to the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1107-8__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>You will also have the right to be given notice of any hearing scheduled by the
+court to decide whether your parental rights should be terminated.  At that hearing, you must
+show that you are claiming or have acknowledged paternity of the child and must prove that
+you have assumed parental responsibility for the child, that you are a fit parent, and that you
+are willing and able to take custody of the child.  At that hearing, the court will decide
+whether your efforts have been sufficient to preserve your parental rights regarding this child
+and to prevent the child's adoption.
+These notices will be served upon you at the address you provide in your written
+objection.
+If you do not file a written, notarized objection within fifteen days from the time you
+receive this notice, then you waive notice and service of future surrender or adoption
+proceedings, you have no cause of action to challenge the child's adoption, and all rights you
+may have as the child's alleged father may be terminated by order of this court and the child
+may be adopted if the mother does decide to sign a surrender of the child for adoption.
+These are serious consequences.  You are urged to contact a lawyer to advise you
+further.&quot;</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1107-8__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>With every notice of the filing of an act of intent to surrender for adoption, this
+form must be included for the alleged father's use:
+&quot;OBJECTION TO ADOPTION
+____________ (Court File #)
+STATE OF LOUISIANA
+PARISH OF (NAME OF PARISH)
+I, __________________________ (FATHER'S NAME), have received notice of an
+act of intent to surrender for adoption filed by ___________________________ (NAME OF
+PREGNANT FEMALE OR MOTHER), which names me as the father.
+I believe that I am the father of this child.
+I object to any adoption of this child.
+I can be reached for notification of any surrender for adoption executed by the mother
+and any hearing on my opposition to the adoption of this child at
+_______________________________________________________
+(ADDRESS: STREET, CITY AND ZIP CODE).
+I understand that all notices will be made at that address unless I notify the court
+listed below in writing of a different address.  If I move without notifying the court, I
+understand that the court will rule that no further attempts need to be made to contact me
+about any adoption of this child.
+__________________________
+(SIGNATURE)
+___________________________
+(PRINT NAME)
+SWORN TO AND SUBSCRIBED BEFORE ME, Notary, on this the ________ day
+of ____________, _______, at ___________________ (CITY), Louisiana.
+___________________________
+NOTARY PUBLIC AND SEAL
+In order to be effective, this objection must either be mailed by registered or certified
+mail or filed by you or your representative with the following court:
+JUVENILE COURT OF ____________ PARISH
+(Address)&quot;</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180621</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

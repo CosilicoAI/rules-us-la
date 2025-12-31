@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-811-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-811-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 811.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-811-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-811-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-811-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-811-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-811-1">
+        <num>CHC 811.1</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-811-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The juvenile court, district attorneys, and law enforcement agencies shall provide
+the following services to victims of alleged delinquent acts, providing the victim reported the
+act to law enforcement authorities within seventy-two hours of its occurrence or discovery,
+unless extenuating circumstances exist for later reporting:</p>
+          </content>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The district attorney shall, whenever practical, inform the victim or his legal
+representative of judicial proceedings relating to their case including:</p>
+            </content>
+            <subparagraph eId="CHC-811-1__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The taking into custody of the alleged delinquent.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-811-1__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Adjudication hearings and disposition hearings relating to the alleged delinquent.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-811-1__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The release pending adjudication after a continued custody hearing whenever an
+alleged delinquent is accused of a violent offense, such as attempted murder, rape, or a crime
+against another child.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The district attorney shall, whenever practical, notify the victim or his legal
+representative if a court proceeding to which he has been subpoenaed will not go on as
+scheduled, in order to save the person an unnecessary trip to court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The district attorney shall notify the victim or his legal representative whenever
+he is notified that a child accused of a violent offense such as attempted murder, rape, or a
+crime against another child, has escaped from lawful confinement or has been released in
+accordance with Chapter 6 of this Title, and whenever a child committed to the Department
+of Public Safety and Corrections has escaped or has been released from a secure institution. 
+The district attorney shall also inform the victim that the sheriff shall provide information
+relative to victim assistance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The sheriff shall inform the victim or his legal representative of financial
+assistance, fees, or other social services available as a result of being a victim of a crime,
+including information on how to apply for the financial assistance and services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The court should provide, whenever possible, a secure waiting area during court
+proceedings that does not require victims and their legal representatives to be in close
+proximity to accused children and their families and friends.  The juvenile court shall provide
+a secure waiting area in cases involving violent crime.  The victim, or the designated member
+of the victim's family in a case involving homicide or injury to a minor, shall have the right
+to be present at all court proceedings and, whenever practical, be allowed to observe the
+proceedings by simultaneous transmission through audiovisual equipment, if such technology
+is available in the courtroom.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>All judicial and law enforcement agencies shall expeditiously return any stolen
+or other personal property to victims when no longer needed as evidence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The appropriate law enforcement agency shall ensure that the victim receives
+emergency, social, and medical services as soon as possible.  The appropriate law
+enforcement agency shall also distribute to the victim, or to the family of a homicide victim,
+a crime victim's brochure prepared by the Crime Victims Reparations Board as provided in
+R.S. 46:1844(T), and supplemented as necessary by the district attorney with victim
+information specific to the parish in which the delinquent act is alleged to have occurred, as
+provided in R.S. 46:1844(A).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>All law enforcement agencies shall provide a private setting for all interviewing
+of victims of crime.  &quot;Private setting&quot; shall mean an enclosed room from which the occupants
+are not visible or otherwise identifiable and whose conversations cannot be heard from
+outside such room.  Only those persons directly and immediately related to the interviewing
+of the victim, specifically the victim, a social worker, psychologist, or other professional, the
+victim advocate designated by the sheriff's office, or a representative from a not-for-profit
+victim service organization, including but not limited to rape crisis centers, domestic
+violence advocacy groups, and alcohol abuse or substance abuse groups providing emotional
+support to the victim, shall be present, unless the victim requests the exclusion of such
+person from the interview, and, where appropriate, the parent or parents of the victim.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The victim or the family of the victim shall have the right to retain counsel to
+confer with law enforcement and judicial  agencies on the disposition of the victim's case. 
+The prosecutor, in accordance with the provisions of Code of Criminal Procedure Article 63,
+may confer with the counsel retained by the victim or victim's family in the prosecution of
+the case.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>The district attorney shall, whenever practical, consult the victim or the
+designated member of the victim's family in the case of homicide or injury to a minor in
+order to obtain their view regarding:</p>
+            </content>
+            <subparagraph eId="CHC-811-1__subsec_A__subsec_10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The disposition of the delinquency case by dismissal, plea bargaining, or
+adjudication hearing.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-811-1__subsec_A__subsec_10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The use of available disposition alternatives such as placement in secure
+detention, probation, community service, and the payment of restitution to the victim.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>The victim or a member of the victim's family may file a victim notice form as
+provided in R.S. 46:1842.  Upon filing of a victim notice form by a victim or a family
+member, it shall be the duty of the Department of Public Safety and Corrections to notify the
+victim or family member by certified mail of appeal or release at the time of such appeal,
+discharge, or parole of a delinquent named in that form.  Such form shall be included in the
+delinquent's commitment documents to be delivered to the state training facility where such
+delinquent has been confined or transferred.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_A__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>The victim or witness who so requests shall be assisted by judicial and law
+enforcement agencies in informing employers that the need for victim and witness
+cooperation in the prosecution of the case may necessitate absence of the victim or witness
+from work.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-811-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The family members of all homicide victims shall be afforded all of the rights
+under this Article accruing to victims.  Communication with the appropriate law enforcement
+or judicial agencies concerning the rights of the victim's family members shall be made
+through a designated family member.  A designated family member is a member of the
+victim's family designated by a majority of the victim's family members to make such
+communications.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-811-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>No order or disposition shall be invalidated because of failure to comply with the
+provisions of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-811-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The juvenile court, the district attorney, the sheriff, and law enforcement agencies
+are exempt from the requirements of this Section in any case in which either:</p>
+          </content>
+          <paragraph eId="CHC-811-1__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The victim has failed to provide a current address.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The victim refuses the services offered.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-811-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Nothing in this Article shall be construed as creating a right of appeal on behalf
+of any person nor as creating a cause of action on behalf of any person against any public
+employee, office, or department responsible for the provision of services set forth in this
+Article.
+F.</p>
+          </content>
+          <paragraph eId="CHC-811-1__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In order to protect the identity and provide for the safety and welfare of juvenile
+crime victims under the age of eighteen years, all public officials and officers and public
+agencies, including but not limited to all law enforcement agencies, sheriffs, district
+attorneys, judicial officers, clerks of court, and the Department of Children and Family
+Services or any division thereof, shall not publicly disclose the name, address, or identity of
+a juvenile victim of crime who at the time of the commission of the offense is under eighteen
+years of age.  The public disclosure of the name of the juvenile crime victim by any public
+official or officer or public agency is not prohibited by this Subparagraph when the crime
+resulted in the death of the victim.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-811-1__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding any other provision of law to the contrary, all public officials,
+officers, and public agencies, including but not limited to all law enforcement agencies,
+sheriffs, district attorneys, judicial officers, clerks of court, and the Department of Children
+and Family Services or any division thereof, charged with the responsibility of knowing the
+name, address, and identity of juvenile crime victims as a necessary part of their duties shall
+have full and complete access to this information regarding a juvenile crime victim, and they
+may lawfully utilize initials, abbreviations, or other forms of indefinite descriptions on all
+public documents used in the performance of their duties to whatever extent they deem
+necessary, to prevent the public disclosure of the name, address, or identity of a juvenile
+victim of crime under the age of eighteen years.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-811-1__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73400</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

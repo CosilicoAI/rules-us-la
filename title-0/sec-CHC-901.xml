@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-901"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-901"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 901"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-901/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-901/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-901/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-901/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-901">
+        <num>CHC 901</num>
+        <heading>901.  Disposition guidelines; generally</heading>
+        <subsection eId="CHC-901__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in Article 897.1, in considering dispositional options, the
+court shall not remove a child from the custody of his parents unless his welfare or the safety
+and protection of the public cannot, in the opinion of the court, be adequately safeguarded
+without such removal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-901__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Except as provided in Article 897.1, the court should impose the least restrictive
+disposition authorized by Articles 897 through 900 of this Title which the court finds is
+consistent with the circumstances of the case, the needs of the child, and the best interest of
+society.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-901__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Except as provided in Article 897.1, commitment of the child to the custody of
+the Department of Public Safety and Corrections may be appropriate if any of the following
+exists:</p>
+          </content>
+          <paragraph eId="CHC-901__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There is an undue risk that during the period of a suspended commitment or
+probation the child will commit another crime.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The child is in need of correctional treatment or a custodial environment that can
+be provided most effectively by his commitment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A lesser disposition will deprecate the seriousness of the child's delinquent act.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The delinquent act involved the illegal carrying, use, or possession of a firearm.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-901__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Except as provided in Article 897.1, the following grounds, while not controlling
+the discretion of the court, shall be accorded weight in its determination of suspension of the
+disposition or probation:</p>
+          </content>
+          <paragraph eId="CHC-901__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The child's delinquent conduct neither caused nor threatened serious harm.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The child did not contemplate that his delinquent conduct would cause or
+threaten serious harm.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The child acted under strong provocation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>There were substantial grounds tending to excuse or justify the child's delinquent
+conduct, though failing to establish a defense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_D__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The victim of the child's delinquent conduct induced or facilitated its
+commission.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_D__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The child or his family has compensated or will compensate the victim of his
+delinquent conduct for the damage or injury that the victim sustained.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_D__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The child has no history of prior delinquency or has led a law-abiding life for a
+substantial period of time before the commission of the instant delinquent act.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_D__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The child's delinquent conduct was the result of circumstances unlikely to recur.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_D__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The character and attitudes of the child indicate that he is unlikely to commit
+another delinquent act or crime.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_D__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>The child is particularly likely to respond affirmatively to probationary
+treatment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-901__subsec_D__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>The commitment of the child would entail excessive hardship to himself or his
+family.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-901__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>State agencies shall fully cooperate with any court which has authority with
+respect to the placement of a child in foster care for the purpose of locating a parent of the
+child. Such cooperation shall include making available all information obtained from the
+Federal Parent Locator Service.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-901__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The court shall notify the child in writing of the expungement and sealing
+procedures set forth in Article 917 et seq.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-901__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73493</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-644"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-644"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 644"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-644/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-644/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-644/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-644/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-644">
+        <num>CCRP 644</num>
+        <heading>644.  Appointment of sanity commission; examination of defendant</heading>
+        <subsection eId="CCRP-644__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Within seven days after a mental examination is ordered, the court shall appoint
+a sanity commission to examine and report upon the mental condition of the defendant.  The
+sanity commission shall consist of at least two and not more than three members who are
+licensed to practice medicine in Louisiana, who have been in the actual practice of medicine
+for not less than three consecutive years immediately preceding the appointment, and who
+are qualified by training or experience in forensic evaluations.  The court may appoint, in lieu
+of one physician, a clinical psychologist or medical psychologist who is licensed to practice
+psychology in Louisiana, who has been engaged in the practice of clinical or counseling
+psychology for not less than three consecutive years immediately preceding the appointment,
+and who is qualified by training or experience in forensic evaluations.  Every sanity
+commission shall have at least one psychiatrist as a member of the commission, unless one
+is not reasonably available, in which case, the commission shall have at least one clinical
+psychologist as a member of the commission.  No more than one member of the sanity
+commission shall be the coroner or any of his deputies.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-644__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The members of the sanity commission appointed to make the examination shall
+have free access to the defendant at all reasonable times.  The court shall subpoena witnesses
+to attend the examination at the request of the defendant, the commission, or any member
+thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-644__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>For the purpose of the mental examination, the court may order a defendant
+previously released on bail to appear for mental examinations and hearings in the same
+manner as other criminal proceedings.
+D.</p>
+          </content>
+          <paragraph eId="CCRP-644__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court, in any judicial district which enters into a cooperative endeavor
+agreement with the local mental health unit, in lieu of appointing a sanity commission as
+provided in Paragraph A, may appoint the local mental health unit to examine and report on
+the mental condition of the defendant.  If the local mental health unit is ordered to conduct
+the examination, it shall form a clinical team, consisting of at least two but not more than
+three members, to conduct the examination.  The clinical team shall be composed of one or
+more licensed physicians with at least three years experience in the study of psychiatry in an
+approved United States General Psychiatry Residency Program; if only one such licensed
+physician is a member of the clinical team, the remaining members of the clinical team may
+be composed of clinical psychologists, medical psychologists, or licensed clinical social
+workers, who are qualified by training or experience in forensic evaluations.
+(2)</p>
+            </content>
+            <subparagraph eId="CCRP-644__subsec_C__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>With respect to all other provisions of the Code of Criminal Procedure in
+which the term &quot;sanity commission&quot; is designated, it shall also mean and include, for the
+exclusive purpose of this Article, a clinical team designated by the local health unit to
+conduct the examination of the defendant in accordance with this Paragraph.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-644__subsec_C__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Local mental health unit&quot; as used in this Paragraph shall mean a legislatively
+created Human Services Authority.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112663</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

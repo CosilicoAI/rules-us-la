@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1573"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1573"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1573"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1573/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1573/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1573/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1573/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1573">
+        <num>CHC 1573</num>
+        <heading>1573.  Law enforcement officers; duties</heading>
+        <subsection eId="CHC-1573__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Arresting the abusive party with a warrant or without a warrant pursuant to Article 213 of the Code of Criminal Procedure, if probable cause exists to believe that aggravated or second degree battery has been committed by that person, whether or not the offense occurred in the officer's presence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1573__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Arresting the abusive party in case of simple assault, aggravated assault, or simple battery, whether or not the offense occurred in the presence of the officer, when the officer reasonably believes there is impending danger to the physical safety of the abused person in the officer's absence.  If there is no cause to believe there is impending danger, arresting the abusive party is at the officer's discretion.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1573__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Assisting the abused person in obtaining medical treatment necessitated by the battery, or arranging for, or providing or assisting in the procurement of transportation for the abused person to a place of shelter or safety.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1573__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Notifying the abused person of his right to initiate criminal or civil proceedings, the availability of the protective order pursuant to Article 1570, and the availability of community assistance for domestic violence victims.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73032</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

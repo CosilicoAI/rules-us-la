@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 15.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-15-2">
+        <num>HRULE 15.2</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-15-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any other rule to the contrary, a resolution covered by this Chapter shall be referred to and be reported by a select committee, which is hereby created and which shall be designated the Select Committee on Discipline and Expulsion.  The members of the select committee shall be all members of the House of Representatives; however, any representative who is the subject of a resolution to be considered by the select committee is recused and shall not be a member of the select committee when it considers such resolution.  No such resolution shall be referred at any time to a standing committee.  Except as otherwise provided in this Chapter, Chapter 14 shall govern the procedure to be used and the actions to be taken by the select committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-15-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Unless recused as a member of the select committee, the Speaker shall be the chairman of the committee and the Speaker Pro Tempore shall be the vice chairman.  In the absence of the Speaker, the Speaker Pro Tempore shall serve as chairman; in the absence of the Speaker Pro Tempore, the Speaker shall appoint a vice chairman; in the absence of both, the committee shall elect a chairman and a vice chairman.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-15-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The Clerk of the House shall serve as secretary of the committee and shall be its chief administrative officer.  He shall be responsible for taking, preserving, and certifying testimony, verbatim proceedings, and minutes of the meetings of the committee.  He shall be the custodian of all its records and documents and shall perform such other duties in connection with its work as are directed by the committee, its chairman, or the House of Representatives.
+Mason's Manual:  Sec. 560-562, 564, and 796-802
+HR 4, 1st Ex. Sess., 1986.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113275</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

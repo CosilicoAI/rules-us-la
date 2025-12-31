@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-984"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-984"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 984"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-984/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-984/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-984/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-984/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-984">
+        <num>CCRP 984</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-984__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A person convicted of operating a vehicle while intoxicated shall be required to
+supplement the motions required in this Title with proof in the form of a certified letter from
+the Department of Public Safety and Corrections, office of motor vehicles, that the person
+has complied with the requirements of this Article. The certified letter shall be attached to
+the motion to expunge the record of arrest and conviction for operating a vehicle while
+intoxicated.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-984__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court shall order the clerk of court to mail to the Department of Public Safety
+and Corrections, office of motor vehicles, all of the following as provided by the defendant:</p>
+          </content>
+          <paragraph eId="CCRP-984__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A certified copy of the record of the plea of guilty or nolo contendere.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-984__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Fingerprints of the defendant.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-984__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Proof that the defendant meets the requirements as set forth in Article 556 or
+556.1 of this Code which shall include the defendant's date of birth, social security number,
+and driver's license number.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-984__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>An additional fifty-dollar court cost shall be assessed at this time against the
+defendant and paid to the Department of Public Safety and Corrections, office of motor
+vehicles, for the costs of storage and retrieval of the records.  The court cost provided by this
+Paragraph shall be submitted to the department regardless of whether the clerk of court is
+submitting this matter to the department pursuant to Paragraph B or D of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-984__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In lieu of forwarding the items listed in Paragraph B of this Article, the clerk of
+court may send a copy of the letter issued by the department pursuant to Subparagraph (B)</p>
+          </content>
+          <paragraph eId="CCRP-984__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of Article 894 if the clerk had previously submitted records of the plea to the department
+pursuant to that Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919676</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

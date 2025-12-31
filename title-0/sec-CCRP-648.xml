@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-648"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-648"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 648"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-648/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-648/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-648/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-648/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-648">
+        <num>CCRP 648</num>
+        <heading>648.  Procedure after determination of mental capacity or incapacity</heading>
+        <subsection eId="CCRP-648__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The criminal prosecution shall be resumed unless the court determines by a
+preponderance of the evidence that the defendant does not have the mental capacity to
+proceed.  If the court determines that the defendant lacks mental capacity to proceed, the
+proceedings shall be suspended and one of the following dispositions made:</p>
+          </content>
+          <paragraph eId="CCRP-648__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the court determines that the defendant's mental capacity is likely to be restored
+within ninety days by outpatient care and treatment at a treatment facility as defined by R.S.
+28:2 while remaining in the custody of the criminal authorities, and if the person is not
+charged with a felony or a misdemeanor classified as an offense against the person and is
+considered by the court to be unlikely to commit crimes of violence, then the court may order
+outpatient care and treatment at any institution as defined by R.S. 28:2.
+(2)</p>
+            </content>
+            <subparagraph eId="CCRP-648__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided for in Subsubparagraph</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-648__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this Subparagraph,
+if the person is charged with a felony, or with a misdemeanor violation of R.S. 14:35.3, and
+is considered by the court to be likely to commit crimes of violence, and the court determines
+that his mental capacity is likely to be restored within ninety days as a result of treatment, the
+court may order immediate jail-based treatment by the Louisiana Department of Health not
+to exceed ninety days.  Otherwise, if his capacity cannot be restored within ninety days and
+inpatient treatment is recommended, the court shall commit the defendant to the Feliciana
+Forensic Facility.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-648__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a person is charged with a felony violation of the Uniform Controlled
+Dangerous Substances Law, except for violations punishable under the provisions of R.S.
+40:966(D) and (F) and 967(F)</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-648__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and (c),</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-648__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If a person is charged with a misdemeanor classified as an offense against a
+person, except for a misdemeanor violation of R.S. 14:35.3, and the court determines that his
+mental capacity cannot be restored within ninety days, the court shall release the person for
+outpatient competency restoration or other appropriate treatment.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-648__subsec_A__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a defendant committed to the Feliciana Forensic Facility is held in a parish jail
+for one hundred eighty days after the court's determination that he lacks the mental capacity
+to proceed, the court shall order a status conference to be held with the defense and the
+district attorney present, and for good cause shown and on motion of the defendant or the
+district attorney or on the court's own motion, the court shall order a contradictory hearing
+to determine whether there has been a change in the defendant's condition or other
+circumstances sufficient to warrant a modification of the previous order.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-648__subsec_A__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a defendant committed to the Feliciana Forensic Facility is held in a parish jail
+for one hundred eighty days after the initial status conference provided in Subsubparagraph</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-648__subsec_A__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of this Subparagraph, the court shall order a contradictory hearing to determine whether
+to release the defendant or to order the appropriate authorities to institute civil commitment
+proceedings pursuant to R.S. 28:54.  The defendant shall remain in custody pending such
+civil commitment proceedings.  If the defendant is civilly committed to a treatment facility
+pursuant to Title 28 of the Louisiana Revised Statutes of 1950, the director of the institution
+designated for the patient's treatment shall, in writing, notify the court and the district
+attorney when the patient is to be discharged or conditionally discharged, as long as the
+charges are pending.
+B.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-648__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In no instance shall such custody, care, and treatment exceed the time of the
+maximum sentence the defendant could receive if convicted of the crime with which he is
+charged. At any time after commitment and on the recommendation of the director or
+administrator of the treatment facility that the defendant will not attain the capacity to
+proceed with his trial in the foreseeable future, the court shall, within sixty days and after at
+least ten days notice to the district attorney, defendant's counsel, and the bureau of legal
+services of the Louisiana Department of Health, conduct a contradictory hearing to determine
+whether the defendant is, and will in the foreseeable future be, incapable of standing trial and
+whether he is a danger to himself or others.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-648__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Repealed by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112667</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4134"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4134"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 4134"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4134/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4134/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4134/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4134/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-4134">
+        <num>CCP 4134</num>
+        <heading>4134.  Natural tutor; bond; recordation of certificate of inventory or detailed descriptive list</heading>
+        <subsection eId="CCP-4134__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in Article 4135, a natural tutor shall not be required to furnish bond, but shall record in the mortgage records of the parish of his domicile a certificate of the clerk setting forth the date of birth of the minor, the last four digits of the social security number of the tutor and the total value of the minor's property according to the inventory or detailed descriptive list filed in the tutorship proceeding.  If the minor has no assets, then no certificate need be filed until he acquires assets.  If the only asset is a contested claim, then no certificate need be filed until the claim is recovered, as provided in Article 4131(D).  A certificate of the recorder of mortgages setting forth the recordation of the clerk's certificate shall be filed in the tutorship proceedings before the tutor is appointed or letters of tutorship are issued.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4134__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Within thirty days after his appointment, the natural tutor shall cause the clerk's certificate to be recorded in the mortgage records of every other parish in the state in which he owns immovable property.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4134__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The recordation operates as a legal mortgage for the amount of the certificate in favor of the minor on all the immovable property of the tutor situated within any parish where recorded.  A certificate recorded in the amount of zero dollars shall not create a legal mortgage.  If the certificate does not contain the information required by Paragraph A of this Article, it will not be effective against third parties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4134__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The legal mortgage shall prescribe four years after the minor reaches majority and shall be canceled from the mortgage record upon the request of any interested party.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111923</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-656"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-656"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 656"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-656/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-656/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-656/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-656/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-656">
+        <num>CCRP 656</num>
+        <heading>656.  Additional mental examinations</heading>
+        <subsection eId="CCRP-656__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon receipt of the superintendent's report, filed in conformity with Article 655, the review panel may examine the committed person and report, to the court promptly, whether he can be safely discharged, conditionally or unconditionally, or be safely released on probation, without danger to others or to himself.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-656__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The committed person or the district attorney may also retain a physician to examine the committed person for the same purpose.  The physician's report shall be filed with the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-656__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon receipt by the superintendent of the state hospital or other treatment facility to which the person has been committed of the recommendation of the hospital-based treatment team that the person is appropriate for probated outpatient status as set forth in this Chapter, the superintendent shall immediately forward such recommendation to the administrator of the conditional release  program, together with the proposed aftercare plans.  The administrator or a designee shall submit to the review panel a recommended plan, if appropriate, for outpatient supervision and monitoring.  The plan shall set forth any additional terms and conditions to be followed during outpatient status, if recommended.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112679</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

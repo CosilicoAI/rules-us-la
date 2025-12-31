@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-806"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-806"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 806"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-806/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-806/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-806/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-806/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-806">
+        <num>CE 806</num>
+        <heading>806.  Attacking and supporting credibility of declarant</heading>
+        <content>
+          <p>Art. 806.  Attacking and supporting credibility of declarant
+When a hearsay statement, or a statement defined in Article 801(D)(2)(c) or (D)(3), has been admitted in evidence, the credibility of the declarant may be attacked, and if attacked may be supported, by any evidence which would be admissible for those purposes if declarant had testified as a witness.  Evidence of a statement or conduct by the declarant at any time, offered to attack the declarant's credibility, is not subject to any requirement that he may have been afforded an opportunity to deny or explain.  If the party against whom a hearsay statement has been admitted calls the declarant as a witness, the party is entitled to examine him on the statement as a witness identified with an adverse party.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72516</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

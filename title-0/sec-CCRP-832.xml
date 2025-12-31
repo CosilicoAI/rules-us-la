@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-832"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-832"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 832"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-832/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-832/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-832/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-832/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-832">
+        <num>CCRP 832</num>
+        <heading>832.  Continued presence not required</heading>
+        <subsection eId="CCRP-832__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A defendant initially present for the commencement of trial shall not prevent the
+further progress of the trial, including the return of the verdict, and shall be considered to
+have waived his right to be present if his counsel is present or if the right to counsel has been
+waived and either of the following occur:</p>
+          </content>
+          <paragraph eId="CCRP-832__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>He voluntarily absents himself after the trial has commenced, whether or not he
+has been informed by the court of his obligation to be present during the trial.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-832__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>After being warned by the court that disruptive conduct will cause him to be
+removed from the courtroom, he persists in conduct which justifies his exclusion from the
+courtroom.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-832__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112822</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

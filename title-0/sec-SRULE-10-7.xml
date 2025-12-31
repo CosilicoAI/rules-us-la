@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-7"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-7"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 10.7"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-7/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-7/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-7/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-7/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-10-7">
+        <num>SRULE 10.7</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-10-7__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Each legislative instrument shall be taken up and acted upon in the proper order
+of business in the order numbered until it has been reported on by committee.  After being
+reported by a committee, each instrument shall take precedence in the order of its
+maturing, by day; that is, instruments shall take precedence in numerical order by day of
+report by committee and thereafter in the order otherwise advanced to further action by
+the Senate.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-10-7__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>As each instrument is advanced to each successive order of business, it shall be
+placed on the calendar in the proper order of business in numerical order with other
+instruments advanced to the same order on the same day, and these numerically ordered
+listings of instruments shall in turn be arranged according to the day of advancement to
+said order.  Each instrument then shall be considered during that order of business in the
+order listed.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-10-7__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>On any legislative day on which at the time of adjournment the Senate is
+engaged in the consideration of legislative instruments on final passage, but has not
+finally acted upon all instruments listed for consideration in that order of business on that
+day, the Secretary shall enter on the calendar for the next legislative day under the same
+order of business each such instrument upon which final action has not been taken in the
+same order in which said instruments have advanced.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180370</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

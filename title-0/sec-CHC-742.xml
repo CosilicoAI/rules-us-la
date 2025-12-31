@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-742"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-742"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 742"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-742/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-742/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-742/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-742/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-742">
+        <num>CHC 742</num>
+        <heading>742.  Place of continued custody</heading>
+        <subsection eId="CHC-742__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Following the hearing required by Article 739, the court shall order the least
+restrictive preadjudication placement consistent with the child's need for protection or control
+as authorized by Article 737(A)</p>
+          </content>
+          <paragraph eId="CHC-742__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>through (3).</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-742__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court may detain the child in a secure detention facility for up to twenty-four
+hours, excluding weekends and holidays, only for the purpose of providing adequate time to
+arrange for an appropriate non-secure alternative placement in accordance with Article 737
+pending the adjudication hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-742__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If appropriate, the court may also enter orders for evaluation or treatment in
+accordance with Article 737(B) and (C).</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73333</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

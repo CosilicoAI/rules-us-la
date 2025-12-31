@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1202"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1202"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1202"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1202/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1202/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1202/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1202/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1202">
+        <num>CHC 1202</num>
+        <heading>1202.  Service of process</heading>
+        <subsection eId="CHC-1202__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A copy of the petition for an agency adoption together with all exhibits shall be served by registered or certified mail, return receipt requested, postage prepaid, or by commercial courier as defined in R.S. 13:3204(D), when the person to be served is located outside of this state, and properly addressed to the department and on any agency having legal custody of the child.  Two copies of the same petition need not be served on the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1202__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Except when waived, notice of the filing of the petition shall be served on any parent whose parental rights have not been terminated by a court of competent jurisdiction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1202__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the adoption petition names an alleged or adjudicated father and his parental rights have not been terminated by a court of competent jurisdiction, he shall be served with notice of the filing of the petition in accordance with Articles 1133, 1134, and 1136 and thereafter, his rights shall be determined in accordance with the provisions of Articles 1137 through 1143.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72674</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

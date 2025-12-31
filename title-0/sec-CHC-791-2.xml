@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-791-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-791-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 791.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-791-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-791-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-791-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-791-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-791-2">
+        <num>CHC 791.2</num>
+        <heading>791.2.  Parish involvement</heading>
+        <subsection eId="CHC-791-2__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>School boards and their systems in general will assist child welfare and attendance officers in creating student background data, including attendance records, unexcused absences, conduct violations, discipline records, report cards, and transcripts as permitted by law.  School systems will also provide access to all school-based education, counseling, and related services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-791-2__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Law enforcement agencies in a parish, including the sheriff and municipal and local police, generally will provide selective transportation of youth to the centers and in-kind service identification of truants through regular law enforcement operations and provide for a presence at a center.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-791-2__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Families in need of services personnel will work in partnership with the child welfare and attendance officers to monitor client progress, file all petitions in the cases of noncompliance of the plan for court appearance, and coordinate other services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-791-2__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Courts having jurisdiction over juveniles and their families will work with collaborating agencies to identify youth and monitor treatment plan progress and, to the degree possible, assist the center in obtaining and utilizing a continuum of services and sanctions for identified youth. The courts in conjunction with the district attorneys will direct formal court action on noncompliance cases and integrate the needs of truant youth with existing drug treatment court programs.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-791-2__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Through multiagency collaborative efforts between various community service organization services, there will be a unified effort to provide services related to child abuse and neglect to identified youth.  Service and treatment plans will be developed, including mental health evaluation and treatment; with parental substance abuse evaluation and treatment, educational evaluation, probation services, and alternative school placement and guidance. 1</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-791-2__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The various offices of the district attorneys will designate prosecutors to work with the district and juvenile courts to develop and implement a coordinated effort to deal with truants and their families early in their court involvement and assist with data follow-up and outcome evaluation.  Additionally, the offices of the district attorneys, if necessary, will institute charges that may be levied against the family when they are noncompliant with the service plan.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73385</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

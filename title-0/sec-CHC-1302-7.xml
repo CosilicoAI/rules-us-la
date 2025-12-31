@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-7"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-7"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1302.7"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-7/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-7/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-7/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-7/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1302-7">
+        <num>CHC 1302.7</num>
+        <heading>1302.7.  Determination of controlling child support order</heading>
+        <subsection eId="CHC-1302-7__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If a proceeding is brought under this Chapter and only one tribunal has issued a
+child support order, the order of that tribunal controls and must be recognized.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1302-7__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a proceeding is brought under this Chapter, and two or more child support
+orders have been issued by tribunals of this state, another state, or a foreign country with
+regard to the same obligor and same child, a tribunal of this state having personal jurisdiction
+over both the obligor and individual obligee shall apply the following rules and by order shall
+determine which order controls and must be recognized:</p>
+          </content>
+          <paragraph eId="CHC-1302-7__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If only one of the tribunals would have continuing, exclusive jurisdiction under
+this Chapter, the order of that tribunal controls.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-7__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If more than one of the tribunals would have continuing, exclusive jurisdiction
+under this Chapter:</p>
+            </content>
+            <subparagraph eId="CHC-1302-7__subsec_B__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An order issued by a tribunal in the current home state of the child controls, or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1302-7__subsec_B__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an order has not been issued in the current home state of the child, the order
+most recently issued controls.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1302-7__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If none of the tribunals would have continuing, exclusive jurisdiction under this
+Chapter, the tribunal of this state shall issue a child support order, which controls.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1302-7__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If two or more child support orders have been issued for the same obligor and
+same child, upon request of a party who is an individual or that is a support enforcement
+agency, a tribunal of this state having personal jurisdiction over both the obligor and the
+obligee who is an individual shall  determine which order controls under Paragraph B of this
+Article. The request may be filed with a registration for enforcement or registration for
+modification pursuant to Section 6, or may be filed as a separate proceeding.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1302-7__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A request to determine which is the controlling order  must be accompanied by
+a copy of every child support order in effect and the applicable record of payments.  The
+requesting party shall give notice of the request to each party whose rights may be affected
+by the determination.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1302-7__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The tribunal that issued the controlling order under Paragraph A, B, or C of this
+Article has continuing jurisdiction to the extent provided in Article 1302.5 or 1302.6.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1302-7__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A tribunal of this state that determines by order which is the controlling order
+under Subparagraph (B)</p>
+          </content>
+          <paragraph eId="CHC-1302-7__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-7__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>or Paragraph C of this Article, or that issues a new
+controlling order under Subparagraph (B)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-7__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>of this Article, shall state in that order:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-7__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The basis upon which the tribunal made its determination;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-7__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The amount of prospective support, if any; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-7__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The total amount of consolidated arrears and accrued interest, if any, under all
+of the orders after all payments made are credited as provided by Article 1302.9.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1302-7__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Within thirty days after issuance of an order determining which is the controlling
+order, the party obtaining the order shall file a certified copy of it in each tribunal that issued
+or registered an earlier order of child support.  A party or support enforcement agency
+obtaining the order that fails to file a certified copy is subject to appropriate sanctions by a
+tribunal in which the issue of failure to file arises.  The failure to file does not affect the
+validity or enforceability of the controlling order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1302-7__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>An order that has been determined to be the controlling order, or a judgment for
+consolidated arrears of support and interest, if any, made pursuant to this Article must be
+recognized in proceedings under this Chapter.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72805</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

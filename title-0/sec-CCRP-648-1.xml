@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-648-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-648-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 648.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-648-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-648-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-648-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-648-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-648-1">
+        <num>CCRP 648.1</num>
+        <heading>648.1.  Information required prior to admission</heading>
+        <subsection eId="CCRP-648-1__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The name and address of the defendant's attorney.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-648-1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The crime or crimes with which the defendant is charged and the date of such charge or charges.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-648-1__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A copy of the report of the sanity commission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-648-1__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Any other pertinent information concerning the defendant's health which has come to the attention of the court such as injuries sustained at the time of arrest or injuries sustained following incarceration.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-648-1__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A copy of the defendant's criminal history record.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-648-1__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>A copy of the police report concerning the charged offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-648-1__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>A copy of the judgment and order specifying the nature and purpose of the commitment or recommitment to the state institution.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112668</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-370"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-370"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 370"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-370/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-370/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-370/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-370/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-370">
+        <num>CC 370</num>
+        <heading>370.  Modification and termination of judicial emancipation</heading>
+        <content>
+          <p>Art. 370.  Modification and termination of judicial emancipation
+The court may modify or terminate its judgment of emancipation for good cause.
+A judgment modifying or terminating a judgment of emancipation is effective toward third persons as to immovable property when the judgment is filed for registry in the conveyance records of the parish in which the property is situated, and as to movables when the judgment is filed for registry in the conveyance records of the parish or parishes in which the minor was domiciled at the time of the judgment.
+A judgment modifying or terminating a judgment of emancipation does not affect the validity of an act made by the emancipated minor prior to the effective date of modification or termination.
+The termination of judicial emancipation places the minor under the same authority to which he was subject prior to emancipation, unless otherwise ordered by the court for good cause shown.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110586</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

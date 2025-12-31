@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-5059"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-5059"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 5059"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-5059/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-5059/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-5059/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-5059/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-5059">
+        <num>CCP 5059</num>
+        <heading>5059.  Computation of time</heading>
+        <subsection eId="CCP-5059__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In computing a period of time allowed or prescribed by law or by order of court,
+the date of the act, event, or default from which the period begins to run is not included.  The
+last day of the period is included, unless it is a legal holiday, in which event the period runs
+until the end of the next day that is not a legal holiday.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-5059__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The &quot;next day&quot; as set forth in Paragraph A of this Article means the subsequent
+calendar day that is not a legal holiday following a legal holiday.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-5059__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A half-holiday is considered a legal holiday.  A legal holiday is included in the
+computation of a period of time allowed or prescribed, except when:</p>
+          </content>
+          <paragraph eId="CCP-5059__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It is expressly excluded.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-5059__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>It would otherwise be the last day of the period.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-5059__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The period is less than seven days.
+D.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-5059__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A legal holiday shall be excluded in the computation of a period of time
+allowed or prescribed to seek rehearing, reconsideration, or judicial review or appeal of a
+decision or order by an agency in the executive branch of state government.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-5059__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-5059__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Paragraph shall not apply to the computation of a period
+of time allowed or prescribed to seek rehearing, reconsideration, or judicial review or appeal
+of a decision or order by the Department of Revenue, the Department of Environmental
+Quality, or the Department of Insurance relative to examination reports in R.S. 22:1983.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112147</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

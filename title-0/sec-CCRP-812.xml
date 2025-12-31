@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-812"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-812"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 812"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-812/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-812/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-812/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-812/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-812">
+        <num>CCRP 812</num>
+        <heading>812.  Same; polling and disposition of jury</heading>
+        <subsection eId="CCRP-812__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In all cases, the court shall order the clerk to poll the jury if requested by the state
+or the defendant.  The poll shall be conducted in writing by applying the procedures of
+Paragraph B of this Article and shall be done in open court.
+B.</p>
+          </content>
+          <paragraph eId="CCRP-812__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In cases in which a verdict was reached, the procedure for the written polling
+of the jury shall require that the clerk hand to each juror a separate piece of paper containing
+the name of the juror and the words &quot;Is this your verdict?&quot; Each juror shall write on the slip
+of paper the words &quot;Yes&quot; or &quot;No&quot; along with his signature.  The clerk shall collect the slips
+of paper, make them available for inspection by the court and counsel, and record the results.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-812__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a sufficient number of jurors as required by law to reach a verdict answer &quot;yes&quot;
+the clerk shall so inform the court.  Upon verification of the results, the court shall order the
+clerk to record the verdict and order the jury discharged.  If an insufficient number required
+to find a verdict answer &quot;Yes,&quot; the court may remand the jury for further deliberation, or the
+court may declare a mistrial in accordance with Article 775.  The polling slips may be placed
+under seal upon order of the court, which shall state the specific reasons for placing the
+polling slips under seal.  If so ordered the polling slips shall not be released to the public
+without a subsequent order of the court authorizing their release.  If the court orders the
+release of the polling slips, the names of the jurors shall be redacted.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-812__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In cases for which no verdict could be reached and a mistrial has been declared
+under Article 775(2), the court shall order the clerk to poll the jury if requested by the state
+or the defendant.  The poll shall be conducted in writing by applying the procedures of
+Paragraph D of this Article and shall be done in open court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-812__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The procedure for the written polling of the jury shall require that the clerk hand
+to each juror a separate piece of paper containing the name of the juror and the words &quot;What
+was your verdict?&quot;.  Each juror shall write on the slip of paper the words &quot;guilty&quot; or &quot;not
+guilty&quot; or &quot;guilty of a lesser offense&quot; along with his signature.  The clerk shall collect the
+slips of paper, make them available for inspection by the court and counsel, and record the
+results.  The polling slips may be placed under seal upon order of the court, which shall state
+the specific reasons for placing the polling slips under seal.  If so ordered, the polling slips
+shall not be released to the public without a subsequent order of the court authorizing their
+release.  If the court orders the release of the polling slips, the names of the jurors shall be
+redacted.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112810</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

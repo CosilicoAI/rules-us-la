@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-672-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-672-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 672.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-672-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-672-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-672-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-672-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-672-2">
+        <num>CHC 672.2</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-672-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Beginning with applications submitted on July 1, 1999, and
+thereafter, as a condition of application for an initial license from the
+Louisiana Department of Health to provide residential treatment, group home
+care, emergency shelter care, or psychiatric hospital services to youths of
+school age under the supervision or in the custody of the Department of Public
+Safety and Corrections, a  license applicant  shall notify the local educational
+agency in the parish in which the facility is located of its intention to apply for
+a license to operate such a facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-672-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Documentation of such notification provided for in Paragraph A
+shall  be submitted to the Louisiana Department of Health as part of the
+application, and shall include the number of children for which the facility is
+seeking licensure and the anticipated opening date of the facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-672-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Beginning with applications received on July 1, 1999, and
+thereafter, upon receipt of an application for initial licensure by the
+Department of Children and Family Services from an applicant which seeks
+to provide child residential care, or emergency shelter to children of school
+age, the Department of Children and Family Services shall provide written
+notification  to the Department of Education of such application for initial
+licensure within thirty days of receipt of such application, including the parish
+where the facility seeks to operate.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73268</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

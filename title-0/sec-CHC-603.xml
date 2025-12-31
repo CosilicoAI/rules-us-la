@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-603"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-603"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 603"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-603/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-603/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-603/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-603/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-603">
+        <num>CHC 603</num>
+        <heading>603.  Definitions</heading>
+        <subsection eId="CHC-603__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Abortion&quot; means that procedure as defined in R.S. 14:87.1.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-603__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Abuse&quot; means any one of the following acts that seriously endanger the physical,
+mental, or emotional health, welfare, and safety of the child:</p>
+          </content>
+          <paragraph eId="CHC-603__subsec_2__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>The infliction, attempted infliction, or, as a result of inadequate supervision, the
+allowance of the infliction or attempted infliction of physical or mental injury upon the child
+by a parent or any other person.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_2__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>The exploitation or overwork of a child by a parent or any other person, including
+but not limited to commercial sexual exploitation of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_2__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>The involvement of the child in any sexual act with a parent or any other person,
+or the aiding or toleration by the parent, caretaker, or any other person of the child's
+involvement in any of the following:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_2__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Any sexual act with any other person.
+(ii)  Pornographic displays.
+(iii)  Any sexual activity constituting a crime under the laws of this state.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_2__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>A coerced abortion conducted upon a child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_2__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Female genital mutilation as defined by R.S. 14:43.4 of the child or of a sister of
+the child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-603__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Administrative review body&quot; means a panel of appropriate persons, at least one
+of whom is not responsible for the case management of or delivery of services to either the
+child or the parents who are the subject of the review, including the citizen review boards,
+state hearing examiners, special department reviewers, or department personnel.
+(4)</p>
+          </content>
+          <paragraph eId="CHC-603__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>&quot;Caretaker&quot; means any person legally obligated to provide or secure adequate
+care for a child, including a parent, tutor, guardian, legal custodian, foster  parent,  an
+operator or employee of a residential or treatment facility licensed by the Department of
+Children and Family Services or the Louisiana Department of Health, or other person
+providing a residence for the child.  &quot;Caretaker&quot; shall not include an operator or employee
+of a correctional facility, detention facility,  nonresidential school, or unlicensed residential
+or child care provider.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>For the purposes of this Subparagraph, &quot;restrictive care facility&quot; means a public
+or private licensed or unlicensed child care facility, group home, emergency shelter facility,
+maternity home, psychiatric hospital, or a psychiatric unit located in a state-owned or state-contracted general hospital.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-603__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>&quot;Case review hearing&quot; means a review hearing by a court or administrative
+review body for the purpose of determining the continuing necessity for and appropriateness
+of the child's placement, to determine the extent of compliance with the case plan, to
+determine the extent of progress which has been made toward alleviating or mitigating the
+causes necessitating placement, and to project a likely date by which the child may be
+permanently placed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-603__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>&quot;Child&quot; means a person under eighteen years of age who, prior to juvenile
+proceedings, has not been judicially emancipated under Civil Code Article 366 or
+emancipated by marriage under Civil Code Article 367.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-603__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>&quot;Child care agency&quot; means any public or private agency exercising custody of a
+child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-603__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>&quot;Child pornography&quot; or &quot;child sexual abuse materials&quot; means visual depiction
+of a child engaged in actual or simulated sexual intercourse, deviate sexual intercourse,
+sexual bestiality, masturbation, sadomasochistic abuse, or lewd exhibition of the genitals.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-603__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>&quot;Coerced abortion&quot; means the use of force, intimidation, threat of force, threat
+of deprivation of food and shelter, or the deprivation of food and shelter by a parent or any
+other person in order to compel a female child to undergo an abortion against her will,
+whether or not the abortion procedure has been attempted or completed.
+(9.1)  &quot;Commercial sexual exploitation&quot; means involvement of the child activity
+prohibited by the following statutes: R.S. 14:46.2, 46.3, 81.1, 81.3, 82, 82.1, 82.2, 83, 83.1,
+83.2, 83.3, 83.4, 84, 85, 86, 89.2, 104, 105, and 282.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-603__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>&quot;Concurrent planning&quot; means departmental efforts to preserve and reunify a
+family, or to place a child for adoption or with a legal guardian which are made
+simultaneously.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-603__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>&quot;Court-appointed or court-approved administrative body&quot; means a body
+appointed or approved by a court and subject to the court's supervision for the purposes of
+assisting the court with permanency hearings, including magistrates or other court or
+noncourt personnel.  This body shall not be a part of the Department of Children and Family
+Services or the Department of Public Safety and Corrections, nor subject to the supervision
+or direction of either department.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-603__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>&quot;Crime against the child&quot; shall include the commission of or the attempted
+commission of any of the following crimes against the child as provided by federal or state
+statutes:</p>
+          </content>
+          <paragraph eId="CHC-603__subsec_12__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Homicide.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_12__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Battery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_12__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>Assault.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_12__subsec_d">
+            <num>(d)</num>
+            <content>
+              <p>Rape.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_12__subsec_e">
+            <num>(e)</num>
+            <content>
+              <p>Sexual battery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_12__subsec_f">
+            <num>(f)</num>
+            <content>
+              <p>Kidnapping.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_12__subsec_g">
+            <num>(g)</num>
+            <content>
+              <p>Criminal neglect.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_12__subsec_h">
+            <num>(h)</num>
+            <content>
+              <p>Criminal abandonment.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-603__subsec_12__subsec_i">
+            <num>(i)</num>
+            <content>
+              <p>Repealed by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73195</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

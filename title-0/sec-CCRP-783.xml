@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-783"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-783"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 783"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-783/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-783/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-783/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-783/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-783">
+        <num>CCRP 783</num>
+        <heading>783.  Excusing, tendering, and attachment of members of the venire</heading>
+        <subsection eId="CCRP-783__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court may excuse a member of the petit jury venire at any time prior to the time he is sworn as a juror to try a particular case.  The panel shall be selected from the remaining members of the petit jury venire.  The court, either on its own motion, or that of the state or a defendant, may order the attachment of an absent and unexcused petit jury venireman.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-783__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If jury service, whether criminal or civil, would result in undue hardship or extreme inconvenience, the district court may excuse a person from such service either prior to or after his selection for the general venire, jury pool, or jury wheel.  The court may take such action on its own initiative or on recommendation of an official or employee designated by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-783__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>No person or group of persons shall be automatically excused.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-783__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In the event a person is excused because jury service would result in undue hardship or extreme inconvenience, the court may order that person's name be placed again in the general venire or in a central jury pool.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112780</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

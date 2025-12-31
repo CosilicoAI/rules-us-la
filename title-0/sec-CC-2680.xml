@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2680"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2680"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2680"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2680/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2680/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2680/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2680/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2680">
+        <num>CC 2680</num>
+        <heading>2680.  Duration supplied by law; legal term</heading>
+        <subsection eId="CC-2680__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>An agricultural lease shall be from year to year.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2680__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Any other lease of an immovable, or a lease of a movable to be used as a residence, shall be from month to month.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2680__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>A lease of other movables shall be from day to day, unless the rent was fixed by longer or shorter periods, in which case the term shall be one such period, not to exceed one month.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109741</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

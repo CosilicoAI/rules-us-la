@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-993"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-993"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 993"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-993/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-993/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-993/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-993/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-993">
+        <num>CCRP 993</num>
+        <heading>993.  Supplemental forms to be used</heading>
+        <content>
+          <p>Art. 993.  Supplemental forms to be used
+SUPPLEMENTAL SHEET
+____ Yes ____  No ARRESTS THAT DID NOT RESULT IN CONVICTION
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Time expired for prosecution _____/____/_______
+(MM/DD/YYYY)
+(  )  Charge refused by DA - not prosecuted.
+(  )  Pre-trial Diversion Program.
+(  )  Charge dismissed
+(  )  Found not guilty/judgment of acquittal
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Time expired for prosecution _____/____/_______
+(MM/DD/YYYY)
+(  )  Charge refused by DA - not prosecuted.
+(  )  Pre-trial Diversion Program.
+(  )  Charge dismissed
+(  )  Found not guilty/judgment of acquittal
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Time expired for prosecution _____/____/_______
+(MM/DD/YYYY)
+(  )  Charge refused by DA - not prosecuted.
+(  )  Pre-trial Diversion Program.
+(  )  Charge dismissed
+(  )  Found not guilty/judgment of acquittal
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Time expired for prosecution _____/____/_______
+(MM/DD/YYYY)
+(  )  Charge refused by DA - not prosecuted.
+(  )  Pre-trial Diversion Program.
+(  )  Charge dismissed
+(  )  Found not guilty/judgment of acquittal
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Time expired for prosecution _____/____/_______
+(MM/DD/YYYY)
+(  )  Charge refused by DA - not prosecuted.
+(  )  Pre-trial Diversion Program.
+(  )  Charge dismissed
+(  )  Found not guilty/judgment of acquittal
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Time expired for prosecution _____/____/_______
+(MM/DD/YYYY)
+(  )  Charge refused by DA - not prosecuted.
+(  )  Pre-trial Diversion Program.
+(  )  Charge dismissed
+(  )  Found not guilty/judgment of acquittal
+SUPPLEMENTAL SHEET
+____ Yes ____  No MISDEMEANOR CONVICTIONS
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 894(B)
+(  )  More than 5 years have passed
+since completion of sentence.
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 894(B)
+(  )  More than 5 years have passed
+since completion of sentence.
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 894(B)
+(  )  More than 5 years have passed
+since completion of sentence.
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 894(B)
+(  )  More than 5 years have passed
+since completion of sentence.
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 894(B)
+(  )  More than 5 years have passed
+since completion of sentence.
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 894(B)
+(  )  More than 5 years have passed
+since completion of sentence.
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 894(B)
+(  )  More than 5 years have passed
+since completion of sentence.
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 894(B)
+(  )  More than 5 years have passed
+since completion of sentence.
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 894(B)
+(  )  More than 5 years have passed
+since completion of sentence.
+SUPPLEMENTAL SHEET
+____ Yes ____  No FELONY CONVICTIONS
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 893(E)
+(  )  More than 10 years have passed
+since completion of sentence
+(  )  Received a first offender pardon for an eligible offense
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 893(E)
+(  )  More than 10 years have passed
+since completion of sentence
+(  )  Received a first offender pardon for an eligible offense
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 893(E)
+(  )  More than 10 years have passed
+since completion of sentence
+(  )  Received a first offender pardon for an eligible offense
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 893(E)
+(  )  More than 10 years have passed
+since completion of sentence
+(  )  Received a first offender pardon for an eligible offense
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 893(E)
+(  )  More than 10 years have passed
+since completion of sentence
+(  )  Received a first offender pardon for an eligible offense
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 893(E)
+(  )  More than 10 years have passed
+since completion of sentence
+(  )  Received a first offender pardon for an eligible offense
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 893(E)
+(  )  More than 10 years have passed
+since completion of sentence
+(  )  Received a first offender pardon for an eligible offense
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 893(E)
+(  )  More than 10 years have passed
+since completion of sentence
+(  )  Received a first offender pardon for an eligible offense
+NO. ___ La. Rev. Stat. Ann. § _______ : ________
+Name of the offense _________________
+(  )  Conviction set aside/dismissed _____/____/_______
+(MM/DD/YYYY)
+pursuant to C.Cr.P. Art. 893(E)
+(  )  More than 10 years have passed
+since completion of sentence
+(  )  Received a first offender pardon for an eligible offense</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919688</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

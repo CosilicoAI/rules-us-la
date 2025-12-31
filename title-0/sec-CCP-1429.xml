@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1429"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1429"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 1429"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1429/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1429/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1429/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1429/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-1429">
+        <num>CCP 1429</num>
+        <heading>Section </heading>
+        <subsection eId="CCP-1429__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>That the petitioner expects to be a party to an action cognizable in a court of this state but is presently unable to bring it or cause it to be brought.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1429__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The subject matter of the expected action and his interest therein.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1429__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The facts which he desires to establish by the proposed testimony and his reasons for desiring to perpetuate it.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1429__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The names or a description of the persons he expects will be adverse parties and their addresses so far as known.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1429__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The names and addresses of the persons to be examined and the substance of the testimony which he expects to elicit from each, and shall ask for an order authorizing the petitioner to take the depositions of the persons to be examined named in the petition, for the purpose of perpetuating their testimony.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111200</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

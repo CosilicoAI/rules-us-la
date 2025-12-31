@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-609"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-609"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 609"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-609/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-609/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-609/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-609/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-609">
+        <num>CHC 609</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-609__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>With respect to mandatory reporters:</p>
+          </content>
+          <paragraph eId="CHC-609__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Violation of the duties imposed upon a mandatory reporter subjects the offender
+to criminal prosecution authorized by R.S. 14:403(A)(1).
+(3)</p>
+            </content>
+            <subparagraph eId="CHC-609__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To familiarize mandatory reporters, as defined by Children's Code Article 603, 
+with their legal mandate for reporting suspected child abuse and neglect, such mandatory
+reporters shall be offered training on the statutory requirements and responsibility of
+reporting child abuse and neglect.  This training shall be made available by the child welfare
+division of the Department of Children and Family Services or any other mechanism as
+approved by the department as long as it includes information on the reporting procedure and
+the consequences of failing to report.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-609__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Each mandatory reporter may obtain mandatory reporting training as each
+mandatory reporter believes to be necessary in accordance with Subsubparagraph</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-609__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-609__subsec_A__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of this Subparagraph.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-609__subsec_A__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The appropriate state regulatory department, board, commission, or agency for
+each category of mandatory reporter may provide continuing education credit for the
+completion of the training pursuant to this Paragraph.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-609__subsec_A__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any entity, including but not limited to hospitals, educational and religious
+institutions, and nonprofits, may provide its employees, volunteers, or educational attendees
+with equivalent training pursuant to Subsubparagraph</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-609__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Subparagraph.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-609__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>With respect to permitted reporters, any other person having cause to believe that
+a child's physical or mental health or welfare is endangered as a result of abuse or neglect,
+including a judge of any court of this state, may report in accordance with Article 610.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-609__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The filing of a report, known to be false, may subject the offender to criminal
+prosecution authorized by R.S. 14:403(A)(3).</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73201</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

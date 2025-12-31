@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-901"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-901"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 901"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-901/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-901/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-901/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-901/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-901">
+        <num>CE 901</num>
+        <heading>Section </heading>
+        <subsection eId="CE-901__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>General provision.  The requirement of authentication or identification as a condition precedent to admissibility is satisfied by evidence sufficient to support a finding that the matter in question is what its proponent claims.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-901__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Illustrations.  By way of illustration only, and not by way of limitation, the following are examples of authentication or identification conforming with the requirements of this Article:</p>
+          </content>
+          <paragraph eId="CE-901__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Testimony of witness with knowledge.  Testimony that a matter is what it is claimed to be.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-901__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Nonexpert opinion on handwriting.  Nonexpert opinion as to the genuineness of handwriting, based upon familiarity not acquired for purposes of the litigation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-901__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Comparison by trier or expert witness.  Comparison by the trier of fact or by expert witnesses with specimens which have been authenticated.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-901__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Distinctive characteristics and the like.  Appearance, contents, substance, internal patterns, or other distinctive characteristics, taken in conjunction with circumstances.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-901__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Voice identification.  Identification of a voice, whether heard firsthand or through mechanical or electronic transmission or recording, by opinion based upon hearing the voice at any time under circumstances connecting it with the alleged speaker.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-901__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Telephone conversations.  Telephone conversations, by evidence that a call was made to the number assigned at the time by the telephone company to a particular person or business, if:</p>
+            </content>
+            <subparagraph eId="CE-901__subsec_B__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In the case of a person, circumstances, including self-identification, show the person answering to be the one called; or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-901__subsec_B__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In the case of a business, the call was made to a place of business and the conversation related to business reasonably transacted over the telephone.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-901__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Public records or reports.  Evidence that a writing authorized by law to be recorded or filed and in fact recorded or filed in a public office, or a purported public record, report, statement, or data compilation, in any form, is from the public office where items of this nature are kept.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-901__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Ancient documents or data compilation.  Evidence that a document or data compilation, in any form:</p>
+            </content>
+            <subparagraph eId="CE-901__subsec_B__subsec_8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Is in such condition as to create no suspicion concerning its authenticity;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-901__subsec_B__subsec_8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Was in a place where it, if authentic, would likely be; and</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-901__subsec_B__subsec_8__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Has been in existence thirty years or more at the time it is offered.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-901__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Process or system.  Evidence describing a process or system used to produce a result and showing that the process or system produces an accurate result.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-901__subsec_B__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Methods provided by legislation.  Any method of authentication or identification provided by Act of Congress or by Act of the Louisiana Legislature.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72517</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

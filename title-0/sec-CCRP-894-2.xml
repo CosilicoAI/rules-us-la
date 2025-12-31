@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 894.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-894-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-894-2">
+        <num>CCRP 894.2</num>
+        <heading>894.2.  Home incarceration; requirements</heading>
+        <subsection eId="CCRP-894-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any other provision of law to the contrary, a defendant may be placed on home incarceration under the following conditions:</p>
+          </content>
+          <paragraph eId="CCRP-894-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The defendant is eligible for probation or was convicted of a misdemeanor or a felony punishable with or without hard labor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-894-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In felony cases, either:</p>
+            </content>
+            <subparagraph eId="CCRP-894-2__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Public Safety and Corrections, through the division of probation and parole, recommends home incarceration of the defendant and specific conditions of that home incarceration; or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-894-2__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The district attorney recommends home incarceration.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-894-2__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The court determines, after a contradictory hearing, that home incarceration of the defendant is more suitable than imprisonment or supervised probation without home incarceration and would serve the best interests of justice.  The court may order home incarceration either in lieu of, or in addition to, a term of imprisonment.  When the court sentences a defendant, it may order the defendant to serve any portion of the sentence under home incarceration.
+B.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-894-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A defendant ordered to home incarceration shall be supervised and may be subject to any of the conditions of probation.  Every provider of home incarceration supervision or electronic monitoring services shall submit information to the court, the sheriff of the parish, and the Department of Public Safety and Corrections.  The Department of Public Safety and Corrections is authorized to establish regulations to develop a uniform reporting format and procedures for providers of home incarceration in order to promote efficiency and uniformity in data collection.  Information provided shall include but not be limited to:</p>
+            </content>
+            <subparagraph eId="CCRP-894-2__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An annual report indicating the services offered, areas served, number of defendants served, number of defendants who successfully completed home incarceration and the number of defendants terminated and the reasons for termination, and credentials or qualifications of the provider.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-894-2__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A monthly report including the name, date of birth, and offense of conviction for every defendant supervised.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-894-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Failure to comply with the provisions of this Paragraph may subject the provider to forfeiture of its authority to do business.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-894-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court shall specify the conditions of home incarceration.  The conditions may include any condition reasonably related to implementing or monitoring the home incarceration, including curfew, electronic or telephone monitoring, home visitation by persons designated by the court, and limitation of the defendant's activities outside of the home.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-894-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The defendant shall be given a certificate setting forth the conditions of his home incarceration and shall be required to agree in writing to the conditions.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-894-2__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Within thirty days of issuing the order placing the defendant on home incarceration, the court shall cause the minute entry to be sent by the clerk of court to the Department of Public Safety and Corrections and the sheriff of the parish or chief law enforcement officer of a municipality where the defendant is to serve the home incarceration.   The minute entry shall include all available contact information of the home incarceration or electronic monitoring provider.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-894-2__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The court may require the defendant to obtain employment and may require the defendant to pay a reasonable supervision fee to the supervising agency to defray the cost of his home incarceration supervision.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-894-2__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>The court may, at any time during the period of home incarceration, modify, change, or add to the conditions of such incarceration.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-894-2__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>The period of home incarceration shall be for a period of not more than four years in felony cases and for a period not to exceed six months in misdemeanor cases.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-894-2__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>If the defendant violates the conditions of home incarceration, the court, on motion of the state or its own motion, may, after contradictory hearing modify or impose a sentence of imprisonment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-894-2__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>In the event of revocation and sentence to imprisonment, the defendant shall not receive credit for time served under home incarceration.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-894-2__subsec_K">
+          <num>K.</num>
+          <content>
+            <p>The provisions of this Article shall not be applicable to a defendant who has been convicted of any second violation of any state or local driving-while-intoxicated law committed within five years of the commission of any prior driving-while-intoxicated violation until the defendant has first served a minimum of forty-eight consecutive hours of imprisonment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-894-2__subsec_L">
+          <num>L.</num>
+          <content>
+            <p>Paragraphs A and H of this Article shall not apply to a defendant who has been convicted of any third or subsequent violation of any state law or local ordinance prohibiting driving while intoxicated committed within five years of the commission of any prior driving-while-intoxicated violation.  Such defendants shall be subject to home incarceration as provided for in R.S. 14:98.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112890</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-7-91"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-7-91"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CA 7 91"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-7-91/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-7-91/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-7-91/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-7-91/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CA-7-91">
+        <num>CA 7 91</num>
+        <heading>Section </heading>
+        <subsection eId="CA-7-91__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In all cases where the amount involved is less than twenty-five
+dollars, the pleadings need not be in writing, but the court shall preserve a
+record of the proceedings in the manner provided by law for trials before
+justices of the peace.  The judges of the court shall assign one of their number
+to try, during stated periods, such cases under rules and regulations adopted
+and prescribed by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CA-7-91__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Until otherwise provided by the Legislature, the allotment, re-allotment, and trial of cases, the rules of procedure, the taking of evidence, the
+rendition and execution of judgments, the service of process, the execution of
+writs, and the manner of taking appeals shall remain as now provided by law. 
+Costs in the first city court shall be fixed and regulated by the judges in control
+of the judicial expense fund for the parish of Orleans.</p>
+          </content>
+        </subsection>
+        <subsection eId="CA-7-91__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Appeals from the first city court in cases where the amount in
+dispute or the fund to be distributed does not exceed one hundred dollars,
+exclusive of interest, shall be taken to the civil district court for the parish of
+Orleans, where they shall be tried de novo, as provided in Article VII, Section
+81 of this Constitution.  Appeals in all other cases shall be taken to the court
+of appeal for the fourth circuit.</p>
+          </content>
+        </subsection>
+        <subsection eId="CA-7-91__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The judges of the first city court have authority to celebrate
+marriages, to issue the necessary licenses therefor, to execute commissions to
+take testimony, and to receive the fees allowed by law therefor.
+The present judges, clerk, and constable for the first city court shall be
+retained in their respective offices until the expiration of their respective terms,
+or until their successors have been elected and have qualified.
+(Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=67998</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

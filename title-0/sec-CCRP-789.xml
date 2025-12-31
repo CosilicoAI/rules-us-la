@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-789"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-789"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 789"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-789/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-789/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-789/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-789/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-789">
+        <num>CCRP 789</num>
+        <heading>789.  Alternate jurors</heading>
+        <subsection eId="CCRP-789__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court may direct that not more than six jurors in addition to the regular panel be called and impaneled to sit as alternate jurors.  Alternate jurors, in the order in which they are called, shall replace jurors who become unable to perform or disqualified from performing their duties.  Alternate jurors shall be drawn in the same manner, shall have the same qualifications, shall be subject to the same examination and challenges for cause, shall take the same oath, and shall have the same functions, powers, facilities, and privileges as the principal jurors.  If the court determines that alternate jurors are desirable in the case, the court shall determine the number to be chosen.  The regular peremptory challenges allowed by law shall not be used against the alternate jurors.  The court shall determine how many additional peremptory challenges shall be allowed, and each defendant shall have an equal number of such challenges.  The state shall have as many peremptory challenges as the defense.  The additional peremptory challenges may be used only against alternate jurors.  Except in capital cases, an alternate juror who does not replace a principal juror may be discharged when the jury retires to consider its verdict.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-789__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In a capital case, at the conclusion of the guilt phase of the trial, alternate jurors that have not replaced principal jurors shall not be discharged, but shall be sequestered from other members of the jury until the jury has reached a verdict.  If a sentencing hearing is mandated, the alternate jurors will be returned to the jury and will hear the evidence presented at the sentencing hearing and will be available to replace principal jurors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-789__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the court, as provided in Paragraph A, replaces a principal juror with an alternate juror after deliberations have begun, the court shall order the jury to begin deliberations anew.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112786</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

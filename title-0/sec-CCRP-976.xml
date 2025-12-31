@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-976"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-976"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 976"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-976/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-976/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-976/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-976/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-976">
+        <num>CCRP 976</num>
+        <heading>976.  Motion to expunge record of arrest that did not result in a conviction</heading>
+        <subsection eId="CCRP-976__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A person may file a motion to expunge a record of his arrest for a felony or
+misdemeanor offense that did not result in a conviction if any of the following apply:</p>
+          </content>
+          <paragraph eId="CCRP-976__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The person was not prosecuted for the offense for which he was arrested, and the
+limitations on the institution of prosecution have barred the prosecution for that offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-976__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The district attorney for any reason declined to prosecute any offense arising out
+of that arrest, including the reason that the person successfully completed a pretrial diversion
+program.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-976__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Prosecution was instituted and such proceedings have been finally disposed of
+by dismissal, sustaining of a motion to quash, or acquittal.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-976__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The person was judicially determined to be factually innocent and entitled to
+compensation for a wrongful conviction pursuant to the provisions of R.S. 15:572.8.  The
+person may seek to have the arrest and conviction which formed the basis for the wrongful
+conviction expunged without the limitations or time delays imposed by the provisions of this
+Article or any other provision of law to the contrary.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-976__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Pursuant to R.S. 15:578.1, no person arrested for a violation of R.S. 14:98
+(operating a vehicle while intoxicated) or a parish or municipal ordinance that prohibits
+operating a vehicle while intoxicated, impaired, or while under the influence of alcohol,
+drugs, or any controlled dangerous substance, and placed by the prosecuting authority into
+a pretrial diversion program, shall be entitled to an expungement of the record until five years
+have elapsed since the date of arrest for that offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-976__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The motion to expunge a record of arrest that did not result in a conviction of a
+misdemeanor or felony offense shall be served pursuant to the provisions of Article 979.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919667</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

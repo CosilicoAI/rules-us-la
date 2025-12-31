@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-891"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-891"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 891"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-891/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-891/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-891/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-891/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-891">
+        <num>CHC 891</num>
+        <heading>891.  Disclosure of predisposition report</heading>
+        <subsection eId="CHC-891__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Copies of the predisposition report shall be made available to the district attorney and counsel for the child at least three days in advance of any scheduled disposition hearing.  Such period may be extended for good cause.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-891__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court may order that the predisposition report be edited to protect the identity of confidential sources or to exclude the recommendations of the probation officer.  In addition, the court may caution the district attorney or counsel for the child not to disclose any such information contained within the report which may prove harmful to the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-891__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the child is unrepresented by counsel, the court shall disclose to the child the factual contents of the predisposition report.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-891__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>After August 15, 1993, and within thirty days after receiving a predisposition report, the sentencing court shall order the release of any portion of a predisposition report containing and limited to the instant arrest, conviction, adjudication, or disposition of a child in grades nine through twelve, who is arrested, charged, or adjudicated a delinquent for committing a felony-grade delinquent act or a misdemeanor-grade delinquent act involving distribution or possession with intent to distribute a controlled dangerous substance in violation of the Uniform Controlled Dangerous Substances Law, to the principal of the school in which the child is registered and enrolled or registered and enrolled but suspended.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73482</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

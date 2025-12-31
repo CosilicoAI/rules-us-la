@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1138"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1138"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1138"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1138/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1138/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1138/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1138/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1138">
+        <num>CHC 1138</num>
+        <heading>1138.  Hearing of opposition to adoption; establishment of parental rights</heading>
+        <subsection eId="CHC-1138__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At the hearing of the opposition, the alleged or adjudicated father must establish his parental rights by acknowledging that he is the father of the child and by proving that he has manifested a substantial commitment to his parental responsibilities and that he is a fit parent of his child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1138__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Proof of the father's substantial commitment to his parental responsibilities requires a showing, in accordance with his means and knowledge of the mother's pregnancy or the child's birth, that he either:</p>
+          </content>
+          <paragraph eId="CHC-1138__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Provided financial support, including but not limited to the payment of consistent support to the mother during her pregnancy, contributions to the payment of the medical expenses of pregnancy and birth, or contributions of consistent support of the child after birth; that he frequently and consistently visited the child after birth; and that he is now willing and able to assume legal and physical care of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1138__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Was willing to provide such support and to visit the child and that he made reasonable attempts to manifest such a parental commitment, but was thwarted in his efforts by the mother or her agents, and that he is now willing and able to assume legal and physical care of the child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1138__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The child, the mother of the child, and the legal custodian may offer rebuttal evidence limited to the issues enumerated in Paragraphs A and B of this Article.  However, the primary consideration shall be, and the court shall accept evidence concerning, the best interests of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1138__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the court finds that the alleged or adjudicated father has failed to establish his parental rights, it shall decree that his rights are terminated.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1138__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the court finds that the alleged or adjudicated father has established his parental rights, the court shall declare that no adoption may be granted without his consent.  The court may also order the alleged or adjudicated father to reimburse the department, or the licensed private adoption agency, or other agency, or whoever has assumed liability for such costs, all or part of the medical expenses incurred for the mother and the child in connection with the birth of the child.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72625</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

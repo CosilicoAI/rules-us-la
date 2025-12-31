@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3543"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3543"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 3543"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3543/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3543/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3543/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3543/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-3543">
+        <num>CC 3543</num>
+        <heading>3543.  Issues of conduct and safety</heading>
+        <content>
+          <p>Art. 3543.  Issues of conduct and safety
+Issues pertaining to standards of conduct and safety are governed by the law of the state in which the conduct that caused the injury occurred, if the injury occurred in that state or in another state whose law did not provide for a higher standard of conduct.
+In all other cases, those issues are governed by the law of the state in which the injury occurred, provided that the person whose conduct caused the injury should have foreseen its occurrence in that state.
+The preceding paragraph does not apply to cases in which the conduct that caused the injury occurred in this state and was caused by a person who was domiciled in, or had another significant connection with, this state.  These cases are governed by the law of this state.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110564</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 10.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-10-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-10-2">
+        <num>SRULE 10.2</num>
+        <heading>Section </heading>
+        <content>
+          <p>Rule 10.2.  Regular Order of the Day
+Upon completion of the business of the Morning Hour the Senate shall proceed to the Regular Order of the Day, which shall be as follows:
+REGULAR ORDER
+1. Reconsideration
+2. Special Order
+3. Senate Concurrent Resolutions returned from House with amendments
+4. Senate Bills returned from House with amendments
+5. Senate and Senate Concurrent Resolutions reported by committees, to be adopted
+6. Senate and Senate Concurrent Resolutions to be adopted, subject to call
+a. Voluntarily subject to call
+b. Ordered subject to call
+7. Senate Bills on third reading and final passage
+8. Senate Bills on third reading and final passage, subject to call
+a. Voluntarily subject to call
+b. Ordered subject to call
+9. House Concurrent Resolutions reported by committees, to be adopted
+10. House Concurrent Resolutions to be adopted, subject to call
+a. Voluntarily subject to call
+b. Ordered subject to call
+11. House Bills on third reading and final passage
+12. House Bills on third reading and final passage, subject to call
+a. Voluntarily subject to call
+b. Ordered subject to call
+SR 27 of 1992 RS</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180365</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

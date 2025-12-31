@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-4-8"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-4-8"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 4.8"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-4-8/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-4-8/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-4-8/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-4-8/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-4-8">
+        <num>HRULE 4.8</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-4-8__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A Resolution introduced pursuant to this Rule shall not be deemed to be a perfunctory resolution, and shall be referred to and heard by the Committee on House and Governmental Affairs.  Notice of such hearing shall be served by the sergeant at arms upon the member cited or on his attorney not less than five days prior to the date of the hearing.  At such hearing, the member cited or his attorney shall be permitted to offer any explanation, evidence in mitigation, or defense which may be relevant.  Thereafter, such Resolution shall follow the ordinary procedure of a House Resolution.  Final passage of the Resolution shall be by record vote.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-4-8__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon adoption of a Resolution finding a member in contempt of the House of Representatives as provided in this Rule, the House shall establish the penalty to be assessed for the contemptuous behavior by adoption of a motion.  Such penalty shall be a fine of not in excess of one thousand dollars and suspension of payment of all compensation from the House of Representatives until the required report is filed.  Enforcement of the judgment shall be by rule to make the same executory instituted before the Nineteenth Judicial District Court.
+HR 13, 1st Ex. Sess., 1975; HR 15, 1st Ex. Sess., 1975; HR 28, 1991; HR 20, 1992; HR 1, 1994; HR 3, 1999.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113307</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

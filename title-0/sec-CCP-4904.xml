@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4904"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4904"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 4904"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4904/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4904/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4904/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4904/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-4904">
+        <num>CCP 4904</num>
+        <heading>4904.  Default judgment in parish and city courts</heading>
+        <subsection eId="CCP-4904__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In suits in a parish court or a city court, if the defendant fails to answer timely, or
+if he fails to appear at the trial, and the plaintiff establishes a prima facie case by competent
+and admissible evidence, a default judgment in favor of the plaintiff may be rendered.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4904__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When the suit is for a sum due on an open account, promissory note, negotiable
+instrument, or other conventional obligation, prima facie proof may be submitted by
+affidavit.  When the demand is based upon a promissory note or other negotiable instrument,
+no proof of any signature thereon shall be required.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4904__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When the sum due is on an open account, promissory note, negotiable instrument,
+or other conventional obligation, a hearing in open court shall not be required unless the
+judge in his discretion directs that such a hearing be held.  The plaintiff shall submit to the
+court the proof required by law and the original and not less than one copy of the proposed
+default judgment.  The judge shall, within seventy-two hours of receipt of such submission
+from the clerk of court, sign the proposed default judgment or direct that a hearing be held. 
+The clerk of court shall certify that no answer or other pleading has been filed by the
+defendant.  The minute clerk shall make an entry showing the dates of receipt of proof,
+review of the record, and rendition of the default judgment.  A certified copy of the signed
+default judgment shall be sent to the plaintiff by the clerk of court, and notice of the signing
+of the default judgment shall be given as provided in Article 1913.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4904__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When the demand is based upon a right acquired by assignment in an open
+account, promissory note, or other negotiable instrument, the court may raise an objection
+of prescription before entering a default judgment if the grounds for the objection appear
+from the pleadings or from the evidence submitted by the plaintiff.  If the court raises an
+objection of prescription, it shall not enter the default judgment unless the plaintiff presents
+prima facie proof that the action is not barred by prescription.  Upon the plaintiff's request,
+the court shall hold a hearing for the submission of such proof.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112113</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

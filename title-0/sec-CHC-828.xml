@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-828"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-828"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 828"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-828/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-828/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-828/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-828/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-828">
+        <num>CHC 828</num>
+        <heading>828.  Violation of conditions of release</heading>
+        <subsection eId="CHC-828__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Any failure to comply with the conditions of release, including failure to appear before the court as scheduled, may constitute a breach of the bail agreement.  Any such breach of the agreement constitutes constructive contempt of court and failure to appear constitutes the offense of bail jumping.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-828__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Where there is a breach of the bail agreement or the court is satisfied with good cause that the bail agreement should be modified, the court may order the child and his parent, guardian, legal counsel, and the surety, if any, to appear before the court, or the court may issue an order directing that the child be taken into custody and brought before the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-828__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When the child's parents, guardian, legal custodian, or the child's counsel has good cause to believe that the child has violated or will violate the conditions of the bail agreement, which violation will result in the child's failure to appear before the court as directed, he may report the breach or impending violation to the court, surrender the child, and request revocation of the bail agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-828__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If a surety obligated under a bail bond, executed pursuant to Article 825(1), has good cause to believe that the child has violated or will violate the conditions of the bail agreement, which will result in the child's failure to appear before the court as directed, he may report the breach and apply to the court for an instanter order for the child to be taken into custody.  Unless authorized by the court, the surety shall not arrest or take the child into custody.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73419</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

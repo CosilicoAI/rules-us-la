@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1178"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1178"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1178"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1178/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1178/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1178/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1178/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1178">
+        <num>CHC 1178</num>
+        <heading>1178.  Order and revocation</heading>
+        <subsection eId="CHC-1178__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At the conclusion of the hearing, the court shall render an order approving or disapproving the placement of the child with the prospective adoptive parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1178__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The order shall be in writing, dated, and signed by the court and shall authorize adoptive placement of a child at any time within a period of twelve months from its date.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1178__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A certified copy of a court order approving the adoptive placement shall be given to the prospective adoptive parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1178__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Any order disapproving the adoptive placement shall include specific reasons therefor.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1178__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The court shall render a decision that is in the best interest of the child and shall consider all relevant factors including those provided in Article 1177(B).
+F.</p>
+          </content>
+          <paragraph eId="CHC-1178__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The existence of a criminal record of a prospective adoptive parent shall not be automatic grounds to disapprove placement of the child with the prospective adoptive parents.  The court shall consider all of the following:</p>
+            </content>
+            <subparagraph eId="CHC-1178__subsec_E__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The nature of the offenses.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1178__subsec_E__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The number of offenses committed.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1178__subsec_E__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The length of time between offenses and between the last offense committed and the application for court approval.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1178__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subsequent to the entry of an order approving an adoptive placement, if the result of a criminal records check or the results of abuse or neglect validated complaint records check indicate that the prospective adoptive parents failed to disclose such unfavorable information at the hearing, the court may issue an instanter order taking protective custody of the child, pursuant to Article 619, if this information, if known, together with other evidence presented at the hearing would have resulted in the court's disapproval of the adoptive placement.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72650</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

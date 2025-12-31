@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-6"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-6"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1302.6"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-6/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-6/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-6/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-6/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1302-6">
+        <num>CHC 1302.6</num>
+        <heading>1302.6.  Continuing jurisdiction to enforce child support order</heading>
+        <subsection eId="CHC-1302-6__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A tribunal of this state that has issued a child support order consistent with the
+law of this state may serve as an initiating tribunal to request a tribunal of another state to
+enforce:</p>
+          </content>
+          <paragraph eId="CHC-1302-6__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The order if the order is the controlling order and has not been modified by a
+tribunal of another state that assumed jurisdiction pursuant to the Uniform Interstate Family
+Support Act; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-6__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A money judgment for arrears of support and interest on the order accrued before
+a determination that an order of a tribunal of another state is the controlling order.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1302-6__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A tribunal of this state having continuing jurisdiction over a support order may
+act as a responding tribunal to enforce the order.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72804</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

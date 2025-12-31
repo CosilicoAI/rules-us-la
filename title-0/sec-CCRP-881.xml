@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 881"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-881">
+        <num>CCRP 881</num>
+        <heading>881.  Amendment of sentence</heading>
+        <subsection eId="CCRP-881__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Although the sentence imposed is legal in every respect, the court may amend or change the sentence, within the legal limits of its discretion, prior to the beginning of execution of the sentence.
+B.</p>
+          </content>
+          <paragraph eId="CCRP-881__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>After commencement of execution of sentence, in felony cases in which the defendant has been sentenced to imprisonment without hard labor and in misdemeanor cases, the sentencing judge may reduce the sentence or may amend the sentence to place the defendant on supervised probation.  Should the court consider any motion amending or changing the sentence imposed, either prior to or after execution of the sentence, the district attorney shall be notified and, if such motion is filed by the defendant, it shall be tried contradictorily with the district attorney, unless the district attorney waives such contradictory hearing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Such motions include but are not limited to motions for a new trial, motions in arrest of judgment, motions for amendment, modification, or reconsideration of sentence, and motions for modification of conditions of probation or termination of probation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-881__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a sentence is reduced or amended, a copy of the minute entry reflecting the judgment reducing or amending the sentence shall be furnished to the district attorney and the arresting law enforcement agency.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-881__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the sentence imposed by the court is consecutive to a sentence imposed in a different criminal proceeding, for purposes of this Article only, commencement of the execution of sentence begins when the defendant is remanded by the sentencing court to the Department of Public Safety and Corrections, to begin serving either the imposed sentence or a prior sentence to which the imposed sentence is consecutive.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112856</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

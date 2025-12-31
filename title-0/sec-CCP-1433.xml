@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1433"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1433"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 1433"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1433/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1433/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1433/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1433/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-1433">
+        <num>CCP 1433</num>
+        <heading>1433.  Deposition after trial</heading>
+        <subsection eId="CCP-1433__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If an appeal has been taken from a judgment of a district court or before the taking of an appeal if the time has not expired, the district court in which the judgment was rendered may allow the taking of the depositions of witnesses to perpetuate their testimony for use in the event of further proceedings in the district court.  In such case the party who desires to perpetuate the testimony may make a motion in the district court for leave to take the depositions, upon the same notice and service thereof as if the action was pending in the district court.  The motion shall show:</p>
+          </content>
+          <paragraph eId="CCP-1433__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The names and addresses of persons to be examined and the substance of the testimony which he expects to elicit from each.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1433__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The reasons for perpetuating their testimony.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-1433__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the court finds that the perpetuation of the testimony is proper to avoid a failure or delay of justice, it may make an order allowing the depositions to be taken and may make orders of the character provided for in Articles 1461 through 1465, and thereupon the depositions may be taken and used in the same manner and under the same conditions as are prescribed in this Chapter for depositions taken in actions pending in the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1433__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In aid of execution of the judgment, the district court in which the judgment was rendered may, upon motion of the judgment creditor, allow the taking of a third person's deposition, as provided in Article 2451, upon the same notice and service thereof as if the action was pending in the district court.  The person whose deposition is so ordered shall be reimbursed by the judgment creditor for the reasonable costs incurred or to be incurred in the course of complying with the order, including document reproduction costs and travel expenses.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111205</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

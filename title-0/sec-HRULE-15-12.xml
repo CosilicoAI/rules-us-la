@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-12"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-12"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 15.12"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-12/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-12/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-12/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-15-12/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-15-12">
+        <num>HRULE 15.12</num>
+        <heading>Section </heading>
+        <content>
+          <p>Rule 15.12.  Receipt of resignation; authority of presiding officer
+Notwithstanding any provisions of this Chapter, if, at the time a resolution covered by the provisions hereof is introduced, a written resignation signed by the representative who is the subject of the resolution has been received by the Speaker, no meeting of the select committee shall be held if the Speaker so directs.  If such a resignation is received by the Speaker or by the chairman of the select committee after hearings by the committee have commenced, the select committee chairman shall have authority to terminate the meetings of the committee.  However, if such a resignation so received is effective immediately, the Speaker or the chairman, as the case may be, shall cancel or terminate the select committee meetings.
+HR 4, 1st Ex. Sess., 1986.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113274</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

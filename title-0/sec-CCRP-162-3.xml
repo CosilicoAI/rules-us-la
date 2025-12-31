@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 162.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-162-3">
+        <num>CCRP 162.3</num>
+        <heading>162.3.  No-knock warrant</heading>
+        <subsection eId="CCRP-162-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>No law enforcement officer shall seek, execute, or participate in the execution of
+a no-knock warrant, except in cases where both of the following apply:</p>
+          </content>
+          <paragraph eId="CCRP-162-3__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The affidavit supporting the request for the warrant establishes probable cause
+that exigent circumstances exist requiring the warrant to be executed in a no-knock manner.
+For purposes of this Subparagraph, exigent circumstances shall include circumstances where
+the surprise of a no-knock entry is necessary to protect life and limb of the law enforcement
+officers and the occupants.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-162-3__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The copy of the warrant being executed that is in the possession of law
+enforcement officers to be delivered as provided in Paragraph C of this Article includes the
+judge's signature.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-162-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A search warrant authorized under this Article shall require that a law
+enforcement officer be recognizable and identifiable as a uniformed law enforcement officer
+and provide audible notice of his authority and purpose reasonably expected to be heard by
+occupants of such place to be searched prior to the execution of such search warrant.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-3__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>After entering and securing the place to be searched and prior to undertaking any
+search or seizure pursuant to the search warrant, the executing law enforcement officer shall
+read and give a copy of the search warrant to the person to be searched or the owner of the
+place to be searched or, if the owner is not present, to any occupant of the place to be
+searched. If the place to be searched is unoccupied, the executing law enforcement officer
+shall leave a copy of the search warrant suitably affixed to the place to be searched.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-3__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Search warrants authorized under this Article shall be executed only from sunrise
+to sunset except in either of the following instances:</p>
+          </content>
+          <paragraph eId="CCRP-162-3__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A judge authorizes the execution of such search warrant at another time for good
+cause shown.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-162-3__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The search warrant is for the withdrawal of blood. A search warrant for the
+withdrawal of blood may be executed at any time of day.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-162-3__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Any evidence obtained from a search warrant in violation of this Article shall not
+be admitted into evidence for prosecution.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-3__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>For purposes of this Article, &quot;no-knock warrant&quot; means a warrant issued by a
+judge that allows law enforcement to enter a property without immediate prior notification
+of the residents, such as by knocking or ringing a doorbell.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-3__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>For the purposes of this Article, only a district court judge may issue a no-knock
+warrant.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1238743</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

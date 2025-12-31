@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3227"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3227"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 3227"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3227/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3227/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3227/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3227/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-3227">
+        <num>CC 3227</num>
+        <heading>Section </heading>
+        <content>
+          <p>§5--OF THE PRIVILEGE OF THE VENDOR
+OF MOVABLE EFFECTS
+Art. 3227.  Vendor's privilege on movables; agricultural products of the United States.
+He who has sold to another any movable property, which is not paid for, has a preference on the price of his property, over the other creditors of the purchaser, whether the sale was made on a credit or without, if the property still remains in the possession of the purchaser.
+So that although the vendor may have taken a note, bond or other acknowledgment from the buyer, he still enjoys the privilege.
+Any person who may sell the agricultural products of the United States in the city of New Orlenas [Orleans], shall be entitled to a special lien and privilege thereon to secure the payment of the purchase money, for and during the space of five days only, after the day of delivery; within which time the vendor shall be entitled to seize the same in whatsoever hands or place they may be found, and his claim for the purchase money shall have preference over all others.  If the vendor gives a written order for the delivery of any such products and shall say therein that they are to be delivered without vendor's privilege, then no lien shall attach thereto.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110277</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

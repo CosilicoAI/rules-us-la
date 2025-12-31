@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-23"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-23"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 14.23"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-23/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-23/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-23/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-14-23/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-14-23">
+        <num>HRULE 14.23</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-14-23__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The daily notice of committee meetings shall adhere to the weekly schedule to the extent required by House Rule 14.24(A).  Any change in the weekly schedule may be made only under a rule suspension.  This rule shall not be deemed to abrogate the right of a committee by duly adopted motion to alter its order of consideration of instruments, to defer action thereon, or otherwise to take whatever substantive or procedural actions are within its authority and jurisdiction.
+HR 9, 1977; HR 20, 1988; HR 45, 1998, eff. May 20, 1998; HR 76, 2007, eff. June 27, 2007.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113233</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

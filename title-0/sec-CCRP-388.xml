@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-388"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-388"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 388"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-388/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-388/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-388/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-388/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-388">
+        <num>CCRP 388</num>
+        <heading>388.  Additional information provided when prosecuting offenses</heading>
+        <subsection eId="CCRP-388__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When instituting the prosecution of an offense involving a violation of any state
+law or local ordinance, the prosecuting agency, when authorized to provide information, shall
+include the following information in the indictment, information, or affidavit, if provided by
+the booking agency:</p>
+          </content>
+          <paragraph eId="CCRP-388__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Date of the offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-388__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Date of arrest or summons, if a summons was issued in lieu of an arrest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-388__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The state identification number of the defendant, if one has been assigned to the
+defendant for the offense or for any prior offenses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-388__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Defendant demographic data to include sex, race, and date of birth, if known.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-388__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The information provided in Paragraph A of this Article may be provided in a
+separate document submitted with the bill of information, bill of indictment, or summons to
+the clerk of court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-388__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The booking agency shall provide the information provided in Paragraph A of this
+Article to the prosecuting agency.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-388__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The clerk of court shall report the information provided in Paragraph A of this
+Article, along with the disposition and disposition date, to the supreme court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-388__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The supreme court is authorized to report the information provided in Paragraph
+A of this Article, along with the disposition and disposition date, to the Louisiana Bureau of
+Criminal Identification and Information.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-388__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Failure to comply with the provisions of this Article shall not constitute grounds
+for a motion to quash.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1335625</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

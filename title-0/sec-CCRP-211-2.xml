@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-211-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-211-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 211.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-211-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-211-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-211-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-211-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-211-2">
+        <num>CCRP 211.2</num>
+        <heading>211.2.  Contempt; attachment of arrest for failing to appear; summons by peace officer instead of arrest</heading>
+        <subsection eId="CCRP-211-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any other provision of law to the contrary, in Orleans Parish, when a peace officer serving a subpoena, summons, or notice to appear in court for a misdemeanor traffic offense or a nonviolent offense, except for possession of illegal weapons and driving under the influence, has reasonable grounds to believe that the conduct of an offender constitutes a direct contempt of court because the offender contumaciously fails to comply with such subpoena, summons, or notice to appear in court, and proof of service of the subpoena, summons, or notice appears of record, then either the court may order the offender attached and brought to court or the peace officer may issue a written citation or summons to the offender commanding him to appear and answer the direct contempt charge.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-211-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If an order of attachment is issued, it may be executed in any parish by the sheriff of the parish from which the attachment was issued, or by the sheriff of the parish where the offender is found.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112357</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

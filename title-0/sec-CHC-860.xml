@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-860"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-860"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 860"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-860/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-860/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-860/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-860/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-860">
+        <num>CHC 860</num>
+        <heading>860.  Medical, sensory, psychological, and psychiatric examinations</heading>
+        <subsection eId="CHC-860__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>On its own motion or on the motion of the child or district attorney, the court may order any child subject to a motion to transfer to be examined by a physician, optometrist, audiologist, psychologist, or psychiatrist.  Unless waived by the child, the examination shall not occur until five days after the clerk of court has notified all parties of the examination order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-860__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Any examination shall be made and the findings submitted to the court within three days of the transfer hearing.  This time period may be extended by the court for good cause.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-860__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Copies of any reports of findings submitted to the court shall be made available to counsel for all parties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-860__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Unless the child has sought the examination or otherwise waives his privilege against self-incrimination, neither testimony about the report nor any of its contents is admissible in an adjudication hearing or later criminal trial, if any, which would violate the child's privilege against self-incrimination.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73451</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

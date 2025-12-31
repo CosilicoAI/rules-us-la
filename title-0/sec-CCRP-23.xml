@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-23"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-23"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 23"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-23/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-23/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-23/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-23/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-23">
+        <num>CCRP 23</num>
+        <heading>23.  Constructive contempt</heading>
+        <subsection eId="CCRP-23__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Willful neglect or violation of duty by a clerk, sheriff, or other person elected, appointed, or employed to assist the court in the administration of justice;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-23__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Willful disobedience of any lawful judgment, order, mandate, writ, or process of court;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-23__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Removal or attempted removal of any person or of property in the custody of an officer acting under the authority of a judgment, order, mandate, writ, or process of the court;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-23__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Unlawful detention of a witness, the defendant or his attorney, or the district attorney, while going to, remaining at, or returning from the court;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-23__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Improper conversation by a juror or venireman with any person relative to the merits of a case which is being, or may be, tried by a jury of which the juror is a member, or of which the venireman may become a member; or receipt by a juror or venireman of a communication from any person with reference to such a case without making an immediate disclosure to the court of the substance thereof;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-23__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Assuming to act as a juror, or as an attorney or other officer of the court, without lawful authority;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-23__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Willful disobedience by an inferior court, judge, or other official thereof, of the lawful judgment, order, mandate, writ, or process of an appellate court, rendered in connection with an appeal from a judgment or order of the inferior court, or in connection with a review of such judgment or order under a supervisory writ.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112386</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

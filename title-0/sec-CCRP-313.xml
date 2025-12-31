@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-313"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-313"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 313"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-313/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-313/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-313/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-313/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-313">
+        <num>CCRP 313</num>
+        <heading>313.  Gwen's Law; bail hearings; detention without bail</heading>
+        <subsection eId="CCRP-313__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon motion of the prosecuting attorney, the judge or magistrate may order the
+temporary detention of a person in custody who is charged with the commission of an
+offense, for a period of not more than five days, exclusive of weekends and legal holidays,
+pending the conducting of a contradictory bail hearing. Following the contradictory hearing,
+upon proof by clear and convincing evidence either that there is a substantial risk that the
+defendant might flee or that the defendant poses an imminent danger to any other person or
+the community, the judge or magistrate may order the defendant held without bail pending
+trial.
+C.</p>
+          </content>
+          <paragraph eId="CCRP-313__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A contradictory bail hearing, as provided for in this Paragraph, shall be held
+prior to setting bail for a person in custody who is charged with the commission of a sex
+offense and who has been previously convicted of a sex offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court, after having been given notice of an applicable prior conviction as
+described in Subparagraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>of this Paragraph, shall order a contradictory hearing to be
+held within five days of receiving notice of the prior conviction, exclusive of weekends and
+legal holidays.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>At the contradictory hearing the court, in addition to hearing whatever evidence
+it finds relevant, shall, on motion of the prosecuting attorney, perform an in camera
+examination of the evidence against the accused.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In addition to the factors listed in Article 316, the court shall take into
+consideration the previous criminal record of the defendant; any potential threat or danger
+the defendant poses to the victim, the family of the victim, or to any member of the public,
+especially children; and the court shall give ample consideration to any statistical evidence
+prepared by the United States Department of Justice relative to the likelihood of the
+defendant, or any person in general who has been convicted of sexually inappropriate
+conduct with a prepubescent child under the age of thirteen, to commit similar offenses
+against juvenile victims in the future.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>For purposes of this Paragraph, &quot;sex offense&quot; means any offense as defined as
+a sex offense in R.S. 15:541 when the victim is under the age of thirteen at the time of
+commission of the offense and less than ten years have elapsed between the date of the
+commission of the current offense and the expiration of the maximum sentence of the
+previous conviction.
+D.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A person charged with the commission of a capital offense shall not be
+admitted to bail if the proof is evident and the presumption great that he is guilty of the
+capital offense.  When a person charged with the commission of a capital offense makes an
+application for admission to bail, the judge shall hold a hearing contradictorily with the state.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-313__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The burden of proof at the contradictory bail hearing:</p>
+            </content>
+            <subparagraph eId="CCRP-313__subsec_B__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prior to indictment is on the state to show that the proof is evident and the
+presumption great that the defendant is guilty of the capital offense.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-313__subsec_B__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>After indictment is on the defendant to show that the proof is not evident or the
+presumption is not great that he is guilty of the capital offense.
+Amended by</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112431</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

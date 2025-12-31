@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-900"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-900"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 900"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-900/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-900/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-900/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-900/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-900">
+        <num>CHC 900</num>
+        <heading>900.  Duration of a disposition based on a misdemeanor-grade adjudication</heading>
+        <subsection eId="CHC-900__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>No judgment of disposition shall remain in force for a period exceeding the
+maximum term of imprisonment for the offense which forms the basis for the adjudication,
+except that if the child is placed on probation, the term of probation may extend for a
+maximum of one year, or for such longer period of time as the child is a full-time participant
+in a juvenile drug court program operated by a court of this state, if such participation has
+been ordered by the court as a condition of the child's probation.  The court shall give a child
+credit for time spent in secure detention prior to the imposition of disposition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-900__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If an order of commitment to the custody of the Department of Public Safety and
+Corrections is subsequently modified and the child is placed on parole, the maximum term
+of parole shall be the remainder of the sentence originally imposed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-900__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>These maximums do not apply if:</p>
+          </content>
+          <paragraph eId="CHC-900__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A portion of an order of commitment was suspended, in which case the term of
+parole shall end when the time period so suspended has elapsed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-900__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The child commits a felony after having been committed to the custody of the
+Department of Public Safety and Corrections or while on probation and is tried as an adult
+and convicted or pleads guilty, in which case the judgment of disposition in the juvenile
+court shall terminate as of the date of conviction.  The child shall earn no diminution of his
+felony sentence based upon time served under the order of disposition.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-900__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The judgment expires by its own terms, is modified, or is vacated.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-900__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The child reaches age twenty-one.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73492</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

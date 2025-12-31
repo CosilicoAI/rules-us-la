@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-654"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-654"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 654"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-654/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-654/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-654/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-654/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-654">
+        <num>CCRP 654</num>
+        <heading>654.  Legal effect of acquittal on ground of insanity; commitment</heading>
+        <content>
+          <p>Art. 654.  Legal effect of acquittal on ground of insanity; commitment
+When a verdict of not guilty by reason of insanity is returned in a capital case, the court shall commit the defendant to a proper state mental institution or to a private mental institution approved by the court for custody, care, and treatment.
+When a defendant is found not guilty by reason of insanity in any other felony case, the court shall remand him to the parish jail or to a private mental institution approved by the court and shall promptly hold a contradictory hearing at which the defendant shall have the burden of proof, to determine whether the defendant can be discharged or can be released on probation, without danger to others or to himself.  If the court determines that the defendant cannot be released without danger to others or to himself, it shall order him committed to a proper state mental institution or to a private mental institution approved by the court for custody, care, and treatment.  If the court determines that the defendant can be discharged or released on probation without danger to others or to himself, the court shall either order his discharge, or order his release on probation subject to specified conditions for a fixed or an indeterminate period.  The court shall assign written findings of fact and conclusions of law; however, the assignment of reasons shall not delay the implementation of judgment.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112676</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

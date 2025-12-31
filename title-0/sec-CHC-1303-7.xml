@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-7"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-7"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1303.7"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-7/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-7/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-7/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-7/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1303-7">
+        <num>CHC 1303.7</num>
+        <heading>1303.7.  Duties of the support enforcement agency</heading>
+        <subsection eId="CHC-1303-7__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In a proceeding under this Chapter, a support enforcement agency of this state,
+upon request:</p>
+          </content>
+          <paragraph eId="CHC-1303-7__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Shall provide services to a petitioner residing in a state;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-7__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Shall provide services to a petitioner requesting services through a central
+authority of a foreign country as described  in Article 1301.2(5)</p>
+            </content>
+            <subparagraph eId="CHC-1303-7__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>or (d); and</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1303-7__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>May provide services to a petitioner who is an individual not residing in a state.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1303-7__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A support enforcement agency that is providing services to the petitioner shall:</p>
+          </content>
+          <paragraph eId="CHC-1303-7__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Take all steps necessary to enable an appropriate tribunal in this state, another
+state, or a foreign country to obtain jurisdiction over the respondent;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-7__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Request an appropriate tribunal to set a date, time, and place for a hearing;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-7__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Make a reasonable effort to obtain all relevant information, including information
+as to income and property of the parties;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-7__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Within two days, exclusive of Saturdays, Sundays, and legal holidays, after
+receipt of notice in a record from an initiating, responding, or registering tribunal, send a
+copy of the notice to the petitioner;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-7__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Within two days, exclusive of Saturdays, Sundays, and legal holidays, after
+receipt of communication in a record from the respondent or the respondent's attorney, send
+a copy of the communication to the petitioner; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-7__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Notify the petitioner if jurisdiction over the respondent cannot be obtained.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1303-7__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A support enforcement agency of this state that requests registration of a child
+support order in this state for enforcement or for modification shall make reasonable efforts:</p>
+          </content>
+          <paragraph eId="CHC-1303-7__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To ensure that the order to be registered is the controlling order; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-7__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If two or more child support orders exist and the identity of the controlling order
+has not been determined, to ensure that a request for such a determination is made in a
+tribunal having jurisdiction to do so.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1303-7__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A support enforcement agency of this state that requests registration and
+enforcement of a support order, arrears, or judgment stated in a foreign currency shall convert
+the amounts stated in the foreign currency into the equivalent amounts in dollars under the
+applicable official or market exchange rate as publicly reported.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-7__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A support enforcement agency of this state shall issue or request a tribunal of this
+state to issue a child support order and an income-withholding order that redirect payment
+of current support, arrears, and interest if requested to do so by a support enforcement agency
+of another state pursuant to Article 1303.19.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-7__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>This Chapter does not create or negate a relationship of attorney and client or
+other fiduciary relationship between a support enforcement agency or the attorney for the
+agency and the individual being assisted by the agency.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72825</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

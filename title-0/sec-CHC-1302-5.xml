@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1302.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1302-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1302-5">
+        <num>CHC 1302.5</num>
+        <heading>1302.5.  Continuing exclusive jurisdiction to modify child support order</heading>
+        <subsection eId="CHC-1302-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A tribunal of this state that has issued a child support order consistent with the
+law of this state has and shall exercise continuing, exclusive jurisdiction to modify its child
+support order if the order is the controlling order and:</p>
+          </content>
+          <paragraph eId="CHC-1302-5__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>At the time of the filing of a request for modification, this state is the residence
+of the obligor, the individual obligee, or the child for whose benefit the support order is
+issued; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-5__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Even if this state is not the residence of the obligor, the individual obligee, or the
+child for whose benefit the support order is issued, the parties consent in a record or in open
+court that the tribunal of this state may continue to exercise jurisdiction to modify its order.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1302-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A tribunal of this state that has issued a child support order consistent with the
+law of this state may not exercise continuing, exclusive jurisdiction to modify the order if:</p>
+          </content>
+          <paragraph eId="CHC-1302-5__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All of the parties who are individuals file consent in a record with the tribunal
+of this state that a tribunal of another state that has jurisdiction over at least one of the parties
+who is an individual or that is located in the state of residence of the child may modify the
+order and assume continuing, exclusive jurisdiction; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1302-5__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Its order is not the controlling order.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1302-5__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a tribunal of another state has issued a child support order pursuant to the
+Uniform Interstate Family Support Act or a law substantially similar to that Act which
+modifies a child support order of a tribunal of this state, tribunals of this state shall recognize
+the continuing, exclusive jurisdiction of the tribunal of the other state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1302-5__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A tribunal of this state that lacks continuing, exclusive jurisdiction to modify a
+child support order may serve as an initiating tribunal to request a tribunal of another state
+to modify a support order issued in that state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1302-5__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A temporary support order issued ex parte or pending resolution of a jurisdictional
+conflict does not create continuing, exclusive jurisdiction in the issuing tribunal.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72803</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

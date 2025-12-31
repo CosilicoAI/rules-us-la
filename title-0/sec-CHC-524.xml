@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-524"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-524"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 524"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-524/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-524/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-524/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-524/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-524">
+        <num>CHC 524</num>
+        <heading>524.  Responsibilities</heading>
+        <subsection eId="CHC-524__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Every child advocacy center shall seek full membership in the National Children's Alliance and remain in full compliance with its standards and shall be accredited and periodically reaccredited as required by the standards of the National Children's Alliance. The cost of application for membership, accreditation and reaccreditation by the National Children's Alliance will be the sole responsibility of the child advocacy center seeking such membership, accreditation or reaccreditation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-524__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A child advocacy center shall be governed and managed so as to provide at a minimum, for the following:</p>
+          </content>
+          <paragraph eId="CHC-524__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A comfortable, private setting that is both physically and psychologically safe for children.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Sound program, fiscal and administrative practices.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Policies, practices and procedures that are culturally competent.  Cultural competency is defined as the capacity to function in more than one culture, requiring the ability to appreciate, understand and interact with members of diverse populations within the local community.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A multidisciplinary investigative team in accordance with Article 522 of this Title that is diverse and expert.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A written set of interagency protocols for an interdisciplinary and coordinated approach to the investigation of child abuse in accordance with Articles 510, 512, and 522 of this Title.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Compliance with Article 511 of this Title and other policies, practices and procedures that require forensic interviews to be conducted in a manner which is neutral and fact-finding and coordinated to avoid duplicative interviewing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Specialized medical evaluations and treatment as part of the multidisciplinary investigative team response, either at the center or through coordination with and referral to other appropriate treatment providers.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Specialized mental health services as part of the multidisciplinary investigative team response, either at the center or through coordination with and referral to other appropriate treatment providers.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Victim support and advocacy as part of the multidisciplinary investigative team response, either at the center or through coordination with and referral to other appropriate treatment providers.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>A routine interdisciplinary case review process for purposes of decisionmaking, problem solving, systems coordination and information sharing concerning case status and services needed by the child and family.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>A comprehensive tracking system for monitoring case process and tracking case outcomes for team members consistent with ensuring confidentiality in accordance with Article 525 of this Title.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-524__subsec_B__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>A process for evaluating its effectiveness and its operations.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-524__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In addition, a center may provide space for medical evaluation, therapeutic intervention, support services for child abuse victims and their families, and community education about child abuse.  It may also provide specialized interdisciplinary training for professionals involved with child abuse victims and their families and provide any other assistance or service approved by the center's board.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113453</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

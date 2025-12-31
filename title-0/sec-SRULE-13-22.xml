@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-22"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-22"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 13.22"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-22/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-22/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-22/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-13-22/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-13-22">
+        <num>SRULE 13.22</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-13-22__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>There shall be a special committee to be called the Senate Executive Committee
+which shall be composed of nine members as follows: ex officio, the President and the
+President Pro Tempore; the chairs of the Senate Committee on Finance and the Senate
+Committee on Senate and Governmental Affairs; and five members of the Senate
+appointed by the President. The President, or one of the members of the committee
+designated by him, shall chair the committee.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-13-22__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The committee shall have advisory authority to make recommendations to the
+President, other officers, and the Committee on Senate and Governmental Affairs
+concerning matters internal to the Senate including, without limitation, matters affecting
+Senate space and facilities, officers and employees, rules, administration, and budgetary
+and financial questions.
+C.</p>
+          </content>
+          <paragraph eId="SRULE-13-22__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The committee shall have the authority to establish an annual vouchered
+allotment for members of the Senate to be drawn by each member in monthly payments.
+This vouchered allotment shall be used exclusively for expenses incurred in the course
+and scope of duties as a member of the Senate such as rent for office space; electricity;
+water; gas; telephone; communication services; stationery; supplies; mileage or expense
+reimbursement for official travel in or out of state; and other expenses related to the
+holding or conduct of office. The committee may authorize an unexpended allotment
+amount to be carried forward from one fiscal year into the next fiscal year.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-13-22__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The allotment shall be established no later than May fifteenth of the first
+calendar year of each term of office to be effective for the succeeding four-year term,
+until changed by the Executive  Committee pursuant to the adoption of a resolution as
+provided in this Paragraph. This allotment shall be set or changed by the adoption of a
+resolution of the Executive Committee in an open public hearing.
+SR 177 of the 2004 RS; SR 3 of 2008, 2 nd EX; SR 43 of 2012 RS; SR 3 of the
+2016, 1 st EX; SR 9 of 2020.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=284088</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

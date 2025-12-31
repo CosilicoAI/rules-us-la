@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 16.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-16-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-16-1">
+        <num>SRULE 16.1</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-16-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>All appointments sent to the Senate for confirmation shall be referred to the Senate and Governmental Affairs Committee.  Neither the Senate nor the Senate and Governmental Affairs Committee shall consider for confirmation any appointment unless the following information concerning the appointee has been submitted:</p>
+          </content>
+          <paragraph eId="SRULE-16-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Full name.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-16-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Home address.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-16-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Home and business telephone number.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-16-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Social security number.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-16-1__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Driver's license number, or a sworn statement from the appointee that he holds no driver's license.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-16-1__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The name of the person or persons who recommended the nominee to the governor or appointing authority for appointment to the position.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-16-1__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A copy of the nominee's financial disclosure or contract disclosure  statement, if the nominee is required to submit a financial disclosure statement pursuant to R.S. 42:1114, 1124, 1124.2, 1124.2.1 or 1124.3, or a contract disclosure statement pursuant to R.S. 42:1113(D)(4).</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="SRULE-16-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The committee shall report thereon to the Senate in one of the following ways:</p>
+          </content>
+          <paragraph eId="SRULE-16-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Recommends that the appointment be confirmed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-16-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Recommends that the appointment not be confirmed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="SRULE-16-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Without action.
+SR 4 of 1994 3 rd EX; SR 156 of</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180479</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

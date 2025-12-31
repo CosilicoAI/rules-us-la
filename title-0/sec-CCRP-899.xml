@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-899"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-899"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 899"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-899/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-899/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-899/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-899/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-899">
+        <num>CCRP 899</num>
+        <heading>899.  Arrest or summons for violation of probation</heading>
+        <subsection eId="CCRP-899__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At any time during probation and suspension of sentence the court may issue a warrant for the arrest of a defendant for violation of any of the conditions of probation, or may issue a summons to appear to answer to a charge of violation or threatened violation.
+The warrant of arrest may be executed by any peace officer and shall direct that the defendant be returned to the custody of the court or to a designated detention facility.  The summons shall be personally served upon the defendant.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-899__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a probation officer has reasonable cause to believe that a defendant has violated or is about to violate a condition of his probation or that an emergency exists so that awaiting an order of the court would create an undue risk to the public or to the probationer, the probation officer may arrest the defendant without a warrant, or may authorize a peace officer to do so.  The authorization may be in writing or oral, but if not written, shall be subsequently confirmed by a written statement.  The written authorization or subsequent confirmation delivered with the defendant to the official in charge of a parish jail or other place of detention shall be sufficient authority for the detention of the defendant.  The probation officer shall immediately notify the proper court of the arrest and shall submit a written report showing in what manner the defendant violated, or was about to violate, a condition of his probation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-899__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court may grant bail to a defendant who is arrested under this article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-899__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When a warrant for a defendant's arrest or a summons for defendant's appearance is issued under Paragraph A or a detainer is issued under Paragraph B of this Article, the running of the period of probation shall cease as of the time the warrant, summons, or detainer is issued.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-899__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Within ten days following the arrest of an offender pursuant to the provisions of this Article, the court shall determine if there is probable cause to detain him pending a final violation hearing and shall consider whether to allow the offender bail pending the final hearing.  The determination of probable cause may be made without a formal hearing and may be conducted through the use of affidavits.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-899__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Probation officers shall be deemed to be peace officers and shall have the same powers with respect to criminal matters and the enforcement of the law relating thereto as sheriffs, constables, and police officers have in their respective jurisdictions.  They have all the immunities and defenses now or hereafter made available to sheriffs, constables, and police officers in any suit brought against them in consequence of acts done in the course of their employment.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112900</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-11"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-11"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 6.11"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-11/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-11/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-11/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-11/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-6-11">
+        <num>HRULE 6.11</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-6-11__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>For each meeting held during session at which a legislative instrument is scheduled for public hearing, a standing committee shall submit a written report to the Clerk of the House as soon as possible after each committee meeting.  For each meeting held during the interim at which a legislative instrument is scheduled for public hearing and a report on such instrument is determined, each standing committee shall submit a written report to the Clerk of the House within five working days after the committee meeting.  The report of such standing committee for each meeting shall be in such form as to list in numerical order the number and title of each legislative instrument upon which the committee took action at the meeting.  Below the designation and title of each legislative instrument the report of the committee shall contain the following with respect to such instrument:</p>
+          </content>
+          <paragraph eId="HRULE-6-11__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The report of the committee on each legislative instrument which may be one, and only one, of the following:</p>
+            </content>
+            <subparagraph eId="HRULE-6-11__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Reported favorably.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-6-11__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Reported unfavorably.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-6-11__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Reported with amendments.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-6-11__subsec_A__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Reported by substitute.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-6-11__subsec_A__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Reported either favorably, with amendments, by substitute, or without action with recommendation that it be recommitted to the Committee on _________________.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-6-11__subsec_A__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If the legislative instrument was recommitted to the committee in accordance with Rule 6.8, reported without amendments.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="HRULE-6-11__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In the case of each instrument, the report on the instrument followed, in parentheses, by the vote by which such report was determined.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-11__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For each instrument reported with amendments, the proposed amendments, submitted on a separate sheet of paper and numbered consecutively and the original and three copies thereof attached to the bill.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-11__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In each case in which the committee has recommended that the bill or joint resolution be placed in Special Order, in parentheses the words &quot;Special Order&quot;, if, upon a separate motion, the committee has recommended that the bill or joint resolution be placed in Special Order as provided in House Rule 8.6.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-11__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Repealed by HR 6, 2013, eff. May 30, 2013.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-11__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The report of the committee shall be signed by the committee chairman who shall be responsible for the accuracy of the report and for the conformity of each such report to the requirements of this Rule.  Under no circumstances shall words or sentences be interlined on the body of a legislative instrument nor shall the cover thereof be marked except by the Clerk of the House.
+C.</p>
+          </content>
+          <paragraph eId="HRULE-6-11__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The report of each committee made during a session shall be read to the House for information.  The legislative instruments and any accompanying proposed amendments shall be placed on the calendar, in their proper order, for consideration on the day following the day on which the report is read.  The report of the committee with respect to each legislative instrument shall again be read at the time each such instrument is considered by the House in the appropriate order of business.
+(2)</p>
+            </content>
+            <subparagraph eId="HRULE-6-11__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The report of each committee made during the interim shall be published in the Interim Calendar; however, reports made after publication of the final Interim Calendar shall be announced on the first day of session.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-6-11__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A committee which has determined the report on a prefiled instrument may request, within five legislative days of the instrument's introduction, the House to allow it to otherwise report the instrument or to defer action on the instrument.  Absent such a request, the committee shall report the instrument in the manner determined during its interim hearing within seven legislative days after the instrument's introduction.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="HRULE-6-11__subsec_B__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A committee's request to the House to otherwise report an instrument or to defer an instrument may be made only upon the adoption of a separate motion to that effect by the committee.  If the House grants a committee the authority to otherwise report an instrument heard during the interim, the committee shall schedule another public hearing on the instrument.  If the House refuses to grant the committee the authority so requested, the instrument shall be reported to the House in the manner determined during its interim hearing within ten legislative days after the instrument's introduction.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-11__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The adoption of any motion the effect of which is to reject the recommendation of a committee report, whether made during session or during the interim, on any legislative instrument, except a motion to recommit, postpone indefinitely, or withdraw an instrument from the files of the House, shall require a favorable vote of a majority of the elected members of the House of Representatives.
+Mason's Manual:  Sec. 616, 665, and 666-668
+HR 3, 1973; HR 7, 1973; HR 3, 1974; HR 4, 1974; HR 21, 1974; HR 5, 1977; HR 14, 1986; HR 19, 1997, eff. April 11, 1997; HR 34, 1997, eff. May 6, 1997; HR 45, 1998, eff. May 20, 1998; HR 4, 2006 2 nd Ex. Sess., eff. Dec. 13, 2006; HR 26, 2011,  eff. June 22, 2011; HR 6, 2013, eff. May 30, 2013.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113319</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-412-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-412-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 412.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-412-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-412-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-412-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-412-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-412-5">
+        <num>CE 412.5</num>
+        <heading>412.5. Evidence of similar crimes, wrongs, or acts in certain civil cases</heading>
+        <subsection eId="CE-412-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In any civil action alleging acts of domestic abuse as defined in R.S. 46:2132,
+family violence as defined in R.S. 9:362, or sexual abuse as defined in R.S. 9:362, evidence
+of the defendant's commission of a crime, wrong, or act involving acts of domestic abuse,
+family violence, or sexual abuse may be admissible and may be considered for its bearing
+on any matter to which it is relevant subject to the balancing test provided in Article 403.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-412-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A plaintiff in a tort action intending to offer evidence under the provisions of this
+Article shall provide reasonable notice in advance of trial of the nature of such evidence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-412-5__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The provisions of this Article shall not be construed to preclude or limit the
+introduction or consideration of any evidence otherwise authorized under law.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1106189</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

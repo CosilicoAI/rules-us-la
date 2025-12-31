@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-416-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-416-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 416.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-416-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-416-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-416-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-416-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-416-1">
+        <num>CCRP 416.1</num>
+        <heading>416.1.  One-step qualification/summoning</heading>
+        <subsection eId="CCRP-416-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In parishes other than Orleans, at the election of the judges of the judicial district in which the parish lies, the qualification questionnaire, subpoena, and return envelope for each person who may be selected for the petit jury venire shall be prepared by the clerk and delivered in the same computer-generated envelope to the sheriff for service.  The sheriff may serve such questionnaire and subpoena by first class mail addressed to such person at his usual residence or business address.  The subpoena shall state an appearance date for such person not later than three weeks after the date on which the questionnaire is to be returned.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-416-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The questionnaire shall contain a section for signature to acknowledge receipt of the accompanying subpoena.  The addressee of the subpoena and questionnaire shall fill out, sign, and return the questionnaire in the return envelope by first class mail, within five days of receipt thereof.  The signing of the questionnaire shall constitute acknowledgement of receipt of the subpoena and personal service of the subpoena on the addressee.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-416-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The questionnaire may constitute part of the sheriff's return and may be made part of the record.  When served in accordance with this Section, a person may be cited for contempt for failing to appear in response to the subpoena.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112527</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

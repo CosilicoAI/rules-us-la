@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-657-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-657-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 657.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-657-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-657-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-657-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-657-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-657-3">
+        <num>CCRP 657.3</num>
+        <heading>657.3.  Active supervised release for dangerous but not mentally ill committed persons</heading>
+        <subsection eId="CCRP-657-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any other provision of law to the contrary, the state may seek
+active supervised release by the Department of Public Safety and Corrections, office of
+probation and parole, of a committed person based upon the committed person's continued
+dangerousness even if the committed person does not have a mental illness as defined by this
+Article, if both of the following conditions are satisfied:</p>
+          </content>
+          <paragraph eId="CCRP-657-3__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The committed person was found not guilty by reason of insanity for any of the
+following offenses or attempts to commit any of them:</p>
+            </content>
+            <subparagraph eId="CCRP-657-3__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any crime punishable by death or by life imprisonment.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-657-3__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any crime that is either a crime of violence as defined by R.S. 14:2(B) or a sex
+offense as defined by R.S. 15:541.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-657-3__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The state proves by clear and convincing evidence that the committed person is
+dangerous to others or dangerous to himself as defined by R.S. 28:2.  In satisfying its burden
+of proof, the state may not rely solely upon the nature of the crime for which the committed
+person was found not guilty by reason of insanity and may not rely solely upon the diagnosis
+of any personality disorder.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-657-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon satisfaction of the criteria for active supervised release provided in
+Paragraph A of this Article and consideration of any report filed pursuant to Articles 655 and
+656, the court shall order the committed person to be placed on active supervised release
+with any special conditions recommended to the court as well as any conditions of probation
+provided in Article 895 et seq. for a period not to exceed three years.  Such period may be
+extended in three-year increments upon motion of the district attorney and proof that the
+committed person still satisfies the criteria for active supervised release under this Article.
+Under no circumstances shall a committed person who is on active supervised release
+pursuant to this Article be subject to a probation period that is longer than the maximum term
+that the committed person would have received if the committed person had been convicted
+of the offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-657-3__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When the committed person is placed on active supervised release, the clerk of
+court shall deliver a certificate to him setting forth the conditions of his release.  The
+committed person shall be required to agree in writing to the conditions of his release.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-657-3__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>When the committed person has violated or is suspected of violating the
+conditions of his release, the committed person may be arrested and detained pursuant to
+Article 899.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-657-3__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Nothing in this Article shall be construed as abrogating or negating any other
+provision of this Chapter or any other provision of law relative to the continued commitment,
+discharge, or conditional release of a person committed pursuant to Article 654.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-657-3__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>For the purposes of this Title, &quot;mental illness&quot; means a psychiatric disorder which
+has substantial adverse effects on a person's ability to function and requires care and
+treatment.  It does not refer to a person with, solely, an intellectual disability, or who suffers
+solely from epilepsy or a substance-related or addictive disorder.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1386661</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

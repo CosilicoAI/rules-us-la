@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-330"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-330"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 330"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-330/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-330/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-330/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-330/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-330">
+        <num>CCRP 330</num>
+        <heading>330.  Notice of defendant's required appearance</heading>
+        <subsection eId="CCRP-330__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a bail undertaking fixes an appearance date, the defendant appears as
+ordered, and notice of the next appearance date is given to the defendant, no additional notice
+of that appearance date is required to be given to the defendant or the personal surety or the
+commercial surety or the agent or bondsman who posted the bail undertaking for the
+commercial surety.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-330__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a bail undertaking does not fix the appearance date, written notice of the
+time, date, and place the defendant is first ordered by the court to appear shall be given to the
+defendant or his duly appointed agent and his personal surety or the commercial surety or the
+agent or bondsman who posted the bail undertaking for the commercial surety.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-330__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the defendant appears as ordered and the proceeding is continued to a specific
+date, the defendant and the personal surety or the commercial surety or the agent or
+bondsman who posted the bail undertaking for the commercial surety and who has been
+given initial notice pursuant to Paragraph A or B of this Article, need not be given notice of
+the new appearance date.  If the defendant fails to appear as ordered, or the proceeding is not
+continued to a specific date, the defendant or his duly appointed agent, the personal surety
+or the agent or bondsman who posted the bail undertaking for the commercial surety shall
+be given notice of the new appearance date.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-330__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Notice required pursuant to the provisions of this Article to the defendant and the
+personal surety or the commercial surety or the agent or bondsman who posted the bail
+undertaking for the commercial surety shall be made to the address provided pursuant to
+Article 329. Notice may be:</p>
+          </content>
+          <paragraph eId="CCRP-330__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Delivered by an officer designated by the court at least two days prior to the
+appearance date.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-330__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Mailed by United States first class mail or by electronic means in accordance
+with Article 329 at least five days prior to the appearance date.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-330__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Failure to give the notice required by this Article relieves the surety from liability
+on a judgment of bond forfeiture for the nonappearance of the defendant on that particular
+date.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112452</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

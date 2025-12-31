@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-614"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-614"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 614"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-614/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-614/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-614/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-614/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-614">
+        <num>CHC 614</num>
+        <heading>614.  Evaluation orders</heading>
+        <subsection eId="CHC-614__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If necessary, the investigator may apply to the court for certain medical examinations and evaluations of the child or other children in the household.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-614__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon a showing of good cause in an affidavit executed by the applicant, the court may order a physical examination and evaluation of the child or other children in the household by any physician.  Such an order may be granted ex parte.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-614__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon a showing of good cause in an affidavit executed by the applicant and after a contradictory hearing, the court may order a psychological or psychiatric examination and evaluation of the child or other children in the household by a psychologist or psychiatrist.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-614__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Upon a showing of good cause in an affidavit executed by the applicant and after a contradictory hearing, the court may order a physical, psychological, or psychiatric examination of the parent or caretaker.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-614__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>When a medical examination of a child has been conducted pursuant to Article 612(A)(4), upon a showing of good cause in an affidavit executed by the applicant and after a contradictory hearing, the court may order an additional physical examination of the child or other children in the household by any physician.  For the purposes of this Paragraph, an applicant may be the investigator or the child's parent or caretaker.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73206</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

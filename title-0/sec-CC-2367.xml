@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2367"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2367"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2367"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2367/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2367/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2367/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2367/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2367">
+        <num>CC 2367</num>
+        <heading>2367.  Use of separate property for the benefit of community property</heading>
+        <content>
+          <p>Art. 2367.  Use of separate property for the benefit of community property
+If separate property of a spouse has been used during the existence of the community property regime for the acquisition, use, improvement, or benefit of community property, that spouse is entitled to reimbursement for one-half of the amount or value that the property had at the time it was used.  The liability of the spouse who owes reimbursement is limited to the value of his share of all community property after deduction of all community obligations.
+Buildings, other constructions permanently attached to the ground, and plantings made on community property with separate property of a spouse during the existence of the community property regime are community property.   The spouse whose separate property was used is entitled to reimbursement for one-half of the amount or value that the separate property had at the time it was used.  The liability of the spouse who owes reimbursement is limited to the value of his share in all community property after deduction of all community obligations.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109443</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

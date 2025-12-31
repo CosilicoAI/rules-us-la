@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-327"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-327"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 327"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-327/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-327/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-327/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-327/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-327">
+        <num>CHC 327</num>
+        <heading>327.  Admissibility</heading>
+        <subsection eId="CHC-327__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A prehearing videotape which meets all the requirements of Article 326 may be admissible into evidence if all of the following occur:</p>
+          </content>
+          <paragraph eId="CHC-327__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The parties to the proceeding are afforded an opportunity to view the recording before it is offered into evidence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-327__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The person conducting or supervising the interview of the protected person in the recording is present at the proceeding and available to testify or be cross-examined by either party.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-327__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The protected person is available to testify.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-327__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The admission into evidence of the videotape as authorized herein shall not preclude the state from calling the protected person as a witness or taking the protected person's testimony outside the courtroom as otherwise authorized by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-327__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Nothing in this Chapter shall be construed to prohibit the right of confrontation of a defendant in a criminal proceeding before the court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73127</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1002"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1002"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 1002"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1002/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1002/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1002/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1002/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-1002">
+        <num>CCRP 1002</num>
+        <heading>1002.  Transfer of firearms</heading>
+        <subsection eId="CCRP-1002__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>At the same time an order to prohibit a person from possessing a firearm or
+carrying a concealed weapon is issued, the court shall also cause all of the following to occur:</p>
+          </content>
+          <paragraph eId="CCRP-1002__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Require the person to state in open court or complete an affidavit stating the
+number of firearms in his possession and the location of all firearms in his possession.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-1002__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Require the person to complete a firearm information form that states the number
+of firearms in his possession, the type of each firearm, and the location of each firearm.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-1002__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Transmit a copy of the order to transfer firearms and a copy of the firearm
+information form to the sheriff of the parish or the sheriff of the parish of the person's
+residence.
+D.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-1002__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court shall, on the record and in open court, order the person to transfer
+all firearms in his possession to the sheriff no later than forty-eight hours, exclusive of legal
+holidays, after the order is issued and a copy of the order and firearm information form
+required by Paragraph C of this Article is sent to the sheriff. If the person is incarcerated at
+the time the order is issued, he shall transfer his firearms no later than forty-eight hours after
+his release from incarceration, exclusive of legal holidays.  At the time of transfer, the sheriff
+and the person shall complete a proof of transfer form. The proof of transfer form shall
+contain the quantity of firearms transferred.  The sheriff shall retain a copy of the form and
+provide the person with a copy.  The proof of transfer form shall attest that the person is not
+currently in possession of firearms in accordance with the provisions of this Title and is
+currently compliant with state and federal law, but shall not include the date on which the
+transfer occurred.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-1002__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Within ten days of transferring his firearms, exclusive of legal holidays, the
+person shall file the proof of transfer form with the clerk of court of the parish in which the
+order was issued.  The proof of transfer form shall be maintained by the clerk of court under
+seal.
+E.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-1002__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the person subject to the order to transfer firearms and suspend a concealed
+handgun permit issued pursuant to Paragraph A of this Article does not possess firearms, at
+the time the order is issued, the person shall complete a declaration of nonpossession form
+which shall be filed in the court record and a copy shall be provided to the sheriff.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-1002__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Within five days of the issuance of the order pursuant to Paragraph A of this
+Article, exclusive of legal holidays, the person shall file the declaration of nonpossession
+with the clerk of court of the parish in which the order was issued.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-1002__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Notwithstanding the provisions of Paragraph E of this Article or any other
+provision of law to the contrary, if the person subject to the order to transfer firearms and
+suspend a concealed handgun permit issued pursuant to Paragraph A of this Article possessed
+firearms at the time of the qualifying incident giving rise to the duty to transfer his firearms
+pursuant to this Title, but transferred or sold his firearms to a third party prior to the court's
+issuance of the order, that third-party transfer shall be declared in open court.  The person
+subject to the order to transfer firearms and suspend a concealed handgun permit shall within
+ten days after issuance of the order, exclusive of legal holidays, execute along with the third
+party and a witness a proof of transfer form that complies with the provisions of Paragraph
+D of this Article and with Article 1003(A)(1)(a).  The proof of transfer form need not be
+signed by the sheriff and shall be filed, within ten days after the date on which the proof of
+transfer form is executed, by the person subject to the order with the clerk of court of the
+parish in which the order was issued.  The proof of transfer form shall be maintained by the
+clerk of court under seal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1002__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>The failure to provide the information required by this Title, the failure to timely
+transfer firearms in accordance with the provisions of this Title, or both, may be punished
+as contempt of court.  Information required to be provided in order to comply with the
+provisions of this Title cannot be used as evidence against that person in a future criminal
+proceeding, except as provided by the laws on perjury or false swearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1002__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>On motion of the district attorney or of the person transferring his firearms, and
+for good cause shown, the court shall conduct a contradictory hearing with the district
+attorney to ensure that the person has complied with the provisions of this Title.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1002__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>For the purposes of this Title, a person shall be deemed to be in possession of a
+firearm if that firearm is subject to his dominion and control.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1106499</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

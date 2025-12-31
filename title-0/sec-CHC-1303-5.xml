@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-5"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1303.5"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1303-5">
+        <num>CHC 1303.5</num>
+        <heading>1303.5.  Duties and powers of responding tribunal</heading>
+        <subsection eId="CHC-1303-5__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a responding tribunal of this state receives a petition or comparable
+pleading from an initiating tribunal or directly pursuant to Article 1303.1(B), it shall cause
+the petition or pleading to be filed and notify the petitioner where and when it was filed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-5__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A responding tribunal of this state, to the extent not prohibited by other law, may
+do one or more of the following:</p>
+          </content>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Establish or enforce a support order, modify a child support order, determine the
+controlling child support order, or determine parentage of a child</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Order an obligor to comply with a support order, specifying the amount and the
+manner of compliance;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Order income withholding;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Determine the amount of any arrearages and specify a method of payment;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Enforce orders by civil or criminal contempt, or both;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Set aside property for satisfaction of the support order;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Place liens and order execution on the obligor's property;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Order an obligor to keep the tribunal informed of the obligor's current residential
+address, electronic mail address, telephone number, employer, address of employment, and
+telephone number at the place of employment;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Issue a bench warrant or order of contempt for an obligor who has failed after
+proper notice to appear at a hearing ordered by the tribunal and enter the order of contempt
+and bench warrant in any local and state computer systems for criminal warrants;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Order the obligor to seek appropriate employment by specified methods;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Award reasonable attorney fees and other fees and costs; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-5__subsec_B__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Grant any other available remedy.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1303-5__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A responding tribunal of this state shall include in a support order issued under
+this Chapter, or in the documents accompanying the order, the calculations on which the
+support order is based.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-5__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A responding tribunal of this state may not condition the payment of a support
+order issued under this Chapter upon compliance by a party with provisions for visitation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-5__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If a responding tribunal of this state issues an order under this Chapter, the
+tribunal shall send a copy of the order to the petitioner and the respondent and to the
+initiating tribunal, if any.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-5__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If requested to enforce a support order, arrears, or judgment or modify a support
+order stated in a foreign currency, a responding tribunal of this state shall convert the amount
+stated in the foreign currency to the equivalent amount in dollars under the applicable official
+or market exchange rate as publicly reported.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72823</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 409.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-409-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-409-1">
+        <num>CCRP 409.1</num>
+        <heading>409.1.  Orleans parish central jury pool</heading>
+        <subsection eId="CCRP-409-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>There is hereby created a central jury pool for the Criminal District Court for the Parish of Orleans which shall be administered by the Jury Commission of the Parish of Orleans as hereinafter provided.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In order to properly and adequately administer and operate the central jury pool for the Criminal District Court for the Parish of Orleans, the chairman of the Jury Commissioners for the Parish of Orleans shall designate two jury commissioners each month who shall be specifically charged with the responsibility for administering and operating the central jury pool.  The chairman of the jury commissioners shall rotate the responsibility for the administration and operation of the central jury pool amongst the other four jury commissioners so that no jury commissioner shall be assigned to the central jury pool for more than six months out of every twelve months.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The Criminal District Court for the Parish of Orleans acting en banc shall by majority vote determine the number of jurors to serve in the central jury pool in any given month, the jury days for that month, and all other matters relative to the operating procedures of the central jury pool.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The jury commission shall select the number of jurors to serve in the central jury pool as hereinabove determined by the criminal district court acting en banc and by the method now prescribed by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The provisions of this Act shall be cumulative of and in addition to the method now prescribed by law for the selection of a jury panel for the Criminal District Court for the Parish of Orleans except that those provisions in conflict with this Act are hereby repealed and declared invalid insofar as they apply to the Criminal District Court for the Parish of Orleans.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112513</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

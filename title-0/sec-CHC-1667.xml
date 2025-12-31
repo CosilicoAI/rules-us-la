@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1667"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1667"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1667"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1667/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1667/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1667/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1667/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1667">
+        <num>CHC 1667</num>
+        <heading>1667.  Oversight, enforcement and dispute resolution by the Interstate Commission</heading>
+        <subsection eId="CHC-1667__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The Interstate Commission shall oversee the administration and operations of the interstate movement of juveniles subject to this compact in the compacting states and shall monitor such activities being administered in non-compacting states which may significantly affect compacting states.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1667__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The courts and executive agencies in each compacting state shall enforce this compact and shall take all actions necessary and appropriate to effectuate the compact's purposes and intent.  The provisions of this compact and the rules promulgated hereunder shall be received by all the judges, public offices, commissions, and departments of the state government as evidence of the authorized statute and administrative rules.  All courts shall take judicial notice of the compact and the rules.  In any judicial or administrative proceeding in a compacting state pertaining to the subject matter of this compact which may affect the powers, responsibilities or actions of the Interstate Commission, it shall be entitled to receive all service of process in any such proceeding, and shall have standing to intervene in the proceeding for all purposes.
+B.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1667__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The compacting states shall report to the Interstate Commission on all issues and activities necessary for the administration of the compact as well as issues and activities pertaining to compliance with the provisions of the compact and its bylaws and rules.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1667__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The Interstate Commission shall attempt, upon the request of a compacting state, to resolve any disputes or other issues which are subject to the compact and which may arise among compacting states and between compacting and non-compacting states.  The commission shall promulgate a rule providing for both mediation and binding dispute resolution for disputes among the compacting states.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1667__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The Interstate Commission, in the reasonable exercise of its discretion, shall enforce the provisions and rules of this compact using any or all means set forth in Article 1671 of this compact.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=181160</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

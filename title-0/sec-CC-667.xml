@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-667"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-667"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 667"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-667/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-667/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-667/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-667/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-667">
+        <num>CC 667</num>
+        <heading>667.  Limitations on use of property</heading>
+        <content>
+          <p>Art. 667.  Limitations on use of property
+Although a proprietor may do with his estate whatever he pleases, still he cannot make any work on it, which may deprive his neighbor of the liberty of enjoying his own, or which may be the cause of any damage to him.  However, if the work he makes on his estate deprives his neighbor of enjoyment or causes damage to him, he is answerable for damages only upon a showing that he knew or, in the exercise of reasonable care, should have known that his works would cause damage, that the damage could have been prevented by the exercise of reasonable care, and that he failed to exercise such reasonable care.  Nothing in this Article shall preclude the court from the application of the doctrine of res ipsa loquitur in an appropriate case.  Nonetheless, the proprietor is answerable for damages without regard to his knowledge or his exercise of reasonable care, if the damage is caused by an ultrahazardous activity.  An ultrahazardous activity as used in this Article is strictly limited to pile driving or blasting with explosives.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110861</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1423"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1423"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1423"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1423/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1423/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1423/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1423/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1423">
+        <num>CHC 1423</num>
+        <heading>1423.  Coroner; notice; independent examination; discharge</heading>
+        <subsection eId="CHC-1423__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon admission of any minor by emergency certificate to a treatment facility, it shall be the duty of the director of the treatment facility immediately to notify the coroner of the parish in which the treatment facility is located of the admission, giving the following information if known:</p>
+          </content>
+          <paragraph eId="CHC-1423__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The minor's name, address, date of birth.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1423__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Name of certifying physician, family psychiatric mental health nurse practitioner, or psychologist.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1423__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Date and time of admission.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1423__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The name and address of the treatment facility.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1423__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Within seventy-two hours of admission, the minor patient shall be independently examined by the coroner or his deputy who shall execute an emergency certificate pursuant to Article 1422, which shall be a necessary precondition to the person's continued confinement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1423__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>However, in the event that the coroner has made the initial examination and executed the first emergency commitment certificate, then a second examination shall be made within the seventy-two hour period set forth in this Article by any physician at the treatment facility where the minor patient is confined.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1423__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If from his examination the coroner concludes that the minor is not a proper subject for emergency admission, then the minor shall not be further detained in the treatment facility and shall be discharged by the director forthwith.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72919</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

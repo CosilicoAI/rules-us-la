@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-197"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-197"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 197"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-197/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-197/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-197/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-197/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-197">
+        <num>CCP 197</num>
+        <heading>197.  Testimony of inmates</heading>
+        <subsection eId="CCP-197__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>As used in this Article, &quot;inmate&quot; means a person confined in any prison, jail, correctional or training institution operated by the state, any of its political subdivisions, or any sheriff either while awaiting disposition of contemplated or pending criminal charges, pursuant to a sentence imposed by a court following the conviction of a crime, or pursuant to the judgment of a juvenile court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-197__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When in any judicial proceeding the testimony of an inmate is required by law to be given in open court, when an inmate is a party to a judicial proceeding under circumstances giving him the legal right to be present in open court at any stage of the proceeding, or when the presence of an inmate witness in open court is requested timely by a party to litigation and is justified under the facts and circumstances of the case, the trial judge, in his discretion, may order any of the following:</p>
+          </content>
+          <paragraph eId="CCP-197__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court be convened and the testimony of the inmate be taken, or the proceedings conducted at the institution wherein the inmate is confined.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-197__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The testimony of the inmate be taken, or the proceedings conducted, by teleconference, video link, or other available remote technology approved by the judge, or by telephone if agreed to by all parties and approved by the judge.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-197__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the interests of justice require the presence of the inmate in open court and if no other methodology authorized hereunder is feasible, the court may order that the prisoner be transported to the courthouse pursuant to R.S. 15:706(D).
+Added by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111356</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

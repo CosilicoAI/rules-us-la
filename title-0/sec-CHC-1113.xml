@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1113"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1113"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1113"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1113/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1113/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1113/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1113/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1113">
+        <num>CHC 1113</num>
+        <heading>1113.  Minor parents</heading>
+        <subsection eId="CHC-1113__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided herein, if a parent executing a surrender in a private adoption is a minor, the parents or tutor of the minor must join in the surrender unless the minor parent has been judicially emancipated under Civil Code Article 385 or emancipated by marriage under Civil Code Articles 379 through 384.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1113__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When the parents of the minor are separated or divorced, only the parent who has legal custody of the minor must join in the surrender.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1113__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When the minor's parents or tutor refuse to join in the act or cannot be located, the court may authorize the minor to surrender without the required consent if it finds that the minor is sufficiently mature and well-informed to surrender his child for adoption or that the surrender is otherwise in the child's best interest.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1113__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In an intrafamily adoption, the parents or tutor of the minor parent must join in the minor's consent to his child's adoption unless the court finds that the minor is sufficiently mature and well-informed to surrender his child for adoption or that the surrender is otherwise in the child's best interest.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1113__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A minor may surrender to an agency without the consent of the parents or tutor of the minor.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72597</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

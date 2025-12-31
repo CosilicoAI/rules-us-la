@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-572"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-572"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 572"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-572/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-572/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-572/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-572/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-572">
+        <num>CCRP 572</num>
+        <heading>572.  Limitation of prosecution of noncapital offenses</heading>
+        <subsection eId="CCRP-572__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as provided in Articles 571 and 571.1, no person shall be prosecuted, tried,
+or punished for an offense not punishable by death or life imprisonment, unless the
+prosecution is instituted within the following periods of time after the offense has been
+committed:</p>
+          </content>
+          <paragraph eId="CCRP-572__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Six years, for a felony necessarily punishable by imprisonment at hard labor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-572__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Four years, for a felony not necessarily punishable by imprisonment at hard labor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-572__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Two years, for a misdemeanor punishable by a fine, or imprisonment, or both.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-572__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Six months, for a misdemeanor punishable only by a fine or forfeiture.
+B.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-572__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding the provisions of Article 571.1 and Paragraph A of this
+Article, prosecutions for any sex offense may be commenced beyond the time limitations set
+forth in this Title if the identity of the offender is established after the expiration of such time
+limitation through the use of a DNA profile or newly discovered photographic or video
+evidence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-572__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A prosecution under the exception provided by this Paragraph shall be
+commenced within three years from the date on which the identity of the suspect is
+established by DNA testing or by the use of newly discovered photographic or video
+evidence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-572__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of this Article, &quot;DNA&quot; means deoxyribonucleic acid, which is
+located in cells and provides an individual's personal genetic blue print and which encodes
+genetic information that is the basis of human heredity and forensic identification.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-572__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>This Paragraph shall have retroactive application to crimes committed prior to
+June 20, 2003.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-572__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon expiration of the time period in which a prosecution may be instituted, any
+bail bond applicable to that prosecution which bond has not been forfeited shall also expire,
+and all obligations of that bail undertaking shall be extinguished as a matter of law.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112622</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

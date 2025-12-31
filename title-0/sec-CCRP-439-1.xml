@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-439-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-439-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 439.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-439-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-439-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-439-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-439-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-439-1">
+        <num>CCRP 439.1</num>
+        <heading>439.1.  Witnesses; authority to compel testimony and evidence</heading>
+        <subsection eId="CCRP-439-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In the case of any individual who has been or may be called to testify or provide other information at any proceeding before or ancillary to a grand jury of the state, at any proceeding before a court of this state, or in response to any subpoena by the attorney general or district attorney, the judicial district court of the district in which the proceeding is or may be held shall issue, in accordance with Subsection B of this article, upon the request of the attorney general together with the district attorney for such district, an order requiring such individual to give testimony or provide other information which he refuses to give or provide on the basis of his privilege against self-incrimination, such order to become effective as provided in Subsection C of this article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-439-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The attorney general together with the district attorney may request an order under Subsection A of this article when in his judgment</p>
+          </content>
+          <paragraph eId="CCRP-439-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>the testimony or other information from such individual may be necessary to the public interest; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-439-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>such individual has refused or is likely to refuse to testify or provide other information on the basis of his privilege against self incrimination.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-439-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The witness may not refuse to comply with the order on the basis of his privilege against self incrimination, but no testimony or other information compelled under the order, or any information directly or indirectly derived from such testimony or other information, may be used against the witness in any criminal case, except a prosecution for perjury, giving a false statement or otherwise failing to comply with the order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-439-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Whoever refuses to comply with an order as hereinabove provided shall be adjudged in contempt of court and punished as provided by law.
+Added by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112540</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

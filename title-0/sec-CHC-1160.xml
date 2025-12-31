@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1160"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1160"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1160"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1160/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1160/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1160/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1160/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1160">
+        <num>CHC 1160</num>
+        <heading>1160.  Additional regulations; Administrative Procedure Act; reporting</heading>
+        <subsection eId="CHC-1160__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The department, in accordance with the Administrative Procedure Act, shall
+promulgate all rules and regulations necessary to carry out the provisions of this Chapter,
+including but not limited to the following:</p>
+          </content>
+          <paragraph eId="CHC-1160__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notice to the public of the existence of designated emergency care facilities and
+the use of safe havens through the following actions:</p>
+            </content>
+            <subparagraph eId="CHC-1160__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The establishment of a toll-free telephone number to direct individuals to
+designated emergency care facilities.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The provision of safe haven publicity and informational materials on the
+department's website for review and download by the public.
+(c)</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_A__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Promulgation of the image that shall constitute the official Safe Haven symbol
+in accordance with Article 1161.
+(ii)  Transmittal of an electronic version of the Safe Haven symbol to any designated
+emergency care facility upon request.
+(iii)  Production and distribution to designated emergency care facilities of signage
+bearing the Safe Haven symbol, subject to availability of funding for this purpose.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Written information, training materials, and an instructional video to be made
+available for download on the department's website, for the instruction of representatives of
+emergency medical care facilities who are designated to receive relinquished children and
+to interview relinquishing parents.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall review all information, materials, video, and any other
+media produced in accordance with this Paragraph at least annually; and, to the extent that
+funding is available for such purposes, shall update, revise, and reissue these resources as the
+secretary of the department deems necessary.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1160__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Procedures and forms informing a relinquishing parent about his right to file a
+claim and be heard in accordance with Articles 1156 and 1157 and his right to use the
+services of the voluntary registry in accordance with Chapter 15 of Title XII.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1160__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Procedures for use by a physician in conducting the medical evaluation of the
+child in accordance with Article 1153.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1160__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The department shall utilize existing funds to effectuate the provisions of
+Subparagraphs (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1160__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1160__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1160__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In addition to any other duties as may be required by this Article, the department
+shall develop and implement annually each of the following plans:</p>
+          </content>
+          <paragraph eId="CHC-1160__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An annual communication and public information action plan to increase public
+awareness of the Safe Haven Law.  This plan shall include, without limitation, all of the
+following actions:</p>
+            </content>
+            <subparagraph eId="CHC-1160__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Issuing media releases for distribution to print, radio, and television media.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Disseminating information through social media.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_B__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Conducting outreach to the public through collaborations with community-based
+organizations, child protection stakeholder groups, offices of state government, and any other
+entities the secretary of the department deems appropriate.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_B__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Undertaking any other communication or publicity activity deemed necessary by
+the secretary of the department and for which sufficient funding is available.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An action plan providing for dissemination of information and training
+resources relating to the Safe Haven Law to designated emergency care facilities.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To the extent the secretary of the department deems appropriate, and contingent
+upon availability of funding for this purpose, the department may also disseminate the
+information and resources provided for in Subsubparagraph</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Subparagraph to any
+of the following:</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_B__subsec_1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Schools of medicine.
+(ii)  Schools of nursing.
+(iii)  Law enforcement training schools.
+(iv)  Firefighter training programs.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1160__subsec_B__subsec_1__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>Emergency medical service provider training programs.
+(vi)  Any other institutions that train professionals who typically work in a designated
+emergency care facility.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1160__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>On or before January first annually, the department shall submit to the House
+Committee on Health and Welfare and the Senate Committee on Health and Welfare a report
+addressing efforts undertaken in the period covered by the report to raise public awareness
+of the Safe Haven Law.  The report shall include but not be limited to a recapitulation of
+content of the communication and public information action plan and action plan for
+dissemination of safe haven information and training resources required by this Article.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180659</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

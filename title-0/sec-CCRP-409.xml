@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-409"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-409"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 409"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-409/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-409/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-409/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-409/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-409">
+        <num>CCRP 409</num>
+        <heading>409.  Selection of general venire in Orleans Parish</heading>
+        <subsection eId="CCRP-409__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In the parish of Orleans, the jury commission shall select impartially at least seven hundred fifty persons having the qualifications to serve as jurors, who shall constitute the general venire.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A list of the persons so selected shall be prepared and certified by the commission as the general venire list and shall be kept as part of the records of the commission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The name and address of each person on the list shall be written on a separate slip of paper, with no designation as to race or color, which shall be placed in a box labeled &quot;General Venire Box.&quot;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>No drawing shall be made from a general venire containing fewer than seven hundred fifty names, except when the court orders the drawing of tales jurors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-409__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>After the jury commission has selected the general venire, it shall lock and seal the general venire box and deliver it to the secretary of the commission, as the custodian thereof.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112512</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-598"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-598"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 598"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-598/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-598/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-598/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-598/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-598">
+        <num>CCRP 598</num>
+        <heading>598.  Effect of verdict</heading>
+        <subsection eId="CCRP-598__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a person is found guilty of a lesser degree of the offense charged, the verdict or judgment of the court is an acquittal of all greater offenses charged in the indictment and the defendant cannot thereafter be tried for those offenses on a new trial.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-598__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a jury returns a verdict in the sentencing hearing in a capital case determining that the defendant should be sentenced to life imprisonment, the defendant cannot thereafter be sentenced to death for that offense on a new trial.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112641</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

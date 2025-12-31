@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1269.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1269-2">
+        <num>CHC 1269.2</num>
+        <heading>1269.2.  Continuing post-adoption contact; foster child adoptions</heading>
+        <subsection eId="CHC-1269-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In an agency adoption in which the department is the custodian of the child, the court may approve an agreement executed in conformity with the requirements of this Chapter that provides for continuing contact between the child to be adopted and his grandparent, sibling, and any parent whose consent or relinquishment is required for the adoption of the person, if both of the following conditions are met:</p>
+          </content>
+          <paragraph eId="CHC-1269-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The child has an established, significant relationship with that person to the extent that its loss would cause substantial harm to the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1269-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The preservation of the relationship would otherwise be in the best interest of the child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1269-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If there is no parental relationship that meets the requirements of Paragraph A of this Article, the court may approve an agreement, executed in conformity with the requirements of this Chapter, that provides for continuing contact between the child to be adopted and any other relative or foster parent whose relationship with the child meets those requirements.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1269-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When adoption is approved by the court as the permanent plan for the child, the department shall inform any parent, grandparent, sibling, or any other relative or foster parent who meets the requirements of Paragraph A or B of this Article of the possibility of post-adoption contact with the child upon agreement with the adoptive parents in accordance with the provisions of this Chapter.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72745</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

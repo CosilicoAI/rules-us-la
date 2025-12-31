@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3061"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3061"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 3061"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3061/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3061/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-3061/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-3061/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-3061">
+        <num>CC 3061</num>
+        <heading>3061.  Termination of suretyship</heading>
+        <content>
+          <p>Art. 3061.  Termination of suretyship
+A surety may terminate the suretyship by notice to the creditor.  The termination does not affect the surety's liability for obligations incurred by the principal obligor, or obligations the creditor is bound to permit the principal obligor to incur at the time the notice is received, nor may it prejudice the creditor or principal obligor who has changed his position in reliance on the suretyship.
+Knowledge of the death of a surety has the same effect on a creditor as would a notice of termination received from the surety.  A termination resulting from notice of the surety's death does not affect a universal successor of the surety who thereafter unequivocally confirms his willingness to continue to be bound thereby.  The confirmation need not be in writing to be enforceable.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=110103</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

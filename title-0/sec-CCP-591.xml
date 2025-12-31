@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-591"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-591"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 591"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-591/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-591/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-591/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-591/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-591">
+        <num>CCP 591</num>
+        <heading>Section </heading>
+        <subsection eId="CCP-591__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>One or more members of a class may sue or be sued as representative parties on behalf of all, only if:</p>
+          </content>
+          <paragraph eId="CCP-591__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The class is so numerous that joinder of all members is impracticable.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-591__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>There are questions of law or fact common to the class.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-591__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The claims or defenses of the representative parties are typical of the claims or defenses of the class.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-591__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The representative parties will fairly and adequately protect the interests of the class.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-591__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The class is or may be defined objectively in terms of ascertainable criteria, such that the court may determine the constituency of the class for purposes of the conclusiveness of any judgment that may be rendered in the case.  This prerequisite shall not be satisfied if it is necessary for the court to inquire into the merits of each potential class member's cause of action to determine whether an individual falls within the defined class.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-591__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An action may be maintained as a class action only if all of the prerequisites of Paragraph A of this Article are satisfied, and in addition:</p>
+          </content>
+          <paragraph eId="CCP-591__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The prosecution of separate actions by or against individual members of the class would create a risk of:</p>
+            </content>
+            <subparagraph eId="CCP-591__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Inconsistent or varying adjudications with respect to individual members of the class which would establish incompatible standards of conduct for the party opposing the class, or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-591__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Adjudications with respect to individual members of the class which would as a practical matter be dispositive of the interests of the other members not parties to the adjudications or substantially impair or impede their ability to protect their interests; or</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCP-591__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The party opposing the class has acted or refused to act on grounds generally applicable to the class, thereby making appropriate final injunctive relief or corresponding declaratory relief with respect to the class as a whole; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-591__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The court finds that the questions of law or fact common to the members of the class predominate over any questions affecting only individual members, and that a class action is superior to other available methods for the fair and efficient adjudication of the controversy.  The matters pertinent to these findings include:</p>
+            </content>
+            <subparagraph eId="CCP-591__subsec_B__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The interest of the members of the class in individually controlling the prosecution or defense of separate actions;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-591__subsec_B__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The extent and nature of any litigation concerning the controversy already commenced by or against members of the class;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-591__subsec_B__subsec_3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The desirability or undesirability of concentrating the litigation in the particular forum;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-591__subsec_B__subsec_3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The difficulties likely to be encountered in the management of a class action;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-591__subsec_B__subsec_3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The practical ability of individual class members to pursue their claims without class certification;</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-591__subsec_B__subsec_3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The extent to which the relief plausibly demanded on behalf of or against the class, including the vindication of such public policies or legal rights as may be implicated, justifies the costs and burdens of class litigation; or</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCP-591__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The parties to a settlement request certification under Subparagraph B</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-591__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>for purposes of settlement, even though the requirements of Subparagraph B</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-591__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>might not otherwise be met.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-591__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Certification shall not be for the purpose of adjudicating claims or defenses dependent for their resolution on proof individual to a member of the class.  However, following certification, the court shall retain jurisdiction over claims or defenses dependent for their resolution on proof individual to a member of the class.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112184</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

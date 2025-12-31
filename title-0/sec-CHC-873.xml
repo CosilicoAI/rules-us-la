@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-873"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-873"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 873"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-873/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-873/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-873/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-873/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-873">
+        <num>CHC 873</num>
+        <heading>873.  Severance of causes for adjudication</heading>
+        <subsection eId="CHC-873__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If it appears that the child or the state is prejudiced by a joinder of delinquent acts in the petition or by such joinder for trial together, the court may order separate adjudication hearings, grant severance, or provide whatever other relief justice requires.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-873__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If a petition joins a request to adjudicate the child delinquent with a request for adjudication on any other jurisdictional ground authorized by this Code, the court may, in the interests of justice, order separate adjudication hearings.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73464</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

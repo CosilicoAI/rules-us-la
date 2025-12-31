@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-412-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-412-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 412.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-412-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-412-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-412-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-412-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-412-1">
+        <num>CE 412.1</num>
+        <heading>412.1.  Victim's attire in sexual assault cases</heading>
+        <subsection eId="CE-412-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When an accused is charged with a crime involving sexually assaultive behavior,
+or with acts that constitute a sex offense involving a victim who was under the age of
+seventeen at the time of the offense, the manner and style of the victim's attire shall not be
+admissible as evidence that the victim encouraged or consented to the offense; however,
+items of clothing or parts thereof may be introduced in order to establish the presence or
+absence of the elements of the offense and the proof of its occurrence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-412-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The rules of admissibility of evidence provided by this Article shall also apply to
+civil actions brought by the victim which are alleged to arise from any crime referenced in
+Paragraph A of this Article committed by the defendant, whether or not convicted of such
+crimes.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72467</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

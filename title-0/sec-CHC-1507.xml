@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1507"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1507"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1507"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1507/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1507/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1507/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1507/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1507">
+        <num>CHC 1507</num>
+        <heading>1507.  Constructive contempt</heading>
+        <subsection eId="CHC-1507__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Willful neglect or violation of duty by a clerk, sheriff, or other person elected, appointed, or employed to assist the court in the administration of justice.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1507__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Willful disobedience of any lawful judgment, order, mandate, writ, or process of the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1507__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Removal or attempted removal of any person or property in the custody of an officer acting under authority of a judgment, order, mandate, writ, or process of the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1507__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Deceit or abuse of the process or procedure of the court by a party to an action or proceeding, or by his attorney.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1507__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Unlawful detention of a witness, party, or his attorney, while going to, remaining at, or returning from the court where the action or proceeding is to be tried.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1507__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Assuming to act as an attorney or other officer of the court, without lawful authority.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1507__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Comment by a newspaper or other medium for the dissemination of news upon a case or proceeding, then pending and undecided, which constitutes a clear, present, and imminent danger of obstructing or interfering with the orderly administration of justice, by either influencing the court to reach a particular decision, or embarrassing it in the discharge of its judicial duties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1507__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Willful disobedience by an inferior court, judge, or other officer thereof, of the lawful judgment, order, mandate, writ, or process of an appellate court, rendered in connection with an appeal from a judgment or order of the inferior court, or in connection with a review of such judgment or order under a supervisory writ issued by the appellate court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1507__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Willful disobedience of the confidentiality provisions of Article 412.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1507__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Any other act or omission punishable by law as a contempt of court, or intended to obstruct or interfere with the orderly administration of justice, or to impair the dignity of the court or respect for its authority, and which is not a direct contempt.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72974</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

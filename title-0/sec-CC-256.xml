@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-256"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-256"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 256"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-256/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-256/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-256/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-256/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-256">
+        <num>CC 256</num>
+        <heading>256.  Children born outside of marriage</heading>
+        <subsection eId="CC-256__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The mother is of right the tutrix of her child born outside of marriage not
+acknowledged by the father, or acknowledged by him without her concurrence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-256__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>After the death of the mother, if the father had not acknowledged the child prior
+to the mother's death, the court shall give first consideration to appointment as tutor either
+of her parents or siblings who survive her and accept the appointment, and secondly, the
+father, always taking into consideration the best interests of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-256__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If both parents have acknowledged their child born outside of marriage, the judge
+shall appoint as tutor the one by whose care the best interests of the child will be served.
+However, if the parents are awarded joint custody of such acknowledged child born outside
+of marriage, then the cotutorship of such child shall belong of right to both parents, with
+equal authority to act alone, on behalf of the child, and with equal privileges and
+responsibilities, unless modified by order of the court or by an agreement of the parents,
+approved by the court awarding joint custody.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109612</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

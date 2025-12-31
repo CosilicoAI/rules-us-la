@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-892-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-892-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 892.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-892-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-892-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-892-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-892-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-892-1">
+        <num>CCRP 892.1</num>
+        <heading>892.1.  Driver improvement programs</heading>
+        <subsection eId="CCRP-892-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Whenever, in a misdemeanor case, a person is convicted of violating any law of this state that regulates traffic or any parish or municipal ordinance that regulates traffic, or when a child is decreed by a court to be a traffic violator, regardless of any sentence imposed, the court imposing sentence may order the person or child to attend and participate in a driver education, training, or improvement program approved by the court or the violator may choose a program approved by the Department of Public Safety and Corrections, office of motor vehicles as provided and pursuant to the conditions in R.S. 32:402.2.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-892-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Notwithstanding the provision of any other law to the contrary, upon conviction for the first time only of a misdemeanor offense under Title 32 of the Louisiana Revised Statutes of 1950 that regulates traffic or of any similar parish or municipal ordinance that regulates traffic, the court may suspend the sentence for such offense and order the defendant to attend, at his cost, a driver education, training, or improvement program as provided for in Paragraph A of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-892-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon completion by the defendant of the driver program, the court may set the conviction aside and dismiss the prosecution.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-892-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>All driver improvement courses under this Article shall include instruction on railroad and highway grade crossing safety.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-892-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The court in its discretion may defer sentencing and allow the defendant ninety days to present a certificate of course completion as evidence that, subsequent to the alleged act, the person has successfully completed a driver education, training, or improvement course as provided in Paragraph A of this Article when all of the following conditions are met:</p>
+          </content>
+          <paragraph eId="CCRP-892-1__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The person, except as provided in Paragraph G of this Article, enters a plea in person or in writing of nolo contendere or guilty and presents to the court an oral request or a written request, in person or by mail postmarked on or before the appearance date on the citation, to take a driving course.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-892-1__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court enters judgment on the defendant's plea of nolo contendere or guilty at the time the plea is made, but defers the imposition of the whole or any part of the sentence for ninety days.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-892-1__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The defendant has a valid driver's license or permit.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-892-1__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The defendant's driving record as maintained by the Department of Public Safety and Corrections does not indicate successful completion of a driver's education, training, or improvement course under this Article within the two years immediately preceding the date of the alleged offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-892-1__subsec_E__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The defendant files an affidavit with the court stating that he is not in the process of taking a course under this Article and he has not completed a course under this Article that is not yet reflected on his driving record.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-892-1__subsec_E__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The offense charged is for a misdemeanor offense under Title 32 of the Louisiana Revised Statutes of 1950, except when the offense involves speeding twenty-five miles per hour or more over the posted speed limit at the place where the alleged offense occurred.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-892-1__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A written request to take a driving course under Subparagraph E</p>
+          </content>
+          <paragraph eId="CCRP-892-1__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article is timely if it is postmarked on or before the appearance date on the citation.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-892-1__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>A court shall not require a minor who is sixteen years of age or younger to enter a plea of nolo contendere or guilty under Subparagraph E</p>
+          </content>
+          <paragraph eId="CCRP-892-1__subsec_G__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>of this Article.
+H.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-892-1__subsec_G__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>When a person complies with Paragraph E of this Article and a certificate of course completion is accepted by the court, the court shall set the conviction aside and dismiss the charge, but the court may only dismiss one charge for completion of each course.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-892-1__subsec_G__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When a charge is dismissed under this Paragraph, the charge shall not be part of the person's driving record or used for any purpose; however, the court shall report that the person has successfully completed the driving course and the date of completion to the Department of Public Safety and Corrections for inclusion in his driving record.  The report shall indicate that the course was taken under the provisions of this Article to determine eligibility to take a subsequent course under such provisions.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-892-1__subsec_G__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>No insurance company shall increase the premium or cancel an insured's policy merely because of an offense dismissed under this Article or because the insured completed a driving course under this Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-892-1__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>The court may require the person requesting a driving course to pay a fee set by the court at an amount that does not exceed ten dollars to cover the cost of administering this Article.  Fees collected by a municipal court shall be deposited in the municipal treasury.  Fees collected by other courts shall be deposited in the criminal court fund of the parish in which the court is located.  If the person requesting a driving course does not take the course, he is not entitled to a refund of the court fee.  In addition to the cost of the driving course, the person shall pay any fines and costs for the driving offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-892-1__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>The authority vested in courts by this Article is in addition to any authority granted by other laws with respect to persons convicted of traffic violations and children decreed to be traffic violators.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112879</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

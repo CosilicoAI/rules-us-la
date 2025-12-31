@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1039"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1039"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1039"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1039/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1039/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1039/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1039/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1039">
+        <num>CHC 1039</num>
+        <heading>1039.  Other dispositions</heading>
+        <subsection eId="CHC-1039__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>After final submission, the court shall render its judgment within thirty days.
+B.</p>
+          </content>
+          <paragraph eId="CHC-1039__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the court finds that the alleged grounds are not proven in accordance with
+the evidentiary standards set forth in Article 1035 or if the court finds that termination of
+parental rights is not in the best interest of the child, it shall enter written findings on both
+issues and may:</p>
+            </content>
+            <subparagraph eId="CHC-1039__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Dismiss the petition.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1039__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Reinstate the parent to full care and custody of the child.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1039__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the child has been previously adjudicated as a child in need of care, reinstate
+that proceeding pursuant to Title VI of this Code.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1039__subsec_A__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Upon a showing of sufficient facts, adjudicate the child in need of care in
+accordance with Title VI of this Code.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1039__subsec_A__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Upon a showing of sufficient facts, adjudicate the family in need of services in
+accordance with Title VII of this Code.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1039__subsec_A__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Make any other disposition that is in the best interest of the child.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1039__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In actions based on Article 1015.1, if the court finds the alleged grounds are not
+proven, then any determination of custody, visitation, contact, and all other parental rights
+of the alleged perpetrator shall be determined in a separate action independent of the
+termination proceeding.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1039__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court shall enter into the record a written judgment, signed by the court.  The
+date of the entry of the judgment shall be recorded on the judgment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1039__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A copy of the judgment shall be furnished to all counsel of record and to all
+unrepresented parties.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72572</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

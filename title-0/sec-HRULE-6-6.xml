@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-6"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-6"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 6.6"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-6/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-6/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-6/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-6-6/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-6-6">
+        <num>HRULE 6.6</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-6-6__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Administration of Criminal Justice: To this committee shall be referred, in
+accordance with the rules, all legislative instruments, messages, petitions, memorials and
+other matters relating to the following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Administration of criminal justice generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Criminal law.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Code of criminal procedure and criminal procedure generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Rules of criminal evidence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Controlled dangerous substance law and procedure.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Traffic offense and procedure.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Weapons and explosives.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Penal and correctional institutions and juvenile and adult rehabilitation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Corrections.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Gambling, gaming, and wagering, with the exception of pari-mutuel wagering.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_A__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Charitable gaming.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Agriculture, Forestry, Aquaculture, and Rural Development: To this committee
+shall be referred, in accordance with the rules, all legislative instruments, messages, petitions,
+memorials, and other matters relating to the following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Agriculture generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Agricultural and industrial chemistry.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Agricultural economics and research.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Agricultural engineering.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Agricultural production on public lands.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Agricultural production, promotion, and marketing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Agricultural services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Animal industry and diseases of animals.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Aquacultural economics and research.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Aquacultural production, promotion, and marketing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Dairy industry.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Production, promotion, harvesting, and marketing of forestry products.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Silviculture.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>Human nutrition and home economics.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>Inspection of livestock and meat products.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>Plant industry and plant quarantine.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>Rural development.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_B__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>Soils and soil conservation.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Appropriations: To this committee shall be referred, in accordance with the rules,
+all legislative instruments, messages, petitions, memorials, and other matters relating to the
+following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Appropriation of state funds.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Expenditure of funds.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>General appropriation bill.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Deposit and investment of public monies, including the creation or modification
+of any special fund in the state treasury to which proceeds from state taxes, fees, or other
+charges are dedicated.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Cash flow.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Study of economy and efficiency in the operation of government at all levels.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Budgetary requirements and procedures.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Central purchasing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Fiscal controls.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Comprehensive state capital budget, after initial consideration by the Committee
+on Ways and Means in accordance with House Rule 6.8(C).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_C__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Public procurement as provided in Chapter 17 of Title 39 of the Louisiana
+Revised Statutes of 1950.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Civil Law and Procedure: To this committee shall be referred, in accordance with
+the rules, all legislative instruments, messages, petitions, memorials and other matters
+relating to the following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Matters encompassed by the Civil Code and Civil Code Ancillaries, including,
+without limitation, matters affecting persons generally, marriage, divorce and matters of
+family law, tutorship and curatorship, things generally, use and usufruct, servitudes,
+successions, donations, obligations generally, extinction of obligations, delicts and
+quasidelicts, matrimonial agreements, sales and leases, and prescription.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Code of Civil Procedure, and civil procedure generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Rules of civil law evidence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Notaries public and their records.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_D__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Mineral Code.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_D__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Trust Code.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_D__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Questions of constitutional rights--civil.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_D__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Proposed amendments to the state constitution, after initial consideration in
+committee of subject matter, if different from Civil Law and Procedure.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Commerce: To this committee shall be referred, in accordance with the rules, all
+legislative instruments, messages, petitions, memorials and other matters relating to the
+following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Commerce generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Banking and the regulation thereof.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Communication by telephone, telegraph, radio and television.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Registering and licensing of vessels and small boats.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Navigation and laws relating thereto.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Regulation of common carriers by water.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Consumer protection.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Laws relating to merchandising.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Regulation, licensing, or certification of occupations and professions generally,
+except those fields which are health related.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Interest rates.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Savings and loan and homestead associations.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Small loan companies.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Regulation and licensing of businesses and occupations.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>Protection of trade and commerce against unlawful restraints and monopolies.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>Corporations.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_E__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>Tourism.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Education: To this committee shall be referred, in accordance with the rules, all
+legislative instruments, messages, petitions, memorials and other matters relating to the
+following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Education generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Schools and secondary education.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>School employees, administrators, teachers, bus drivers and others.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>School employees' and teachers' pay, except where an appropriation of state funds
+is required.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Colleges and universities.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Employees of colleges and universities, including pay, except where an
+appropriation of state funds is required.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Vocational technical education.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Employees of vocational technical education schools, including pay, except,
+where an appropriation of state funds is required.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>College or university agricultural extension service.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Adult education.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>School lunch program.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Special Schools.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>State and public libraries.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_F__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>Educational television.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Health and Welfare: To this committee shall be referred, in accordance with the
+rules, all legislative instruments, messages, petitions, memorials and other matters relating
+to the following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Institutions, health and welfare generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Hospitals, public or private.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Health offices and their administration.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Institutions and services for persons with intellectual disabilities.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Mental health institutions and facilities.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Geriatric hospitals.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Nursing homes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Vocational rehabilitation including vocational rehabilitation homes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Alcoholic rehabilitation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Health and human resources administration.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Tuberculosis sanitoriums.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Nurse's training programs.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Public welfare.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>Old age assistance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>Private and local institutions of public welfare.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>Research training and rehabilitation in the field of public welfare.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>Regulation, licensing, or certification of health-related occupations and
+professions.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_G__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>Drinking water standards.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>House and Governmental Affairs: To this committee shall be referred, in
+accordance with the rules, all legislative instruments, messages, petitions, memorials, and
+other matters relating to the following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Affairs of the House.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Legislative rules and procedures.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Expenditures of funds by the Legislature.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Services of or for the House and/or its committees and members.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Assignment of space in state buildings, including space for legislative needs.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Rules or laws enacted to reorganize the Legislature or executive branches of
+government.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Intergovernmental relations between the state and the United States or other
+states.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The capitol building and all other buildings for general services at the state
+capital, including capitol parking.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Maintenance and care of capitol complex buildings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Employees of the House.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Legislative Auditor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Legislative Fiscal Officer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Civil Service.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>Creation of all legislative committees.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>Elections, state political parties and their committees.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>Registrars of voters and their records.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>Governmental ethics.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>Apportionment of elected officials and governing bodies.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_H__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>Proposals for interim study by a committee, after initial consideration in
+committee of subject matter, if different from House and Governmental Affairs.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>Insurance: To this committee shall be referred, in accordance with the rules, all
+legislative instruments, messages, petitions, memorials and other matters relating to the
+following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_I__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Insurance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_I__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Private insurance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_I__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Public insurance systems.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_I__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Employment insurance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_I__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Compulsory motor vehicle liability security matters, motor vehicle insurance, and
+automobile insurance.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>Judiciary: To this committee shall be referred, in accordance with the rules, all
+legislative instruments, messages, petitions, memorials and other matters relating to the
+following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All matters relating to the Supreme Court, Courts of Appeal, District Courts,
+Family Courts, and Juvenile Courts, matters of the jurisdiction of said courts, matters relating
+to judges generally, including compensation, expenses, personnel, facilities and the like,
+except as pertains to retirement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All matters relating to Municipal and Parish Courts, Mayor's Courts and Justice
+of the Peace Courts.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>All matters relating to the Attorney General, District Attorneys and prosecutors
+in general, including compensation, expenses, personnel, facilities and the like.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Law enforcement generally, including matters relating to public safety.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Sheriffs generally except matters affecting the sheriffs as ex officio tax collectors.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Clerks of court and records of the Courts.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>National guard, Code of Military Justice and the Adjutant General.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Civil defense and disaster protection.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>State and local government boundary lines.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Holidays and celebrations.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Regulations and sale of intoxicating liquors.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_J__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Miscellaneous matters not covered by other standing committees.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_K">
+          <num>K.</num>
+          <content>
+            <p>Labor and Industrial Relations: To this committee shall be referred, in accordance
+with the rules, all legislative instruments, messages, petitions, memorials and other matters
+relating to the following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_K__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Labor and industrial relations generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_K__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Wages and hours of labor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_K__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Workmen's compensation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_K__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Labor standards.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_K__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Child labor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_K__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Health and safety of labor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_K__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Unemployment compensation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_K__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Labor retirement laws.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_K__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Labor disputes.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_L">
+          <num>L.</num>
+          <content>
+            <p>Municipal, Parochial and Cultural Affairs: To this committee shall be referred,
+in accordance with the rules, all legislative instruments, messages, petitions, memorials, and
+other matters relating to the following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Local and municipal affairs generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>City of New Orleans affairs.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Police juries.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Municipalities.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Forms of local government.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Municipal drainage, and sewerage and water districts.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Technical assistance to local governments.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Assistance to municipal and local governments.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Revenue of and taxation levied by local governments.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Employees of local governments.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Expenditures by local governments.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Local ordinances.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Intergovernmental relations.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>State planning.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>Economic development.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>Political subdivision industrial inducement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>Economic development districts.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>Urban planning.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>Cultural affairs generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>Parks.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>State parks and recreational districts.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_22">
+            <num>(22)</num>
+            <content>
+              <p>Military parks and battlefields.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_23">
+            <num>(23)</num>
+            <content>
+              <p>Museums.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_L__subsec_24">
+            <num>(24)</num>
+            <content>
+              <p>Preservation of historic landmarks and objects.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_M">
+          <num>M.</num>
+          <content>
+            <p>Natural Resources and Environment:  To this committee shall be referred, in
+accordance with the rules, all legislative instruments, messages, petitions, memorials, and
+other matters relating to the following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Natural resources generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Conservation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Environmental control and regulation generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Land pollution.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Pollution of air, water, and land and environmental control generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Air quality.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Wildlife and fisheries.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Mines and minerals.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Hunting, fishing, and recreational boating.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Public lands.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Mineral resources of the public lands.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Public and geological surveys.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Laws regulating minerals and mining.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>Tidelands.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>Accretion, alluvion, and dereliction of public and private lands.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>Owners of minerals and mineral lands.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>Materials or substances which travel through pipelines.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>Hazardous waste regulation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>Solid waste regulation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_M__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>Laws regulating water resources.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_N">
+          <num>N.</num>
+          <content>
+            <p>Retirement: To this committee shall be referred, in accordance with the rules, all
+legislative instruments, messages, petitions, memorials and other matters relating to
+retirement of all state officials, whether elected or appointed, of state employees, of teachers
+and school employees and of judges.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_O">
+          <num>O.</num>
+          <content>
+            <p>Transportation, Highways and Public Works: To this committee shall be referred,
+in accordance with the rules, all legislative instruments, messages, petitions, memorials, and
+other matters relating to the following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Transportation, Highways and Public Works in general.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Highways, roads, and bridges.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Railroads.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Air, bus, and vehicular transportation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Rules and regulations for highway, railroad, and air use.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Common carriers, except by water.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Pipelines, except the substances or materials which travel through the pipelines.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Motor vehicle regulation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Public works.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Flood and drainage projects, including levee districts and multiparish drainage
+projects.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Construction, improvement, and maintenance of waterways, lakes, and streams.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Facilities in connection with lakes, waterways, and streams.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>Water conservation districts.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_O__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>Advertisement and letting of public contracts to the lowest responsible bidder
+relative to the Public Bid Law as provided in R.S. 38:2212.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-6-6__subsec_P">
+          <num>P.</num>
+          <content>
+            <p>Ways and Means: To this committee shall be referred, in accordance with the
+rules, all legislative instruments, messages, petitions, memorials and other matters relating
+to the following subjects:</p>
+          </content>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Taxes and the raising of revenue.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Bonds and the bonding of revenue.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Issuance, payment or retirement of bonds.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Evidences of indebtedness.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>State revenues, generally.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Revenue collection.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Assessors, their offices, salaries, expenses, compensation, and the like.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Parish tax collectors, their offices, salaries, experiences, compensation and the
+like.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Comprehensive state capital budget, prior to consideration by the Committee on
+Appropriations in accordance with House Rule 6.8(C).
+HR 3, 1973; HR 3, 1975; HR 5, 1975; HR 14, 1977; HR 4, 1978; HR 4, 1979; HR
+18, 1979; HR 4, 1980; HR 8, 1982; HR 10, 1983; HR 4, 2nd Ex. Sess., 1983; HR 8, 1984;
+HR 4, 1st Ex. Sess., 1984; HR 3, 1985; HR 11, 1991, eff. Jan. 13, 1992; HR 2, 1992 Org.
+Sess.; HR 27, 1993; HR 1, 1996 Org. Sess.; HR 22, 1997, eff. April 29, 1997; HR 3, 1999;
+HR 25, 2001; HR 13, 2003; HR 1, 2008 Org. Sess., eff. Jan. 15, 2008; HR 3, 2014, eff. June
+2, 2014; HR 1, 1 st Ex. Sess., 2017.
+NOTE: Former House Rules 6.6(C)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-6-6__subsec_P__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>merged due to the merger
+of Chapter 16 of Title 39 of the La. Revised Statutes of 1950 into Chapter 17
+of  Title 39 of the La. Revised Statutes of 1950. See</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113339</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

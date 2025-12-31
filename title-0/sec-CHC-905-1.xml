@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-905-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-905-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 905.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-905-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-905-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-905-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-905-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-905-1">
+        <num>CHC 905.1</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-905-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When a child is assigned to the secure custody of the Department of Public Safety
+and Corrections following an adjudication of delinquency, the department shall assess the
+child's academic grade level using a research-based diagnostic tool within thirty days of the
+child's admission to a secure care facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-905-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The department shall develop a written academic plan for the child based upon
+all of the following criteria for each individual child:</p>
+          </content>
+          <paragraph eId="CHC-905-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Grade level diagnostic test results.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-905-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Past academic performance.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-905-1__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The individualized education plan or individualized learning plan, as applicable.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-905-1__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The length of time the child will be in the department's secure custody.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-905-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the child tests at grade level or above, the individualized education plan or
+individualized learning plan shall be structured to allow the child to timely prepare for or
+earn a high school diploma, General Educational Development Certification or certificate of
+achievement from the Special School District, during the period the child is in the
+department's secure custody.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-905-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the child tests below grade level, the individualized education plan or
+individualized learning plan shall be structured, depending on the child's abilities, to bring
+the child's academic performance up to grade level or as reasonably close thereto as possible,
+during the period the child is in the department's secure custody.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-905-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The department shall submit the individualized education plan or individualized
+learning plan to the court within forty-five days of the child's admission to the secure care
+facility and a copy shall be provided to the parents or guardian of the child, the district
+attorney, and counsel for the child at the time it is submitted to the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-905-1__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A report on the child's academic progress shall be included in the department's
+quarterly report to the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-905-1__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>For purposes of this Code, &quot;individualized learning plan&quot; shall include vocational
+training.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-905-1__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>Upon discharge from the department's custody, a copy of the child's academic
+plan and all progress reports shall be provided to the child's parents or guardian.  The
+department shall provide this information to the school or academic program in which the
+child is thereafter enrolled upon written request.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=814352</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

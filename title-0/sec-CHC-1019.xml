@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1019"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1019"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1019"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1019/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1019/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1019/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1019/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1019">
+        <num>CHC 1019</num>
+        <heading>1019.  Contents of the petition</heading>
+        <subsection eId="CHC-1019__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The petition shall set forth with specificity:</p>
+          </content>
+          <paragraph eId="CHC-1019__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name, date, and place of birth, sex, race, and address of the child.  If the child
+is in a foster home, the identification of the parish in which he resides shall suffice for his
+address.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1019__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The name and current address of the child's parents.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1019__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The name, age, and sex of any other biological relatives of the child who are
+currently living with the child in his home.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1019__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The name of any public institution or agency having the responsibility or ability
+to supply services alleged to be needed by the family.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1019__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A statement as to whether the petitioner knows or has reason to know that the
+child is an Indian child and facts that support that statement.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1019__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If any of the information required by Paragraph A of this Article is unknown, the
+petition shall so allege.  Any defects in the information required by Paragraph A of this
+Article shall be considered defects of form.  The petitioner shall inform the court if he
+subsequently discovers information indicating that the child is an Indian child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1019__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The petition shall allege facts that constitute the grounds necessary for the
+termination of parental rights as set forth in Article 1015 or 1015.1.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72544</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

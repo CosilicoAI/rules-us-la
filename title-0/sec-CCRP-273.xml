@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-273"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-273"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 273"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-273/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-273/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-273/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-273/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-273">
+        <num>CCRP 273</num>
+        <heading>273.  Waiver of extradition proceedings</heading>
+        <subsection eId="CCRP-273__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A demanded person arrested in this state may waive the issuance and service of the warrant required by Articles 265 and 266 and all other requirements incidental to extradition proceedings, by consenting in writing in the presence of the judge to return to the demanding state.  Before such waiver is executed or subscribed to by the demanded person, the judge shall inform him of his rights to the issuance and service of a warrant of extradition and to an extradition hearing.  When a waiver has been executed the judge shall direct the officer having the person in custody to deliver him immediately to the accredited agent of the demanding state, with a copy of the waiver.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-273__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The waiver procedure of Paragraph A of this Article is not exclusive and does not in any way preclude the state's return of a probationer or parolee to another state with which the state of Louisiana has entered into a compact for out-of-state probation and parole supervision, under the authority of R.S. 15:574.14(3), or a probation or parole absconder who has signed a waiver of extradition as a condition of probation or parole.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112408</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

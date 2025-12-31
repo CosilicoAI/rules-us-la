@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-815"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-815"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 815"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-815/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-815/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-815/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-815/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-815">
+        <num>CHC 815</num>
+        <heading>815.  Child taken into custody; place of detention</heading>
+        <subsection eId="CHC-815__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Except as provided in Paragraph E of this Article, if the child has been taken into
+custody for the commission of a felony-grade delinquent act or of a misdemeanor-grade
+delinquent act based upon an offense against the person of another, the child may be taken
+to a juvenile detention center and the procedures regarding the administration of the
+detention screening instrument set forth in Paragraph A of this Article shall apply.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-815__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Except as provided in Paragraph E of this Article, for the commission of any other
+misdemeanor-grade delinquent act, the child may be taken to a juvenile detention center or
+shelter care facility or released to a parent or guardian upon the written promise of the parent
+or guardian to bring the child to court pursuant to Article 814.  If the child is not released to
+a parent or guardian, the officer shall follow the procedures set forth in Paragraph A of this
+Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-815__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The governing authority of the parish or municipality requesting placement of a
+juvenile in either a regional detention center or a shelter care facility shall be responsible to
+the regional detention center or shelter care facility for the cost of confinement in accordance
+with a schedule which may be adopted by the regional detention center or shelter care
+facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-815__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>No child under the age of thirteen shall be detained in a juvenile detention center
+after being taken into custody for the alleged commission of a misdemeanor-grade delinquent
+act.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-815__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If a juvenile detention center is not available, a juvenile may be held in an adult
+jail or lockup for purposes of and only as long as necessary to complete identification or
+processing procedures or while awaiting transportation, but not to exceed six hours. 
+However, in nonmetropolitan areas, the juvenile may be held for up to forty-eight hours if
+all of the following occur:</p>
+          </content>
+          <paragraph eId="CHC-815__subsec_F__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The juvenile is accused of a nonstatus offense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-815__subsec_F__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A continued custody hearing in accordance with Articles 820 and 821 is held
+within forty-eight hours after his arrest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-815__subsec_F__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>There is no acceptable alternative placement to the jail or lockup in which the
+juvenile is being held.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-815__subsec_F__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The sheriff or the administrator of the adult jail or lockup has certified to the
+court that facilities exist that provide for sight and sound separation of the juvenile from
+adult offenders and the juvenile can be given continuous visual supervision while placed in
+the jail or lockup.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73406</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

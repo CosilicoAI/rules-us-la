@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1525"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1525"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1525"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1525/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1525/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1525/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1525/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1525">
+        <num>CHC 1525</num>
+        <heading>1525.  Scope of jurisdiction</heading>
+        <subsection eId="CHC-1525__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Interference with the custody of a child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Criminal abandonment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Unlawful sales to minors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>Unlawful purchase of alcoholic beverages for minors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>Unlawful distribution of sample tobacco products to minors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Sale, exhibition, or distribution of material harmful to minors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>Sale, distribution, or making available to minors publications encouraging, advocating, or facilitating the illegal use of controlled substances.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>Illegal use of controlled dangerous substances in the presence of children.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>Sale of poisonous reptiles to minors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_10">
+          <num>(10)</num>
+          <content>
+            <p>Contributing to the delinquency of juveniles or encouraging or contributing to child delinquency, dependency, or neglect.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_11">
+          <num>(11)</num>
+          <content>
+            <p>Unlawful use and sale of model glue to minors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_12">
+          <num>(12)</num>
+          <content>
+            <p>Tatooing minors.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_13">
+          <num>(13)</num>
+          <content>
+            <p>Child desertion.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_14">
+          <num>(14)</num>
+          <content>
+            <p>Abandoning ice boxes or other air tight containers in a place accessible to children.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_15">
+          <num>(15)</num>
+          <content>
+            <p>Failure of a mandatory reporter to report abuse of children.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_16">
+          <num>(16)</num>
+          <content>
+            <p>Violation of the requirements for the investigation of reports of child abuse.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_17">
+          <num>(17)</num>
+          <content>
+            <p>Knowingly making a false report of child abuse.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_18">
+          <num>(18)</num>
+          <content>
+            <p>Making a false report of a missing child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_19">
+          <num>(19)</num>
+          <content>
+            <p>Violation of the compulsory school attendance law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1525__subsec_20">
+          <num>(20)</num>
+          <content>
+            <p>Any offense affecting the physical, moral, or mental well-being of children as provided in Section 2 of Subpart B of Part V of Chapter 1 of Title 14 of the Louisiana Revised Statutes of 1950.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72993</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

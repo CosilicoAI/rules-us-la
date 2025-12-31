@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1120"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1120"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1120"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1120/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1120/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1120/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1120/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1120">
+        <num>CHC 1120</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1120__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Prior to the execution of any surrender, a surrendering parent shall participate in a minimum of two counseling sessions relative to the surrender with a licensed social worker, licensed psychologist, medical psychologist, licensed psychiatrist, licensed counselor, or a counselor employed by a licensed child-placing agency.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1120__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The counselor shall execute an affidavit attesting that the surrendering parent attended a minimum of two sessions, and stating whether the surrendering parent appeared to understand the nature and consequences of his intended act.  The affidavit of the counselor shall be attached to the act of surrender.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1120__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If, in the opinion of the counselor, there is any question concerning the parent's mental capacity to surrender, the basis for these concerns shall be stated in the affidavit.  If indicated, the affidavit shall contain a specific recommendation for any further evaluation that may be needed to ascertain the parent's capacity.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1120__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If he is a major, any surrendering father of a child may waive the counseling otherwise mandated by Paragraph A of this Article.  In this case, the attorney or counselor shall execute an affidavit attesting to the father's waiver and that he appeared to understand the nature and consequences of his intended act.  The affidavit of the counselor or attorney shall be attached to the act of surrender.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72605</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

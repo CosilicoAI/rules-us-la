@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-3-D"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-3-D"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CA 14 3(D)"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-3-D/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-3-D/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-14-3-D/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-14-3-D/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CA-14-3-D">
+        <num>CA 14 3(D)</num>
+        <heading>PAROCHIAL AND MUNICIPAL AFFAIRS</heading>
+        <content>
+          <p>Art.  XIV.  PAROCHIAL AND MUNICIPAL AFFAIRS
+§3(d).  Acquisition and financing of sewerage improvements
+Section 3(d).  The governing authority of East Baton Rouge Parish may
+create within such parish sewerage districts, including one or more
+consolidated sewerage districts comprised of one or more existing sewerage
+districts, together with, if so determined by the governing authority, territory
+not within the boundaries of an existing sewerage district.  Consolidated
+sewerage districts so created shall constitute sewerage districts within the
+meaning of sub-section c of Section 14 of Article XIV of the Constitution and
+as such shall enjoy all rights, powers and privileges enjoyed by other sewerage
+districts under the provisions of said section, including the right to issue bonds,
+and shall also have the right to issue certificates of indebtedness secured by
+local or special assessments.
+Before any such consolidated district shall be finally created the
+governing authority of the parish shall publish in the official journal of the
+parish at least once not less than fifteen days prior to the date of hearing a
+notice of its intention to create such district and fixing a date for the holding
+of a public hearing in which all persons interested may be heard on the
+question of benefit accruing to their property by reason of the creation of the
+district.  The governing authority in determining the boundaries of any such
+consolidated district shall take into consideration the question of benefits
+accruing to the property therein.  Such notice of hearing shall set forth the
+proposed name and boundaries of the district, list the districts to be so
+consolidated and state the amount of outstanding indebtedness of each and
+shall state the time and place fixed for the hearing.  Following the hearing on
+the creation of any such district the resolution creating such district shall be
+published one time in the official journal of the parish.  Thirty days after such
+publication the creation of the district shall become incontestable and no court
+shall have any right to entertain litigation questioning the legality of the
+creation of such district.  If the governing authority shall desire to call an
+election in any such district on the issuance of bonds, the levy of special taxes
+or the assumption of indebtedness, notice of such election may be published
+during the expiration of such thirty day period.
+At the expiration of such thirty day period, sewerage districts included
+in any such consolidated district shall no longer have the right to issue bonds
+and all books and records and assets thereof shall be transferred to the
+consolidated district.  Unless such consolidated district shall vote to assume
+the indebtedness of each underlying district as hereinafter provided, it shall be
+the duty of the governing authority of the consolidated district to cause taxes
+to continue to be levied for the payment of the outstanding indebtedness except
+that where such indebtedness of any underlying district consists of revenue
+bonds payable from service charges or obligations payable from the proceeds
+of special assessments, the governing authority shall continue to impose and
+collect such service charges and assessments.  Such taxes as may be levied by
+the governing authority of the consolidated district in the underlying districts
+shall be entitled to the benefit of the exemption and reimbursal authorized by
+R.S.  39:253.
+Consolidated sewerage districts created hereunder shall have all rights,
+powers and privileges granted to and enjoyed by other sewerage districts under
+the Constitution and laws of Louisiana.
+The creation of any consolidated sewerage district hereunder shall not
+affect or impair in any manner contract rights enjoyed by the holders of any
+outstanding bonds of the underlying districts and to the extent required by such
+contract rights, taxes, special assessments and service charges on the property
+subject to the payment of principal of and interest on such bonds shall continue
+to be levied as above provided, provided however, that any consolidated
+sewerage district may assume all indebtedness of its underlying districts in the
+manner and with the effect provided by R.S.  39:661 et seq.  for the
+assumption of indebtedness by parishes.  In the event indebtedness is so
+assumed, taxes for the payment thereof shall be levied by the governing
+authority on all taxable property in the consolidated district.  Where sewerage
+districts consolidated into any consolidated district hereunder have been in
+existence prior to August 1, 1956, the creation of the consolidated district will
+be solely for the purpose of continuing the sewer improvement programs for
+which the districts so consolidated were originally created and the provisions
+of R.S.  39:253 shall be regarded as applicable in all respects to all taxes levied
+by any such consolidated district and such district shall be considered to be a
+district created prior to August 1, 1956, for all purposes of said section.
+For the purpose of this section, any sewerage district which may have
+been theretofore created and which does not at the time of consolidation have
+outstanding any indebtedness or unexpired special taxes may be considered by
+the governing authority to be an existing district for purposes of consolidation
+or such district may be abolished by the governing authority and the territory
+therein contained regarded as unorganized territory for sewerage purposes.
+Any consolidated sewerage district created hereunder in addition to its
+right to issue bonds for improvement purposes payable from sewer revenues
+is hereby empowered to issue its refunding bonds for the purpose of refunding
+any outstanding bonds of one or more of its underlying districts, or in its
+discretion, may authorize and deliver a single issue of revenue bonds for both
+improvement and refunding purposes.  Nothing in this paragraph shall be
+construed to authorize the refunding of any bonds which have not matured or
+been properly called for redemption under a right of redemption therein
+reserved or which the holders thereof may not voluntarily surrender. 
+Refunding bonds so authorized shall be authorized and issued in the manner
+provided by law for the issuance of other bonds of sewerage districts and shall
+be secured in the manner so provided by law, except that the governing
+authority may, in its discretion, provide for changes in the source of payment
+of such bonds as it may consider desirable and except that any refunding bonds
+so authorized may be either sold or may be delivered in exchange for a like
+principal amount of the bonds refunded or may be sold in part or exchanged
+in part.  Where any such refunding bonds are issued for the purpose of
+refunding bonds which are maturing or have been called for redemption within
+a period of six months from the issuance of such refunding bonds, such bonds
+may be sold and the proceeds thereof escrowed to be used in paying the bonds
+refunded on the date on which they so become payable through maturity or call
+for redemption.  No election shall be necessary to the issuance of such
+refunding bonds.  The provisions of law applicable to maturities and interest
+rates borne by other revenue bonds of sewerage districts shall be applicable to
+such refunding bonds.  Refunding bonds so issued shall not exceed in principal
+amount the principal amount of the bonds to be so refunded.  Where any such
+underlying district has outstanding bonds payable from ad valorem taxes and
+the indebtedness represented by such bonds is assumed by the consolidated
+district as herein authorized, the bonds of such underlying district may be
+refunded into bonds of the consolidated district in the manner provided in this
+paragraph for the refunding of revenue bonds.
+The governing authority may, in its discretion, pledge the full faith,
+credit and resources of the issuing sewerage district or of East Baton Rouge
+Parish to the payment of principal and interest on any bonds, certificates or
+other obligations authorized by any sewerage district in said parish whether or
+not such bonds, certificates or obligations are payable, under the law pursuant
+to which they are issued, solely from sewerage service charges, from special
+assessments, from the proceeds of ad valorem taxes or any combination
+thereof.  Where the full faith, credit and resources of any such district or of the
+parish is so pledged, it shall be the duty of the governing body to provide by
+appropriate resolution for the manner in which the general revenues and tax
+proceeds of such district or of the parish, as the case may be, shall be made
+applicable to the remedying of any deficits which may exist in the revenues
+pledged to the payment of such bonds, certificates or other obligations.  Said
+resolution may provide that the governing body of the parish will to the extent
+necessary to make certain the prompt and full payment of all principal and
+interest due on such bonds, certificates or obligations of any district issued
+pursuant hereto, set aside, dedicate and pledge so much of the general revenues
+of the parish in each year for the years through which the bonds, certificates
+or obligations are payable as may be necessary to pay them promptly in
+principal and interest as they mature, and to apply to the payment of such
+bonds, certificates or obligations such other tax revenues as may be lawfully
+levied and collected by the said parish to pay the said debt.  Where as the result
+of pledging of such full faith, credit and resources general revenues or tax
+proceeds are used for the purpose of remedying any such deficit or deficits the
+parish shall be entitled to reimbursement from the first revenues pledged to the
+payment of such bonds, certificates or obligations thereafter received and not
+currently required for the payment of pr</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=67975</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

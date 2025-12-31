@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-973"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-973"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 973"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-973/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-973/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-973/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-973/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-973">
+        <num>CCRP 973</num>
+        <heading>973.  Effect of expunged record of arrest or conviction</heading>
+        <subsection eId="CCRP-973__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An expunged record of arrest or conviction shall be confidential and no longer
+considered to be a public record and shall not be made available to any person or other entity
+except for the following:</p>
+          </content>
+          <paragraph eId="CCRP-973__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To a member of a law enforcement or criminal justice agency or prosecutor who
+shall request that information in writing, certifying that the request is for the purpose of
+investigating, prosecuting, or enforcing criminal law, for the purpose of any other statutorily
+defined law enforcement or administrative duties, or for the purposes of the requirements of
+sex offender registration and notification pursuant to the provisions of R.S. 15:540 et seq.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-973__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>On order of a court of competent jurisdiction and after a contradictory hearing
+for good cause shown.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-973__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>To the person whose record has been expunged or his counsel.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-973__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>To a member of a law enforcement or criminal justice agency, prosecutor, or
+judge, who requests that information in writing, certifying that the request is for the purpose
+of defending a law enforcement, criminal justice agency, or prosecutor in a civil suit for
+damages resulting from wrongful arrest or other civil litigation and the expunged record is
+necessary to provide a proper defense.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-973__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon written request therefor and on a confidential basis, the information
+contained in an expunged record may be released to the following entities that shall maintain
+the confidentiality of such record:  the Office of Financial Institutions, the Louisiana State
+Board of Medical Examiners, the Louisiana State Board of Nursing, the Louisiana State
+Board of Dentistry, the Louisiana State Board of Examiners of Psychologists, the Louisiana
+Board of Pharmacy, the Louisiana State Board of Social Work Examiners, the Emergency
+Medical Services Certification Commission, Louisiana Attorney Disciplinary Board, Office
+of Disciplinary Counsel, the Louisiana Supreme Court Committee on Bar Admissions, the
+Louisiana Department of Insurance, the Louisiana Licensed Professional Counselors Board
+of Examiners, the Louisiana State Board of Chiropractic Examiners, or any person or entity
+requesting a record of all criminal arrests and convictions pursuant to R.S. 15:587.1, or as
+otherwise provided by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-973__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Except as to those persons and other entities set forth in Paragraph A of this
+Article, no person whose record of arrest or conviction has been expunged shall be required
+to disclose to any person that he was arrested or convicted of the subject offense, or that the
+record of the arrest or conviction has been expunged.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-973__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Any person who fails to maintain the confidentiality of records as  required by the
+provisions of this Article shall be subject to contempt proceedings.
+NOTE:  Paragraph E eff. until appropriation of monies by the Legislature. See</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919664</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

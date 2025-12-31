@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-813"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-813"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 813"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-813/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-813/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-813/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-813/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-813">
+        <num>CHC 813</num>
+        <heading>813.  Taking child into custody with a court order; filing of verified complaint; execution</heading>
+        <subsection eId="CHC-813__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court may issue an order directing that a child be taken into custody upon presentation to the court of a written statement of facts sworn to before an officer authorized by law to administer oaths, by a peace officer, probation officer, district attorney, or other person designated by the court alleging facts showing that there is probable cause to believe either that:</p>
+          </content>
+          <paragraph eId="CHC-813__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The child has committed a delinquent act.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-813__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The child has violated the terms of his probation or otherwise has violated the terms of his release.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-813__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The verified complaint shall be filed with the clerk of court.  If it is filed after the child has been taken into custody, the complaint shall indicate whether the child was released to his parents or continued in custody.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-813__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>An order directing that a child be taken into custody may be executed by a peace officer or the child's probation officer having territorial jurisdiction over the child.  The officer shall promptly notify the child's parents that their child has been taken into custody.  The officer shall also promptly conduct the child to the appropriate facility in accordance with Article 815.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73404</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

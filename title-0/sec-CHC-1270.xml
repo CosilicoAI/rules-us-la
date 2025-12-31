@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1270"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1270"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1270"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1270/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1270/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1270/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1270/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1270">
+        <num>CHC 1270</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1270__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Adoption is based upon the legal termination of parental rights and
+responsibilities of biological parents and the creation of the relationship of parent and child
+between an adopted person and his adoptive parents.  These legal and social premises
+underlying adoption shall be maintained.</p>
+          </content>
+          <paragraph eId="CHC-1270__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The legislature recognizes that some adults, adopted as children, have a strong
+interest in identifying information about their biological parents or biological siblings, or
+both, while other such adult adopted persons have no such interest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1270__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The legislature further recognizes that some biological parents and biological
+siblings have a strong interest in identifying information about their biological children or
+siblings who were surrendered for adoption, while others have no such interest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1270__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The legislature also recognizes the potential for special situations whereby other
+adoptive and biological relatives of an adopted person, such as a parent, sibling, or
+descendant, or his parent if a minor, of a deceased biological parent and an adoptive parent
+of a minor or deceased adopted person as well as a descendant of a deceased adopted person,
+or his parent if a minor, may have a need for identifying information.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1270__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The legislature fully recognizes the right to privacy and confidentiality of
+biological parents whose children were adopted, siblings, adopted persons, and the adoptive
+family.
+NOTE: Subsection B eff. until October 1, 2027. See</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72752</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

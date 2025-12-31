@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-835"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-835"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 835"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-835/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-835/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-835/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-835/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-835">
+        <num>CHC 835</num>
+        <heading>835. Report of competency commission; content; filing</heading>
+        <subsection eId="CHC-835__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The competency commission shall file its report in the court record and mail copies to all counsel of record within thirty days after the date of the order of appointment.  For good cause shown, the court may extend the time for filing for a period not to exceed fifteen days.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-835__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The report shall include the following:</p>
+          </content>
+          <paragraph eId="CHC-835__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The reason for the evaluation, if known.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-835__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The evaluation procedures used, including any psychometric tests administered, records reviewed, and identity of any persons interviewed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-835__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Pertinent background information, including history of school performance, previous psychiatric history, and family history.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-835__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Results of mental status examination, including any psychometric testing administered.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-835__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A description of any psychiatric symptoms or cognitive deficiencies, including a diagnosis, if one has been made.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-835__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A description of the child's abilities and deficits in the following mental competency functions, coupled with the reasons therefor:</p>
+            </content>
+            <subparagraph eId="CHC-835__subsec_B__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Understanding and appreciation of the nature and object of the proceedings.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-835__subsec_B__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Comprehension of his situation in relation to the proceedings.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-835__subsec_B__subsec_6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Rendering assistance to defense counsel in preparation of the case.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-835__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>An opinion regarding whether as a result of mental illness or developmental disability a child presently lacks the capacity to understand the nature of proceedings against him or to assist in his defense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-835__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Recommendations for modifications to court procedures which may help compensate for mental competency weaknesses.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-835__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If, in the competency commission's opinion, the child should not be considered to possess mental capacity to proceed, the report shall also include the following:</p>
+          </content>
+          <paragraph eId="CHC-835__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A prognosis as to whether there is a substantial probability that the child will attain mental competency to proceed in the foreseeable future.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-835__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Recommendations for the type of remediation necessary, such as competency restoration services.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-835__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The report shall not include any statement of the child relating to the alleged offense, and no such statement may be used against the child in court proceedings on the offense.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73426</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

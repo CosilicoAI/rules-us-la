@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2342"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2342"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2342"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2342/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2342/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2342/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2342/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2342">
+        <num>CC 2342</num>
+        <heading>2342.  Declaration of acquisition of separate property</heading>
+        <subsection eId="CC-2342__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A declaration in an act of acquisition that things are acquired with separate funds as the separate property of a spouse may be controverted by the other spouse unless he concurred in the act.  It may also be controverted by the forced heirs and the creditors of the spouses, despite the concurrence by the other spouse.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2342__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Nevertheless, when there has been such a declaration, an alienation, encumbrance, or lease of the thing by onerous title, during the community regime or thereafter, may not be set aside on the ground of the falsity of the declaration.
+C.</p>
+          </content>
+          <paragraph eId="CC-2342__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The provision of this Article that prohibits setting aside an alienation, encumbrance, or lease on the ground of the falsity of the declaration of separate property is hereby made retroactive to any such alienation, encumbrance, or lease prior to July 21, 1982.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CC-2342__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A person who has a right to set aside such transactions on the ground of the falsity of the declaration, which right is not prescribed or otherwise extinguished or barred upon July 21, 1982, and who is adversely affected by the provisions of this Article, shall have six months from July 21, 1982 to initiate proceedings to set aside such transactions or otherwise be forever barred from exercising such right or cause of action.  Nothing contained in this Article shall be construed to limit or prescribe any action or proceeding which may arise between spouses under the provisions of this Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109411</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-793-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-793-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 793.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-793-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-793-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-793-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-793-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-793-3">
+        <num>CHC 793.3</num>
+        <heading>793.3.  Reporting; funding; implementation; termination</heading>
+        <subsection eId="CHC-793-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>No later than June fifteenth of each year, the district attorney shall report
+statistical data indicating the effectiveness of the program to the appropriate standing
+committees of the legislature for use by the committees in consideration of expansion of the
+program.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-793-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The program shall be implemented with fidelity to the Sixteenth Judicial District
+prosecutor's Early Intervention Program model, in three phases as follows:</p>
+          </content>
+          <paragraph eId="CHC-793-3__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Phase one shall be implemented in grades pre-kindergarten through six.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-793-3__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Phase two shall be implemented in grades seven and eight.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-793-3__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Phase three shall be implemented in grades nine through twelve.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-793-3__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>All children who enroll in a public school within the Sixteenth Judicial District
+or the Nineteenth Judicial District in grades pre-kindergarten to sixth shall be required to
+follow all compulsory attendance requirements in R.S. 17:221 et seq. and all families in need
+of services provisions in Children's Code Article 726 et seq.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-793-3__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The implementation of this program may be subject to appropriation of funds by
+the legislature for such purpose.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-793-3__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=285470</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

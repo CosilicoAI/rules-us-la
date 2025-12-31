@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4551"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4551"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 4551"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4551/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4551/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4551/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4551/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-4551">
+        <num>CCP 4551</num>
+        <heading>4551.  Judgment</heading>
+        <subsection eId="CCP-4551__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In the judgment of interdiction, the court shall:</p>
+          </content>
+          <paragraph eId="CCP-4551__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Appoint a curator.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4551__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Appoint an undercurator, unless an undercurator is not required by law.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4551__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>State that the powers of the curator commence only upon qualification.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4551__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Direct the clerk of court to record the judgment in the conveyance and mortgage
+records of the parish where it was rendered.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-4551__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Set forth the name, domicile, age, and current address of the defendant.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-4551__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In addition, a judgment of limited interdiction shall confer upon the limited
+curator only those powers necessitated by the interests of the limited interdict to be protected
+through limited interdiction and shall state that the limited interdict retains the capacity of
+a natural person except as expressly limited by the judgment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4551__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In addition, a judgment granting or extending temporary or preliminary
+interdiction shall set forth the date of termination.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112012</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

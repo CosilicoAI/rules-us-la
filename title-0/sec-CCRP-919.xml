@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-919"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-919"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 919"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-919/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-919/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-919/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-919/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-919">
+        <num>CCRP 919</num>
+        <heading>919.  Record on appeal; preparation and delivery of transcripts</heading>
+        <subsection eId="CCRP-919__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Each court reporter assigned to prepare any transcript necessary to complete the appeal record shall deliver the transcript to the clerk of the trial court who has the duty of preparing the record for appeal five days before the return date.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-919__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Whenever the court reporter cannot deliver the transcript to the clerk of the trial court five days before the return date, the reporter shall file a request for an extension of the return date with the trial court or the appellate court as provided by Article 915.1.  Whenever a court reporter has not delivered a transcript five days before the return date, the clerk of the trial court shall file a certificate with the court of appeal, not later than seven days after the return date, advising that the record is ready for lodging except for the lack of delivery of the transcript.  In such certificate, the clerk shall include the name and address of each reporter who has failed to deliver a transcript and whether any of the court reporters have requested an extension of the return date.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-919__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon the request of the appellate court when the transcript has not been delivered to the clerk of court, but the record is otherwise ready for lodging, the record shall be lodged.  The clerk of the trial court shall include with the record a certificate stating the name and address of each court reporter who is required to prepare and deliver a transcript.  Thereafter, the appellate court may issue appropriate orders to any named reporter to expedite the preparation and delivery of any necessary transcripts.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112927</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

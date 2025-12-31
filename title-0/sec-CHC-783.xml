@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-783"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-783"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 783"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-783/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-783/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-783/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-783/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-783">
+        <num>CHC 783</num>
+        <heading>783.  Parent's contribution to costs of care and treatment</heading>
+        <subsection eId="CHC-783__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>As a part of any judgment of disposition assigning a child to custody other than that of the child's parents, the court may, after giving the parent a reasonable opportunity to be heard, order that such parent contribute to the cost of care of the child in an amount commensurate with the parent's ability to pay for such care.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-783__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When any public agency or institution has provided or will provide payment for care and treatment of the child, the payments by the parent shall be made directly to that public agency or institution and shall, immediately upon receipt, be deposited in the state treasury.  In the event of default in the payment of costs of care by the parent, the agency or institution may exercise all administrative and legal alternatives provided by law or regulation to enforce the provisions of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-783__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>When care and treatment of the child is to be provided by some caretaker other than a public agency or institution, the payments by the parent shall be made according to the court's order.  In the event of default in the payment of costs of care by the parent, he may be proceeded against as provided by Chapter 2 or 4 of Title XV, Chapter 1 of Title XIII,* or Title X.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73375</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

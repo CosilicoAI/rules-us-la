@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1024-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1024-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1024.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1024-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1024-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1024-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1024-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1024-1">
+        <num>CHC 1024.1</num>
+        <heading>1024.1.  Termination of parental rights, payment of transportation costs</heading>
+        <subsection eId="CHC-1024-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The parish or municipality in which a termination of parental rights proceeding is held shall reimburse the transporting sheriff for the expenses incurred in transporting the incarcerated parent to and from the termination of parental rights proceeding and any other related proceeding at which the court requires the presence of the parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1024-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon application of the transporting sheriff, the court shall order the parish or municipality in which the termination of parental rights proceeding was held to pay the costs of transporting the incarcerated parent to the proceeding.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=408277</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

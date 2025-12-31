@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-213"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-213"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 213"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-213/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-213/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-213/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-213/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-213">
+        <num>CCRP 213</num>
+        <heading>213.  Arrest by officer without warrant; when lawful</heading>
+        <subsection eId="CCRP-213__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A peace officer may, without a warrant, arrest a person when any of the following occur:</p>
+          </content>
+          <paragraph eId="CCRP-213__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The person to be arrested has committed an offense in his presence, and if the arrest is for a misdemeanor, it must be made immediately or on close pursuit.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-213__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The person to be arrested has committed a felony, although not in the presence of the officer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-213__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The peace officer has reasonable cause to believe that the person to be arrested has committed an offense, although not in the presence of the officer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-213__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The peace officer has received positive and reliable information that another peace officer from this state holds an arrest warrant, or a peace officer of another state or the United States holds an arrest warrant for a felony offense.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-213__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A peace officer making an arrest pursuant to this Article who is in close pursuit of the person to be arrested may enter another jurisdiction in this state and make the arrest.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-213__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Notwithstanding any other provisions of law to the contrary, no magistrate shall have the authority to issue a warrant of arrest for a school employee, as defined by R.S. 17:16(G), for any misdemeanor act  allegedly committed on school premises or at a school-sanctioned event during the course and scope of the school employee's employment.  In all such instances, a summons shall be issued to the school employee pursuant to Article 209 of this Code.
+D.</p>
+          </content>
+          <paragraph eId="CCRP-213__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Paragraph</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-213__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Subsection, and notwithstanding any other provision of law to the contrary, no peace officer shall have the authority to arrest a school employee, as defined by R.S. 17:16(G), for any misdemeanor allegedly committed upon a student during the course and scope of the school employee's employment regardless whether the act is alleged to have occurred on or off the school campus.  In all such instances, a summons shall be issued to the school employee pursuant to Article 209 of this Code.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-213__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A peace officer may arrest a school employee as defined in R.S. 17:16(G) and as provided in Subsection A of this Section in either of the following instances:</p>
+            </content>
+            <subparagraph eId="CCRP-213__subsec_C__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The peace officer personally witnesses an alleged violation of R.S. 14:35 committed upon a student by a school employee, whether on or off campus.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-213__subsec_C__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The peace officer receives a complaint of an alleged violation of R.S. 14:35 committed upon a student by a school employee, whether alleged to have occurred on or off campus, and there is physical evidence of a resulting injury to the student which is personally witnessed by the officer.
+Amended by</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112361</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

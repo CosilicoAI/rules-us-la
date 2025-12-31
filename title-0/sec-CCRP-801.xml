@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-801"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-801"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 801"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-801/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-801/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-801/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-801/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-801">
+        <num>CCRP 801</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-801__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall charge the jury after the presentation of all evidence and arguments.  The court shall reduce its charge to writing if it is requested to do so by either a defendant or the state prior to the swearing of the first witness at the trial on the merits.  The court's written charge shall be read to the jury. The court shall deliver a copy thereof to the defendant and to the state prior to reading it to the jury.
+B.</p>
+          </content>
+          <paragraph eId="CCRP-801__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>After such written charge is read to the jury, a copy of the written charge shall be delivered to the jury if such delivery is consented to by both the defendant and the state in open court but not in the presence of the jury.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-801__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The lack of consent by either the defendant or the state to the delivery of the written charge to the jury shall not be communicated to the jury.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-801__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A party may not assign as error the giving or failure to give a jury charge or any portion thereof unless an objection thereto is made before the jury retires or within such time as the court may reasonably cure the alleged error.  The nature of the objection and grounds therefor shall be stated at the time of objection. The court shall give the party an opportunity to make the objection out of the presence of the jury.
+Amended by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112799</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

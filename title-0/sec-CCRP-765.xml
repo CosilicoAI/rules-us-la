@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-765"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-765"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 765"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-765/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-765/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-765/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-765/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-765">
+        <num>CCRP 765</num>
+        <heading>765.  Normal order of trial</heading>
+        <subsection eId="CCRP-765__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The selection and swearing of the jury;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-765__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The reading of the indictment;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-765__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The reading of the defendant's plea on arraignment;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-765__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>The opening statements of the state and of the defendant;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-765__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The presentation of the evidence of the state, and of the defendant, and of the state in rebuttal.  The court in its discretion may permit the introduction of additional evidence prior to argument;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-765__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>The argument of the state, the defendant, and the state in rebuttal;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-765__subsec_7">
+          <num>(7)</num>
+          <content>
+            <p>The court's charge;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-765__subsec_8">
+          <num>(8)</num>
+          <content>
+            <p>The announcement of the verdict or mistrial in jury cases, or of the judgment in nonjury cases; and</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-765__subsec_9">
+          <num>(9)</num>
+          <content>
+            <p>The discharge of the jury in jury cases.
+When there is more than one defendant, the court shall determine the order of trial as between them.
+A defendant may waive his opening statement.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112762</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

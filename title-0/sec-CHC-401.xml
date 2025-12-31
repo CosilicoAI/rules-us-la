@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-401"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-401"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 401"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-401/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-401/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-401/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-401/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-401">
+        <num>CHC 401</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-401__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Unless procedures are otherwise provided through rules promulgated by the Louisiana Supreme Court, a court may adopt administrative rules governing internal operating procedures not in conflict with provisions of this Code, or of other laws.  When a court has more than one judge, its rules shall be adopted or amended by a majority of the judges thereof sitting en banc.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-401__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The rules shall be made available to the public by filing a copy with the Judicial Council of the Louisiana Supreme Court and by filing a copy with the clerk of court, and a copy shall be furnished on request to any attorney licensed to practice law in this state.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108410</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

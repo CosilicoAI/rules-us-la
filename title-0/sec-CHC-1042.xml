@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1042"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1042"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1042"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1042/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1042/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1042/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1042/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1042">
+        <num>CHC 1042</num>
+        <heading>1042.  Review; counsel for child</heading>
+        <subsection eId="CHC-1042__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When the department is the legal custodian of the child, if no permanent placement has been made within ninety days of such judgment, review hearings shall be held in accordance with the provisions of Chapters 15 and 16 of Title VI of this Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1042__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When the department is not the legal custodian of the child, review hearings shall be held every ninety days until a final decree of adoption is rendered.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1042__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Any attorney appointed to represent the child in the termination action shall continue to represent the child in all subsequent review hearings until the child is permanently placed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1042__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The attorney appointed to represent the child shall also be responsible for reviewing and submitting a recommendation to the court regarding any agreement for post-adoption continuing contact that is filed for approval in accordance with Chapter 14-A of Title XII.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72576</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

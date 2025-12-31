@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-625-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-625-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 625.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-625-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-625-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-625-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-625-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-625-1">
+        <num>CHC 625.1</num>
+        <heading>625.1.  Advice of rights for children</heading>
+        <subsection eId="CHC-625-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At the first hearing at which the child appears, the judge shall advise any child ten
+years of age or older, in a developmentally appropriate manner and in terms understandable
+to the child, that the child is a party to the proceedings and has all of the following rights:</p>
+          </content>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To be represented by an independent and qualified attorney who shall have duties
+of loyalty, confidentiality, advocacy, and competent representation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To have notice of and attend all hearings.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>To have regular and meaningful communication with the child's attorney in a way
+that is understandable to the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>To have the child's attorney present the child's case, including presenting the
+child's wishes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>To testify as to the child's wishes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>To be free from discrimination based on race, religion, disability, national origin,
+and sex.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>To be provided qualified interpretation, translation, and language assistance
+services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>To be provided reasonable accommodations for any disability.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>If the child has been placed in foster care, to be provided an individualized case
+plan, which shall provide all of the following:</p>
+            </content>
+            <subparagraph eId="CHC-625-1__subsec_A__subsec_9__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A focus on the child's health, welfare, and safety and achieving a permanent
+placement that the child helps to develop and that is continuously updated.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-625-1__subsec_A__subsec_9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A placement with siblings when consistent with the child's health, welfare, and
+safety.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-625-1__subsec_A__subsec_9__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A visitation plan that protects significant relationships with relatives through
+continuing contact when consistent with the child's health, welfare, and safety.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-625-1__subsec_A__subsec_9__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the child is fourteen years of age or older, the inclusion of a transitional plan
+that is designed for the child, and with the child, to assist in achieving a successful transition
+and that is continuously updated.  The plan shall include education, health, permanent
+connections, living arrangements, independent living skills, and employment.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>To have the child's attorney file a written response objecting to the case plan and
+to have the judge approve or disapprove all or part of the case plan.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-625-1__subsec_A__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>If the child is fourteen years of age or older and in foster care, to the rights as
+provided in R.S. 46:286.16, Foster Youth's Bill of Rights (FYBOR).</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-625-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Written notice of the rights set forth in Paragraph A of this Article shall be given
+to the child; the parents, foster parents, or pre-adoptive parents of the child; and any relative
+providing care to the child.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1386531</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

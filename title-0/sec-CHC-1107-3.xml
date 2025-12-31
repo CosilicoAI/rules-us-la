@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1107.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1107-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1107-3">
+        <num>CHC 1107.3</num>
+        <heading>1107.3.  Intent to surrender for adoption; capacity; legal counseling, affidavit; effect on parental rights</heading>
+        <subsection eId="CHC-1107-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A pregnant female or mother of a child may execute an act of intent to surrender for adoption if she meets the requirements for capacity to execute an act of surrender as set forth in Articles 1111 through 1114.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1107-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In all private adoptions, she must receive legal counseling in accordance with Article 1121(A).  Her counsel shall execute an affidavit of counsel, which shall be attached to the intent to surrender for adoption and comply with the requirements of Article 1121(C).</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1107-3__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Execution of an intent to surrender for adoption shall have no effect upon the parental rights of the pregnant female or mother of a child or of the legal father.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180614</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

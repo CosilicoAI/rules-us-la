@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1266"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1266"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 1266"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1266/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1266/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-1266/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-1266/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-1266">
+        <num>CCP 1266</num>
+        <heading>1266.  Limited liability company</heading>
+        <subsection eId="CCP-1266__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Service of citation or other process on a domestic or foreign limited liability company is made by personal service on any one of its agents for service of process.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-1266__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the limited liability company has failed to designate an agent for service of process, if there is no registered agent by reason of death, resignation, or removal, or if the person attempting to make service certifies that he is unable, after due diligence, to serve the designated agent, service of the citation or other process may be made by any of the following methods:</p>
+          </content>
+          <paragraph eId="CCP-1266__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Personal service on any manager if the management of the limited liability company is vested in one or more managers or if management is not so vested in managers, then on any member.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1266__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Personal service on any employee of suitable age and discretion at any place where the business of the limited liability company is regularly conducted.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1266__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Service of process under the provisions of R.S. 13:3204, if the limited liability company is subject to the provisions of R.S. 13:3201.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-1266__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Repealed by</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111167</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

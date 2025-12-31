@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-16"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-16"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1303.16"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-16/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-16/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-16/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-16/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1303-16">
+        <num>CHC 1303.16</num>
+        <heading>1303.16.  Special rules of evidence and procedure</heading>
+        <subsection eId="CHC-1303-16__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The physical presence of a nonresident party who is an individual in a tribunal of
+this state is not required for the establishment, enforcement, or modification of a support
+order or the rendition of a judgment determining parentage of a child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-16__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An affidavit, document substantially complying with federally mandated forms,
+or a document incorporated by reference in any of them, which would not be excluded under
+the hearsay rule if given in person, is admissible in evidence if given under penalty of perjury
+by a party or witness residing outside this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-16__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A copy of the record of child support payments certified as a true copy of the
+original by the custodian of the record may be forwarded to a responding tribunal.  The copy
+is evidence of facts asserted in it and is admissible to show whether payments were made.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-16__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Copies of bills for testing for parentage and for prenatal and postnatal health care
+of the mother and child, furnished to the adverse party at least ten days before trial, are
+admissible in evidence to prove the amount of the charges billed and that the charges were
+reasonable, necessary, and customary.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-16__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Documentary evidence transmitted from outside this state to a tribunal of this state
+by telephone, telecopier, or other electronic means that do not provide an original record may
+not be excluded from evidence on an objection based on the means of transmission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-16__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>In a proceeding under this Chapter, a tribunal of this state shall permit a party or
+witness residing outside this state to be deposed or to testify under penalty of perjury by
+telephone, audiovisual means, or other electronic means at a designated tribunal or other
+location.  A tribunal of this state shall cooperate with other tribunals in designating an
+appropriate location for the deposition or testimony.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-16__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>If a party called to testify at a civil hearing refuses to answer on the ground that
+the testimony may be self-incriminating, the trier of fact may draw an adverse inference from
+the refusal.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-16__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>A privilege against disclosure of communications between spouses does not apply
+in a proceeding under this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-16__subsec_I">
+          <num>I.</num>
+          <content>
+            <p>The defense of immunity based on the relationship of husband and wife or parent
+and child does not apply in a proceeding under this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-16__subsec_J">
+          <num>J.</num>
+          <content>
+            <p>A voluntary acknowledgment of paternity, certified as a true copy, is admissible
+to establish parentage of the child.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72816</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

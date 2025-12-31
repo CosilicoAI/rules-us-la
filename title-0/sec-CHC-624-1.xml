@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-624-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-624-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 624.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-624-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-624-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-624-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-624-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-624-1">
+        <num>CHC 624.1</num>
+        <heading>624.1.  Reason to know a child is an Indian child; federal Indian Child Welfare Act</heading>
+        <subsection eId="CHC-624-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon conducting the inquiry required by Article 624(D), a court has reason to
+know that a child in a continued custody hearing or other child custody proceeding is an
+Indian child if any of the following occurs:</p>
+          </content>
+          <paragraph eId="CHC-624-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A person before the court, an officer of the court involved in the proceeding, an
+Indian tribe, an Indian organization, or an agency informs the court that the child is an Indian
+child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-624-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A person before the court, an officer of the court involved in the proceeding, an
+Indian tribe, an Indian organization, or an agency informs the court that it has discovered
+information indicating that the child is an Indian child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-624-1__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The child who is the subject of the proceeding gives the court reason to know that
+he is an Indian child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-624-1__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The court is informed that the domicile or residence of the child, the child's
+parent, or the child's Indian custodian is on a reservation or in an Alaska Native village.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-624-1__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The court is informed that the child is or has been a ward of a Tribal court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-624-1__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The court is informed that either parent or the child possesses an identification
+card indicating membership in an Indian tribe.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-624-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the court makes a finding that there is reason to know that the child is an Indian
+child, the court may enter any order for placement in accordance with Article 627, but the
+court shall thereafter proceed as if the child is an Indian child.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1106763</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

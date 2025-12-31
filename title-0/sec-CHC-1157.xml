@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1157"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1157"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1157"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1157/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1157/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1157/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1157/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1157">
+        <num>CHC 1157</num>
+        <heading>1157.  Reclaiming of parental rights by the relinquishing parent; hearing</heading>
+        <subsection eId="CHC-1157__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A relinquishing parent may reclaim parental rights by proving by clear and
+convincing evidence that:</p>
+          </content>
+          <paragraph eId="CHC-1157__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The parent is the parent of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1157__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Setting aside the relinquishment and permitting the parent to reclaim the child
+is in the child's best interests.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1157__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the court finds that the relinquishment should be set aside and that the parent
+may reclaim his parental rights, then the parent shall prove also that he has manifested a
+substantial commitment to his parental responsibilities and that he is a fit parent of the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1157__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The child, the other parent, and the legal custodian may offer rebuttal evidence
+limited to the issues enumerated in Paragraphs A and B of this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1157__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the court finds that the parent has established his parental rights, the court shall
+declare that no adoption may be granted without his consent.  The court may also order the
+parent to reimburse the department, or whoever has assumed liability for such costs, all or
+part of the medical expenses incurred for the infant in connection with his birth and care.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1157__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the court finds that the parent has failed to establish his parental rights, it shall
+declare that his rights are terminated.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=180656</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

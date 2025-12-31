@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2365"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2365"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2365"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2365/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2365/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2365/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2365/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2365">
+        <num>CC 2365</num>
+        <heading>2365.  Satisfaction of community obligation with separate property</heading>
+        <content>
+          <p>Art. 2365.  Satisfaction of community obligation with separate property
+If separate property of a spouse has been used either during the existence of the community property regime or thereafter to satisfy a community obligation, that spouse is entitled to reimbursement for one-half of the amount or value that the property had at the time it was used.
+If the community obligation was incurred to acquire ownership or use of a community corporeal movable required by law to be registered, and separate property of a spouse has been used after termination to satisfy that obligation, the reimbursement claim shall be reduced in proportion to the value of the claimant's use after termination of the community property regime.  The value of that use and the amount of the claim for reimbursement accrued during the use are presumed to be equal.
+The liability of a spouse who owes reimbursement is limited to the value of his share of all community property after deduction of all community obligations.  Nevertheless, if the community obligation was incurred for the ordinary and customary expenses of the marriage, or for the support, maintenance, or education of children of either spouse in keeping with the economic condition of the spouses, the spouse is entitled to reimbursement from the other spouse regardless of the value of that spouse's share of all community property.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109441</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

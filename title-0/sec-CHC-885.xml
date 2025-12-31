@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-885"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-885"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 885"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-885/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-885/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-885/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-885/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-885">
+        <num>CHC 885</num>
+        <heading>885.  Denial of driving privileges; restricted driver's license</heading>
+        <subsection eId="CHC-885__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Without any further hearing, whenever any child over the age of thirteen is adjudicated delinquent for the commission of any offense involving the possession, use, or abuse of alcohol or one or more controlled dangerous substances, any offense in violation of the Uniform Controlled Dangerous Substances Law, or any offense in violation of any provision of the Louisiana Drug Racketeering Act, the court shall order the child to relinquish his driver's license, if any, and shall order a denial of driving privileges, including the right to apply for driving privileges, by the child for a period of not less than thirty days but not more than one year.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-885__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In addition to any other authority granted by this Article, the court may issue an order which authorizes the Department of Public Safety and Corrections to issue a restricted driver's license to the child after the first thirty days of the suspension period upon a demonstration to the court's satisfaction that a hardship would result from the child being unable to commute to either school or work.  In its discretion, the court shall determine the appropriate restrictions which shall last for the term of the suspension of driving privileges.
+C.</p>
+          </content>
+          <paragraph eId="CHC-885__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In addition to any other authority granted by this Article, the court may order that upon the expiration of the first thirty days of the suspension period, the terms of the restricted driver's license include permission during the term of the suspension for the child to operate a motor vehicle for the purpose of going to and from meetings of Alcoholics Anonymous, approved group therapy, or special education courses for or about the disease of alcoholism, alcohol abuse, or drug use in a suitable public or private institution or state approved program if either:</p>
+            </content>
+            <subparagraph eId="CHC-885__subsec_B__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Bail was forfeited by the child for an offense of operating or being in actual physical control of a motor vehicle while under the influence of intoxicating beverages.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-885__subsec_B__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The adjudication was the child's first adjudication of an offense involving the possession of any controlled dangerous substance in violation of the Uniform Controlled Dangerous Substances Law.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-885__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If ordered by the court, a medical evaluation and recommendation is submitted which demonstrates that the child is pathologically addicted to alcohol or is a habitual alcoholic or other drug offender; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-885__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If ordered by the court, the child agrees to submit to medical treatment or medically approved group therapy or special education courses for or about the disease of alcoholism, alcohol abuse, or drug abuse, in a suitable public or private institution or state-approved program.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-885__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The privilege of driving with a restricted driver's license authorized by Paragraph B or C of this Article may be allowed only once to each child.  A copy of the order containing the restrictions authorized by Paragraph B or C of this Article shall be attached to the license of the child and shall be in his possession whenever he is operating a motor vehicle.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-885__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A subsequent adjudication of delinquency for the offenses set out in Paragraph A of this Article or a violation of the restrictions imposed pursuant to either Paragraph B or C of this Article during the period of suspension shall result in the extension of the period of suspension for one year from the date upon which the child would otherwise have been able to apply for a new license.  Such an adjudication or violation shall also constitute contempt of court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-885__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The court shall prepare and send a copy of the order of denial of driving privileges, together with any special restrictions, to the Department of Public Safety and Corrections within ten days of the adjudication.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-885__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Any period of suspension imposed pursuant to this Article shall begin upon receipt by the Department of Public Safety and Corrections of the child's driver's license.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73476</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

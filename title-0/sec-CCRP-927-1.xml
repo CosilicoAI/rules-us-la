@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-927-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-927-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 927.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-927-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-927-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-927-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-927-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-927-1">
+        <num>CCRP 927.1</num>
+        <heading>927.1.  Abandonment of application</heading>
+        <subsection eId="CCRP-927-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>After filing an application for post conviction relief, the petitioner is responsible
+for seeking a ruling on his application and pursuing his claims.  Failure to actively seek a
+ruling on an application for post conviction relief after it has been filed shall constitute
+abandonment of the application, resulting in the dismissal of the application.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-927-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An application for post conviction relief shall be deemed to be abandoned when
+the petitioner fails to file any pleading in furtherance of disposition of the application for a
+period of two years following the filing of the application, irrespective of the stage of the
+proceedings.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-927-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>This Article shall be operative without a formal order when an abandonment of
+an application pursuant to Paragraph B of this Article has occurred.  On ex parte motion of
+the district attorney or the attorney general, accompanied by an affidavit that states that
+action has not been timely taken, the court shall enter a formal order of dismissal as of the
+date of the application's abandonment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-927-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the petitioner has a shell petition pending as of July 1, 2025, he shall submit a
+fully-briefed petition to the court no later than July 1, 2026, unless a shorter period of time
+has been established by the court.  Any application for post conviction relief filed before July
+1, 2023, shall be dismissed, set for a hearing, or otherwise adjudicated no later than July 1,
+2026, unless the court has good cause to establish a later date, provided however that the
+claims shall be fully adjudicated no later than January 1, 2027.  The district attorney or the
+attorney general shall have a right to seek mandamus to enforce this Paragraph.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-927-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>For the purposes of this Article, &quot;pleading in furtherance of disposition of the
+application&quot; means a filing that seeks the trial court's ruling on the merits of the application
+or a claim asserted therein, such as a motion to set the case on the docket, a motion seeking
+an order, or an application for writ of mandamus seeking a ruling on the application.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1429003</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

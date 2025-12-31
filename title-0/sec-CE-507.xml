@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-507"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-507"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 507"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-507/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-507/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-507/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-507/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-507">
+        <num>CE 507</num>
+        <heading>507.  Subpoena of lawyer or his representative in criminal cases</heading>
+        <subsection eId="CE-507__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>General rule.  Neither a subpoena nor a court order shall be issued to a lawyer or his representative to appear or testify in any criminal investigation or proceeding where the purpose of the subpoena or order is to ask the lawyer or his representative to reveal information about a client or former client obtained in the course of representing the client unless the court after a contradictory hearing has determined that the information sought is not protected from disclosure by any applicable privilege or work product rule; and all of the following:</p>
+          </content>
+          <paragraph eId="CE-507__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The information sought is essential to the successful completion of an ongoing investigation, prosecution, or defense.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-507__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The purpose of seeking the information is not to harass the attorney or his client.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-507__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>With respect to a subpoena, the subpoena lists the information sought with particularity, is reasonably limited as to subject matter and period of time, and gives timely notice.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-507__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>There is no practicable alternative means of obtaining the information.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-507__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Waiver.  Failure to object timely to non-compliance with the terms of this Article constitutes a waiver of the procedural protections of this Article, but does not constitute a waiver of any privilege.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-507__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Binding effect of determination; notice to client.  The determination that a lawyer-client privilege is not applicable to the testimony shall not bind the client or former client unless the client or former client was given notice of the time, place, and substance of the hearing and had an opportunity fully to participate in that hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-507__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Exceptions.  This Article shall not apply in habitual offender proceedings when a lawyer is called as a witness for purposes of identification of his client or former client, or in post-conviction proceedings when a lawyer is called as a witness on the issue of ineffective assistance of the lawyer.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-507__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The procedural provisions and protections afforded by Paragraph A of this Article shall extend to lawyers serving as prosecutors in state, parish, or municipal courts, whether those functions are exercised in the name of the state of Louisiana or any parish or municipality, and whether the lawyer is the attorney general or assistant attorney general, a district attorney or assistant district attorney, or a parish or municipal prosecutor, and shall extend to lawyers employed by either house of the Louisiana Legislature.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72478</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

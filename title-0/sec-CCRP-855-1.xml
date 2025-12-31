@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-855-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-855-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 855.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-855-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-855-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-855-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-855-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-855-1">
+        <num>CCRP 855.1</num>
+        <heading>855.1.  Conviction based on acts committed as a victim of trafficking</heading>
+        <subsection eId="CCRP-855-1__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>of this Code shall be available only to persons convicted of violating R.S. 14:82, 83.3, 83.4, 89, or 89.2 prior to August 1, 2014, and shall contain allegations of fact sworn to by the defendant or counsel of the defendant, showing that the defendant was convicted of the offense which was committed as a direct result of being a victim of human trafficking or trafficking of children for sexual purposes, or a victim of an offense which would constitute human trafficking or trafficking of children for sexual purposes regardless of the date of conviction.  The motion shall provide information showing a rational and causal connection between the acts for which the defendant was convicted and the acts upon which the defendant bases his status as a victim.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919636</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

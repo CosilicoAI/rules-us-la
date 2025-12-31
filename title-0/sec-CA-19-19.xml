@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-19-19"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-19-19"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CA 19 19"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-19-19/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-19-19/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CA-19-19/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CA-19-19/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CA-19-19">
+        <num>CA 19 19</num>
+        <heading>GENERAL PROVISIONS</heading>
+        <content>
+          <p>ARTICLE XIX.  GENERAL PROVISIONS
+§19.  Immovable property; recordation of mortgages, privileges, etc.; prescription of taxes and licenses; privileges on movable property
+Section 19.  No mortgage or privilege on immovable property, or debt for which preference may be granted by law, shall affect third persons unless recorded or registered in the parish where the property is situated, in the manner and within the time prescribed by law, except privileges for expenses of last illness, privileges arising upon the death of the owner of the property affected, and privileges for taxes, State, parish and municipal; provided such tax liens, mortgages and privileges shall lapse in three years from the 31st day of December in the year in which the taxes are due; and whether such liens are now or hereafter recorded; and provided, further, that all taxes and licenses, other than real property taxes, shall prescribe in three years from the 31st day of December in the year in which such taxes or licenses are due.
+Privileges on movable property shall exist without registration of same, except in such cases as may be prescribed by law.
+(a).  No state, district, parish or other tax, license, fee or assessment of any kind or nature, with all interest charges and penalties appertaining thereto, imposed, due or collectible, upon any property, minerals or the severance thereof, or due or payable by any person, firm or corporation upon any business operation or activity within the Tidelands area in dispute between the state and the United States and within the state's historic gulfward boundary three leagues from coast, as established and defined by the Act of Congress of April 8, 1812, which admitted this state into the Union, and as re-defined in Act 33 of the 1954 Legislature of Louisiana, shall prescribe until three years after the 31st day of December in the year in which the controversy existing between the United States and the State of Louisiana over its said state gulfward boundary shall have been finally resolved and settled in accordance with law; provided, however, no interest charges nor penalties shall be assessed or collected on any such tax, license, fee or assessment if such tax, license, fee or assessment is paid within one year after the 31st day of December in the year in which such controversy is finally resolved and settled.
+(Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=67989</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-646"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-646"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 646"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-646/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-646/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-646/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-646/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-646">
+        <num>CHC 646</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-646__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall require the parent to appear and to answer the petition at any time
+prior to the adjudication hearing but no later than fifteen days after the filing of the petition.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-646__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the petition is filed prior to or during the hearing to determine continued
+custody, the court may order the parent to answer the petition upon completion of the
+hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-646__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>At the appearance, the court may either convene immediately a prehearing
+conference authorized by Article 646.1, or set a date for the conference.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-646__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>At this hearing, the parent shall be asked to provide an electronic mail address at
+which the parent is willing to receive service and notice of future proceedings.  The court
+shall advise the parent that once an electronic mail address is provided, all service and notice
+of future proceedings may be sent electronically until such time he provides notice to the
+court and all parties in writing or in open court that he is no longer able to receive service or
+notice at such address.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-646__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The court may schedule future hearings and serve notice in open court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73239</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

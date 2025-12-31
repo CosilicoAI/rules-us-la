@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-506"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-506"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 506"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-506/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-506/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-506/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-506/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-506">
+        <num>CE 506</num>
+        <heading>506.  Lawyer-client privilege</heading>
+        <subsection eId="CE-506__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Definitions.  As used in this Article:</p>
+          </content>
+          <paragraph eId="CE-506__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Client&quot; is a person, including a public officer, corporation, partnership, unincorporated association, or other organization or entity, public or private, to whom professional legal services are rendered by a lawyer, or who consults a lawyer with a view to obtaining professional legal services from the lawyer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Representative of the client&quot; is:</p>
+            </content>
+            <subparagraph eId="CE-506__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person having authority to obtain professional legal services, or to act on advice so obtained, on behalf of the client.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-506__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any other person who makes or receives a confidential communication for the purpose of effectuating legal representation for the client, while acting in the scope of employment for the client.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Lawyer&quot; is a person authorized, or reasonably believed by the client to be authorized, to practice law in any state or nation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Representative of the lawyer&quot; is a person engaged by the lawyer to assist the lawyer in the lawyer's rendition of professional legal services.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A communication is &quot;confidential&quot; if it is not intended to be disclosed to persons other than:</p>
+            </content>
+            <subparagraph eId="CE-506__subsec_A__subsec_5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Those to whom disclosure is made in furtherance of obtaining or rendering professional legal services for the client.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-506__subsec_A__subsec_5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Those reasonably necessary for the transmission of the communication.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-506__subsec_A__subsec_5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When special circumstances warrant, those who are present at the behest of the client and are reasonably necessary to facilitate the communication.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-506__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>General rule of privilege.  A client has a privilege to refuse to disclose, and to prevent another person from disclosing, a confidential communication, whether oral, written, or otherwise, made for the purpose of facilitating the rendition of professional legal services to the client, as well as the perceptions, observations, and the like, of the mental, emotional, or physical condition of the client in connection with such a communication, when the communication is:</p>
+          </content>
+          <paragraph eId="CE-506__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Between the client or a representative of the client and the client's lawyer or a representative of the lawyer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Between the lawyer and a representative of the lawyer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>By the client or his lawyer, or a representative of either, to a lawyer, or representative of a lawyer, who represents another party concerning a matter of common interest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Between representatives of the client or between the client and a representative of the client.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Among lawyers and their representatives representing the same client.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Between representatives of the client's lawyer.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-506__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Exceptions.  There is no privilege under this Article as to a communication:</p>
+          </content>
+          <paragraph eId="CE-506__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Which was with a client now deceased relevant to an issue between parties who claim through that client, regardless of whether the claims are by testate or intestate succession or by transaction inter vivos.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Which is relevant to an issue of breach of duty by a lawyer to the client or by a client to the client's lawyer.
+(4)</p>
+            </content>
+            <subparagraph eId="CE-506__subsec_C__subsec_3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Which is relevant to an issue of authenticity or capacity concerning a document which the lawyer signed as a witness or notary.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-506__subsec_C__subsec_3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Concerning the testimony of a representative of a lawyer regarding a communication relevant to an issue of authenticity or capacity concerning a document to which the representative is a witness or notary.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_C__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Which is relevant to a matter of common interest between or among two or more clients if the communication was made by any of them or their representative to a lawyer or his representative retained or consulted in common, when subsequently offered by one client against the other in a civil action.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-506__subsec_C__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Concerning the identity of the lawyer's client or his representative, unless disclosure of the identity by the lawyer or his representative would reveal either the reason for which legal services were sought or a communication which is otherwise privileged under this Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-506__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Who may claim privilege.  The privilege may be claimed by the client, the client's agent or legal representative, or the successor, trustee, or similar representative of a client that is a corporation, partnership, unincorporated association, or other organization, whether or not in existence.  The person who was the lawyer or the lawyer's representative at the time of the communication is presumed to have authority to claim the privilege on behalf of the client, former client, or deceased client.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72477</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

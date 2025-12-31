@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1003"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1003"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 1003"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1003/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1003/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-1003/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-1003/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-1003">
+        <num>CCRP 1003</num>
+        <heading>1003.  Transfer or storage of transferred firearms</heading>
+        <subsection eId="CCRP-1003__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The sheriff of each parish shall be responsible for oversight of firearm transfers
+in his parish.  For each firearm transferred pursuant to this Title, the sheriff shall offer all of
+the following options to the transferor:</p>
+          </content>
+          <paragraph eId="CCRP-1003__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Store the transferred firearms in a storage facility with which the sheriff has
+contracted for the storage of transferred firearms or with the sheriff.  The sheriff may charge
+a reasonable fee for the storage of such firearms.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-1003__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Oversee the legal sale of the transferred firearms to a third party.  The sheriff may
+contract with a licensed firearms dealer for such purpose.  The sheriff may charge a
+reasonable fee to oversee the sale of firearms.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-1003__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The sheriff shall prepare a receipt for each firearm transferred and provide a copy
+to the person transferring the firearms.  The receipt shall include the firearm manufacturer
+and firearm serial number.  The receipt shall be signed by the officer accepting the firearms
+and the person transferring the firearms.  The sheriff may require the receipt to be presented
+before returning a transferred firearm.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1003__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The sheriff shall keep a record of all transferred firearms including but not limited
+to the name of the person transferring the firearm, the manufacturer, model, serial number,
+and the manner in which the firearm is stored.
+D.</p>
+          </content>
+          <paragraph eId="CCRP-1003__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>When the person is no longer prohibited from possessing a firearm under state
+or federal law, the person whose firearms were transferred pursuant to the provisions of this
+Title may file a motion with the court seeking an order for the return of the transferred
+firearms.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-1003__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Upon reviewing the motion, if the court determines that the person is no longer
+prohibited from possessing a firearm under state or federal law, the court shall issue an order
+stating that the firearms transferred pursuant to the provisions of this Title shall be returned
+to the person.  The order shall include the date on which the person is no longer prohibited
+from possessing a firearm and a copy of the order shall be sent to the sheriff.  However, all
+outstanding fees shall be paid to the sheriff prior to the firearms being returned.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-1003__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>No sheriff or third party to whom the firearms were transferred pursuant to the
+provisions of this Title, shall return a transferred firearm prior to receiving the order issued
+by the court pursuant to the provisions of this Paragraph.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-1003__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the person refuses to pay outstanding fees to the sheriff or fails to file a motion
+with the court seeking an order for the return of the transferred firearms within one year of
+the expiration of the prohibition on possessing firearms under state or federal law, the sheriff
+may send, by United States mail to the person's last known address, a notice informing the
+person that if he does not pay the outstanding fees to the sheriff or file a motion with the
+court seeking an order for the return of the transferred firearms within ninety days, the
+firearms shall be forfeited to the sheriff.  If, after ninety days from the mailing of the notice,
+the person does not pay the outstanding fees to the sheriff or file a motion with the court
+seeking an order for the return of the transferred firearms, the sheriff may file a motion
+seeking a court order declaring that the firearms are forfeited to the sheriff, who may
+thereafter dispose of the firearms at his discretion.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-1003__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The sheriff shall exercise due care to preserve the quality and function of all
+firearms transferred under the provisions of this Title.  However, the sheriff shall not be
+liable for damage to firearms except for cases of willful or wanton misconduct or gross
+negligence.  In addition, the sheriff shall not be liable for damage caused by the third party
+to whom the firearms were transferred pursuant to the provisions of this Title.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1003__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Nothing in this Title shall be construed to prohibit the sheriff, consistent with
+constitutional requirements, from obtaining a search warrant to authorize testing or
+examination upon any firearm so as to facilitate any criminal investigation or prosecution. 
+Notwithstanding Article 163(C) or any other provision of law to the contrary, the testing or
+examination of the firearms pursuant to the search warrant may be conducted at any time
+before or during the pendency of any criminal proceeding in which the firearms, or the
+testing or examination of the firearms, may be used as evidence, and shall not be subject to
+the ten-day period in Article 163(C).</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-1003__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Not sooner than three years after the date on which a firearm or firearms are
+returned pursuant to the provisions of this Article, the person may file a motion with the
+court requesting that the records relative to the firearm or firearms held by the clerk of court
+and by the sheriff be destroyed.  After a contradictory hearing with the sheriff and the district
+attorney, which may be waived by the sheriff or the district attorney, the court, if the person
+is no longer prohibited from possessing firearms under state or federal law and if the firearm
+or firearms have actually been returned, shall order that the records held by the clerk of court
+and by the sheriff relative to the returned firearm or firearms be destroyed.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1106500</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1505"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1505"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1505"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1505/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1505/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1505/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1505/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1505">
+        <num>CHC 1505</num>
+        <heading>1505.  Direct contempt</heading>
+        <subsection eId="CHC-1505__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A direct contempt of court is one committed in the immediate view and presence of the court and of which it has personal knowledge.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1505__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A direct contempt includes but is not limited to any of the following acts:</p>
+          </content>
+          <paragraph eId="CHC-1505__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Contumacious failure, after notice, to appear for a hearing on the day fixed therefor.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1505__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Contumacious failure to comply with a subpoena or summons to appear in court, proof of service of which appears of record.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1505__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Contumacious violation of an order excluding, separating, or sequestering a witness.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1505__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Refusal to take the oath or affirmation as a witness, or refusal of a witness to answer a nonincriminating question when ordered to do so by the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1505__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Contumacious, insolent, or disorderly behavior toward the judge or an attorney or other officer of the court, tending to interrupt or interfere with the business of the court or to impair its dignity or respect for its authority.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1505__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Breach of the peace, boisterous conduct, or violent disturbance tending to interrupt or interfere with the business of the court or to impair its dignity or respect for its authority.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1505__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Use of insulting, abusive, or discourteous language by an attorney or other person in open court, or in a motion, plea, brief, or other document, filed with the court, in irrelevant criticism of another attorney or officer of the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1505__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Violation of a rule of the court adopted to maintain order and decorum in the courtroom.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72972</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

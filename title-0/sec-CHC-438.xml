@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-438"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-438"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 438"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-438/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-438/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-438/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-438/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-438">
+        <num>CHC 438</num>
+        <heading>438.  Selection and appointment of mediator; disclosure; revocation</heading>
+        <subsection eId="CHC-438__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Once an order referring a case for mediation has been signed, the parties are encouraged to mutually agree upon a person to be appointed as the mediator from among those qualified in accordance with Article 439.  Upon such agreement, the parties shall submit the mediator's name to the court and the court shall enter an order of appointment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-438__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A mediator may decline a proposed appointment.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-438__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the parties fail to agree upon a mediator within fifteen days after the signing of the referral order or if a mediator has declined appointment, the court may appoint a mediator who meets the qualifications of Article 439 and who is willing to serve or the court may return the case to the docket for further proceedings.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-438__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Upon notice of appointment, a mediator must disclose to the parties and the court any representation, consultation, or any other professional or personal relationship with any party or counsel that might reasonably raise a question about the mediator's impartiality.  The burden of disclosure rests on the mediator.  After appropriate disclosure, the mediator may serve if both parties so desire with the approval of the court.  If the mediator believes or perceives that there is a clear conflict of interest, he should withdraw, irrespective of the expressed desires of the parties.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-438__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>At any time during the pendency of the proceedings the court may revoke the mediator's appointment upon motion of any party on grounds of the mediator's lack of qualifications or lack of impartiality.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73179</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

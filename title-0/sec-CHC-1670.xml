@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1670"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1670"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1670"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1670/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1670/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1670/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1670/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1670">
+        <num>CHC 1670</num>
+        <heading>1670.  Compacting states; effective date and amendment</heading>
+        <subsection eId="CHC-1670__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Any state, the District of Columbia or its designee, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Northern Marianas Islands as defined in Article 1662 of this compact is eligible to become a compacting state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1670__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The compact shall become effective and binding upon legislative enactment of the compact into law by no less than thirty-five of the states.  The initial effective date shall be the later of July 1, 2004 or upon enactment into law by the thirty-fifth state.  Thereafter, it shall become effective and binding as to any other compacting state upon enactment of the compact into law by that state.  The governors of non-member states or their designees shall be invited to participate in the activities of the Interstate Commission on a non-voting basis prior to adoption of the compact by all states and territories of the United States.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1670__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The Interstate Commission may propose amendments to the compact for enactment by the compacting states.  No amendment shall become effective and binding upon the Interstate Commission and the compacting states unless and until it is enacted into law by unanimous consent of the compacting states.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=181163</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

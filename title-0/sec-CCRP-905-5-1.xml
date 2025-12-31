@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-905-5-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-905-5-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 905.5.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-905-5-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-905-5-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-905-5-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-905-5-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-905-5-1">
+        <num>CCRP 905.5.1</num>
+        <heading>905.5.1.  Intellectual disability</heading>
+        <subsection eId="CCRP-905-5-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any other provisions of law to the contrary, no person with an
+intellectual disability shall be subjected to a sentence of death.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-905-5-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Any capital defendant who claims to have an intellectual disability shall file
+written notice thereof within the time period for filing of pretrial motions as provided by
+Article 521 of this Code.
+C.</p>
+          </content>
+          <paragraph eId="CCRP-905-5-1__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any defendant in a capital case making a claim of  intellectual disability shall
+prove the allegation by a preponderance of the evidence.  The jury shall try the issue of
+intellectual disability of a capital defendant during the capital sentencing hearing unless the
+state and the defendant agree that the issue is to be tried by the judge.  If the state and the
+defendant agree, the issue of intellectual disability of a capital defendant may be tried prior
+to trial by the judge alone.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-905-5-1__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any pretrial determination by the judge that a defendant does not have an
+intellectual disability shall not preclude the defendant from raising the issue at the penalty
+phase, nor shall it preclude any instruction to the jury pursuant to this Article.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-905-5-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Once the issue of intellectual disability is raised by the defendant, and upon
+written motion of the district attorney, the defendant shall provide the state, within time
+limits set by the court, any and all medical, correctional, educational, and military records,
+raw data, tests, test scores, notes, behavioral observations, reports, evaluations, and any other
+information of any kind reviewed by any defense expert in forming the basis of his opinion
+that the defendant has an intellectual disability.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-905-5-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>By filing a notice relative to a claim of intellectual disability under this Article,
+the defendant waives all claims of confidentiality and privilege to, and is deemed to have
+consented to the release of, any and all medical, correctional, educational, and military
+records, raw data, tests, test scores, notes, behavioral observations, reports, evaluations,
+expert opinions, and any other such information of any kind or other records relevant or
+necessary to an examination or determination under this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-905-5-1__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>When a defendant makes a claim of intellectual disability under this Article, the
+state shall have the right to an independent psychological and psychiatric examination of the
+defendant.  A psychologist or medical psychologist conducting such examination must be
+licensed by the Louisiana State Board of Examiners of Psychologists or the Louisiana State
+Board of Medical Examiners, whichever is applicable.  If the state exercises this right, and
+upon written motion of the defendant, the state shall provide the defendant, within time
+limits set by the court, any and all medical, correctional, educational, and military records,
+and all raw data, tests, test scores, notes, behavioral observations, reports, evaluations, and
+any other information of any kind reviewed by any state expert in forming the basis of his
+opinion that the defendant does not have an intellectual disability.  If the state fails to comply
+with any such order, the court may impose sanctions as provided by Article 729.5 of this
+Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-905-5-1__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>If the defendant making a claim of intellectual disability fails to comply with any
+order issued pursuant to Paragraph D of this Article, or refuses to submit to or fully cooperate
+in any examination by experts for the state pursuant to either Paragraph D or F of this Article,
+upon motion by the district attorney, the court shall neither conduct a pretrial hearing
+concerning the issue of intellectual disability nor instruct the jury of the prohibition of
+executing defendants with intellectual disabilities.
+H.</p>
+          </content>
+          <paragraph eId="CCRP-905-5-1__subsec_G__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Intellectual disability&quot;, formerly referred to as &quot;mental retardation&quot;, is a
+disability characterized by all of the following deficits, the onset of which must occur during
+the developmental period:</p>
+            </content>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Deficits in intellectual functions such as reasoning, problem solving, planning,
+abstract thinking, judgment, academic learning, and learning from experience, confirmed by
+both clinical assessment and individualized, standardized intelligence testing.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Deficits in adaptive functioning that result in failure to meet developmental and
+sociocultural standards for personal independence and social responsibility; and that, without
+ongoing support, limit functioning in one or more activities of daily life including, without
+limitation, communication, social participation, and independent living, across multiple
+environments such as home, school, work, and community.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCRP-905-5-1__subsec_G__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A diagnosis of one or more of the following conditions does not necessarily
+constitute an intellectual disability:</p>
+            </content>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Autism.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Behavioral disorders.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Cerebral palsy and other motor deficits.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Difficulty in adjusting to school.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Emotional disturbance.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Emotional stress in home or school.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Environmental, cultural, or economic disadvantage.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Epilepsy and other seizure disorders.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Lack of educational opportunities.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>Learning disabilities.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>Mental illness.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>Neurological disorders.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>Organic brain damage occurring after age eighteen.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>Other disabling conditions.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>Personality disorders.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>Sensory impairments.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>Speech and language disorders.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_r">
+              <num>(r)</num>
+              <content>
+                <p>A temporary crisis situation.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCRP-905-5-1__subsec_G__subsec_2__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>Traumatic brain damage occurring after age eighteen.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=191015</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-328"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-328"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 328"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-328/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-328/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-328/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-328/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-328">
+        <num>CCRP 328</num>
+        <heading>328.  Bail undertaking</heading>
+        <subsection eId="CCRP-328__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The bail undertaking shall:</p>
+          </content>
+          <paragraph eId="CCRP-328__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Be in writing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-328__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>State the court before which the defendant is bound to appear.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-328__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Be entered into before an officer who is authorized to take it.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-328__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>State a single amount of bail for each charge.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-328__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The bail undertaking shall be enforceable if the above requirements are met; and
+no officer may refuse to accept the posting of a bail undertaking and releasing a defendant
+on bail if the conditions set by this Title are met.  A person shall not be discharged from his
+bail undertaking, nor shall a judgment of forfeiture be stayed, set aside, or reversed, nor the
+collection of any such judgment be barred or defeated by reason of any defect of form,
+omission of a recital, or of a condition of the undertaking, by reason of a failure to note or
+record the default of any defendant or surety, or because of any other irregularity.  The bail
+undertaking shall run, subject to the provisions of Article 626, in favor of the state of
+Louisiana, or the city or parish whose ordinance is charged to have been violated, with the
+proceeds to be disposed of according to law.  No error, inaccuracy, or omission in naming
+the obligee on the bail undertaking is a defense to an action thereon.
+C.</p>
+          </content>
+          <paragraph eId="CCRP-328__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An electronic bond may be executed in a parish where the sheriff has electronic
+bond software in place.  Agents may be approved by the sheriff to execute an electronic
+bond.  A licensed bail bond producer applying for electronic bond authority may make an
+application to the sheriff and shall be domiciled and maintain a principal place of business
+in this state and possess a Louisiana bail bond producer license for at least three years
+preceding the date of application.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-328__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The approving sheriff authority may require any documents deemed necessary
+to verify the information contained in the application.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112449</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

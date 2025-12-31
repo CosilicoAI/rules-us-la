@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4561"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4561"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 4561"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4561/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4561/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4561/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4561/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-4561">
+        <num>CCP 4561</num>
+        <heading>Section </heading>
+        <subsection eId="CCP-4561__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court shall appoint as curator the qualified person who is best able to fulfill the duties of his office.
+B.</p>
+          </content>
+          <paragraph eId="CCP-4561__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The following persons are not qualified to serve as a curator of an interdict:</p>
+            </content>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person under eighteen years of age.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An interdicted person.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A nonresident of the state without a resident agent for service of process.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCP-4561__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except for good cause shown, the following persons are not qualified to serve as a curator of an interdict:</p>
+            </content>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A convicted felon.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A person indebted to the interdict at the time of appointment.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An adverse party in a lawsuit pending against the interdict at the time of appointment.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An owner, operator, or employee of long-term care institutions where the interdict is receiving care, unless he is related to the interdict.
+C.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCP-4561__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court shall consider the qualified persons in the following order of preference:</p>
+            </content>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person designated by the defendant in a writing signed by him while he had sufficient ability to communicate a reasoned preference.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The spouse of the defendant.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An adult child of the defendant.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A parent of the defendant.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>An individual with whom the defendant has resided for more than six months prior to the filing of the petition.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CCP-4561__subsec_A__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other person.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CCP-4561__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court may appoint separate curators for the person and affairs of the interdict pursuant to Article 4069.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-4561__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>At any time prior to qualification, the court may revoke the appointment for good cause and appoint another qualified person.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112018</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

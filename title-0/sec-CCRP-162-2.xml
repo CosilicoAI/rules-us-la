@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 162.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-162-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-162-2">
+        <num>CCRP 162.2</num>
+        <heading>162.2.  Warrant issued upon electronic testimony</heading>
+        <subsection eId="CCRP-162-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In addition to the provisions of Articles 162 and 162.1, a search warrant may issue upon probable cause established to the satisfaction of the judge by the electronic testimony of a credible person reciting facts establishing the cause for issuance of the warrant.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>For purposes of this Section, the following words shall have the following meanings:</p>
+          </content>
+          <paragraph eId="CCRP-162-2__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Electronic signature&quot; shall include any electronic means indicating that the person originating an electronic document adopts the contents of the document, and that the person who claims to have written the electronic document is in fact the person who wrote it.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-162-2__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Electronic testimony&quot; shall mean any method of communication, whether wired or wireless or any combination thereof, in which text or images may be transferred electronically from one person to another and includes but shall not be limited to text messages and electronic mail.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-162-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The submission of electronic testimony to a judge pursuant to the provisions of this Article shall contain the electronic signature of the applicant, the applicant's full name and occupation, and a telephone number and electronic address which may be used by the judge to contact the applicant.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Any electronic testimony presented to a judge shall serve as the equivalent of the applicant having been administered an oath or affirmation, swearing that the facts contained in the electronic testimony are true and correct to the best of his knowledge, subject to the penalties for perjury or false swearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-2__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Accompanying the electronic testimony shall be an electronic facsimile of the search warrant.  If the judge finds probable cause and approves the issuance of the warrant, he shall affix his electronic signature to the warrant and return it immediately to the applicant.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-2__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>It shall be the responsibility of the applicant to create a written reproduction of his electronic testimony, including its electronic signature, and a written reproduction of the warrant, including the judge's electronic signature, and preserve the written reproductions in the same manner as an original warrant signed by both the applicant and the judge within forty-eight hours from the time the warrant was issued.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-162-2__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Telephonic communication between the judge and the affiant relatively contemporaneously with the application for the warrant shall satisfy the requirements of R.S. 9:2603.1(D).</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=813863</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

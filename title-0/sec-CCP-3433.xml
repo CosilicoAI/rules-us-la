@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3433"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3433"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 3433"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3433/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3433/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-3433/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-3433/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-3433">
+        <num>CCP 3433</num>
+        <heading>Section </heading>
+        <subsection eId="CCP-3433__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When it is not necessary in accordance with the provisions of Article 3431 to open
+judicially a small succession, at least two persons, including the surviving spouse, if any, and
+one or more legatees of the deceased, may execute one or more multiple originals of an
+affidavit, duly sworn before any officer or person authorized to administer oaths in the place
+where the affidavit is executed, setting forth all of the following:</p>
+          </content>
+          <paragraph eId="CCP-3433__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The date of death of the deceased, and his domicile at the time thereof.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3433__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The fact that the deceased died testate.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3433__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The marital status of the deceased, the location of the last residence of the
+deceased, and the name of the surviving spouse, if any, and the surviving spouse's address,
+domicile, and location of last residence, together with the names and last known addresses
+of the heirs of the deceased, and identifying those of the heirs who are also forced heirs of
+the deceased.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3433__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The names and last known addresses of the legatees of the deceased, and the
+statement that a legatee not signing the affidavit was given thirty days' notice by United
+States mail of the affiants' intent to execute an affidavit for small succession and did not
+object.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3433__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A description of the property left by the deceased in Louisiana, including whether
+the property is community or separate, and which, in the case of immovable property, shall
+be sufficient to identify the property for purposes of transfer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3433__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A showing of the value of each item of property subject to the jurisdiction of the
+courts of Louisiana, and the aggregate value of the property, at the time of the death of the
+deceased.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3433__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A statement describing the respective interests in the property that each legatee
+has inherited and whether a usufruct of the surviving spouse attaches to the property.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3433__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>An attachment consisting of a copy of the testament and a certified copy of the
+probate order of the court of another jurisdiction or the equivalent thereof.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3433__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>An affirmation that, by signing the affidavit, the affiant, if a legatee, has accepted
+the legacy of the deceased.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-3433__subsec_A__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>An affirmation that, by signing the affidavit, the affiants swear under penalty of
+perjury that the information contained in the affidavit is true, correct, and complete to the
+best of their knowledge, information, and belief.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-3433__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the deceased had no surviving spouse, the affidavit shall be signed by at least
+two persons who have actual knowledge of the matters stated in the affidavit.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-3433__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In addition to the powers of a natural tutor or curator otherwise provided by law,
+a natural tutor may also execute the affidavit on behalf of a minor child without the necessity
+of filing a petition pursuant to Article 4061, and a curator may also execute the affidavit on
+behalf of an interdict without the necessity of court authorization.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111769</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

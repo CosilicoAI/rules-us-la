@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2315-9"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2315-9"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2315.9"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2315-9/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2315-9/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2315-9/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2315-9/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2315-9">
+        <num>CC 2315.9</num>
+        <heading>2315.9.  Liability for damages caused by acts of terror</heading>
+        <subsection eId="CC-2315-9__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In addition to general and special damages, a prevailing plaintiff shall also be
+awarded court costs and reasonable attorney fees in the appropriate district or appellate court
+upon proof that the injuries on which the action is based were caused by an act of terror or
+terrorism resulting in injury to the person or damage to the person's property, regardless of
+whether the defendant was prosecuted for his acts.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2315-9__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The rights and remedies provided by this Article are in addition to any other rights
+and remedies provided by law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2315-9__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>As used in this Article, the terms shall be defined as follows:</p>
+          </content>
+          <paragraph eId="CC-2315-9__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Act of terror&quot; or &quot;terrorism&quot; means the commission of any of the acts occurring
+primarily in this state and as enumerated in this Subparagraph, when the offender has the
+intent to intimidate or coerce the civilian population, influence the policy of a unit of
+government by intimidation or coercion, or affect the conduct of a unit of government by
+intimidation or coercion:</p>
+            </content>
+            <subparagraph eId="CC-2315-9__subsec_C__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Intentional killing of a human being.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2315-9__subsec_C__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Intentional infliction of serious bodily injury upon a human being.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2315-9__subsec_C__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Kidnapping of a human being.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2315-9__subsec_C__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Aggravated arson upon any structure, watercraft, or movable.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2315-9__subsec_C__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Aggravated criminal damage to property.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CC-2315-9__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Terrorist&quot; means a person who knowingly does any of the following:</p>
+            </content>
+            <subparagraph eId="CC-2315-9__subsec_C__subsec_2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Commits an act of terror.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2315-9__subsec_C__subsec_2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Acts as an accessory before or after the fact, aids or abets, solicits, or conspires
+to commit an act of terror.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CC-2315-9__subsec_C__subsec_2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Lends material support to an act of terror.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection eId="CC-2315-9__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Upon motion of the defendant or upon its own motion, if the court determines that
+any action alleging an act of terror is frivolous or fraudulent, the court shall award costs of
+court, reasonable attorney fees, and any other related costs to the defendant and any other
+sanctions and relief requested pursuant to Code of Civil Procedure Article 863.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-2315-9__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>An action under the provisions of this Article shall be subject to a liberative
+prescriptive period of two years.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=962264</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

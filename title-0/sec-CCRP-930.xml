@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-930"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-930"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 930"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-930/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-930/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-930/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-930/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-930">
+        <num>CCRP 930</num>
+        <heading>930.  Evidentiary hearing</heading>
+        <subsection eId="CCRP-930__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An evidentiary hearing for the taking of testimony or other evidence shall be
+ordered within the time period provided in Article 930.11 whenever there are questions of
+fact which cannot properly be resolved pursuant to Articles 928 and 929.  The petitioner, in
+absence of an express waiver, is entitled to be present at such hearing, unless the only
+evidence to be received is evidence as permitted pursuant to Paragraph B of this Article, and
+the petitioner has been or will be provided with copies of such evidence and an opportunity
+to respond thereto in writing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Duly authenticated records, transcripts, depositions, documents, or portions
+thereof, or admissions of facts may be received in evidence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-930__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>No evidentiary hearing on the merits of a claim shall be ordered or conducted, nor
+shall any proffer of evidence be received over the objection of the respondent, and no ruling
+upon procedural objections to the petition shall purport to address the merits of the claim
+over the objection of the respondent, unless the court has first ruled upon all procedural
+objections raised by the respondent within the time period provided in Article 930.11, and
+such rulings have become final.  Any language in a ruling on procedural objections raised
+by the respondent which purports to address the merits of the claim shall be deemed as null,
+void, and of no effect.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112941</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

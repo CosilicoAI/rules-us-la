@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-412"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-412"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 412"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-412/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-412/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-412/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-412/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-412">
+        <num>CE 412</num>
+        <heading>412.  Victim's past sexual behavior in sexual assault cases; trafficking offenses</heading>
+        <subsection eId="CE-412__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Motion.</p>
+          </content>
+          <paragraph eId="CE-412__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Before the person, accused of committing a crime that involves
+sexually assaultive behavior, human trafficking, or trafficking of children for sexual
+purposes, may offer under Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-412__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>or (B)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-412__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Article evidence of specific
+instances of the victim's past sexual behavior, the accused shall make a written motion in
+camera to offer such evidence.  The motion shall be accompanied by a written statement of
+evidence setting forth the names and addresses of persons to be called as witnesses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-412__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The motion and statement of evidence shall be served on the state which shall
+make a reasonable effort to notify the victim prior to the hearing.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-412__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>Time for a motion.  The motion shall be made within the time for filing pre-trial
+motions specified in Code of Criminal Procedure Article 521, except that the court shall
+allow the motion to be made at a later date, if the court determines that:</p>
+          </content>
+          <paragraph eId="CE-412__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The evidence is of past sexual behavior with the accused, and the accused
+establishes that the motion was not timely made because of an impossibility arising through
+no fault of his own; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-412__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The evidence is of past sexual behavior with someone other than the accused, and
+the accused establishes that the evidence or the issue to which it relates is newly discovered
+and could not have been obtained earlier through the exercise of due diligence.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-412__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Hearing.</p>
+          </content>
+          <paragraph eId="CE-412__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the court determines that the statement of evidence contains
+evidence described in Subparagraph (A)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-412__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>or (B)(2), the court shall order a hearing which
+shall be closed to determine if such evidence is admissible.  At such hearing the parties may
+call witnesses.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-412__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The victim, if present, has the right to attend the hearing and may be
+accompanied by counsel.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-412__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the court determines on the basis of the hearing described in Subparagraph
+(E)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-412__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>that the evidence which the accused seeks to offer is relevant and that the probative
+value of such evidence outweighs the danger of unfair prejudice, such evidence may be
+admissible in the trial to the extent an order made by the court specifies evidence which may
+be offered and areas with respect to which the victim may be examined or cross-examined. 
+Introduction of such evidence shall be limited to that specified in the order.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-412__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any motion made under Subparagraph C and any statement of evidence, brief,
+record of a hearing, or like material made or used in connection with the motion shall be kept
+in a separate, sealed package as part of the record in the case.  Nothing in this Article shall
+preclude the use of the testimony at such hearing in a subsequent prosecution for perjury or
+false swearing.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-412__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Past sexual behavior defined.  For purposes of this Article, the term &quot;past sexual
+behavior&quot; means sexual behavior other than the sexual behavior with respect to which the
+offense of sexually assaultive behavior is alleged.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-412__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>The rules of admissibility of evidence provided by this Article shall also apply to
+civil actions brought by the victim which are alleged to arise from sexually assaultive
+behavior, human trafficking, or trafficking of children for sexual purposes by the defendant,
+whether or not convicted of such crimes.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72466</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

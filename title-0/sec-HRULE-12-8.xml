@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-12-8"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-12-8"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 12.8"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-12-8/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-12-8/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-12-8/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-12-8/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-12-8">
+        <num>HRULE 12.8</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-12-8__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Speaker of the House of Representatives shall provide that audio and video of the entirety of all legislative proceedings occurring in House committee rooms shall be broadcast live via the Internet.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-12-8__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The Speaker of the House of Representatives shall provide that audio and video of all legislative proceedings in the House Chamber shall be broadcast live via the Internet on each legislative day of a session.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-12-8__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The Speaker of the House of Representatives shall provide that audio and video of the legislative proceedings occurring in House committee rooms or in the House Chamber shall be recorded and maintained for a minimum of three years and that such recorded legislative proceedings shall be available to the public for viewing through a link clearly identified on the Internet home page of the House of Representatives.
+D.</p>
+          </content>
+          <paragraph eId="HRULE-12-8__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The provisions of this Rule shall apply only to legislative proceedings which occur in the State Capitol.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-12-8__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The audio and video records created pursuant to this Rule shall not be construed as the official record of a legislative proceeding.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="HRULE-12-8__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the Speaker of the House of Representatives is precluded from fulfilling the requirements of this Rule due to a technical problem or difficulty beyond his control, the failure to broadcast or record a legislative proceeding shall not be construed in any manner to be a violation of the provisions of this Rule.
+HR 1, 2008 1 st Ex. Sess., eff. Feb. 22, 2008.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=459863</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

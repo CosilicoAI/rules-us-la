@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1195"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1195"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1195"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1195/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1195/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1195/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1195/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1195">
+        <num>CHC 1195</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1195__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Any parent may give consent to the adoption of his child in open court, provided that all of the following occur:</p>
+          </content>
+          <paragraph eId="CHC-1195__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The parent appears before the court in person.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1195__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court informs the parent of the consequences of his consent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1195__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The parent voluntarily consents to the adoption.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1195__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Upon acceptance by the court, the parent's consent to the adoption is irrevocable.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1195__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon acceptance by the court, the parent shall execute the Statement of Family History set forth in Article 1125.  All other rights and duties set forth in Chapter 8 of Title XI shall be applicable as if the consent were a surrender.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72667</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

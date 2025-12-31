@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1269.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1269-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1269-3">
+        <num>CHC 1269.3</num>
+        <heading>1269.3.  Continuing contact agreement; parties; required declarations</heading>
+        <subsection eId="CHC-1269-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Every post-adoption contact agreement shall be in writing and signed by the
+adopting parents and by any adult granted contact.  If a sibling granted contact is a minor, his
+parent or legal custodian shall sign the agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1269-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In an agency adoption in which the department is the custodian of the child, the
+department and counsel for the child shall report to the court approval or objection to the
+agreement and the child's wishes concerning continuing contact.  The court-appointed special
+advocate (CASA) for the child, if any, may also submit recommendations to the court
+regarding a proposed agreement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1269-3__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If requested by the parties, the court may refer them to mediation to assist them
+in confecting a continuing contact agreement.  If necessary to ensure that the child's best
+interest is taken into account, the court may also appoint independent counsel for any child
+involved in future continuing contact.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1269-3__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A continuing contact agreement may authorize the exchange of information,
+communication by telephone, mail, e-mail, or other means, and direct visitation in either the
+adopting parents' home or elsewhere through a mutually agreed-upon intermediary.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1269-3__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Every agreement, in order to be enforceable in accordance with Article 1269.8,
+must recite the following declarations:</p>
+          </content>
+          <paragraph eId="CHC-1269-3__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The parties have freely and voluntarily entered into the agreement and it reflects
+their intent to be bound by its terms, unless later modified by a replacement agreement or by
+court order.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1269-3__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The sibling, grandparent, parent, or other relative by blood, adoption, or affinity,
+or his representative, if any, has been counseled and advised by the department, by counsel,
+or by other appropriate professional about the meaning of these declarations and the effects
+of a continuing contact agreement and each has had the opportunity to have the agreement
+reviewed by his counsel.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1269-3__subsec_E__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The sibling, grandparent, parent, or other relative by blood, adoption, or affinity,
+or his representative, has been informed and understands that upon the execution of the
+agreement, any dispute or litigation regarding its terms shall not affect the validity of any
+surrender, termination of parental rights, adoption, or custody of the adopted child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1269-3__subsec_E__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The adopting parents have been informed and understand that the sibling,
+grandparent, parent, or other relative by blood, adoption, or affinity may seek enforcement
+of the terms of the agreement in accordance with Article 1269.8.
+NOTE: Subsection F eff. until October 1, 2027. See</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72746</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-223"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-223"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 223"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-223/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-223/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-223/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-223/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-223">
+        <num>CCRP 223</num>
+        <heading>Section </heading>
+        <subsection eId="CCRP-223__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A state or local law enforcement officer who arrests a person shall, at the time of
+the arrest, do all of the following if practicable:</p>
+          </content>
+          <paragraph eId="CCRP-223__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Inquire whether the person is a parent or guardian of a minor or dependent child
+under the care, custody, or control of the arrested person at the time of the arrest, who may
+be at risk as a result of the arrest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-223__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Ascertain whether a child is present, relying on all available information
+including any information received from emergency call operators and any indications at the
+scene of arrest that a child may be present or at another location.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-223__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Permit an arrested person a reasonable opportunity, including providing access
+to telephone numbers stored in a mobile telephone or other location, to make alternate
+arrangements for the care of a child under his care, custody, or control, including a child who
+is not present at the scene of the arrest, and to provide a partner organization with contact
+information of a preferred alternate caregiver.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-223__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Provide an arrested person the opportunity to speak with a child who is present,
+prior to such caregiver being transported to a police facility.  If such an opportunity is not
+practicable, having a police officer explain to such child, using age appropriate language, that
+such child did nothing wrong and that the child will be safe and cared for.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-223__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Make reasonable efforts to ensure the safety of minor or dependent children at
+risk as a result of an arrest in accordance with guidelines established pursuant to R.S.
+40:2405.9.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-223__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Law enforcement officers are not required to adhere to the guidelines of Paragraph
+A of this Article if any of the following circumstances are present:</p>
+          </content>
+          <paragraph eId="CCRP-223__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The arrested caregiver presents a threat of serious bodily injury or death to
+himself, others, or the law enforcement officer.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-223__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The arrested caregiver is in the act of committing a crime of violence as defined
+in R.S. 14:2(B).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-223__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The law enforcement officer has exercised due diligence, based on all available
+information, and ascertains that no minor children are under the arrested person's care,
+custody, or control.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1238744</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

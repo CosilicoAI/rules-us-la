@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-854"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-854"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 854"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-854/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-854/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-854/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-854/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-854">
+        <num>CCRP 854</num>
+        <heading>854.  Newly discovered evidence; necessary allegations</heading>
+        <subsection eId="CCRP-854__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>of Article 851 shall contain allegations of fact, sworn to by the defendant or his counsel, showing:</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-854__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>That notwithstanding the exercise of reasonable diligence by the defendant, the new evidence was not discovered before or during the trial;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-854__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The names of the witnesses who will testify and a concise statement of the newly discovered evidence;</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-854__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The facts which the witnesses or evidence will establish; and</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-854__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>That the witnesses or evidence are not beyond the process of the court, or are otherwise available.
+The newly discovered whereabouts or residence of a witness do not constitute newly discovered evidence.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112835</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

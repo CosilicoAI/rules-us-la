@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2531"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2531"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2531"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2531/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2531/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2531/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2531/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2531">
+        <num>CC 2531</num>
+        <heading>2531.  Liability of seller who knew not of the defect</heading>
+        <content>
+          <p>Art. 2531.  Liability of seller who knew not of the defect
+A seller who did not know that the thing he sold had a defect is only bound to repair, remedy, or correct the defect.  If he is unable or fails so to do, he is then bound to return the price to the buyer with interest from the time it was paid, and to reimburse him for the reasonable expenses occasioned by the sale, as well as those incurred for the preservation of the thing, less the credit to which the seller is entitled if the use made of the thing, or the fruits it has yielded, were of some value to the buyer.
+A seller who is held liable for a redhibitory defect has an action against the manufacturer of the defective thing, if the defect existed at the time the thing was delivered by the manufacturer to the seller, for any loss the seller sustained because of the redhibition.  Any contractual provision that attempts to limit, diminish or prevent such recovery by a seller against the manufacturer shall have no effect.
+Amended by</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109582</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

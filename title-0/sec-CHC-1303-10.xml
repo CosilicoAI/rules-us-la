@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-10"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1303.10"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1303-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1303-10">
+        <num>CHC 1303.10</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-1303-10__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Department of Children and Family Services is the state information agency
+under this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1303-10__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The state information agency shall:</p>
+          </content>
+          <paragraph eId="CHC-1303-10__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Compile and maintain a current list, including addresses, of the tribunals in this
+state that have jurisdiction under this Chapter and any support enforcement agencies in this
+state and transmit a copy to the state information agency of every other state;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-10__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Maintain a register of names and addresses of tribunals and support enforcement
+agencies received from other states;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-10__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Forward to the appropriate tribunal in the place in this state in which the obligee
+who is an individual or the obligor resides, or in which the obligor's property is believed to
+be located, all documents concerning a proceeding under this Chapter received from another
+state or a foreign country; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1303-10__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Obtain information concerning the location of the obligor and the obligor's
+property within this state not exempt from execution, by such means as postal verification
+and federal or state locator services, examination of telephone directories, requests for the
+obligor's address from employers, and examination of governmental records, including, to
+the extent not prohibited by other law, those relating to real property, vital statistics, law
+enforcement, taxation, motor vehicles, drivers' licenses, and social security.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72810</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

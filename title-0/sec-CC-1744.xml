@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1744"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1744"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1744"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1744/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1744/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1744/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1744/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1744">
+        <num>CC 1744</num>
+        <heading>Section </heading>
+        <content>
+          <p>CHAPTER 9.  OF INTERSPOUSAL DONATIONS INTER VIVOS
+Art. 1744.  Donations between future or present spouses; in general
+A person may make a donation inter vivos to his future or present spouse in contemplation of or in consideration of their marriage in accordance with the provisions of this Chapter.  Such a donation shall be governed by the rules applicable to donations inter vivos in general, including the rules that pertain to the reduction of donations that exceed the disposable portion, but only insofar as those general rules are not modified by the following Articles.
+A donation inter vivos by a person to his future or present spouse in contemplation of or in consideration of their marriage that is not made in accordance with the provisions of this Chapter shall be governed solely by the rules applicable to donations inter vivos in general.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108978</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

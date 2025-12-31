@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-945"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-945"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 945"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-945/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-945/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-945/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-945/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-945">
+        <num>CC 945</num>
+        <heading>945.  Effects of declaration of unworthiness</heading>
+        <subsection eId="CC-945__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The successor is deprived of his right to the succession to which he had been called.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-945__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>If the successor has possession of any property of the decedent, he must return it, along with all fruits and products he has derived from it.  He must also account for an impairment in value caused by his encumbering it or failing to preserve it as a prudent administrator.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-945__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>If the successor no longer has possession because of a transfer or other loss of possession due to his fault, he must account for the value of the property at the time of the transfer or other loss of possession, along with all fruits and products he has derived from it.
+He must also account for any impairment in value caused by his encumbering the property or failing to preserve it as a prudent administrator before he lost possession.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-945__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>If the successor has alienated, encumbered, or leased the property by onerous title, and there is no fraud on the part of the other party, the validity of the transaction is not affected by the declaration of unworthiness.  But if he has donated the property and it remains in the hands of the donee or the donee's successors by gratuitous title, the donation may be annulled.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-945__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The successor shall not serve as an executor, trustee, attorney or other fiduciary pursuant to a designation as such in the testament or any codicils thereto.  Neither shall he serve as administrator, attorney, or other fiduciary in an intestate succession.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=111073</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

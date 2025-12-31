@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-732-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-732-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 732.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-732-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-732-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-732-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-732-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-732-2">
+        <num>CCRP 732.2</num>
+        <heading>732.2.  Subpoena duces tecum regarding human trafficking offenses</heading>
+        <subsection eId="CCRP-732-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Department of Public Safety and Corrections, office of state police, the office
+of the attorney general, the police department, or the sheriff's office investigating any offense
+or attempt to commit any offense described in Subparagraphs</p>
+          </content>
+          <paragraph eId="CCRP-732-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Paragraph
+shall have the administrative authority to issue in writing and cause to be served a subpoena
+requiring the production and testimony described in Paragraph B of this Article upon
+reasonable cause to believe that an internet service account, or online identifier as defined
+in R.S. 15:541, has been used in the commission or attempted commission of the following:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A person is a victim of human trafficking pursuant to R.S. 14:46.2, or the
+offender reasonably believes that the person is a victim of human trafficking.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A person is a victim of trafficking of children for sexual purposes pursuant to
+R.S. 14:46.3, or the offender reasonably believes that the person is a minor.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-732-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Except as provided in Paragraph C of this Article, a subpoena issued under this
+Article may require the production of the following records or other documentation relevant
+to the investigation:</p>
+          </content>
+          <paragraph eId="CCRP-732-2__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Electronic mail address.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Internet username.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Internet protocol address.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Name of account holder.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Billing and service address.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Telephone number.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Account status.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_B__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Method of access to the internet.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_B__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Automatic number identification records if access is by modem.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-732-2__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The following information shall not be subject to disclosure pursuant to an
+administrative subpoena issued pursuant to the provisions of this Article but shall be subject
+to disclosure pursuant to other lawful process:</p>
+          </content>
+          <paragraph eId="CCRP-732-2__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In-transit electronic communications.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Account memberships related to internet groups, newsgroups, mailing lists, or
+specific areas of interest.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Account passwords.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-732-2__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Account content, including electronic mail in any form, address books, contacts,
+financial records, web surfing history, internet proxy content, or files or other digital
+documents stored with the account or pursuant to use of the account.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-732-2__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A subpoena issued pursuant to this Article shall describe the objects required to
+be produced and shall prescribe a return date with a reasonable period of time within which
+the objects can be assembled and made available.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-732-2__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If no case or proceeding arises from the production of records or other
+documentation pursuant to this Section and the time limitation for initiation of prosecution
+has expired, the Department of Public Safety and Corrections, office of state police, the
+office of the attorney general, or the sheriff's office shall destroy the records and
+documentation.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-732-2__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>Except as provided in this Article, any information, records, or data reported or
+obtained pursuant to a subpoena authorized by the provisions of this Article shall remain
+confidential and shall not be disclosed unless in connection with a criminal case related to
+the subpoenaed materials.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-732-2__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Any administrative subpoena issued pursuant to this Article shall comply with the
+provisions of 18 U.S.C. 2703(c)(2).</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1238747</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

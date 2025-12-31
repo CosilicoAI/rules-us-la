@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-601"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-601"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 601"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-601/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-601/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-601/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-601/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-601">
+        <num>CHC 601</num>
+        <heading>Section </heading>
+        <content>
+          <p>TITLE VI
+CHILD IN NEED OF CARE
+CHAPTER 1.  PRELIMINARY PROVISIONS; DEFINITIONS
+Art. 601.  Purpose
+The purpose of this Title is to protect children whose physical or mental health,
+welfare, and safety is substantially at risk of harm by physical abuse, neglect, or exploitation
+and who may be further threatened by the conduct of others, by providing for the reporting
+of suspected cases of abuse, exploitation, or neglect of children; by providing for the
+investigation of complaints; and by providing, if necessary, for the resolution of child in need
+of care proceedings in the courts.  The proceedings shall be conducted expeditiously to avoid
+delays in achieving permanency for children.  This Title is intended to provide the greatest
+possible protection as promptly as possible for children.  The health, welfare, safety, and best
+interest of the child shall be the paramount concern in all proceedings pursuant to this Title. 
+This Title shall be construed in accordance with Article 102.  This Title shall be administered
+and interpreted to avoid unnecessary interference with family privacy and trauma to the child,
+and yet, at the same time, authorize the protective and preventive intervention needed for the
+health, welfare, safety, and well-being of children.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73193</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

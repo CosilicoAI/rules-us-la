@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-404-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-404-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 404.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-404-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-404-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-404-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-404-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-404-1">
+        <num>CCRP 404.1</num>
+        <heading>404.1.  Powers, duties, and functions of the board of jury commissioners in Orleans Parish</heading>
+        <subsection eId="CCRP-404-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding any other law to the contrary, this Article shall apply to the board of jury commissioners in Orleans Parish.  In Orleans Parish, there shall be a board of jury commissioners, hereinafter referred to as &quot;the board&quot;, composed of five members appointed by the governor, subject to confirmation of the Senate, to serve at his pleasure.  The board shall meet at least once every six months and when it is ordered to do so by the court and may meet to select or supplement the general venire for grand and petit jurors.  Three members shall constitute a quorum.  The board may select a new general venire at any meeting and shall do so when ordered by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The board in such parishes may, with the concurrence of the judges of the criminal district court, have subpoenas served through personal or domiciliary service by depositing same in the United States mail, regular, certified, or registered, addressed to the juror at his usual residence or business address.  The date of mailing shall be not less than fifteen days prior to the date on which the addressee is subpoenaed to appear.  When service is by regular mail, the board of jury commissioners shall retain a record of the date of mailing.  In cases of service by regular mail, prior to any contempt citation, the person shall be served by registered or certified mail with return receipt requested.  If service is made by registered or certified mail with return receipt requested, the return receipt shall be retained by the jury commission as proof of proper service and failure of the person to respond to the subpoena so served shall constitute contempt of court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The municipality which the board serves in such parishes shall cooperate with the board to provide the board with records, computer and other equipment, voter registration rolls, tapes, and other items which it needs to compile the general venire of grand jurors and petit jurors at no cost to the board.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The board in such parishes shall develop a plan to govern its operation.  Such plan shall be approved by a majority of the judges of the criminal district court of such parishes.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The board shall have authority over all its employees, subject to supervision by the criminal district court.  The board, by majority vote, shall determine all matters relating to its jurisdiction, subject only to the approval of the judges of the district court or criminal district court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404-1__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The accounting functions of the board and of the jury commission shall be transferred to the judicial administrator of the criminal district court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-404-1__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>All procedures and policies developed by the jury commission shall be under the direction and subject to the approval of the criminal district court, en banc.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112506</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-848"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-848"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 848"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-848/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-848/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-848/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-848/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-848">
+        <num>CHC 848</num>
+        <heading>848.  Notice of right to counsel; form</heading>
+        <content>
+          <p>Art. 848.  Notice of right to counsel; form
+&quot;NOTICE
+RIGHT TO COUNSEL
+Under the laws of Louisiana, every child accused of delinquency is entitled to have a lawyer to be present and to assist the child to answer the attached petition.  A child is entitled to be represented by a lawyer at every stage of proceedings in the juvenile court, including the right to appeal from any judgment of disposition which might be ordered by the court.
+If the parents of an accused child are completely financially unable to afford to employ a lawyer, the court will appoint a lawyer and the state will pay for his services.
+If the parents are found to be financially able to afford to employ a lawyer but fail to employ one, the juvenile court may appoint a lawyer for the child and require the parents to pay for the lawyer's services.
+The financial ability or inability of the parents to employ a lawyer will be determined by the court after a hearing.  The court may require the parents to pay for some or all of the costs of lawyer's services on behalf of the child.
+After consulting with parents or other adult interested in the child's welfare, the child may be permitted by the court to proceed without the assistance of a lawyer.  This decision can be made at any time during the proceedings in the juvenile court.&quot;</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73439</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

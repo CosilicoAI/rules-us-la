@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-237"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-237"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 237"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-237/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-237/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-237/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-237/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-237">
+        <num>CC 237</num>
+        <heading>Section </heading>
+        <content>
+          <p>Art. 237.  Obligation of providing the basic necessities of life; ascendants and descendants;
+exceptions
+Descendants are bound to provide the basic necessities of life to their ascendants who
+are in need, upon proof of inability to obtain these necessities by other means or from other
+sources, and ascendants are likewise bound to provide for their needy descendants, this
+obligation being reciprocal.
+This obligation is strictly personal and is limited to the basic necessities of food,
+clothing, shelter, and health care.
+This obligation is owed by descendants and ascendants in the order of their degree
+of relationship to the obligee and is joint and divisible among obligors.  Nevertheless, if the
+obligee is married, the obligation of support owed by his descendants and ascendants is
+secondary to the obligation owed by his spouse.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109456</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

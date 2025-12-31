@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1461-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1461-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1461.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1461-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1461-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1461-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1461-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1461-1">
+        <num>CHC 1461.1</num>
+        <heading>1461.1.  Communication with parent or guardian of minor child</heading>
+        <subsection eId="CHC-1461-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Notwithstanding the provisions of Article 1409, any treating facility to which a
+minor is admitted under the provisions of Article 1460 shall provide to the parent or guardian
+of the minor child the following notifications from the facility during all times that the minor
+is confined to the facility:</p>
+          </content>
+          <paragraph eId="CHC-1461-1__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>No less than one telephone or face-to-face communication each seventy-two
+hours for the first twenty-one days that the minor is confined to the facility and at least once
+a week thereafter.  All communications shall be made by a physician, case manager,
+registered nurse, or licensed practical nurse familiar with treatment of the patient and
+available to answer questions.  Each communication shall include but not be limited to the
+following:</p>
+            </content>
+            <subparagraph eId="CHC-1461-1__subsec_A__subsec_1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Diagnosis.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1461-1__subsec_A__subsec_1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Prognosis.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1461-1__subsec_A__subsec_1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Treatment plan.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1461-1__subsec_A__subsec_1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Anticipated length of treatment.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1461-1__subsec_A__subsec_1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Current physical condition of the patient.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1461-1__subsec_A__subsec_1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Current mental condition of the patient.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1461-1__subsec_A__subsec_1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>All medications administered and potential side effects.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-1461-1__subsec_A__subsec_1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Any incidents of self-injury or injury to others.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-1461-1__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Verbal notice within two hours and detailed written notice within forty-eight
+hours of all occurrences in which the physical or mental safety of the minor was placed at
+risk, including but not limited to unwanted or improper physical contact, physical assault,
+or sexual contact with another patient or staff member.  Additionally, any such detailed
+written notice shall also be transmitted within forty-eight hours to the local protection and
+advocacy system established under 42 U.S.C. 15041 et seq.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1461-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Any minor subjected to unwanted or improper physical contact, physical assault,
+or sexual contact with another patient or staff  member shall be given immediate access to
+contact his parent or guardian.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1461-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The obligations set forth in Paragraph (A) of this Article shall only be waived by
+knowledgeable written consent authorized by a document separate from admission
+documents which clearly sets out the specific rights granted by this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1461-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>A physician, case manager, registered nurse, or licensed practical nurse may deny
+access to communication with a parent or guardian if the treating physician has so indicated
+in the patient's record because he has reasonably concluded that communication of the
+information to the parent or guardian would be injurious to the health or welfare of the
+patient or could reasonably be expected to endanger the life or safety of any other person.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=181152</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

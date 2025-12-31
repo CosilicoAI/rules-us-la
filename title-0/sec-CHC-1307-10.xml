@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-10"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-10"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1307.10"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-10/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-10/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-10/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1307-10/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1307-10">
+        <num>CHC 1307.10</num>
+        <heading>1307.10.  Foreign support agreement</heading>
+        <subsection eId="CHC-1307-10__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided in Paragraphs C and D of this Article, a tribunal of
+this state shall recognize and enforce a foreign support agreement registered in this state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1307-10__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An application or direct request for recognition and enforcement of a foreign
+support agreement must be accompanied by:</p>
+          </content>
+          <paragraph eId="CHC-1307-10__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A complete text of the foreign support agreement; and</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-10__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A record stating that the foreign support agreement is enforceable as an order of
+support in the issuing country.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1307-10__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>A tribunal of this state may vacate the registration of a foreign support agreement
+only if, acting on its own motion, the tribunal finds that recognition and enforcement would
+be manifestly incompatible with public policy.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1307-10__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In a contest of a foreign support agreement, a tribunal of this state may refuse
+recognition and enforcement of the agreement if it finds:</p>
+          </content>
+          <paragraph eId="CHC-1307-10__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Recognition and enforcement of the agreement is manifestly incompatible with
+public policy;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-10__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The agreement was obtained by fraud or falsification;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-10__subsec_D__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The agreement is incompatible with a support order involving the same parties
+and having the same purpose in this state, another state, or a foreign country if the support
+order is entitled to recognition and enforcement under this Chapter in this state; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1307-10__subsec_D__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The record submitted under Paragraph B of this Article lacks authenticity or
+integrity.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1307-10__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A proceeding for recognition and enforcement of a foreign support agreement
+shall be suspended during the pendency of a challenge to or appeal of the agreement before
+a tribunal of another state or a foreign country.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=962648</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

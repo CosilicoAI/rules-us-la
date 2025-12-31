@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-991"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-991"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 991"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-991/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-991/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-991/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-991/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-991">
+        <num>CCRP 991</num>
+        <heading>Order form to be used</heading>
+        <content>
+          <p>§991.  Order form to be used
+&quot;
+STATE OF LOUISIANA
+JUDICIAL DISTRICT FOR THE PARISH OF
+______________________________
+No.: _____________
+Division: &quot;_______&quot;
+State of Louisiana
+vs.
+_______________________________________________________
+ORDER
+IT IS HEREBY ORDERED,
+*
+If there is an objection to the Motion for Expungement, the district attorney and the arresting law enforcement agency shall file a motion to object within sixty days of the service of this Order.
+*
+If the Louisiana Bureau of Criminal Identification and Information objects to the Motion for Expungement, they shall file a motion within 120 days of the service of this order (prior to August 1, 2015) and within 60 days of service of this order (after August 1, 2015).
+*
+NO CONTRADICTORY HEARING SHALL BE REQUIRED as evidenced by the &quot;Affidavit of No Opposition&quot; executed by each agency named herein and attached to the Motion for Expungement.
+THUS ORDERED AND SIGNED this ____ day of _________________, 20 ____ at ______________, Louisiana, ___________________________.
+___________________________
+JUDGE
+PLEASE SERVE:
+1.
+District Attorney:________________________________________________
+2.
+Louisiana Bureau of Criminal Identification and Information_____________
+3.
+Arresting Agency: ____________________________________________&quot;</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=919686</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

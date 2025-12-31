@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-932"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-932"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 932"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-932/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-932/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-932/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-932/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-932">
+        <num>CCP 932</num>
+        <heading>932.  Effect of sustaining declinatory exception</heading>
+        <subsection eId="CCP-932__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When the grounds of the objections pleaded in the declinatory exception may be removed by amendment of the petition or other action of plaintiff, the judgment sustaining the exception shall order the plaintiff to remove them within the delay allowed by the court; if the court finds, on sustaining the objection that service of citation on the defendant was not requested timely, it may either dismiss the action as to that defendant without prejudice or, on the additional finding that service could not have been timely requested, order that service be effected within a specified time.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-932__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the grounds of the objection cannot be so removed, or if the plaintiff fails to comply with an order requiring such removal, the action, claim, demand, issue, or theory subject to the exception shall be dismissed; except that if an action has been brought in a court of improper jurisdiction or venue, the court may transfer the action to a proper court in the interest of justice.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112301</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

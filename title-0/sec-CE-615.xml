@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-615"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-615"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 615"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-615/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-615/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-615/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-615/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-615">
+        <num>CE 615</num>
+        <heading>615.  Exclusion of witnesses</heading>
+        <subsection eId="CE-615__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>As a matter of right.  On its own motion the court may, and on request of a party the court shall, order that the witnesses be excluded from the courtroom or from a place where they can see or hear the proceedings, and refrain from discussing the facts of the case with anyone other than counsel in the case.  In the interests of justice, the court may exempt any witness from its order of exclusion.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-615__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Exceptions.  This Article does not authorize exclusion of any of the following:</p>
+          </content>
+          <paragraph eId="CE-615__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A party who is a natural person.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-615__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A single officer or single employee of a party which is not a natural person designated as its representative or case agent by its attorney.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-615__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person whose presence is shown by a party to be essential to the presentation of his cause such as an expert.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-615__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The victim of the offense or the family of the victim.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-615__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Violation of exclusion order.  A court may impose appropriate sanctions for violations of its exclusion order including contempt, appropriate instructions to the jury, or when such sanctions are insufficient, disqualification of the witness.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72504</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

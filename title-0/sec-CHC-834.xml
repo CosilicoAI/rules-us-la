@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-834"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-834"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 834"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-834/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-834/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-834/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-834/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-834">
+        <num>CHC 834</num>
+        <heading>834.  Appointment of competency commission; qualifications</heading>
+        <subsection eId="CHC-834__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If no psychologist is appointed to the commission and one of the appointed
+physicians determines that psychological testing is needed, upon request of the commission
+the court shall appoint a psychologist to the commission.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-834__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The members of the commission appointed to make the examination shall have
+free access to the child at all reasonable times.  The court shall issue a subpoena for the
+attendance of witnesses at the examination upon the request of the child, the commission,
+or any member thereof.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-834__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>For the purpose of the mental competency examination, the court may order a
+child previously released on bail to appear for any mental examinations and hearings
+authorized by this Chapter.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-834__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The clerk of court shall give written notice of the time and date of the
+contradictory hearing and all continuances to the Louisiana Department of Health, bureau of
+legal services.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73425</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

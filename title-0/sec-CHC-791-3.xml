@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-791-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-791-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 791.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-791-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-791-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-791-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-791-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-791-3">
+        <num>CHC 791.3</num>
+        <heading>791.3.  State, state agencies; participation</heading>
+        <subsection eId="CHC-791-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The state recognizes that juvenile crime is a statewide problem which is
+increasing and which adversely affects all its citizens starting with the child and family. In
+metropolitan areas of the state, juvenile courts report that almost all of its families under the
+Families in Need of Services program involve school-related issues and the overwhelming
+majority are truant cases involving children below the age of twelve.  &quot;Out-of-school&quot;
+suspension rates in elementary schools are comparable to those of middle and junior high
+schools.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-791-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The state is obligated to provide certain social and health care services to needy
+families through the Department of Children and Family  Services and the Louisiana
+Department of Health.  These services for assessment and psychiatric evaluation and
+treatment, if deemed needed, must be continued.  The state substance abuse clinics, through
+its employees and contracted programs, shall accept referrals for substance abuse evaluation
+and treatment if warranted.  The legislature recognizes that each parish included in this
+Chapter has committed through binding interagency agreements to provide certain
+enumerated services, including providing physical space.  This commitment by the parishes
+is predicated on financial assistance from the state in order to fully comply with the creation
+of truancy assessment service centers.  Additionally, in order to support each truancy
+assessment service center with sufficient services pursuant to this Chapter, the state will
+continue to provide social and health-related services where available.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73386</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-620"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-620"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 620"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-620/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-620/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-620/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-620/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-620">
+        <num>CHC 620</num>
+        <heading>620.  Oral instanter orders</heading>
+        <subsection eId="CHC-620__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In exceptional circumstances, the facts supporting the issuance of an instanter
+order and the exceptional circumstances may be relayed orally, including telephonically, to
+the judge, and the order directing that a child be taken into custody or, upon request by the
+state, that an instanter safety plan order be implemented may be issued orally.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-620__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>An affidavit containing the information previously relayed orally, including
+telephonically, shall be filed with the clerk of the court within twenty-four hours, and a
+written order shall be issued.  The written order shall include the court's findings of fact
+supporting the necessity for the child's removal or the implementation of an instanter safety
+plan order and, if the child has been removed, shall determine the child's custodian in
+accordance with Article 619.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-620__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The affidavit filed after the child has been placed shall indicate whether the child
+was released to the child's parents or remains removed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-620__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The department shall promptly notify the parents or caretaker of the nature of the
+allegations and, if the child is not released, of the time and place of the continued custody
+hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-620__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the court ordered the implementation of a safety plan, the department shall
+promptly notify the parents or caretaker of the nature of the allegations, the conditions of the
+safety plan, and the time and place of a continued safety plan order hearing.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73213</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

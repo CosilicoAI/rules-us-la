@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1465"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1465"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1465"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1465/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1465/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1465/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1465/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1465">
+        <num>CHC 1465</num>
+        <heading>1465.  Voluntary admissions favored</heading>
+        <subsection eId="CHC-1465__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Admitting physicians are encouraged to admit minors with mental illness or minors suffering from substance abuse to treatment facilities on voluntary admission status whenever medically feasible.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1465__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>No director of a treatment facility shall prohibit any minor with mental illness or minor suffering from substance abuse from applying for conversion of involuntary or emergency admission status to voluntary admission status.  Any minor patient on an involuntary admission status shall have the right to apply for a writ of habeas corpus in order to have his admission status changed to voluntary status.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1465__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>No employee of a mental health care program or treatment facility, peace officer, or physician shall state to any person that involuntary admission may result if the minor does not voluntarily admit himself to a mental health care program or treatment facility unless the employee, peace officer, or physician is prepared to execute a certificate pursuant to Chapter 7 or a petition pursuant to Chapter 9 of this Title.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72961</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

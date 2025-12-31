@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-840"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-840"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 840"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-840/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-840/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-840/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-840/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-840">
+        <num>CHC 840</num>
+        <heading>840.  Form of agreement</heading>
+        <subsection eId="CHC-840__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>An informal adjustment agreement shall set forth in writing the terms and conditions of the child's supervision during the term specified in the agreement.  It shall be signed by the district attorney or the probation officer and by the child and his parents.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-840__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>It must demonstrate that the child and his parents understand the child's right to an adjudication hearing on the offense.  It must also demonstrate that they consent to the terms of the adjustment agreement with knowledge that their consent is not obligatory and with knowledge of the effect of the agreement as set out hereinafter in Article 841.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-840__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The initial period of informal adjustment shall not exceed six months; however, the court may extend the agreement for additional periods of six months, not to exceed a total of two years.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-840__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If a petition has been filed, the adjustment agreement shall be filed in the record.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73431</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

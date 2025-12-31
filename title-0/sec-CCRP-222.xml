@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-222"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-222"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 222"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-222/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-222/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-222/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-222/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-222">
+        <num>CCRP 222</num>
+        <heading>222.  Blood and saliva testing; expedited, nonincriminating procedure</heading>
+        <subsection eId="CCRP-222__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Any person who commits any act which exposes a law enforcement officer to a
+serious infectious disease by any means resulting in contact with the officer during the course
+and scope of an arrest or through the investigation and handling of evidence related to the
+arrest for any offense shall be required to submit within seventy-two hours of the exposure
+to a test designed to determine whether he is infected with a sexually transmitted disease,
+acquired immune deficiency syndrome (AIDS), the human immunodeficiency virus (HIV),
+HIV-1 antibodies, any other probable causative agent of AIDS, viral hepatitis, or any other
+serious infectious disease.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-222__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Any law enforcement officer who believes he has been the victim of an act which
+has exposed him to a serious infectious disease as provided in Paragraph A of this Article
+shall notify by affidavit, subject to penalty for false swearing, the criminal district court that
+the exposure has occurred.  The court may order the testing, as provided in this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-222__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court shall include in its order the designation of an appropriate facility for
+the procedure and shall require that the result be reported to the court.  The court shall
+provide the results to the law enforcement officer and the alleged offender and shall provide
+them to health authorities in accordance with law.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-222__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The state shall not use the fact that the medical procedure or test was performed
+on the alleged offender under this Article, or the results thereof, in any criminal proceeding
+arising out of the alleged offense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-222__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>For purposes of this Article:</p>
+          </content>
+          <paragraph eId="CCRP-222__subsec_E__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Act&quot; means spitting, biting, or scratching; the throwing of blood or other bodily
+substances by any means; and any other method of intentional or non-intentional exposure
+to blood or other bodily substances.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-222__subsec_E__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Law enforcement officer&quot; means a commissioned police officer, sheriff, deputy
+sheriff, marshal, deputy marshal, correctional officer, constable, wildlife enforcement agent,
+probation and parole officer, or any officer of the court.  &quot;Law enforcement officer&quot; includes
+a civilian employee of the Louisiana State Police Crime Laboratory or any other forensic
+laboratory while engaged in the performance of the employee's lawful duties.  &quot;Law
+enforcement officer&quot; also includes any licensed emergency medical services practitioner as
+defined by R.S. 40:1131 and any firefighter regularly employed by a fire department of any
+municipality, parish, or fire protection district of the state or any volunteer firefighter of the
+state.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-222__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The costs associated with testing as authorized by this Article shall be paid by the
+offender.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-222__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>If the person tested under the provisions of this Article tests positive for a sexually
+transmitted disease, AIDS, HIV, HIV-1 antibodies, any other probable causative agent of
+AIDS, viral hepatitis, or any other serious infectious disease, the court shall inform that
+person of available counseling, healthcare, and support services.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112375</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

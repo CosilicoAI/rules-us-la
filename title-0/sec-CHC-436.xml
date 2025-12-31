@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-436"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-436"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 436"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-436/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-436/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-436/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-436/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-436">
+        <num>CHC 436</num>
+        <heading>436.  Definitions</heading>
+        <subsection eId="CHC-436__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Approved register&quot; means the register of qualified mediators prepared and maintained by the Alternative Dispute Resolution Section of the Louisiana State Bar Association.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-436__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Mediation&quot; is a procedure in which a mediator facilitates communication between the parties concerning the matters in dispute and explores possible solutions to promote reconciliation, understanding, and settlement.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-436__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Mediation parties&quot; means:</p>
+          </content>
+          <paragraph eId="CHC-436__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>In a child in need of care proceeding, a representative of the Department of Children and Family Services, the parent, and the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-436__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>In a delinquency proceeding, the alleged victim and offender.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-436__subsec_3__subsec_c">
+            <num>(c)</num>
+            <content>
+              <p>In a families in need of services proceeding, the parent and the child and any other person involved in the complaint including, in truancy cases, a school representative, and, in offense cases, the alleged victim.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-436__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Mediator&quot; is a third-party neutral who assists the parties in attempting to reach an agreement and who lacks the authority to impose any particular agreement upon them or to recommend any particular disposition of the case to the court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73177</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

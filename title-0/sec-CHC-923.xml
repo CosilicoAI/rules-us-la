@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-923"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-923"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 923"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-923/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-923/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-923/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-923/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-923">
+        <num>CHC 923</num>
+        <heading>923.  Expungement and sealing of adjudications involving human trafficking victims</heading>
+        <subsection eId="CHC-923__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A motion to set aside an adjudication pursuant to the provisions of this Article,
+may be filed and served upon the district attorney at any time following an adjudication of
+delinquency and completion of the disposition relating thereto involving the offenses of
+prostitution pursuant to R.S. 14:82, prostitution by massage pursuant to R.S. 14:83.3 or 83.4,
+or crime against nature by solicitation pursuant to R.S. 14:89.2 when the child's participation
+in the offense was a result of having been a victim of human trafficking under R.S. 14:46.2
+or a victim of a severe form of trafficking under the federal Trafficking Victims Protection
+Act (22 U.S.C. 7101 et seq.).</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-923__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The motion shall be in writing, shall describe the supporting evidence with
+particularity, and shall include copies of any documents showing that the child is entitled to
+relief under this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-923__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The motion shall not be denied without a contradictory hearing unless it appears
+on the face of the motion that, as a matter of law, the child is not entitled to the relief sought.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-923__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The court shall grant the motion if the court finds by a preponderance of the
+evidence that the violation was a result of the child having been a victim of human
+trafficking.  Documentation of a child's status as a victim of human trafficking provided by
+a federal, state, or local government agency shall create a presumption that the child's
+adjudication was obtained as a result of having been a victim of human trafficking. 
+However, such documentation shall not be required to grant a motion under this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-923__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the motion is granted, the court shall order the expungement and sealing of the
+record and report of the juvenile proceedings including all records and files related to the
+child's arrest, citation, investigation, charge, delinquency proceedings, adjudication, and
+probation for the offense.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=859118</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-644"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-644"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 644"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-644/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-644/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-644/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-644/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-644">
+        <num>CHC 644</num>
+        <heading>644.  Duties of curator ad hoc</heading>
+        <subsection eId="CHC-644__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The curator ad hoc shall make a diligent effort to locate the parent and notify him
+of the pendency and nature of the proceedings.  Such notice shall include:</p>
+          </content>
+          <paragraph eId="CHC-644__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The allegations made against the parent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-644__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The right of the parent to appear at the hearing, to defend against the allegations,
+and to compel the attendance of witnesses in his behalf.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-644__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The right of the parent to retain counsel, or to have counsel appointed if indigent.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-644__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The possibility that the parent may be able to enter into an informal adjustment
+agreement, to consent to judgment, or to transfer custody, with the consent of the court.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-644__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The parent's responsibility to notify the department and his counsel in writing of
+his current whereabouts, including his address, cellular number, telephone number, and any
+other contact information, and that if he fails to do so, the law authorizes hearings to be held
+in his absence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-644__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The parent's responsibility to notify the department and the court in writing of the
+current whereabouts, including address, cellular number, telephone number, and any other
+contact information, of the child's other parent and any relative or other individual willing
+and able to offer a wholesome and stable home for the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-644__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The parent's responsibility to support the achievement of timely permanency for
+the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-644__subsec_A__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The parent's responsibility to advise the department and the court in writing of
+the whereabouts, including the address, cellular number, telephone number, and any other
+contact information, of all grandparents, all parents of a sibling where such parent has legal
+custody of such sibling, and all other adult relatives of the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-644__subsec_A__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The possibility that a judicial certification for adoption proceeding may be
+initiated if the child remains in the custody of the state.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-644__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the curator ad hoc fails to locate the parent, the curator ad hoc shall attend the
+hearing of this matter, submit a note of evidence on the record indicating the efforts made
+to locate the parent, and proceed contradictorily unless the parent is subsequently served or
+waives objection to jurisdiction.  Proceedings held contradictorily with the curator ad hoc
+shall be of full force and legal effect against the parent.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-644__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the parent is subsequently served in accordance with either Article 640 or 641
+or is located by the curator ad hoc, the curator ad hoc shall be required only to attend the
+hearing and submit a note of evidence on the record indicating the efforts made to locate the
+parent.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73237</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

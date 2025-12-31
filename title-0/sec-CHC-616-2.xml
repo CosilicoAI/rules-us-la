@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-616-2"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-616-2"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 616.2"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-616-2/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-616-2/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-616-2/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-616-2/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-616-2">
+        <num>CHC 616.2</num>
+        <heading>616.2.  Central registry; maintenance by state police; use; confidentiality</heading>
+        <subsection eId="CHC-616-2__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The Bureau of Criminal Identification and Information in the office of state police shall maintain a central index registry of all reports of sexual abuse obtained in accordance with Article 615.1.  The purpose of the registry is to provide information of past reports of child sexual abuse to assist in the proper evaluation of current reports of abuse which may include a pattern of incidents and which may prove admissible in a criminal prosecution under Code of Evidence Article 404(B) or 412.2.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-616-2__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When the information contained in the reports is obtained by the bureau in accordance with Article 615.1:</p>
+          </content>
+          <paragraph eId="CHC-616-2__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The pertinent information regarding the report and investigation shall be indexed by the name of the alleged perpetrator and shall be maintained for the exclusive use of child protection and law enforcement investigators in the course of investigations, for the sole purpose of evaluating the existence of patterns of incidents in pending child abuse investigations.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-616-2__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All pertinent information regarding these reports and investigations shall be strictly confidential and shall not under any circumstances be disclosed or ordered to be produced in conjunction with any legal proceeding or matter, except as provided for in this Article.  The Department of Public Safety and Corrections shall promulgate rules and regulations, in accordance with the Administrative Procedure Act, to provide for the disposition, handling, maintenance, and storage of the information forwarded to them pursuant to this Article and not in conflict with this Article.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-616-2__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding Subparagraph (B)</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-616-2__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>of this Article, all information regarding the reports shall be maintained by the Department of Public Safety and Corrections for ten years from the date of receipt of the report, unless a subsequent report is received during that time period, in which case, information from all reports will be maintained indefinitely.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=408243</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-791"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-791"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 791"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-791/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-791/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-791/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-791/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-791">
+        <num>CHC 791</num>
+        <heading>791.  Contempt; prehearing detention</heading>
+        <subsection eId="CHC-791__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If there are reasonable grounds to believe that the child has violated the terms of a judgment of disposition, the child may be taken into custody in accordance with Article 735 or 736.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-791__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If, in addition, there are reasonable grounds to believe that taking the child into custody is necessary for his protection or control or to assure the child's appearance at the contempt hearing, the child may be taken into custody to a secure detention facility in accordance with Article 735 or 736.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-791__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The peace officer, probation officer, or an appropriate representative of the arresting agency shall have the authority and responsibility to transport the child to such shelter care facility or detention facility.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-791__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the child is taken to a shelter care facility or detention facility, there shall be a hearing within twenty-four hours, exclusive of legal holidays, to determine whether:</p>
+          </content>
+          <paragraph eId="CHC-791__subsec_D__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A judgment of disposition was entered in compliance with Article 782.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-791__subsec_D__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Reasonable grounds exist that the child has violated the judgment of disposition.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-791__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If the requirements of Paragraph D  are met, the child may be detained for up to three days pending a hearing on the rule for contempt.  This time limitation shall run from the time of the reasonable grounds determination or the taking into custody, whichever is later.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-791__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A child shall not be detained in a secure juvenile detention facility for any alleged violation of an informal family services plan agreement.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73383</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

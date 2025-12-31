@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-886"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-886"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 886"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-886/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-886/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-886/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-886/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-886">
+        <num>CHC 886</num>
+        <heading>886.  Continued custody pending disposition; bail; places of detention</heading>
+        <subsection eId="CHC-886__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At the conclusion of the hearing if the child has been adjudicated delinquent, the court shall consider whether the child should be released or held in custody pending a disposition hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-886__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the adjudication was based upon a misdemeanor-grade delinquent act, the child shall have a right to bail in accordance with the procedures established in Chapter 6 of this Title.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-886__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the adjudication was based upon a felony-grade delinquent act, there is a presumption in favor of the child's right to bail unless the court has reason to believe, based upon competent evidence, that the release of the child will pose a danger to any other person or the community.  If the child is to be released, the court shall set bail according to the procedures established in Chapter 6 of this Title.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-886__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If the child is held in custody, the court may place him in a juvenile detention center, in a public or private facility for juveniles, in a private home subject to the supervision of the court, or in any other suitable facility for juveniles authorized by the court.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73477</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

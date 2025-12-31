@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4843"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4843"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 4843"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4843/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4843/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-4843/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-4843/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-4843">
+        <num>CCP 4843</num>
+        <heading>Section </heading>
+        <subsection eId="CCP-4843__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided for in this Article, the civil jurisdiction of a city
+court is concurrent with the district court in cases where the amount in dispute, or the value
+of the property involved, does not exceed fifteen thousand dollars.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4843__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The civil jurisdiction of a city court in which the population of the territorial
+jurisdiction is greater than fifty thousand is concurrent with the district court in cases or
+proceedings instituted by the state, a parish, a municipality, or other political subdivision of
+the state for injunctive relief or other civil relief for the cessation or abatement of any acts
+or practices which may violate a parish or municipal ordinance or state law.  In such case,
+the court has jurisdiction regardless of the amount in dispute or the value of the property
+involved.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4843__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>In the City Court of Bossier City, and any city court in which the population of
+the territorial jurisdiction is less than fifty thousand, except as otherwise specifically
+provided by law, the civil jurisdiction is concurrent with the district court in cases where the
+amount in dispute, or the value of the property involved, does not exceed fifteen thousand
+dollars.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4843__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>In the City Court of Breaux Bridge, the City Court of Houma, the City Court of
+Jeanerette, the City Court of Jennings, the City Court of Monroe, the City Court of New
+Iberia, the City Court of Oakdale, and the City Court of Winnfield, the civil jurisdiction is
+concurrent with the district court in cases where the amount in dispute, or the value of the
+property involved, does not exceed thirty thousand dollars.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4843__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>In the City Court of Breaux Bridge,  the City Court of Houma, the City Court of
+Jeanerette, the City Court of Jennings, the City Court of Monroe, the City Court of New
+Iberia, the City Court of Oakdale,  and the City Court of Winnfield, the civil jurisdiction is
+concurrent with the district court in cases where the amount in dispute, or the value of the
+property involved, does not exceed thirty thousand dollars.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4843__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>In the City Court of Abbeville, the City Court of Baker, the City Court of Baton
+Rouge, the City Court of Crowley, the City Court of Kaplan, the City Court of Lafayette, the
+City Court of Leesville, the City Court of Minden, the City Court of Plaquemine, the City
+Court of Rayne, the City Court of Shreveport, the City Court of Springhill, and the City
+Court of Zachary, the civil jurisdiction is concurrent with the district court in cases where the
+amount in dispute, or the value of the property involved, does not exceed thirty-five thousand
+dollars.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4843__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>In the City Court of Alexandria, the City Court of East St. Tammany, the City
+Court of Hammond, the City Court of Lake Charles, the City Court of Pineville, the City
+Court of Ruston, the City Court of Sulphur, and the Third Ward City Court of Franklin, the
+civil jurisdiction is concurrent with the district court in cases where the amount in dispute,
+or the value of the property involved, does not exceed fifty thousand dollars.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-4843__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>Repealed by</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112087</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

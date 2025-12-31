@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-709"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-709"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 709"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-709/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-709/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-709/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-709/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-709">
+        <num>CCRP 709</num>
+        <heading>709.  Continuance based on absence of a witness</heading>
+        <subsection eId="CCRP-709__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A motion for a continuance based upon the absence of a witness shall state all of the following:</p>
+          </content>
+          <paragraph eId="CCRP-709__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Facts to which the absent witness is expected to testify, showing the materiality of the testimony and the necessity for the presence of the witness at the trial.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-709__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Facts and circumstances showing a probability that the witness will be available at the time to which the trial is deferred.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCRP-709__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Facts showing due diligence used in an effort to procure attendance of the witness.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCRP-709__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In addition to the requirements set forth in Paragraph A of this Article, when the motion for continuance is based upon the absence of a witness who is in the armed forces, the moving party, either the district attorney or the defense counsel, shall attest to facts showing that the absent witness is on active military duty in the United States Armed Forces.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112716</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

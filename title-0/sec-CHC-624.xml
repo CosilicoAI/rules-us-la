@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-624"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-624"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 624"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-624/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-624/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-624/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-624/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-624">
+        <num>CHC 624</num>
+        <heading>Section </heading>
+        <subsection eId="CHC-624__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If the court issues an order pursuant to Article 619 or 620, a hearing shall be held
+by the court within three days after the issuance of the order.  An order setting the hearing
+shall provide for appointment of counsel for the child and notice to the entity approved to
+represent children.  If an instanter safety plan order has been ordered, a hearing shall be held
+by the court within three days from the issuance of the safety plan order.  The parents'
+signature on the safety plan shall constitute evidence of their agreement with the plan.  The
+continued safety plan hearing shall be conducted in accordance with the procedural and
+evidentiary rules applicable to continued custody hearings.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-624__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>After notice to all parties and when a child is in foster care, to any foster parent,
+pre-adoptive parent, and relative providing care, and upon a showing of good cause, the court
+may grant, deny, or condition a requested continuance of the proceeding in accordance with
+the best interests of the child.  The hearing may be continued for up to three additional days. 
+If a continuance is granted, the court shall issue a written order identifying the mover and
+reciting the particular facts justifying the continuance.
+C.</p>
+          </content>
+          <paragraph eId="CHC-624__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If it appears from the record that, after diligent efforts by the department, the
+parent cannot be found or has been served a summons or notified by the department to appear
+at the continued custody or continued safety plan hearing and fails to appear at the hearing,
+then the hearing may be held in the parent's absence.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-624__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a foster parent, pre-adoptive parent, adoptive parent, or relative providing care
+for the child fails to appear at the hearing, the department shall report to the court whether
+notice was given, or, if not, what diligent efforts were made to locate and notify the absent
+person.  The court may permit the hearing to be held in the person's absence.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-624__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>At the commencement of the hearing, on the record, the court shall ask each
+person before the court whether he knows or has reason to know that the child is an Indian
+child.  Each person before the court shall be instructed to inform the court if he subsequently
+discovers information indicating that the child is an Indian child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-624__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>At this hearing, the state has the burden of proving the existence of a ground for
+continued custody or the continued implementation of a safety plan pursuant to Article 626.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-624__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>The child and the child's parents may introduce evidence, call witnesses, be heard
+on their own behalf, and cross-examine witnesses called by the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-624__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>Hearsay evidence shall be admissible at this hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-624__subsec_H">
+          <num>H.</num>
+          <content>
+            <p>A suitable relative or other suitable individual who seeks to become the custodian
+of the child shall provide evidence of a willingness and ability to provide a stable and safe
+environment for the child and to protect the health, welfare, and safety of the child pending
+an adjudication hearing.  The suitable relative or other suitable individual shall affirm a
+continued acceptance of the terms of the safety plan.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73217</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

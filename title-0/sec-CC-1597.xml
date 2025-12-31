@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1597"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1597"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 1597"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1597/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1597/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-1597/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-1597/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-1597">
+        <num>CC 1597</num>
+        <heading>1597.  Loss, extinction, or destruction of property given</heading>
+        <subsection eId="CC-1597__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A legacy is extinguished to the extent that property forming all or part of the legacy is lost, extinguished, or destroyed before the death of the testator.  However, the legatee is entitled to any part of the property that remains and to any uncollected insurance proceeds attributable to the loss, extinction, or destruction, and to the testator's right of action against any person liable for the loss, extinction, or destruction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1597__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>A legacy of a certain object is not extinguished when the object of the legacy has been transformed into a similar object without an act of the testator.</p>
+          </content>
+        </subsection>
+        <subsection eId="CC-1597__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If the object of the legacy has been condemned or expropriated prior to the testator's death, the legatee is entitled to any uncollected award and to succeed to any right of action concerning the condemnation or expropriation.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=108924</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

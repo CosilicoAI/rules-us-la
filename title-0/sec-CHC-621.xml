@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-621"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-621"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 621"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-621/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-621/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-621/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-621/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-621">
+        <num>CHC 621</num>
+        <heading>621.  Taking child into custody without a court order</heading>
+        <subsection eId="CHC-621__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A peace officer or probation officer of the court may take a child into custody
+without a court order if there are reasonable grounds to believe that the child's surroundings
+are such as to endanger the child's health, welfare, and safety and immediate removal appears
+to be necessary.  The peace officer shall have the responsibility to promptly notify and
+release the child to the department.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-621__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Employees of the department shall secure an instanter order before taking a child
+into custody.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-621__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The department may release the child or secure an instanter order.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-621__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The department shall promptly notify the parents or caretaker of the nature of the
+allegations and, if the child is not released, of the time and place of the continued custody
+hearing.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73214</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

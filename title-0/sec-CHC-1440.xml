@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1440"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1440"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1440"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1440/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1440/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1440/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1440/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1440">
+        <num>CHC 1440</num>
+        <heading>1440.  Order for custody and detention</heading>
+        <subsection eId="CHC-1440__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If the minor respondent refuses to be examined by the court appointed physician as herein provided or if the judge, after reviewing the petition and an affidavit filed pursuant to Article 1432, the report of the treating physician, or the court-appointed physician, finds that the minor is mentally ill or suffering from substance abuse and is in need of immediate hospitalization to protect himself or others from physical harm, or that the minor respondent's condition may be markedly worsened by delay, then the court may issue a court order for custody of the minor and a peace officer shall deliver him to a treatment facility designated by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1440__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court shall also issue an order to the treatment facility authorizing detention of the minor until the commitment hearing is completed, unless he is discharged by the director.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72936</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

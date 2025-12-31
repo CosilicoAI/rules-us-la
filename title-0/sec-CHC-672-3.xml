@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-672-3"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-672-3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 672.3"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-672-3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-672-3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-672-3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-672-3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-672-3">
+        <num>CHC 672.3</num>
+        <heading>672.3.  Diligent search for relatives; notice; failure to respond</heading>
+        <subsection eId="CHC-672-3__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Whenever custody of a child is assigned to the Department of Children and
+Family Services, the department shall conduct a diligent search for adult relatives of the child
+and for persons who have a significant relationship with the child. The diligent search shall
+be completed no later than thirty days from the date the child was taken into custody and
+include, at a minimum, all of the following:</p>
+          </content>
+          <paragraph eId="CHC-672-3__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Interviews with the child's parent during the course of an investigation, while
+child protective services are provided, and while the child is in care.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-672-3__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Interviews with the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-672-3__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Interviews with identified relatives throughout the case.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-672-3__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Interviews with any other person who is likely to have information about the
+identity or location of adult relatives of the child or persons who have a significant
+relationship with the child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-672-3__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Comprehensive searches of databases and other resources available to the
+Department of Children and Family Services, which may include searches of schools,
+employment, residence, utilities, vehicle registration, child support enforcement, law
+enforcement, and corrections records or any other records likely to result in identifying and
+locating adult relatives of the child or persons who have a significant relationship with the
+child.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-672-3__subsec_A__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Appropriate inquiry during the course of hearings in the case in accordance with
+Article 625(D).</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-672-3__subsec_A__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Any other reasonable means that are likely to identify relatives or other persons
+who have demonstrated an ongoing commitment to the child.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-672-3__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The Department of Children and Family Services shall file with the court
+information regarding attempts made pursuant to Paragraph A of this Article ten days before
+any scheduled disposition, case review, permanency hearing, or as otherwise required by the
+court. Any additional information obtained by the department subsequent to the initial filing
+shall be disclosed to the court during the hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-672-3__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>All relatives of the child identified in the diligent search required by this Article,
+subject to exceptions due to family or domestic violence or other safety concerns, shall be
+provided with a notice that does all of the following:</p>
+          </content>
+          <paragraph eId="CHC-672-3__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Specifies that the child has been or is being removed from parental custody.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-672-3__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Explains the options that a relative has to participate in the care and placement
+of the child and any options that may be lost by failing to respond to the notice.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-672-3__subsec_C__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Describes the process for becoming a licensed foster family home and the
+additional services and supports available for children placed in approved foster homes.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-672-3__subsec_C__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Describes any financial assistance for which a relative may be eligible.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-672-3__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>After the completion of the diligent search required by this Article, the
+Department of Children and Family Services shall have a continuing duty to search for
+relatives or other persons who have demonstrated an ongoing commitment to a child and
+with whom it may be appropriate to place the child until the relatives or persons are located,
+the court excuses the department from conducting a diligent search, or permanency is
+achieved.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-672-3__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>If a relative entitled to notice pursuant to this Article fails, after ninety days from
+the date the relative receives the required notice, to demonstrate an interest in and willingness
+to provide a permanent home for a child, the court may excuse the Department of Children
+and Family Services from considering the relative as a placement.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1238142</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-323"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-323"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 323"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-323/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-323/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-323/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-323/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-323">
+        <num>CHC 323</num>
+        <heading>323.  Definitions</heading>
+        <subsection eId="CHC-323__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>&quot;Civilian investigator&quot; means any person who performs investigative work as a
+noncertified employee of a law enforcement agency and who has completed training required
+by that law enforcement agency.  Required training shall include but not be limited to basic
+investigative training and specific training on investigation of crimes involving a protected
+person.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-323__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>&quot;Department&quot; means the Department of Children and Family Services.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-323__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>&quot;Protected person&quot; means any person who is a victim of a crime or a witness in
+a juvenile proceeding and who either:</p>
+          </content>
+          <paragraph eId="CHC-323__subsec_3__subsec_a">
+            <num>(a)</num>
+            <content>
+              <p>Is under the age of eighteen years.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-323__subsec_3__subsec_b">
+            <num>(b)</num>
+            <content>
+              <p>Has a developmental disability as defined in R.S. 28:451.2.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-323__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>&quot;Videotape&quot; means the visual recording on a magnetic tape, film, videotape,
+compact disc, digital versatile disc, digital video disc, or by other electronic means together
+with the associated oral record.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73123</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

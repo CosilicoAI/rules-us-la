@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-919"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-919"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 919"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-919/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-919/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-919/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-919/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-919">
+        <num>CHC 919</num>
+        <heading>919.  Procedure for expungement and sealing; motions; order</heading>
+        <subsection eId="CHC-919__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>A person may move for the expungement and sealing of his records and reports.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-919__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The motion for expungement and sealing shall be substantially in the form
+provided in Article 925 and shall state facts that constitute grounds for expungement and
+sealing under Article 918.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-919__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The motion for expungement and sealing shall be filed with the court possessing
+the records and reports, or with the court exercising juvenile jurisdiction over the arresting
+agency.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-919__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The motion shall be served personally or by domiciliary service, or by United
+States mail or electronic means, on the district attorney, the clerk of the court whose records
+and reports are sought to be expunged and sealed, and the head of any agency whose records
+and reports are sought to be expunged and sealed, including but not limited to the Federal
+Bureau of Investigation, the Louisiana Bureau of Criminal Identification and Information,
+the Department of Public Safety and Corrections, office of juvenile justice, and local law
+enforcement agencies.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-919__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Any person or agency that objects to the granting of the motion for a matter that
+resulted in a delinquency adjudication for a misdemeanor offense or for a felony offense shall
+file an affidavit of response in the form provided in Article 926, and a contradictory hearing
+shall be conducted with the district attorney and any agency whose records and reports are
+sought to be expunged and sealed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-919__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>If the court finds that the grounds have been established and that the person is
+entitled to expungement and sealing, the court shall order expungement and sealing.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73513</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

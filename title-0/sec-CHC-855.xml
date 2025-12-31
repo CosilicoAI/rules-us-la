@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-855"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-855"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 855"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-855/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-855/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-855/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-855/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-855">
+        <num>CHC 855</num>
+        <heading>855.  Advice of rights at appearance to answer</heading>
+        <subsection eId="CHC-855__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>When the child appears to answer the petition, the court shall first determine that
+the child is capable of understanding statements about his rights under this Code.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-855__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>If the child is capable, the court shall then advise the child of the following items
+in terms understandable to the child:</p>
+          </content>
+          <paragraph eId="CHC-855__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The nature of this delinquency proceeding.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-855__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The nature of the allegations of the petition.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-855__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>His right to an adjudication hearing.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-855__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>His right to be represented by an attorney, his right to have counsel appointed as
+provided in Article 809, and his right in certain circumstances authorized by Article 810 to
+waive counsel.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-855__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>His privilege against self-incrimination.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-855__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The range of responses authorized under Article 856.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-855__subsec_B__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The possible consequences of his admission that the allegations are true,
+including the maximum and minimal dispositions which the court may impose pursuant to
+Articles 897 through 900.  In addition, if the child is fourteen years of age or older and the
+petition charges the child with the perpetration, attempted perpetration, or conspiracy to
+commit any of the following offenses, the court shall inform the child that, if he admits to
+allegations of the petition, or the allegations of the petition are found to be true, he may be
+required to register as a sex offender pursuant to Chapter 3-B of Title 15 of the Louisiana
+Revised Statutes of 1950, and the court shall inform the child regarding applicable required
+registrations and their duration:</p>
+            </content>
+            <subparagraph eId="CHC-855__subsec_B__subsec_7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Aggravated or first degree rape as defined in R.S. 14:42.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-855__subsec_B__subsec_7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Forcible or second degree rape as defined in R.S. 14:42.1.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-855__subsec_B__subsec_7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Second degree sexual battery as defined in R.S. 14:43.2.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-855__subsec_B__subsec_7__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Aggravated kidnapping of a child who has not attained the age of thirteen years
+pursuant to R.S. 14:44 or 44.2.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-855__subsec_B__subsec_7__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Second degree kidnapping of a child who has not attained the age of thirteen
+years as defined in R.S. 14:44.1.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CHC-855__subsec_B__subsec_7__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Aggravated  crime against nature defined by R.S. 14:89.1(A)</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CHC-855__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>involving
+circumstances defined by R.S. 15:541 as an aggravated offense.</p>
+            </content>
+            <subparagraph eId="CHC-855__subsec_B__subsec_2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Aggravated crime against nature as defined in R.S. 14:89.1(A)</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73446</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

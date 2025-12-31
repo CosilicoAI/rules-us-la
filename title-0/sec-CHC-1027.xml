@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1027"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1027"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1027"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1027/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1027/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1027/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1027/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1027">
+        <num>CHC 1027</num>
+        <heading>1027.  Discovery rights; access to department records</heading>
+        <subsection eId="CHC-1027__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>At any stage of the proceedings, upon written motion of counsel for the protected person or his parent, the court may order the district attorney or the department to permit counsel to inspect:</p>
+          </content>
+          <paragraph eId="CHC-1027__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Reports of investigation in the possession or control of the district attorney or the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1027__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Reports of evaluations or tests pertaining to the child in the possession or control of the district attorney or the department.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1027__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The case records maintained by the department pertaining to the child and the parent, except information otherwise protected under R.S. 46:56 or by restrictive order pursuant to Article 1028.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1027__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any videotape of a protected person made in compliance with Chapter 8 of Title III which is in the possession or control of the district attorney or the department.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CHC-1027__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The court shall order the district attorney or the department to permit counsel to inspect and copy any physical evidence, documents, or photographs which the state intends to offer into evidence at the hearing as provided for in Subparagraphs A(1), (2), and (4).  However, the court may, in its discretion, permit the inspection of evidence provided for in Subparagraph A(3).</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1027__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If counsel for the child or his parents is provided discovery,  the court may condition that order upon reciprocal discovery by the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1027__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The court shall not order the production or inspection of any part of a writing that reflects the mental impressions, conclusions, or theories of an attorney nor any other type of discovery except that expressly authorized by this Article.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1027__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>The duties imposed by a discovery order continue while the child is subject to the jurisdiction of the court, unless the order provides otherwise.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72557</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

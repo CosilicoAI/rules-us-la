@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2826"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2826"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2826"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2826/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2826/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2826/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2826/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2826">
+        <num>CC 2826</num>
+        <heading>Section </heading>
+        <content>
+          <p>CHAPTER 5--TERMINATION OF A PARTNERSHIP
+SECTION 1--CAUSES OF TERMINATION
+Art. 2826.  Termination of a partnership; causes
+Unless continued as provided by law, a partnership is terminated by: the unanimous consent of its partners; a judgment of termination; the granting of an order for relief to the partnership under Chapter 7 of the Bankruptcy Code; the reduction of its membership to one person; the expiration of its term; or the attainment of, or the impossibility of attainment of the object of the partnership.
+A partnership also terminates in accordance with provisions of the contract of partnership.
+A partnership in commendam, however, terminates by the retirement from the partnership, or the death, interdiction, or dissolution, of the sole or any general partner unless the partnership is continued with the consent of the remaining general partners under a right to do so stated in the contract of partnership or if, within ninety days after such event, all the remaining partners agree in writing to continue the partnership and to the appointment of one or more general partners if necessary or desired.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109896</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

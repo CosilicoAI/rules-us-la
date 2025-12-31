@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2840"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2840"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CC 2840"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2840/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2840/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CC-2840/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CC-2840/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CC-2840">
+        <num>CC 2840</num>
+        <heading>2840.  Partner in commendam; liability; agreed contribution</heading>
+        <content>
+          <p>Art. 2840.  Partner in commendam; liability; agreed contribution.
+A partner in commendam must agree to make a contribution to the partnership.  The contribution may consist of money, things, or the performance of nonmanagerial services.  The partnership agreement must describe the contribution and state either its agreed value or a method of determining it.  The contract should also state the time or circumstances upon which the money or other things are to be delivered, or the services are to be performed, and if it fails to do so, payment is due on demand.
+A partner in commendam is liable for the obligations of the partnership only to the extent of the agreed contribution.  If he does not make the contribution, or contributes only part of it, he is obligated to contribute money, or other things equal to the portion of the stated value that he has failed to satisfy.  The court may award specific performance if appropriate.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=109910</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

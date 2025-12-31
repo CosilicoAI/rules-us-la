@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-1-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-1-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="SRULE 3.1.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-1-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-1-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-1-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-SRULE-3-1-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_SRULE-3-1-1">
+        <num>SRULE 3.1.1</num>
+        <heading>Section </heading>
+        <subsection eId="SRULE-3-1-1__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Immediately after the members take the oath of office on the second Monday in
+January, after their election every four years, the members of the Senate shall be eligible
+for selection, by secret ballot, and in the order named, for President and President Pro
+Tempore. The members of the Senate shall nominate for selection a Secretary and a
+Sergeant at Arms. A nominee for each office shall be selected and nominated by a
+majority vote of the members elected. The Secretary shall conduct the nomination and
+selection process for the nominees for each office. Any senator may observe the
+nomination and selection process.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-1-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In the event there are more than two candidates nominated for selection for an
+office and if after balloting no candidate receives a majority vote for nomination to an
+office, a second ballot shall be cast between the two candidates receiving the highest
+number of votes for selection and nomination for an office.</p>
+          </content>
+        </subsection>
+        <subsection eId="SRULE-3-1-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon the selection of one nominee for each office, the nominee shall be elected
+as provided in Rules 3.2, 3.4, 3.6, and 3.8.
+Added by SR 215 of 2015 RS.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=958926</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

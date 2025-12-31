@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-11"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-11"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="HRULE 7.11"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-11/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-11/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-11/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-HRULE-7-11/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_HRULE-7-11">
+        <num>HRULE 7.11</num>
+        <heading>Section </heading>
+        <subsection eId="HRULE-7-11__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Except as otherwise provided herein, a digest of each conference committee report on a legislative instrument shall be prepared and presented to each member of the House prior to a vote by the House on such report.  If a conference committee report is submitted to the House during the period of time beginning twenty-four hours prior to the expected sine die adjournment of a session, such digest shall not be required, but shall be prepared and presented to each member if practical.</p>
+          </content>
+        </subsection>
+        <subsection eId="HRULE-7-11__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>For the purpose of this Rule, the digest of a conference committee report shall include:</p>
+          </content>
+          <paragraph eId="HRULE-7-11__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A digest of the legislative instrument as it was finally passed by the house of origin.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-11__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A summary of all substantive amendments adopted in the second house.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="HRULE-7-11__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A digest of the legislative instrument as proposed by the conference committee.
+Mason's Manual:  Sec. 772
+HR 13, 1982; HR 45, 1998, eff. May 20, 1998.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=113345</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-1"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-1"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCRP 881.1"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-1/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-1/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-1/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCRP-881-1/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCRP-881-1">
+        <num>CCRP 881.1</num>
+        <heading>881.1.  Motion to reconsider sentence</heading>
+        <subsection eId="CCRP-881-1__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The motion shall be oral at the time of sentence or shall be in writing thereafter and shall set forth the specific grounds on which the motion is based.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-881-1__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a motion is made or filed under Paragraph A of this Article, the trial court may resentence the defendant despite the pendency of an appeal or the commencement of execution of the sentence.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-881-1__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The trial court may deny a motion to reconsider sentence without a hearing, but may not grant a motion to reconsider without a contradictory hearing.  If the court denies the motion without a hearing, the party who made or filed the motion may proffer the evidence it would have offered in support of the motion.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCRP-881-1__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>Failure to make or file a motion to reconsider sentence or to include a specific ground upon which a motion to reconsider sentence may be based, including a claim of excessiveness, shall preclude the state or the defendant from raising an objection to the sentence or from urging any ground not raised in the motion on appeal or review.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112857</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-639"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-639"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 639"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-639/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-639/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-639/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-639/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-639">
+        <num>CHC 639</num>
+        <heading>639.  Notice of nature of proceedings; parental rights; form</heading>
+        <content>
+          <p>Art. 639.  Notice of nature of proceedings; parental rights; form
+The following notice shall be served with a petition and summons on every parent
+whose child is the subject of a child in need of care proceeding:
+&quot;NOTICE
+Louisiana law provides that the health, welfare, and safety of your child or children
+are of paramount importance and you can lose some or all of your parental rights regarding
+your children under certain circumstances.
+The state has filed a petition that claims that your child is abused or neglected or is
+otherwise in need of care and asks the court to hold a hearing to determine whether these
+circumstances exist.  If the court rules that your child is being abused or neglected or is
+otherwise in need of care, as defined by Louisiana law, your rights to have custody of your
+child, to visit your child, or to make decisions affecting your child will be seriously affected. 
+You may also become liable for paying the costs of your child's care if custody is awarded
+to some other individual or to the state.  If your child cannot be safely returned home and the
+court grants custody to some other suitable individual or to the state, a petition to terminate
+your parental rights may be filed.
+You have the right to hire an attorney and are encouraged to do so.  When you come
+to court, if you cannot afford to hire an attorney, you may qualify to have the court appoint
+one for you at state expense.
+Whether or not you decide to hire an attorney, you have the right to attend all
+hearings of your case and must attend as summoned, and the right to call witnesses on your
+behalf, and to question those witnesses brought against you.&quot;</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73232</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-1105"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-1105"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 1105"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-1105/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-1105/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-1105/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-1105/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-1105">
+        <num>CE 1105</num>
+        <heading>1105.  Burden of proof; civil proceedings</heading>
+        <subsection eId="CE-1105__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>In any civil proceeding in which the defense of self-defense is raised, the
+defendant shall have the burden to prove by a preponderance of the evidence that he acted
+in self-defense.</p>
+          </content>
+        </subsection>
+        <subsection eId="CE-1105__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>For the purposes of this Article, if the defense of self-defense is raised in a civil
+proceeding by an authorized person as defined in R.S. 9:2793.12, the burden of proof shall
+be on the party asserting the action to prove by a preponderance of the evidence that the
+injury, death, or loss complained of was not caused by a justified use of force or self-defense
+by the authorized person.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=1387040</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

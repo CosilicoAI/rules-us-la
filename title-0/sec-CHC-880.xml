@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-880"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-880"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 880"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-880/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-880/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-880/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-880/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-880">
+        <num>CHC 880</num>
+        <heading>880.  Right to present evidence and examine witnesses</heading>
+        <subsection eId="CHC-880__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Among other rights guaranteed by Chapter 3 of this Title, at the adjudication hearing the child may introduce evidence, call witnesses, be heard on his own behalf, and cross-examine witnesses called by the state.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-880__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>When a child has contested an adjudication based on his insanity, the members of the sanity commission may be called as witnesses by the court, the child, or the district attorney.  Regardless of who calls them as witnesses, the members of the commission are subject to cross-examination by the child, by the district attorney, and by the court.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-880__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Other evidence pertaining to the defense of insanity at the time of the offense may be introduced at the adjudication hearing by the child and by the district attorney.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73471</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

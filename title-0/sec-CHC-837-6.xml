@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-837-6"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-837-6"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 837.6"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-837-6/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-837-6/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-837-6/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-837-6/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-837-6">
+        <num>CHC 837.6</num>
+        <heading>837.6.  Procedure for change of placement; commitment to mental institution or out-of-home placement</heading>
+        <subsection eId="CHC-837-6__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>If the child has been placed in an out-of-home placement, and the agency, institution, or individual charged with the care and custody of the child determines that the existing out-of-home placement is no longer appropriate for the child, the agency, institution, or individual shall file a motion requesting a contradictory hearing to determine the appropriate placement for the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-837-6__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>The motion shall contain reasons for the determination that the current placement is no longer appropriate for the child and shall contain recommendations for an alternative placement.  Notice of filing the motion shall be served upon the court, the district attorney, and counsel for the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-837-6__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>The court shall set a hearing on the motion within fourteen days of filing and shall provide at least three days notice to the agency, institution or individual filing the motion, the district attorney, and counsel for the child.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=408276</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

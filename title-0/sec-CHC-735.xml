@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-735"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-735"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 735"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-735/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-735/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-735/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-735/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-735">
+        <num>CHC 735</num>
+        <heading>735.  Taking child into custody with a court order</heading>
+        <subsection eId="CHC-735__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>The court may issue an order directing that a child be taken into custody upon presentation to the court of a written verified complaint by a peace officer, probation officer, district attorney, or other person designated by the court alleging facts showing that there are reasonable grounds to believe that the child's family is in need of services and that the child's conduct or surroundings are such as to endanger his welfare and that immediate removal appears to be necessary for his protection or control.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-735__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>In exceptional cases, the facts supporting the issuance of this order may be relayed telephonically or orally to the judge and his order directing that a child be taken into custody may be issued orally.  In such cases, the requirements of Article 734(B) and (C) must be followed.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-735__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>An order directing that a child be taken into custody may be executed by a peace officer or probation officer having territorial jurisdiction over the child.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-735__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>The order shall specify the child's prehearing placement in accordance with Article 737.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73325</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

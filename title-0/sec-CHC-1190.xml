@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1190"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1190"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 1190"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1190/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1190/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-1190/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-1190/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-1190">
+        <num>CHC 1190</num>
+        <heading>1190.  Authority of the court</heading>
+        <subsection eId="CHC-1190__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Upon reviewing a motion for disclosure on grounds of either inheritance rights or medical necessity, the court may deny it for lack of a proper showing of compelling necessity.  Before granting a motion, the court may appoint a curator ad hoc and shall set the motion for a hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1190__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Written notice of the date, time, and place of any disclosure proceedings shall be served and a return made in the same manner as a petition on any custodian of records sought to be disclosed at least fifteen days prior to the hearing.</p>
+          </content>
+        </subsection>
+        <subsection eId="CHC-1190__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>Upon a motion by an adopted person, or if a minor, his legal representative, seeking disclosure from the records of the court of nonidentifying medical or genetic information acquired from a physician, agency, or any other source, the court shall order the clerk to make the information available.
+D.</p>
+          </content>
+          <paragraph eId="CHC-1190__subsec_C__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The court shall grant a motion seeking nonidentifying medical or genetic information, a motion seeking information to verify a match of voluntary registration pursuant to Chapter 15 of this Title, or a motion seeking other information required by law to be disclosed.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CHC-1190__subsec_C__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The court may appoint a curator ad hoc to open and review the adoption record and original birth certificate.  The curator shall report his findings in accordance with Article 1191.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72662</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

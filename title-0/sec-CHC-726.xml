@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-726"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-726"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CHC 726"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-726/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-726/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CHC-726/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CHC-726/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CHC-726">
+        <num>CHC 726</num>
+        <heading>Section </heading>
+        <content>
+          <p>TITLE VII.
+FAMILIES IN NEED OF SERVICES
+CHAPTER 1.  PRELIMINARY PROVISIONS; DEFINITIONS
+Art. 726.  Purpose
+The purpose of this Title is to define self-destructive behaviors by the child and conduct by other family members which contribute to the child's harm and which warrant court intervention in the family's life so that appropriate services to remedy the family's dysfunction can be secured; to secure the effectiveness of the court's intervention by explicitly confirming its duty to obtain the cooperation and coordination of all public institutions or agencies having responsibility to supply services to any member of the family referred to the court; to establish a family service plan binding upon all family members and the appropriate service providers; and to protect the integrity of the family by authorizing adjudication and the imposition of a dispositional judgment requiring participation in a plan of services only after all available voluntary alternatives have been exhausted.</p>
+        </content>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=73314</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

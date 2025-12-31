@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-804"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-804"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CE 804"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-804/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-804/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CE-804/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CE-804/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CE-804">
+        <num>CE 804</num>
+        <heading>804.  Hearsay exceptions; declarant unavailable</heading>
+        <subsection eId="CE-804__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Definition of unavailability.  Except as otherwise provided by this Code, a
+declarant is &quot;unavailable as a witness&quot; when the declarant cannot or will not appear in court
+and testify to the substance of his statement made outside of court.  This includes situations
+in which the declarant:</p>
+          </content>
+          <paragraph eId="CE-804__subsec_A__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Is exempted by ruling of the court on the ground of privilege from testifying
+concerning the subject matter of his statement;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-804__subsec_A__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Persists in refusing to testify concerning the subject matter of his statement
+despite an order of the court to do so;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-804__subsec_A__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Testifies to a lack of memory of the subject matter of his statement;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-804__subsec_A__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Is unable to be present or to testify at the hearing because of death or then
+existing physical or mental illness, infirmity, or other sufficient cause; or</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-804__subsec_A__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Is absent from the hearing and the proponent of his statement has been unable to
+procure his attendance by process or other reasonable means.  A declarant is not unavailable
+as a witness if his exemption, refusal, claim of lack of memory, inability, or absence is due
+to the procurement or wrong-doing of the proponent of his statement for the purpose of
+preventing the witness from attending or testifying.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CE-804__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Hearsay exceptions.  The following are not excluded by the hearsay rule if the
+declarant is unavailable as a witness:</p>
+          </content>
+          <paragraph eId="CE-804__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Former testimony.  Testimony given as a witness at another hearing of the same
+or a different proceeding, if the party against whom the testimony is now offered, or, in a
+civil action or proceeding, a party with a similar interest, had an opportunity and similar
+motive to develop the testimony by direct, cross, or redirect examination.  Testimony given
+in another proceeding by an expert witness in the form of opinions or inferences, however,
+is not admissible under this exception.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-804__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Statement under belief of impending death.  A statement made by a declarant
+while believing that his death was imminent, concerning the cause or circumstances of what
+he believed to be his impending death.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-804__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Statement against interest.  A statement which was at the time of its making so
+far contrary to the declarant's pecuniary or proprietary interest, or so far tended to subject him
+to civil or criminal liability, or to render invalid a claim by him against another, that a
+reasonable man in his position would not have made the statement unless he believed it to
+be true.  A statement tending to expose the declarant to criminal liability and offered to
+exculpate the accused is not admissible unless corroborating circumstances clearly indicate
+the trustworthiness of the statement.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-804__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Statement of personal or family history.</p>
+            </content>
+            <subparagraph eId="CE-804__subsec_B__subsec_4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A statement, made before the
+controversy, concerning the declarant's own birth, adoption, marriage, divorce, filiation,
+relationship by blood, adoption, or marriage, ancestry, or other similar fact of personal or
+family history, even though declarant had no means of acquiring personal knowledge of the
+matter stated; or</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-804__subsec_B__subsec_4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement, made before the controversy, concerning the foregoing matters, and
+death also, of another person, if the declarant was related to the other by blood, adoption, or
+marriage or was so intimately associated with the other's family as to be likely to have
+accurate information concerning the matter declared.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph eId="CE-804__subsec_B__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Complaint of sexually assaultive behavior.  A statement made by a person under
+the age of thirteen years and the statement is one of initial or otherwise trustworthy complaint
+of sexually assaultive behavior.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CE-804__subsec_B__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Other exceptions.  In a civil case, a statement not specifically covered by any of
+the foregoing exceptions if the court determines that considering all pertinent circumstances
+in the particular case the statement is trustworthy, and the proponent of the evidence has
+adduced or made a reasonable effort to adduce all other admissible evidence to establish the
+fact to which the proffered statement relates and the proponent of the statement makes
+known in writing to the adverse party and to the court his intention to offer the statement and
+the particulars of it, including the name and address of the declarant, sufficiently in advance
+of the trial or hearing to provide the adverse party with a fair opportunity to prepare to meet
+it.  If, under the circumstances of a particular case, giving of this notice was not practicable
+or failure to give notice is found by the court to have been excusable, the court may authorize
+a delayed notice to be given, and in that event the opposing party is entitled to a recess,
+continuance, or other appropriate relief sufficient to enable him to prepare to meet the
+evidence.
+(7)</p>
+            </content>
+            <subparagraph eId="CE-804__subsec_B__subsec_6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Forfeiture by wrongdoing.  A statement offered against a party that has
+engaged or acquiesced in wrongdoing that was intended to, and did, procure the
+unavailability of the declarant as a witness.</p>
+              </content>
+            </subparagraph>
+            <subparagraph eId="CE-804__subsec_B__subsec_6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A party seeking to introduce statements under the forfeiture by wrongdoing
+hearsay exception shall establish, by a preponderance of the evidence, that the party against
+whom the statement is offered, engaged or acquiesced in the wrongdoing.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=72514</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="LRS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-863"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-863"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#louisiana-legislature"/>
+          <FRBRcountry value="us-la"/>
+          <FRBRnumber value="CCP 863"/>
+          <FRBRname value="LRS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-863/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-863/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-la/act/lrs/title-0/sec-CCP-863/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-la/act/lrs/title-0/sec-CCP-863/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="louisiana-legislature" href="https://www.legis.la.gov" showAs="Louisiana State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_CCP-863">
+        <num>CCP 863</num>
+        <heading>863.  Signing of pleadings; effect</heading>
+        <subsection eId="CCP-863__subsec_A">
+          <num>A.</num>
+          <content>
+            <p>Every pleading of a party represented by an attorney shall be signed by at least
+one attorney of record in his individual name, whose physical address and email address for
+service of process shall be stated.  A party who is not represented by an attorney shall sign
+his pleading and state his physical address and email address, if the party has an email
+address, for service of process.  If mail is not received at the physical address for service of
+process, a designated mailing address shall also be provided.  A party or attorney may sign
+a pleading by electronic signature in accordance with Article 253.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-863__subsec_B">
+          <num>B.</num>
+          <content>
+            <p>Pleadings need not be verified or accompanied by affidavit or certificate, except
+as otherwise provided by law, but the signature of an attorney or party shall constitute a
+certification by him that he has read the pleading, and that to the best of his knowledge,
+information, and belief formed after reasonable inquiry, he certifies all of the following:</p>
+          </content>
+          <paragraph eId="CCP-863__subsec_B__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The pleading is not being presented for any improper purpose, such as to harass,
+cause unnecessary delay, or needlessly increase the cost of litigation.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-863__subsec_B__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each claim, defense, or other legal assertion in the pleading is warranted by
+existing law or by a nonfrivolous argument for the extension, modification, or reversal of
+existing law.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-863__subsec_B__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Each allegation or other factual assertion in the pleading has evidentiary support
+or, for a specifically identified allegation or factual assertion, is likely to have evidentiary
+support after a reasonable opportunity for further investigation or discovery.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="CCP-863__subsec_B__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Each denial in the pleading of a factual assertion is warranted by the evidence or,
+for a specifically identified denial, is reasonably based on a lack of information or belief.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection eId="CCP-863__subsec_C">
+          <num>C.</num>
+          <content>
+            <p>If a pleading is not signed, it shall be stricken unless promptly signed after the
+omission is called to the attention of the pleader.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-863__subsec_D">
+          <num>D.</num>
+          <content>
+            <p>If, upon motion of any party or upon its own motion, the court determines that a
+certification has been made in violation of the provisions of this Article, the court shall
+impose upon the person who made the certification or the represented party, or both, an
+appropriate sanction which may include an order to pay to the other party the amount of the
+reasonable expenses incurred because of the filing of the pleading, including reasonable
+attorney fees.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-863__subsec_E">
+          <num>E.</num>
+          <content>
+            <p>A sanction authorized in Paragraph D shall be imposed only after a hearing at
+which any party or his counsel may present any evidence or argument relevant to the issue
+of imposition of the sanction.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-863__subsec_F">
+          <num>F.</num>
+          <content>
+            <p>A sanction authorized in Paragraph D of this Article shall not be imposed with
+respect to an original petition that is filed within sixty days of an applicable prescriptive date
+and then voluntarily dismissed or transferred to a court of proper venue within ninety days
+after its filing or on the date of a hearing on the pleading, whichever is earlier.</p>
+          </content>
+        </subsection>
+        <subsection eId="CCP-863__subsec_G">
+          <num>G.</num>
+          <content>
+            <p>If the court imposes a sanction, it shall describe the conduct determined to
+constitute a violation of the provisions of this Article and explain the basis for the sanction
+imposed.</p>
+          </content>
+        </subsection>
+        <authorialNote marker="source">
+          <p>Source: https://www.legis.la.gov/legis/Law.aspx?d=112283</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>
